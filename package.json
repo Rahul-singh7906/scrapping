@@ -1,0 +1,21 @@
+{
+  "name": "newwwwwwww",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "ts-node scrape.ts",
+    "scrape:proxy": "ts-node scrape.ts --proxy=%PROXY_URL%",
+    "scrape:proxy:nix": "ts-node scrape.ts --proxy=$PROXY_URL"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^24.9.2",
+    "dotenv": "^17.2.3",
+    "playwright": "^1.56.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

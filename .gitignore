@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Env
+.env
+
+# Playwright downloads/cache
+.ms-playwright/
+playwright-report/
+playwright/.cache/
+
+# Logs and outputs
+*.log
+online_booking_full.json
+
+# OS
+.DS_Store
+Thumbs.db
