@@ -17,6 +17,7 @@ interface DiscussionDetail {
   title: string;
   url: string;
   author: string;
+  authorRole?: string;
   time: string;
   content: string;
   views: number;
@@ -58,6 +59,69 @@ function getProxyConfig() {
     console.warn(`Invalid proxy URL: ${proxy}`);
     return undefined;
   }
+}
+
+// Text cleanup utilities
+function normalizeWhitespace(s: string) {
+  return s.replace(/[\r\n\t]+/g, ' ').replace(/\s{2,}/g, ' ').trim();
+}
+
+function cleanLines(raw: string, ctx: { title?: string; author?: string; time?: string }) {
+  const forbidden = new Set([
+    'tag',
+    'like',
+    'reply',
+    'copy link',
+    'follow',
+    'report',
+    'marked as solution',
+    'solved',
+  ]);
+  const roleTokens = ['contributor', 'ambassador', 'support team'];
+  const lines = raw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+  const cleaned: string[] = [];
+  for (const line of lines) {
+    const lower = line.toLowerCase();
+    if (ctx.title && line === ctx.title) continue;
+    if (ctx.author && line === ctx.author) continue;
+    if (ctx.time && line === ctx.time) continue;
+    if (forbidden.has(lower)) continue;
+    if (/^\d{1,4}$/.test(line)) continue; // stray counts like 2, 30, etc.
+    if (roleTokens.some((t) => lower.includes(t))) continue; // roles shouldn't be inside content
+    
+    // Skip reply count and sorting UI elements
+    if (/^\d+\s+Repl/i.test(line)) continue; // "23 Replies", "9 Reply"
+    if (/Replies?\s+sorted\s+by/i.test(line)) continue; // "Replies sorted by Most"
+    if (/sorted\s+by\s+(most|newest|oldest)/i.test(line)) continue; // "sorted by Most Liked"
+    if (/^(most|newest|oldest)\s+(liked|recent)/i.test(line)) continue; // "Most Liked"
+    
+    cleaned.push(line);
+  }
+  let out = cleaned.join(' ');
+  // remove combined like/reply junk like "LikeLike0ReplyReply"
+  out = out.replace(/\bLike\b(?:\s*\d+)?/gi, ' ').replace(/\bReply\b/gi, ' ');
+  // remove reply count patterns that might be inline
+  out = out.replace(/\b\d+\s+Repl(?:y|ies)?\b/gi, ' ');
+  out = out.replace(/\bReplies?\s+sorted\s+by\s+\w+/gi, ' ');
+  out = out.replace(/\bsorted\s+by\s+(most|newest|oldest)\s+\w*/gi, ' ');
+  out = out.replace(/\s{2,}/g, ' ');
+  return normalizeWhitespace(out);
+}
+
+// Infer author from beginning of content when selector fails, and strip it from content
+function extractAuthorFromContent(content: string): { author?: string; content: string } {
+  // Author is often the first token before the actual message
+  // Pattern: start of string, a word-like token (allows letters, digits, underscore, hyphen), then space or punctuation
+  const m = content.match(/^([A-Za-z][A-Za-z0-9_\-]{2,})\b[\s,:-]+(.*)$/);
+  if (m) {
+    const [, candidate, rest] = m;
+    // Avoid common words that are not usernames
+    const blacklist = new Set(['Hi', 'Has', 'I', 'We', 'Thanks', 'Hey', 'Hello']);
+    if (!blacklist.has(candidate)) {
+      return { author: candidate, content: rest.trim() };
+    }
+  }
+  return { content };
 }
 
 // ✅ Scrape replies and main content from an open discussion page
@@ -124,30 +188,110 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   const title = await page.locator("h1, h2[data-testid='MessageSubject']").first().textContent().catch(() => "");
   const mainAuthor = await page.locator("a[data-testid='userLink']").first().textContent().catch(() => "");
   const mainTime = await page.locator("[data-testid='messageTime']").first().textContent().catch(() => "");
+  const mainRole = await page.locator("[data-testid*='rank'], [data-testid*='role'], [class*='badge'], [class*='Rank'], [class*='Title']").first().textContent().catch(() => "");
   // Get full innerText of main body container to preserve paragraphs and line breaks
-  const mainContent = await page.evaluate(() => {
+  const mainContentRaw = await page.evaluate(() => {
     const body = document.querySelector(
       ".MessageViewBody_lia-message-body-content__kHe3r, .lia-message-body-content, article .lia-message-body-content, article .MessageViewBody_lia-message-body-content__kHe3r, article"
     ) as HTMLElement | null;
     return body ? body.innerText.trim() : "";
   });
+  let mainContent = cleanLines(mainContentRaw || '', { title: title?.trim(), author: mainAuthor?.trim(), time: mainTime?.trim() });
+  // Fallback: if author not found via selector, try to infer from content prefix
+  let author = (mainAuthor || '').trim();
+  if (!author && mainContent) {
+    const inferred = extractAuthorFromContent(mainContent);
+    if (inferred.author) author = inferred.author;
+    if (inferred.content) mainContent = inferred.content;
+  }
 
-  // Collect replies: take full innerText from each reply body container
-  const replies = await page.$$eval(
-    "article, li[data-testid^='message']",
-    (elements) =>
-      elements.slice(1).map((el) => {
-        const body = (el.querySelector(
-          ".MessageViewBody_lia-message-body-content__kHe3r, .lia-message-body-content, .topic-body, .comment-body, article"
-        ) as HTMLElement | null);
-        const author = el.querySelector("a[data-testid='userLink']")?.textContent?.trim() || "";
-        const time = el.querySelector("[data-testid='messageTime'] span")?.textContent?.trim() || "";
-        const content = body ? body.innerText.trim() : (el.textContent || "").trim();
-        const likeText = el.querySelector("button[data-testid='kudosButton'], [data-testid='kudosCount']")?.textContent?.trim() || "";
-        const likes = parseInt(likeText.replace(/\D/g, "")) || 0;
-        return { author, time, content, likes };
-      })
-  );
+  // Collect replies: try multiple selectors for reply containers
+  let repliesRaw: any[] = [];
+  const replySelectors = [
+    "article",
+    "li[data-testid^='message']", 
+    "[data-testid='message-view']",
+    ".lia-message-view",
+    "[class*='message']"
+  ];
+  
+  for (const selector of replySelectors) {
+    try {
+      repliesRaw = await page.$$eval(
+        selector,
+        (elements) =>
+          elements.slice(1).map((el) => {
+            const body = (el.querySelector(
+              ".MessageViewBody_lia-message-body-content__kHe3r, .lia-message-body-content, .topic-body, .comment-body"
+            ) as HTMLElement | null);
+            const author = (el.querySelector("a[data-testid='userLink']") as HTMLElement | null)?.textContent?.trim() || "";
+            const time = (el.querySelector("[data-testid='messageTime'] span, [data-testid='messageTime']") as HTMLElement | null)?.textContent?.trim() || "";
+            const role = (el.querySelector("[data-testid*='rank'], [data-testid*='role'], [class*='badge'], [class*='Rank'], [class*='Title']") as HTMLElement | null)?.textContent?.trim() || '';
+            let content = body ? body.innerText.trim() : ((el as HTMLElement).innerText || "").trim();
+            // Pre-filter obvious UI noise before processing
+            content = content.replace(/^\d+\s+Repl(?:y|ies)?\s*/i, '');
+            content = content.replace(/Replies?\s+sorted\s+by\s+\w+\s*/gi, '');
+            content = content.replace(/sorted\s+by\s+(most|newest|oldest)\s+\w*\s*/gi, '');
+            const likeText = (el.querySelector("button[data-testid='kudosButton'], [data-testid='kudosCount']") as HTMLElement | null)?.textContent?.trim() || "";
+            const likes = parseInt(likeText.replace(/\D/g, "")) || 0;
+            return { author, role, time, content, likes };
+          })
+      );
+      console.log(`→ Found ${repliesRaw.length} replies using selector: ${selector}`);
+      if (repliesRaw.length > 0) break;
+    } catch (err) {
+      console.log(`→ Selector ${selector} failed, trying next...`);
+    }
+  }
+
+  // Get expected replies count from the page label, e.g., "2 Replies"
+  const expectedReplies = await page.locator("text=/\\d+\\s+Repl/i").first().textContent().then(t => {
+    const m = t?.match(/(\d+)/); return m ? parseInt(m[1], 10) : undefined;
+  }).catch(() => {
+    // Fallback: try other common reply count patterns
+    return page.evaluate(() => {
+      const patterns = [
+        /(\d+)\s+Repl/i,
+        /Repl.*?(\d+)/i,
+        /(\d+)\s+comment/i,
+        /comment.*?(\d+)/i
+      ];
+      for (const pattern of patterns) {
+        const match = document.body.textContent?.match(pattern);
+        if (match) return parseInt(match[1], 10);
+      }
+      return undefined;
+    }).catch(() => undefined);
+  });
+  
+  console.log(`→ Expected replies from page: ${expectedReplies}, Found raw replies: ${repliesRaw.length}`);
+
+  const replies: DiscussionDetail['replies'] = repliesRaw
+    .map((r: any) => {
+      // Clean content and infer author if missing
+      let cleaned = cleanLines(r.content || '', { author: r.author, time: r.time });
+      let replyAuthor = (r.author || '').trim();
+      if (!replyAuthor && cleaned) {
+        const inf = extractAuthorFromContent(cleaned);
+        if (inf.author) replyAuthor = inf.author;
+        if (inf.content) cleaned = inf.content;
+      }
+      return {
+        author: replyAuthor,
+        time: r.time,
+        content: cleaned,
+        likes: r.likes,
+      };
+    })
+    // drop empties
+    .filter(r => (r.author && r.author.trim().length > 0) || (r.content && r.content.trim().length > 0));
+  
+  console.log(`→ After cleanup: ${replies.length} valid replies`);
+
+  // If the page shows a Replies count, align to it
+  const limitedReplies = (typeof expectedReplies === 'number' && expectedReplies >= 0)
+    ? replies.slice(0, expectedReplies)
+    : replies;
 
   // Grab counters if visible
   const viewCount = await page.locator("svg use[href*='views']").evaluateAll(
@@ -157,13 +301,14 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   return {
     title: title?.trim() || "",
     url,
-    author: mainAuthor?.trim() || "",
+    author: author || "",
+    authorRole: normalizeWhitespace(mainRole || ''),
     time: mainTime?.trim() || "",
     content: mainContent?.trim() || "",
     views: viewCount || 0,
     likes: 0,
-    comments: replies.length,
-    replies,
+    comments: limitedReplies.length,
+    replies: limitedReplies,
   };
 }
 
