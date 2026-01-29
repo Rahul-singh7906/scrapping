@@ -5,7 +5,8 @@
   "scripts": {
     "scrape": "ts-node scrape.ts",
     "scrape:proxy": "ts-node scrape.ts --proxy=%PROXY_URL%",
-    "scrape:proxy:nix": "ts-node scrape.ts --proxy=$PROXY_URL"
+    "scrape:proxy:nix": "ts-node scrape.ts --proxy=$PROXY_URL",
+    "convert": "ts-node convert-to-markdown.ts"
   },
   "keywords": [],
   "author": "",

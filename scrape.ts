@@ -443,10 +443,17 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
   });
 
-  const targetUrl =
-    "https://community.getjobber.com/category/using-jobber/discussions/online-booking-requests/all-topics";
+// List of target URLs to scrape
+  const targetUrls = [
+    "https://community.getjobber.com/category/ask-the-community/discussions/operations-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
+  ];
 
-  await page.goto(targetUrl, { waitUntil: "domcontentloaded" });
+  // Check for login only once at the beginning
+  await page.goto(targetUrls[0], { waitUntil: "domcontentloaded" });
 
   if (await page.isVisible('text="Sign In"')) {
     console.log("➡️ Please click 'Sign In' and complete login manually, then press Resume.");
@@ -454,11 +461,53 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
   }
 
   console.log(`🤖 Using User-Agent: ${await page.evaluate(() => navigator.userAgent)}`);
-  console.log("🔍 Scraping topic discussions (with pagination) and full replies...");
-  const allData = await scrapeDiscussionList(page, targetUrl);
+  console.log(`\n📋 Processing ${targetUrls.length} URL(s) synchronously...\n`);
 
-  fs.writeFileSync("online_booking_full.json", JSON.stringify(allData, null, 2));
-  console.log(`✅ Saved ${allData.length} discussions to online_booking_full.json`);
+  // Process each URL synchronously (one at a time)
+  for (let i = 0; i < targetUrls.length; i++) {
+    const targetUrl = targetUrls[i];
+    console.log(`\n${'='.repeat(80)}`);
+    console.log(`🔄 [${i + 1}/${targetUrls.length}] Processing: ${targetUrl}`);
+    console.log('='.repeat(80));
+
+    try {
+      // Extract topic path from URL for filename
+      const topicPathMatch = targetUrl.match(/\/discussions\/([^\/]+)/);
+      if (!topicPathMatch) {
+        console.error("❌ Invalid target URL format. Skipping...");
+        continue;
+      }
+
+      const topicPath = topicPathMatch[1];
+      console.log(`📂 Topic path identified: ${topicPath}`);
+      const outputFilename = `${topicPath.replace(/\//g, "_")}_full.json`;
+      console.log(`💾 Output filename: ${outputFilename}`);
+
+      console.log("🔍 Scraping topic discussions (with pagination) and full replies...");
+      const allData = await scrapeDiscussionList(page, targetUrl);
+
+      fs.writeFileSync(outputFilename, JSON.stringify(allData, null, 2));
+      console.log(`✅ Saved ${allData.length} discussion(s) to ${outputFilename}`);
+
+      // Add delay between URLs to avoid rate limiting (except for the last URL)
+      if (i < targetUrls.length - 1) {
+        const delaySeconds = Math.random() * 3 + 2; // 2-5 seconds
+        console.log(`⏳ Waiting ${delaySeconds.toFixed(1)}s before next URL...`);
+        await delay(delaySeconds * 1000);
+      }
+    } catch (err) {
+      console.error(`❌ Error processing ${targetUrl}:`, err);
+      console.log("⏩ Continuing to next URL...");
+      // Add longer delay after error
+      if (i < targetUrls.length - 1) {
+        await delay(5000);
+      }
+    }
+  }
+
+  console.log(`\n${'='.repeat(80)}`);
+  console.log(`🎉 Completed processing all ${targetUrls.length} URL(s)`);
+  console.log('='.repeat(80));
 
   await browser.close();
 })();
