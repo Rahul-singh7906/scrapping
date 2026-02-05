@@ -26,6 +26,37 @@ interface DiscussionDetail {
   replies: Reply[];
 }
 
+interface TopicMetadata {
+  lastScrapedAt: string;
+  totalDiscussions: number;
+}
+
+interface ScrapeMetadata {
+  [topicPath: string]: TopicMetadata;
+}
+
+const METADATA_FILE = "scrape_metadata.json";
+
+function readMetadata(): ScrapeMetadata {
+  if (fs.existsSync(METADATA_FILE)) {
+    const raw = fs.readFileSync(METADATA_FILE, "utf-8");
+    return JSON.parse(raw) as ScrapeMetadata;
+  }
+  return {};
+}
+
+function writeMetadata(metadata: ScrapeMetadata): void {
+  fs.writeFileSync(METADATA_FILE, JSON.stringify(metadata, null, 2));
+}
+
+function loadExistingDiscussions(outputFilename: string): DiscussionDetail[] {
+  if (fs.existsSync(outputFilename)) {
+    const raw = fs.readFileSync(outputFilename, "utf-8");
+    return JSON.parse(raw) as DiscussionDetail[];
+  }
+  return [];
+}
+
 async function delay(ms: number) {
   return new Promise((r) => setTimeout(r, ms));
 }
@@ -122,6 +153,62 @@ function extractAuthorFromContent(content: string): { author?: string; content: 
     }
   }
   return { content };
+}
+
+// Convert relative date strings ("2 months ago", "yesterday", etc.) to absolute YYYY-MM-DD
+function parseRelativeDate(relativeText: string, referenceDate?: Date): string {
+  const text = (relativeText || "").trim().toLowerCase();
+  if (!text) return relativeText;
+
+  const ref = referenceDate || new Date();
+
+  // Already an absolute date (YYYY-MM-DD or similar)
+  if (/^\d{4}-\d{2}-\d{2}/.test(text)) return relativeText.trim();
+
+  // "just now", "a moment ago"
+  if (/^(just now|a moment ago|moments ago)$/.test(text)) {
+    return ref.toISOString().slice(0, 10);
+  }
+
+  // "yesterday"
+  if (text === "yesterday") {
+    const d = new Date(ref);
+    d.setDate(d.getDate() - 1);
+    return d.toISOString().slice(0, 10);
+  }
+
+  // Pattern: "(a|an|<number>) <unit>(s) ago"
+  const match = text.match(/^(\d+|a|an)\s+(minute|hour|day|week|month|year)s?\s+ago$/);
+  if (match) {
+    const amount = (match[1] === "a" || match[1] === "an") ? 1 : parseInt(match[1], 10);
+    const unit = match[2];
+    const d = new Date(ref);
+
+    switch (unit) {
+      case "minute":
+        d.setMinutes(d.getMinutes() - amount);
+        break;
+      case "hour":
+        d.setHours(d.getHours() - amount);
+        break;
+      case "day":
+        d.setDate(d.getDate() - amount);
+        break;
+      case "week":
+        d.setDate(d.getDate() - amount * 7);
+        break;
+      case "month":
+        d.setMonth(d.getMonth() - amount);
+        break;
+      case "year":
+        d.setFullYear(d.getFullYear() - amount);
+        break;
+    }
+    return d.toISOString().slice(0, 10);
+  }
+
+  // Fallback: return original text unchanged
+  return relativeText.trim();
 }
 
 // ✅ Scrape replies and main content from an open discussion page
@@ -278,7 +365,7 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
       }
       return {
         author: replyAuthor,
-        time: r.time,
+        time: parseRelativeDate(r.time),
         content: cleaned,
         likes: r.likes,
       };
@@ -303,7 +390,7 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
     url,
     author: author || "",
     authorRole: normalizeWhitespace(mainRole || ''),
-    time: mainTime?.trim() || "",
+    time: parseRelativeDate(mainTime?.trim() || ""),
     content: mainContent?.trim() || "",
     views: viewCount || 0,
     likes: 0,
@@ -313,11 +400,21 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
 }
 
 // ✅ Scrape the list of discussions across ALL pages (pagination + load more + infinite scroll)
-async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<DiscussionDetail[]> {
+// When existingUrls is provided, stops pagination once it hits already-scraped discussions (incremental mode)
+// Saves progress incrementally to outputFilename after each discussion (if provided)
+async function scrapeDiscussionList(
+  page: Page,
+  topicUrl: string,
+  existingUrls: Set<string> = new Set(),
+  existingDiscussions: DiscussionDetail[] = [],
+  outputFilename?: string
+): Promise<DiscussionDetail[]> {
   const collected = new Map<string, { title: string; url: string; author: string; time: string; views: number; likes: number; comments: number }>();
   const visitedPages = new Set<string>();
+  let hitExisting = false;
 
-  async function collectFromCurrentPage() {
+  // Returns true if we hit previously-scraped discussions and should stop
+  async function collectFromCurrentPage(): Promise<boolean> {
     const summaries = await page.$$eval(
       "li.PaneledItemList_lia-panel-list-item__bV87f",
       (items) =>
@@ -339,10 +436,33 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
           return { title, url, author, time, views, likes, comments };
         })
     );
+
+    let newOnThisPage = 0;
+    let existingOnThisPage = 0;
+
     for (const s of summaries) {
-      if (s.url && !collected.has(s.url)) collected.set(s.url, s);
+      if (s.url && !collected.has(s.url)) {
+        if (existingUrls.has(s.url)) {
+          existingOnThisPage++;
+        } else {
+          collected.set(s.url, s);
+          newOnThisPage++;
+        }
+      }
     }
-    console.log(`→ Collected ${collected.size} discussion(s) so far`);
+
+    if (existingUrls.size > 0) {
+      console.log(`→ Page yielded ${newOnThisPage} new, ${existingOnThisPage} already-scraped`);
+    }
+    console.log(`→ Collected ${collected.size} new discussion(s) so far`);
+
+    // If we found any existing URL, we've reached old content
+    // Since listing is sorted most-recent-first, all subsequent pages are also old
+    if (existingOnThisPage > 0) {
+      hitExisting = true;
+    }
+
+    return hitExisting;
   }
 
   async function tryLoadMoreAndScroll() {
@@ -357,6 +477,7 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
       ]);
       await delay(500);
       await collectFromCurrentPage();
+      if (hitExisting) return;
     }
     // Infinite scroll until height stops growing
     for (let i = 0; i < 20; i++) {
@@ -365,6 +486,7 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
       await delay(500);
       const next = await page.evaluate(() => document.body.scrollHeight);
       await collectFromCurrentPage();
+      if (hitExisting) return;
       if (next <= prev) break;
     }
   }
@@ -376,8 +498,18 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
     visitedPages.add(current);
     // Wait for list items
     await page.waitForSelector("li.PaneledItemList_lia-panel-list-item__bV87f", { timeout: 15000 }).catch(() => {});
-    await collectFromCurrentPage();
+
+    const shouldStop = await collectFromCurrentPage();
+    if (shouldStop) {
+      console.log("→ Hit previously-scraped discussions. Stopping pagination.");
+      break;
+    }
+
     await tryLoadMoreAndScroll();
+    if (hitExisting) {
+      console.log("→ Hit previously-scraped discussions after scroll. Stopping.");
+      break;
+    }
 
     // Find explicit Next link
     const nextHref = await page
@@ -392,10 +524,13 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
     }
   }
 
-  // Open each discussion and collect full details
+  // Open each NEW discussion and collect full details
+  // Save incrementally after each discussion to avoid data loss
   const allDetails: DiscussionDetail[] = [];
-  for (const d of collected.values()) {
-    console.log(`🧩 Opening discussion: ${d.title}`);
+  const collectedArray = Array.from(collected.values());
+  for (let i = 0; i < collectedArray.length; i++) {
+    const d = collectedArray[i];
+    console.log(`🧩 [${i + 1}/${collectedArray.length}] Opening discussion: ${d.title}`);
     // Random delay between requests (1-4 seconds)
     await delay(Math.random() * 3000 + 1000);
     try {
@@ -403,6 +538,13 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
       fullDetail.views = d.views;
       fullDetail.likes = d.likes;
       allDetails.push(fullDetail);
+
+      // Save progress incrementally after each discussion
+      if (outputFilename) {
+        const merged = [...allDetails, ...existingDiscussions];
+        fs.writeFileSync(outputFilename, JSON.stringify(merged, null, 2));
+        console.log(`💾 Saved progress: ${allDetails.length} new + ${existingDiscussions.length} existing = ${merged.length} total`);
+      }
     } catch (err) {
       console.error(`❌ Failed to scrape ${d.url}:`, err);
       // Longer delay on error to avoid being flagged
@@ -446,21 +588,29 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
 // List of target URLs to scrape
   const targetUrls = [
     "https://community.getjobber.com/category/ask-the-community/discussions/operations-forum/all-topics",
-    "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
-    "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
-    "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
-    "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
+    // "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
+    // "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
+    // "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
+    // "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
   ];
 
   // Check for login only once at the beginning
   await page.goto(targetUrls[0], { waitUntil: "domcontentloaded" });
 
-  if (await page.isVisible('text="Sign In"')) {
+  const needsLogin = await page.isVisible('text="Sign In"');
+  if (needsLogin && !process.env.SKIP_LOGIN) {
     console.log("➡️ Please click 'Sign In' and complete login manually, then press Resume.");
+    console.log("   (Set SKIP_LOGIN=1 to skip this prompt and scrape without logging in)");
     await page.pause();
+  } else if (needsLogin) {
+    console.log("⚠️ Sign In detected but SKIP_LOGIN is set — continuing without login.");
   }
 
   console.log(`🤖 Using User-Agent: ${await page.evaluate(() => navigator.userAgent)}`);
+
+  // Load scrape metadata for incremental mode
+  const metadata = readMetadata();
+  console.log(`📊 Loaded scrape metadata for ${Object.keys(metadata).length} topic(s)`);
   console.log(`\n📋 Processing ${targetUrls.length} URL(s) synchronously...\n`);
 
   // Process each URL synchronously (one at a time)
@@ -483,11 +633,29 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
       const outputFilename = `${topicPath.replace(/\//g, "_")}_full.json`;
       console.log(`💾 Output filename: ${outputFilename}`);
 
-      console.log("🔍 Scraping topic discussions (with pagination) and full replies...");
-      const allData = await scrapeDiscussionList(page, targetUrl);
+      // Load existing data for incremental scraping
+      const existingDiscussions = loadExistingDiscussions(outputFilename);
+      const existingUrls = new Set(existingDiscussions.map(d => d.url));
+      console.log(`📂 Found ${existingDiscussions.length} existing discussions in ${outputFilename}`);
 
-      fs.writeFileSync(outputFilename, JSON.stringify(allData, null, 2));
-      console.log(`✅ Saved ${allData.length} discussion(s) to ${outputFilename}`);
+      // Scrape only NEW discussions (incremental mode)
+      // Saves progress after each discussion so data isn't lost if interrupted
+      console.log("🔍 Scraping new discussions (incremental mode with auto-save)...");
+      const newDiscussions = await scrapeDiscussionList(page, targetUrl, existingUrls, existingDiscussions, outputFilename);
+      console.log(`🆕 Completed ${newDiscussions.length} new discussion(s)`);
+
+      // Final merge and save (in case no new discussions or to ensure final state)
+      const mergedDiscussions = [...newDiscussions, ...existingDiscussions];
+      fs.writeFileSync(outputFilename, JSON.stringify(mergedDiscussions, null, 2));
+      console.log(`✅ Final save: ${mergedDiscussions.length} total discussion(s) to ${outputFilename}`);
+
+      // Update metadata
+      metadata[topicPath] = {
+        lastScrapedAt: new Date().toISOString(),
+        totalDiscussions: mergedDiscussions.length,
+      };
+      writeMetadata(metadata);
+      console.log(`📊 Updated metadata for ${topicPath}`);
 
       // Add delay between URLs to avoid rate limiting (except for the last URL)
       if (i < targetUrls.length - 1) {
@@ -508,6 +676,12 @@ async function scrapeDiscussionList(page: Page, topicUrl: string): Promise<Discu
   console.log(`\n${'='.repeat(80)}`);
   console.log(`🎉 Completed processing all ${targetUrls.length} URL(s)`);
   console.log('='.repeat(80));
+
+  // Print final metadata summary
+  console.log(`\n📊 Scrape metadata summary:`);
+  for (const [topic, meta] of Object.entries(metadata)) {
+    console.log(`   ${topic}: ${meta.totalDiscussions} discussions, last scraped ${meta.lastScrapedAt}`);
+  }
 
   await browser.close();
 })();
