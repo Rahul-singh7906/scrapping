@@ -1,6 +1,22 @@
 {
   "operations-forum": {
-    "lastScrapedAt": "2026-02-05T05:12:04.657Z",
-    "totalDiscussions": 92
+    "lastScrapedAt": "2026-02-06T12:44:58.652Z",
+    "totalDiscussions": 96
+  },
+  "hiring--team-forum": {
+    "lastScrapedAt": "2026-02-06T13:46:17.512Z",
+    "totalDiscussions": 81
+  },
+  "equipment--tools-forum": {
+    "lastScrapedAt": "2026-02-06T17:21:56.777Z",
+    "totalDiscussions": 41
+  },
+  "entrepreneurship-forum": {
+    "lastScrapedAt": "2026-02-06T17:40:29.310Z",
+    "totalDiscussions": 40
+  },
+  "electrical-mastermind-group": {
+    "lastScrapedAt": "2026-02-06T17:41:21.878Z",
+    "totalDiscussions": 0
   }
 }

@@ -588,10 +588,10 @@ async function scrapeDiscussionList(
 // List of target URLs to scrape
   const targetUrls = [
     "https://community.getjobber.com/category/ask-the-community/discussions/operations-forum/all-topics",
-    // "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
-    // "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
-    // "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
-    // "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
   ];
 
   // Check for login only once at the beginning
