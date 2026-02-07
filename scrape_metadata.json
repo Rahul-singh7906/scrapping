@@ -1,22 +1,70 @@
 {
   "operations-forum": {
-    "lastScrapedAt": "2026-02-06T12:44:58.652Z",
-    "totalDiscussions": 96
+    "lastScrapedAt": "2026-02-07T06:06:15.301Z",
+    "totalDiscussions": 97
   },
   "hiring--team-forum": {
-    "lastScrapedAt": "2026-02-06T13:46:17.512Z",
+    "lastScrapedAt": "2026-02-07T06:12:55.572Z",
     "totalDiscussions": 81
   },
   "equipment--tools-forum": {
-    "lastScrapedAt": "2026-02-06T17:21:56.777Z",
+    "lastScrapedAt": "2026-02-07T06:13:08.182Z",
     "totalDiscussions": 41
   },
   "entrepreneurship-forum": {
-    "lastScrapedAt": "2026-02-06T17:40:29.310Z",
+    "lastScrapedAt": "2026-02-07T06:13:22.882Z",
     "totalDiscussions": 40
   },
   "electrical-mastermind-group": {
-    "lastScrapedAt": "2026-02-06T17:41:21.878Z",
+    "lastScrapedAt": "2026-02-07T06:14:16.803Z",
     "totalDiscussions": 0
+  },
+  "online-booking-requests": {
+    "lastScrapedAt": "2026-02-07T02:41:09.463Z",
+    "totalDiscussions": 18
+  },
+  "marketing-tools": {
+    "lastScrapedAt": "2026-02-07T02:58:59.623Z",
+    "totalDiscussions": 27
+  },
+  "quoting": {
+    "lastScrapedAt": "2026-02-07T03:13:44.764Z",
+    "totalDiscussions": 29
+  },
+  "job-details-scheduling": {
+    "lastScrapedAt": "2026-02-07T03:49:23.283Z",
+    "totalDiscussions": 77
+  },
+  "invoicing-getting-paid": {
+    "lastScrapedAt": "2026-02-07T04:24:18.867Z",
+    "totalDiscussions": 68
+  },
+  "insights-reporting": {
+    "lastScrapedAt": "2026-02-07T04:37:58.561Z",
+    "totalDiscussions": 31
+  },
+  "team-management": {
+    "lastScrapedAt": "2026-02-07T04:50:44.746Z",
+    "totalDiscussions": 27
+  },
+  "integrations": {
+    "lastScrapedAt": "2026-02-07T05:15:21.548Z",
+    "totalDiscussions": 52
+  },
+  "customer-management-and-self-serve": {
+    "lastScrapedAt": "2026-02-07T05:27:53.217Z",
+    "totalDiscussions": 31
+  },
+  "marketing-forum": {
+    "lastScrapedAt": "2026-02-07T06:04:54.152Z",
+    "totalDiscussions": 80
+  },
+  "finances-forum": {
+    "lastScrapedAt": "2026-02-07T06:12:35.620Z",
+    "totalDiscussions": 10
+  },
+  "announcements": {
+    "lastScrapedAt": "2026-02-07T07:18:14.339Z",
+    "totalDiscussions": 20
   }
 }

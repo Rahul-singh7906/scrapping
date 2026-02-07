@@ -587,11 +587,23 @@ async function scrapeDiscussionList(
 
 // List of target URLs to scrape
   const targetUrls = [
+    "https://community.getjobber.com/category/using-jobber/discussions/online-booking-requests/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/marketing-tools/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/quoting/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/job-details-scheduling/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/invoicing-getting-paid/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/insights-reporting/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/team-management/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/integrations/all-topics",
+    "https://community.getjobber.com/category/using-jobber/discussions/customer-management-and-self-serve/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/marketing-forum/all-topics",
     "https://community.getjobber.com/category/ask-the-community/discussions/operations-forum/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/finances-forum/all-topics",
     "https://community.getjobber.com/category/ask-the-community/discussions/hiring--team-forum/all-topics",
     "https://community.getjobber.com/category/ask-the-community/discussions/equipment--tools-forum/all-topics",
     "https://community.getjobber.com/category/ask-the-community/discussions/entrepreneurship-forum/all-topics",
     "https://community.getjobber.com/category/ask-the-community/discussions/electrical-mastermind-group/all-topics",
+    "https://community.getjobber.com/category/ask-the-community/discussions/announcements/all-topics",
   ];
 
   // Check for login only once at the beginning
