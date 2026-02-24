@@ -1,5 +1,49 @@
 [
   {
+    "title": "💡FEATURE REQUEST: Schedule Send Communications",
+    "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/%F0%9F%92%A1feature-request-schedule-send-communications/8782",
+    "author": "ThatHandymanVan",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-19",
+    "content": "When I’m ready to send an estimate or invoice, Jobber makes it easy to send directly to the customer. The issue is timing. I often finish admin work outside normal business hours because I’m in the field during the day. When I send estimates/invoices late at night, it can feel unprofessional (or at minimum, it triggers customer replies at weird times). Current workaround: I send the estimate/invoice to myself, then schedule send it to the customer later during business hours. Phones make this easy. It works, but it’s extra steps. Feature request: Add a “Schedule Send” option when sending estimates and invoices, similar to email scheduling. Ideal behavior: At send time, give options: Send now / Schedule send For schedule: choose date + time (and time zone handling) Queue it and show status Scheduled / Sent / Failed Allow cancel/edit of scheduled sends This would save time, reduce mistakes, and keep customer communications going out at appropriate times without requiring a workaround. CLIENT MANAGER TEXT & EMAIL TEMPLATES TWO-WAY TEXT MESSAGING WIN JOBS WORK SMARTER",
+    "views": 14,
+    "likes": 1,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi ThatHandymanVan​ I love this idea, I am a big “send later” fan myself. Finishing admin work after hours is such a real scenario for field-based businesses, and your workaround makes total sense, but you are right, it adds unnecessary steps. Being able to choose Send now or Schedule send directly from the estimate or invoice flow would feel much cleaner and more professional. I especially that you called out: • Date and time selection with proper time zone handling • Clear Scheduled / Sent / Failed status • Ability to edit or cancel before it goes out That is exactly the kind of practical detail that helps our Product team evaluate feasibility and impact. I will absolutely share this with the team. Thank you for laying it out so clearly. tbarth That would be a cool feature for sure. I think it would be hard to add though, as it would probably require a lot of back-end work to add the required pieces. Automations might easier if they can do a trigger > delay > send message flow, that might be a way to do something at least similar without rebuilding the whole messaging system. The only workaround I can think of is pushing it to a third party, which adds more complexity than your current workflow has. For what it's worth, if someone replied at an odd hour, I don't think they'd expect a from you outside of normal hours. Not trying to invalidate the concern; it's just not something I'd thought about before now. You make a good point.",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi ThatHandymanVan​ I love this idea, I am a big “send later” fan myself. Finishing admin work after hours is such a real scenario for field-based businesses, and your workaround makes total sense, but you are right, it adds unnecessary steps. Being able to choose Send now or Schedule send directly from the estimate or invoice flow would feel much cleaner and more professional. I especially that you called out: • Date and time selection with proper time zone handling • Clear Scheduled / Sent / Failed status • Ability to edit or cancel before it goes out That is exactly the kind of practical detail that helps our Product team evaluate feasibility and impact. I will absolutely share this with the team. Thank you for laying it out so clearly.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Why is Property Name missing in add/edit property? (It's visible in client edit view.)",
+    "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/why-is-property-name-missing-in-addedit-property-its-visible-in-client-edit-view/8744",
+    "author": "tbarth",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-17",
+    "content": "When viewing a client's properties on the Client page, I noticed that the left column is oddly empty: Clicking the + New Property button or clicking on an existing property and clicking the Edit button opens a dialog with the following fields: However, clicking on the Edit button for the client, scrolling down to the Property address section, and clicking the Add Another Address button, a dialog opens with an additional field, Property name: Adding a property name displays that info in the left column of the property list on the client's page: This seems the intended functionality because: Assigning names to properties makes working with multiple properties much easier. The feature is already built into the product and should be fully functional. So, to fix the missing data field in this dialog: Typing ~5 lines of existing syntax 10-15 minutes of testing Minimal time for code review / QA sign-off Deploy in the next scheduled update It seems extremely unlikely I am the first to report this, yet I first raised this issue nearly five months ago and was told the feature was not implemented, even though it is clearly used elsewhere, showing it is intentional and fully functional. I followed up three and a half months ago with the exact code showing how simple the fix is. From my experience across the software production cycle, this is a simple functional omission bug: a UI regression that hides an already implemented feature and disrupts user workflow. The fix is trivial and low-risk. Realistically, from checkout to review, QA sign-off, and deployment, it requires maybe 60-90 minutes of human time. Can you confirm whether this fix is scheduled to be made, and if so, when it will be applied? Thank you. CLIENT MANAGER WORK SMARTER",
+    "views": 13,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi tbarth​, Thank you for taking the time to lay this out so clearly, and for documenting the workflow in detail. I can see why this feels inconsistent, especially since the Property Name field appears in one workflow but not in another. That would definitely be confusing when managing multiple properties. I really appreciate the thought you have put into outlining what you believe is happening and how it could be resolved. While I cannot speak to the specific development effort or timelines, I will absolutely pass this feedback along to our Product and Development teams for review. The context you provided around usability and workflow impact is especially helpful. I cannot confirm if or when a change would be scheduled, but feedback this does get reviewed and helps inform prioritization decisions, and I will make sure it gets in front of the right people. Thanks again for raising it and for the detailed breakdown.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Question for Jobber Team: Why Are Filter and Sort Settings Not Persisted?",
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/question-for-jobber-team-why-are-filter-and-sort-settings-not-persisted/8508",
     "author": "tbarth",

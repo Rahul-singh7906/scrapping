@@ -1,5 +1,55 @@
 [
   {
+    "title": "Campaigns Update",
+    "url": "https://community.getjobber.com/discussions/marketing-tools/campaigns-update/8771",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-18",
+    "content": "When making campaigns is there a way to build a campaign that spans multiple weeks and dates. As of now its just a bunch of emails which isn't bad. But if thats the case, it would be nice to have another column with the scheduled send date if applicable. and would be nice if we could name that particular email with the campaign name. right now im doing a push to capture returning customers. I have about 6-10 emails going out. But i have another which focuses on captureing christmas light customers into the mowing divsion. they are not the same emails and do have a different tone and focus. not a big deal but helps keep things organized. CAMPAIGN GENERATOR CAMPAIGNS",
+    "views": 13,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​, This is a really smart way to think about campaigns, especially when you are running multiple pushes with different goals and messaging. Right now in Jobber, each campaign is its own individual email, either sent one-off or triggered automatically. There is not currently a built-in way to create a multi-week “drip sequence” that lives under one parent campaign. That said, you can: Schedule each email in advance so they go out on different dates • Give each campaign an internal Campaign Name (for example: Return Customers – Email 1, Return Customers – Email 2, etc.) • Use the Status and Last Updated columns in the Campaigns list to help track what is scheduled versus sent If you are not seeing the scheduled date clearly in the list view, you can hover over the “Scheduled” label to see the exact send date and time. I completely understand the desire for a clearer column showing the scheduled send date and a more structured way to group related emails under one campaign theme. That organizational layer would definitely make multi-touch sequences easier to manage. I would be happy to pass this feedback along to our Product team, especially around: • Multi-email campaign grouping • A dedicated scheduled send date column • Clearer naming and organization for segmented campaign strategies Your use case with return customers versus cross-selling Christmas light clients into mowing is exactly the kind of real-world example that helps shape improvements.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Audience Selection",
+    "url": "https://community.getjobber.com/discussions/marketing-tools/audience-selection/8755",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-18",
+    "content": "Maybe im an idiot and i dont think a coder. BUT why cant i just open up the campain audience selection. it has all the names of the clients, address and tags last service dates etc. and i just click a filter. hey find everyone with this tag. i click select all. then go and search another tag and select all now both groups are in. i thought that was what i was doing, but selecting include this tag but thats not everyone i need so lets add this tag. nope it filtered the list down even more because not everyone has (nor should they have both of the tags i am needing) no i don't want to mass message 400 people. for this as i would to give a more customized message to this particular audience. or a way to exclude customser who do have a visit upcoming in x days. its great thats an option. i am going after customers who are not already on the list....I DONT want them getting bombarded by a bunch of emails as they are already getting specific ones for them",
+    "views": 20,
+    "likes": 0,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​ , you are definitely not thinking about this wrong. Segmentation can feel a bit restrictive at first. Right now, campaign filters stack as AND conditions, meaning each filter further narrows the audience. So instead of trying to combine multiple include tags, it may be simpler to approach this a different way. For example, you could: • Start with a broader group, “All active clients” • Add a tag filter for the primary audience you want to target • Then use the Job status filter to exclude clients with an upcoming visit within X days • Or use the “Past clients” or “Upcoming clients” filters to narrow based on recent activity This often achieves the result you are looking for without juggling multiple include tags. Does that work for you? If you would , our team would be happy to look at your exact scenario and help you build the cleanest segment for what you are trying to accomplish. BlueSkies 5 days ago Again excluding audiences. there has to be a way where it take 500 clients exclude this group and alos exclude this group. and they are both gone. not only exclude someone who is in both groups. or include group A but also include group B despite them not being in the same group BlueSkies 6 days ago also selecting the client name doesn't work if you cant scroll all the way through them. im stuck at the Cs. not sure how im suppossed to individually select them without actively searching for clients",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​ , you are definitely not thinking about this wrong. Segmentation can feel a bit restrictive at first. Right now, campaign filters stack as AND conditions, meaning each filter further narrows the audience. So instead of trying to combine multiple include tags, it may be simpler to approach this a different way. For example, you could: • Start with a broader group, “All active clients” • Add a tag filter for the primary audience you want to target • Then use the Job status filter to exclude clients with an upcoming visit within X days • Or use the “Past clients” or “Upcoming clients” filters to narrow based on recent activity This often achieves the result you are looking for without juggling multiple include tags. Does that work for you? If you would , our team would be happy to look at your exact scenario and help you build the cleanest segment for what you are trying to accomplish.",
+        "likes": 0
+      },
+      {
+        "author": "BlueSkies",
+        "time": "2026-02-19",
+        "content": "Again excluding audiences. there has to be a way where it take 500 clients exclude this group and alos exclude this group. and they are both gone. not only exclude someone who is in both groups. or include group A but also include group B despite them not being in the same group",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Reviews",
     "url": "https://community.getjobber.com/discussions/marketing-tools/reviews/512",
     "author": "TNLM06",

@@ -1,5 +1,99 @@
 [
   {
+    "title": "Accounting Problems with Jobber Payments",
+    "url": "https://community.getjobber.com/discussions/finances-forum/accounting-problems-with-jobber-payments/8853",
+    "author": "QHS",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-21",
+    "content": "I saw a post that was voicing the same frustration that I have and it looks none of the responses were truly helpful… so here’s my version and hoping Jobber will resolve it. (Yes, I have already spoken to Jobber representatives several times about the issue and they couldn’t do anything about it… other than change the program which is what I’m advocating for) We enabled Jobber Payments a while back because we rely pretty heavily on getting down-payments especially for bigger jobs. However, we quickly realized that ANY transaction going through Jobber payments didn’t match the invoice amounts. In short, we figured out that it was because it was taking the fees out BEFORE the money was deposited and it was an absolute NIGHTMARE to fix our books and match numbers. Made reconciling literally impossible. It also was difficult to match the payments to an account. We had to hire a separate accountant to fix it and we ended up shutting it down before it could do more damage. We have been sending payment links with the QuickBooks payment processor because it actually works without messing up the books, but it can be a pain to send the invoice twice. Not to mention once they actually pay we have to manually enter the payment into Jobber since the sync is only one-way. I now know that we aren’t the only ones with this experience. Please this post so Jobber will do something about this. Any tips would also be appreciated in the meantime. ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE CONSTRUCTION COSTING GENERAL CONTRACTING GETTING PAID HOW MUCH TO CHARGE INSTALLATION SERVICES",
+    "views": 21,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-21",
+        "content": "Ugh, that reminds me that I also have a bunch of those to fix. Why did they choose to sync net instead of gross? A handful of conveniences, probably: existing hardcoded references, matching what users see in their bank deposits, and avoiding the extra work to handle partial payments, refunds, and other edge cases. Basically, it was the shortest line between points A and B. If they saved money or reduced friction by going with net instead of gross, that’s an obvious business decision for most companies. This is also why it won’t change; the decision was made deliberately a long time ago. The fact that QuickBooks Sync is a tool specifically designed to send a transaction amount to a system that has expected the gross amount since people started trading beads and bobbles makes this nearly impossible to fathom or accept. Outside of a black and white business expense decision, it simply isn’t understandable. However, there is a solution that eliminates the headache: use something Zapier to deal with it automatically. After working it out just now, I think this is what I will do. Workflow: Send invoice from Jobber Client pays via Jobber Payments Jobber syncs invoice and net payment to QuickBooks Online Zapier monitors QBO for new payments Zapier fetches gross payment from Jobber Zapier updates QBO and the invoice now clears correctly. Optional: handle fees separately. Pros: Invoice in QBO is cleared with the correct gross amount. Jobber remains the operational hub. The net vs gross problem is fixed automatically without manual reconciliation. You stop getting ALL CAPS texts from your bookkeeper. Cons: The time to set it up: all automation, there's effort upfront, but the payoff far outweighs it. The frustration of having to do it in the first place: To borrow a line from the Italian philosopher, Rambo, John J.: \"Let it go.\"",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What % of your clients are still on credit cards and what’s your ACH conversion plan?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/what--of-your-clients-are-still-on-credit-cards-and-what%E2%80%99s-your-ach-conversion-p/8765",
+    "author": "roselvaggio",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-18",
+    "content": "I know this is just \"the price of doing business\", but paying over $37k in processing fees last year was a sight to see. We are currently working on a campaign to switch recurring clients to ACH bank transfer for a lower rate, but I am curious how others are mitigating this cost.",
+    "views": 9,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I would just bake it in to your estimates. I feel most people don't do ACH. Don't charge a CC fee, just up all your prices my 3-5%.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Do you have daily goals? Weekly? Monthly?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/do-you-have-daily-goals-weekly-monthly/8706",
+    "author": "PestFreeCanada",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-14",
+    "content": "From the beginning of starting my own company, I naively told myself that I need to make $300 per day. That would give me my $6000K a month that I was making at my previous job (I roughly estimate 20 working days in a month). Why not be way happier and make the same money?? I soon realized that now all the overhead was my responsibility and that number needed to be adjusted. I then aimed for $500 per day. That really seemed to make a huge difference in my finances. I was very consistently hitting this goal, most times surpassing it. I just started this company in Oct 2025 so this revenue was really amazing for me. I shot for $300 a day thinking that was high! Then, a few days would go by and I would make no money, things slow down, phone isn't ringing, weather gets bad...I soon started noticing that I was becoming depressed that I would have 3 consecutive days where I had no work. I started to panic. Then all of a sudden the phone would ring with a $1200 job. This would take a whole day to complete and I would go home happy. These ups and downs weren't hurting me, but I also didn't seem them helping. I am wondering where others gauge their companies financial health? Do you look at it day to day? Week to week? Month? Year?",
+    "views": 36,
+    "likes": 1,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I feel you have to start on the project per project level and work your way up. It's good to look at the big picture but if you're continuing to lose money on projects, why are you doing them? Honestly you need to find out what you need to charge PER HOUR then see how you do on that on a monthly basis. If you're phones are slow, figure out what free stuff can you be doing and be proactive to get those going. Also start thinking about where the most profitable revenue sources are from, then double down on those Ryan_Cap 7 days ago I went through the exact same thing with my lawn care company. The day-to-day rollercoaster will make you crazy. What changed everything for me was shifting to a weekly and monthly view. When you zoom out, you realize those 3 dead days didn’t actually hurt you…you still hit $10K+ that month. A few things that helped me: ∙ Stop measuring daily revenue. Track your weekly average instead. ∙ Know your real break-even number (not just what you used to make at a W-2 level. You have to factor in insurance, fuel, equipment, taxes). ∙ Watch your quote-to-job conversion rate. If you’re closing 60%+ you’re in good shape, and the slow days are just timing. The emotional side is real though. The inconsistency is harder than the money part. It gets better once you build recurring accounts and your schedule fills in.",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I feel you have to start on the project per project level and work your way up. It's good to look at the big picture but if you're continuing to lose money on projects, why are you doing them? Honestly you need to find out what you need to charge PER HOUR then see how you do on that on a monthly basis. If you're phones are slow, figure out what free stuff can you be doing and be proactive to get those going. Also start thinking about where the most profitable revenue sources are from, then double down on those",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "GCs - How are you using the pricebook?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/gcs---how-are-you-using-the-pricebook/8738",
+    "author": "HUGEHandyman",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-16",
+    "content": "Most of my projects are all different. Even something a fence gate is different from one property to the next. One place the gate itself is going on the wall, the other it's going on a post and the current post is wobbling. All bathrooms are roughly the same, but maybe the tile is different, or this customer wants to buy their own supplies. etc. So for you businesses that are in this pickle, how are you using your price book? I basically use mine for line items that don't actually carry a price - policies and warranties for specific things (paint matching, bathroom remodel discoverable, etc) but I'm not using it for what I'd imagined are it's intended purpose. Looking for a little coaching here! GENERAL CONTRACTING HANDYMAN",
+    "views": 41,
+    "likes": 1,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-17",
+        "content": "Which AI program would you use for this? ryaantuttle to HUGEHandyman 6 days ago I prefer to use several platforms to get the best results. I build on Claude but then use Chatgpt for the final assistant. ryaantuttle Create your own Ai assistant that can analyze each request along with any photos and/or videos you have. You can even upload your current price book or upload any price books you find online. You can then create another assistant to evaluate the estimates to make sure they're accurate. HUGEHandyman​",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-17",
+        "content": "Which AI program would you use for this?",
+        "likes": 0
+      },
+      {
+        "author": "ryaantuttle",
+        "time": "2026-02-18",
+        "content": "to HUGEHandyman I prefer to use several platforms to get the best results. I build on Claude but then use Chatgpt for the final assistant.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "PROPERTY BASED PRICING",
     "url": "https://community.getjobber.com/discussions/finances-forum/property-based-pricing/8417",
     "author": "BlueSkies",

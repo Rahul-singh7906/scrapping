@@ -1,5 +1,92 @@
 [
   {
+    "title": "How can I mark quotes as declined and track cancellation reasons in Jobber?",
+    "url": "https://community.getjobber.com/discussions/quoting/how-can-i-mark-quotes-as-declined-and-track-cancellation-reasons-in-jobber/8725",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-15",
+    "content": "There may be a solution so let me know. Short version: send out a quote. customer declines. I would to mark it declined. Not a big deal but archived, is declined but means more to me its just been sitting there forever. I know silly and not a deal breaker its a stupid word association BUT MORE SERIOUS: i would to be able to mark why it was declined. (price, going with a different person, doing it themselves whatever.) that way i can track patterns either holistically or individual customers. As a solo guy i know most of it, but once my office staff starts, and gets into here, it would be hard to tell what the right hand is doing sort of thing. on that note and most important. Recurring work or any work. If we cancel a job or a service. it should show as canceled. not just disappear. And it should have the option (and also a way to force that as well when multiple crews are out) to mark WHY. That way everyone knows who canceled the service, and why. Helps keep people accountable. and keep track of what is happening.",
+    "views": 40,
+    "likes": 1,
+    "comments": 4,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi everyone, This is really thoughtful feedback, especially around visibility, accountability, and tracking trends. Thank you for laying it out so clearly. For quotes specifically, have you tried archiving the quote once it has been declined? Archiving will remove it from your active workflow while still keeping it accessible for reporting and history. Some teams use this as their “declined” workflow step. To track the reason, you could also use custom fields on quotes to capture decline reasons such as price, competitor, timing, or DIY. That way, you can standardize the options now and have clean data when office staff come on board. The same approach can work for jobs, adding a required custom field for cancellation reason so that nothing gets closed out without context. While it may not be as automated as a dedicated decline or cancellation status with forced reason codes, this workflow can still give you visibility and accountability across your team. That said, we completely hear the larger point around wanting clearer declined and canceled states built into the core workflow. This is valuable feedback. We would genuinely love the opportunity to help you get the most value out of your Jobber subscription. If you are open to it, our team would be happy to connect and walk through your current setup to see how we can streamline things or recommend configurations that better fit how you operate. If you would to chat, feel free to reach out to Support and we can set something up. We want to make sure Jobber is supporting your business, not creating friction. tbarth to krista 3 days ago Well, mine was kind of grumpy. I'll do better. The custom field is absolutely the correct way to track the reason for a decline; I'd forgotten about those! Adding a new status would not be trivial as company resources go. Database schema, logic, reporting, automations, integrations, mobile, analytics, etc. Seems simple from the front end, but it would be a significant to-do list on the back end. Still though, it would be a great feature and makes sense that it would be there as a standard status option. tbarth 6 days ago For declines, manually adding it to the quote name so it shows up under the quote number (god forbid the they each have their own columns) and a note in the quote for the reason is all I can think of. The closer you look at some of the core features, the more limited you realize they are. These are all good examples of that. Considering the product is over 15 years old, one gets the feeling that expanding the basic features is not a priority. BlueSkies to tbarth 5 days ago Very much so. I came from yardbook. I liked the ability to put picture lines in the quotes. the client hub and two way texting in the app so everything was together. (the dashboard is nice as it automated the sales process for me a bit as a solo guy). but for $300 (to get the texting and the campaigns which is basically mailchimp) its a high price to pay when i could get basically the I NEED THIS TO DO THE JOB features for around $100. it would create a bit more admin work, but seriously im considering it.",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi everyone, This is really thoughtful feedback, especially around visibility, accountability, and tracking trends. Thank you for laying it out so clearly. For quotes specifically, have you tried archiving the quote once it has been declined? Archiving will remove it from your active workflow while still keeping it accessible for reporting and history. Some teams use this as their “declined” workflow step. To track the reason, you could also use custom fields on quotes to capture decline reasons such as price, competitor, timing, or DIY. That way, you can standardize the options now and have clean data when office staff come on board. The same approach can work for jobs, adding a required custom field for cancellation reason so that nothing gets closed out without context. While it may not be as automated as a dedicated decline or cancellation status with forced reason codes, this workflow can still give you visibility and accountability across your team. That said, we completely hear the larger point around wanting clearer declined and canceled states built into the core workflow. This is valuable feedback. We would genuinely love the opportunity to help you get the most value out of your Jobber subscription. If you are open to it, our team would be happy to connect and walk through your current setup to see how we can streamline things or recommend configurations that better fit how you operate. If you would to chat, feel free to reach out to Support and we can set something up. We want to make sure Jobber is supporting your business, not creating friction.",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-21",
+        "content": "to krista Well, mine was kind of grumpy. I'll do better. The custom field is absolutely the correct way to track the reason for a decline; I'd forgotten about those! Adding a new status would not be trivial as company resources go. Database schema, logic, reporting, automations, integrations, mobile, analytics, etc. Seems simple from the front end, but it would be a significant to-do list on the back end. Still though, it would be a great feature and makes sense that it would be there as a standard status option.",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "For declines, manually adding it to the quote name so it shows up under the quote number (god forbid the they each have their own columns) and a note in the quote for the reason is all I can think of. The closer you look at some of the core features, the more limited you realize they are. These are all good examples of that. Considering the product is over 15 years old, one gets the feeling that expanding the basic features is not a priority.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Quotes can be the wrong tool. Estimates avoid disputes, protect margins, and elevate professionalism",
+    "url": "https://community.getjobber.com/discussions/quoting/quotes-can-be-the-wrong-tool-estimates-avoid-disputes-protect-margins-and-elevat/8795",
+    "author": "tbarth",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-19",
+    "content": "Quotes and Estimates are fundamentally different, and not having both options is genuinely problematic for us. Fudging it by adding exception language to a document labeled as a Quote communicates that we aren’t committed to the quote, that we can’t accurately assess or execute our own services, and that we don't have the basic ability to simply send the correct type of sales form. Every workaround risks the sale and our professional image. How do you protect yourselves when a job clearly requires an Estimate instead of a Quote? Would having the option to create either a Quote or an Estimate, so you can send the correct sales document for each job, help you run your business more effectively? I believe some people are employing entirely different software for quotes and estimates. Considering that the ability to send an Estimate is a critical and basic business requirement, would it make sense for Jobber to add the simple option of changing the word \"Quote\" to \"Estimate\" when needed? They could still fall under the heading of \"Quotes\" in the UI, because only the word on the form being sent to the client, and the word used in the related message, needs to change. That's simply front-end work to implement and not a major feature update. The beauty of web-based applications is that it is programmatically easy to add simple functionality to expand the capabilities of basic features that affect nearly all users, requiring only a willingness to spend a little time improving the product's core functionality: helping us grow and manage our businesses. BEST QUOTING QUOTE APPROVALS QUOTE OPTIONS WIN JOBS WORK SMARTER",
+    "views": 36,
+    "likes": 2,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "I missed a big thing: They would also have to update the back end to reflect the choice in the client portal and on PDF's. All doable, but definitely more work that the front end. SomosOrganic Yes to this! Give me both a quote and estimate functioin",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "I missed a big thing: They would also have to update the back end to reflect the choice in the client portal and on PDF's. All doable, but definitely more work that the front end.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "New to Jobber, Quotes including pictures worth it?",
+    "url": "https://community.getjobber.com/discussions/quoting/new-to-jobber-quotes-including-pictures-worth-it/8723",
+    "author": "Angel-ProKutz",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-15",
+    "content": "Hey guys, I wanted to hear your thoughts on jobber quotes not including pictures for estimates in the core package? We are a full service property maintenance & Landscaping company. Anybody switch from core to grow because of it? We have a small team but growing. Last crm did have this feature on their middle plan and our clients loved it. It was extempore helpful to us as well. Was wondering if this is something we should switch to that would make a huge difference? BEST QUOTING BETTER BOOST PROFITS LANDSCAPING LAWN CARE LEAD MANAGEMENT PROGRESS INVOICING PROPERTY MAINTENANCE QUOTE IMAGES QUOTE OPTIONS",
+    "views": 28,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I have the most built out version of jobber and use pretty much every feature. I'd say you can probably get around it if that extra package is too much of a stretch for you but you'll find the more features you use, the more it will benefit you. I have templates set up for each trade, preload pictures in there so each time I bid on something they can see pictures of other times I did that thing they just got a bid on. Helps build authenticity. Do I know tangibly how beneficial it is? No - but if you have the budget for it please do it. You'll thank me later. BlueSkies 9 days ago depends on what your doing with it. Can be. Visuals do help sell the job at times. I do christmas lights, and switched to jobber just to be able to put pictures in the quote. I despise that its behind a second level pay wall....as is most everything here. and it isn't even an al a carte option to pick just it. there are a lot of features i don't need or care for but need 1 thing out of the next level...sorry im ranting. For me the pictures helped sell christmas light jobs.",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I have the most built out version of jobber and use pretty much every feature. I'd say you can probably get around it if that extra package is too much of a stretch for you but you'll find the more features you use, the more it will benefit you. I have templates set up for each trade, preload pictures in there so each time I bid on something they can see pictures of other times I did that thing they just got a bid on. Helps build authenticity. Do I know tangibly how beneficial it is? No - but if you have the budget for it please do it. You'll thank me later.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Request for Quote building using hidden subtotals",
     "url": "https://community.getjobber.com/discussions/quoting/request-for-quote-building-using-hidden-subtotals/7737",
     "author": "danjhu",

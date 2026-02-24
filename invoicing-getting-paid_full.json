@@ -1,5 +1,61 @@
 [
   {
+    "title": "Is there a limit how much you can charge using Jobber Payments?",
+    "url": "https://community.getjobber.com/discussions/invoicing-getting-paid/is-there-a-limit-how-much-you-can-charge-using-jobber-payments/8781",
+    "author": "PestFreeCanada",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-19",
+    "content": "Has anyone been lucky enough to find out the limit how much Jobber Payments will allow you to charge a credit or debit card?",
+    "views": 19,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-02-21",
+        "content": "No real world context, I was just wondering. I was talking to a client about redoing her basement insulation and said the job would be upwards of $10-12K. Then I started thinking if I did that job, could I charge her through my Jobber? Would it allow me to process a $10,000 invoice. krista 4 days ago Hi PestFreeCanada​ Thanks for the question. At this time we aren’t able to share a specific maximum charge limit for Jobber Payments publicly. That said, I’d love to understand more about what you’re trying to do. If you can share the context—such as the payment amount you plan to process and the use case behind it—I may be able to provide more insight or point you in the right direction. Looking forward to learning more.",
+        "likes": 0
+      },
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-02-21",
+        "content": "No real world context, I was just wondering. I was talking to a client about redoing her basement insulation and said the job would be upwards of $10-12K. Then I started thinking if I did that job, could I charge her through my Jobber? Would it allow me to process a $10,000 invoice.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Invoice Frequency",
+    "url": "https://community.getjobber.com/discussions/invoicing-getting-paid/invoice-frequency/8730",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-15",
+    "content": "Im almost positive im just missing it. Is there any way to change the default invoice setting. I bill per visit. Not monthly. Yes i can change it on the job screen. Just one less click. And basically for the very small few that i bill out monthly, it is a change from normal so i remember that part.",
+    "views": 25,
+    "likes": 1,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "jade",
+        "time": "2026-02-18",
+        "content": "Hey BlueSkies! No way to change that default but you are on the right track, that would be the steps in order to change the invoicing settings to be after each visit is complete. I am happy to pass along your feedback on choosing an invoicing frequency default other than \"monthly on the last day of the month\" Thanks for bringing this to the community! BlueSkies So that is already set up and yes its due upon reciept. Im talking about when creating the job. Specifically for a recurring job. There is an option under the billing and automatic payments section. IN that section there is a spot that says invoice frequency. That is defaulted to bill monthly on the last day of the month. I want to change that default. What that does practically is when you complete the service. There will not be an option on the app or the website that prompts or allows you to invoice for that individual service. You still can invoic for it but now have to go through extra steps on the website. Where as if its set to AFTER EACH VISIT IS COMPLETED. you complete the service. then create invoice right there on the app. Not the biggest thing, as its just remmbering to change this setting but i have just created over 500 new jobs for the year (as there is no way that i know to make it start back up automatically and with new updated pricing as there is no property based pricing or real pricing matrix) but i did. and thats an extra 1000 clicks that should be able to set as a default option PestFreeCanada Go into Settings, click Work Settings then scroll down to Invoices. There you can change what you need!",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2026-02-18",
+        "content": "Hey BlueSkies! No way to change that default but you are on the right track, that would be the steps in order to change the invoicing settings to be after each visit is complete. I am happy to pass along your feedback on choosing an invoicing frequency default other than \"monthly on the last day of the month\" Thanks for bringing this to the community!",
+        "likes": 0
+      },
+      {
+        "author": "BlueSkies",
+        "time": "2026-02-18",
+        "content": "So that is already set up and yes its due upon reciept. Im talking about when creating the job. Specifically for a recurring job. There is an option under the billing and automatic payments section. IN that section there is a spot that says invoice frequency. That is defaulted to bill monthly on the last day of the month. I want to change that default. What that does practically is when you complete the service. There will not be an option on the app or the website that prompts or allows you to invoice for that individual service. You still can invoic for it but now have to go through extra steps on the website. Where as if its set to AFTER EACH VISIT IS COMPLETED. you complete the service. then create invoice right there on the app. Not the biggest thing, as its just remmbering to change this setting but i have just created over 500 new jobs for the year (as there is no way that i know to make it start back up automatically and with new updated pricing as there is no property based pricing or real pricing matrix) but i did. and thats an extra 1000 clicks that should be able to set as a default option",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Why does Jobber prompt me to add my email when sending invoices from my phone?",
     "url": "https://community.getjobber.com/discussions/invoicing-getting-paid/why-does-jobber-prompt-me-to-add-my-email-when-sending-invoices-from-my-phone/8574",
     "author": "PestFreeCanada",

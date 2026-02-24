@@ -1,5 +1,30 @@
 [
   {
+    "title": "Job pricing",
+    "url": "https://community.getjobber.com/discussions/insights-reporting/job-pricing/8726",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-15",
+    "content": "Not sure if this is in the right spot. Came from yardbook. (for those that have seen my posts yes i compare to that alot. its functionality is amazing. and its built for lawn care specefically so there are more than a few things that there that wouldn't be as much of a priority for something thats goal is to be for every service industy) anyways they had a feature where you clock in and out of a job. (you could clock out come back and clock back in and would still keep track as long as you on that perticular service) anyways there was a report you could go to and enter in your targeted hourly rate. it would then run through all the jobs, and let you know if you were where you needed to be. Yes i can do that manually, but the tab was a quick check in. run it monthly and see if there are patterns, oh this job is alway under and taking longer i need to adjust price, oh this is always more profitable hourly rate wise, how do i get more jobs that, what do i do differently etc.",
+    "views": 29,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​, This is a great example of the type of operational insight that really helps dial in profitability. I completely understand the value of quickly comparing actual time spent against a target hourly rate and spotting patterns. In Jobber, Job Costing would likely be very helpful for what you are describing. I will link the help article here. With Job Costing, you can: • Track labor hours directly on the job page • See time logged by team members • Compare labor cost against revenue on that specific job While it does not currently have a built-in “target hourly rate checker” report exactly you described, you could approach this in a couple of ways: Use custom fields on the job to indicate your target hourly rate or expected hours, then compare that against actual time logged. Use line items to reflect your expected labor allocation and then compare against actual job costing data. From there, you can review patterns monthly and identify which jobs are underperforming, which are exceeding expectations, and where pricing adjustments may be needed. BlueSkies 9 days ago and if the feature is already there where is it, im missing it at the moment.\\",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​, This is a great example of the type of operational insight that really helps dial in profitability. I completely understand the value of quickly comparing actual time spent against a target hourly rate and spotting patterns. In Jobber, Job Costing would likely be very helpful for what you are describing. I will link the help article here. With Job Costing, you can: • Track labor hours directly on the job page • See time logged by team members • Compare labor cost against revenue on that specific job While it does not currently have a built-in “target hourly rate checker” report exactly you described, you could approach this in a couple of ways: Use custom fields on the job to indicate your target hourly rate or expected hours, then compare that against actual time logged. Use line items to reflect your expected labor allocation and then compare against actual job costing data. From there, you can review patterns monthly and identify which jobs are underperforming, which are exceeding expectations, and where pricing adjustments may be needed.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Jobber Roadmap",
     "url": "https://community.getjobber.com/discussions/insights-reporting/jobber-roadmap/8567",
     "author": "Brandin",

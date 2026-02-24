@@ -1,5 +1,172 @@
 [
   {
+    "title": "New schedule  -  Can't find tasks easily",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/new-schedule---cant-find-tasks-easily/8857",
+    "author": "Ernie",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-22",
+    "content": "New schedule - Can't find tasks easily Hello I am having issues with tasks in the new schedule. Anyone else experiencing this? Is there any update if they are bringing that feature back?",
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
+    "title": "Job Form Additional Characters",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/job-form-additional-characters/8773",
+    "author": "rchrenewables",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-18",
+    "content": "Hello, Does anybody utilize the job forms for providing findings for clients? I have been using the job forms and just recently noticed that the \"long answer\" option isn't quite long enough for some of the job findings that I write up for certain jobs. Does anybody have an efficient work around for this? Cheers, WORK SMARTER",
+    "views": 24,
+    "likes": 1,
+    "comments": 6,
+    "replies": [
+      {
+        "author": "rchrenewables",
+        "time": "2026-02-20",
+        "content": "Cheers! I will try and use the internal notes at this time. Thank you for the detailed response tbarth​ krista Hi everyone, This is a really good callout, especially if you are using job forms for detailed findings or formal reporting. I would be happy to pass this along to our Development team, particularly around the character limitation and the formatting issue you mentioned. That context is helpful. In the meantime, have you considered using internal notes for longer findings? Notes do not have the same structured character limitations as form fields and can sometimes provide more flexibility for detailed write-ups. Some teams use job forms for structured checklists and then use notes for extended summaries or conclusions. tbarth to krista It looks long multiline forms in the mobile app are clipped in the form field, in this case with lots of short lines. If desktop shows the full content, the backend data is still there. I'm assuming the behavior happens on iOS and Android since they both use React Native, which you guys switched to a few years ago. The current TextInput implementation probably uses a fixed height or limited auto-grow without enabling scrolling past the maximum height. Any parent container constraints or missing scrollEnabled could cause it as well. Android has a vertical alignment thing that may also cause it if not accounted for. Should be an easy fix. Looking at the React Native reference: TextInput with multiline={true} Dynamically grow height using onContentSizeChange up to a defined maxHeight Enable scrolling past maxHeight (scrollEnabled={true}) Set textAlignVertical=\"top\" for Android alignment Wrap in KeyboardAvoidingView and ScrollView if the form spans multiple fields or page height Example: <TextInput multiline value={value} onChangeText={setValue} onContentSizeChange={e => setHeight(Math.min(e.nativeEvent.contentSize.height, 400)) // auto-grow until max } scrollEnabled={height >= 400} // allow scrolling past max textAlignVertical=\"top\" // fix Android vertical alignment style={{ height, minHeight: 100, maxHeight: 400, borderWidth: 1, borderColor: '#ccc', padding: 10 }} /> That would prevent clipping, works on iOS and Android, maintain the layout, and handle keyboard interactions and flex layouts correctly. Or I could be completely wrong about the exact cause, but it should still be an easy fix since it's certainly a css issue. As for QA, this is the kind of issue that can slip past all of the non-manual / device testing test methods, including E2E because simulated keyboard and layout stuff can behave differently from real devices. Even then, it's an edge case for manual testing. PestFreeCanada Just thinking here, but what about a second question below the long answer that says \"Continued if Required\"? tbarth to PestFreeCanada Clever! I tested the long answer box, and it does seem to be limited to 4096 characters. rchrenewables to tbarth That’s not a bad idea! Thanks for the responses. It may not be a character limit rather than a formatting issue. The report attached below recently had this issue. Page 3 just goes straight into photos.",
+        "likes": 0
+      },
+      {
+        "author": "rchrenewables",
+        "time": "2026-02-20",
+        "content": "Cheers! I will try and use the internal notes at this time. Thank you for the detailed response tbarth​",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi everyone, This is a really good callout, especially if you are using job forms for detailed findings or formal reporting. I would be happy to pass this along to our Development team, particularly around the character limitation and the formatting issue you mentioned. That context is helpful. In the meantime, have you considered using internal notes for longer findings? Notes do not have the same structured character limitations as form fields and can sometimes provide more flexibility for detailed write-ups. Some teams use job forms for structured checklists and then use notes for extended summaries or conclusions.",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "to krista It looks long multiline forms in the mobile app are clipped in the form field, in this case with lots of short lines. If desktop shows the full content, the backend data is still there. I'm assuming the behavior happens on iOS and Android since they both use React Native, which you guys switched to a few years ago. The current TextInput implementation probably uses a fixed height or limited auto-grow without enabling scrolling past the maximum height. Any parent container constraints or missing scrollEnabled could cause it as well. Android has a vertical alignment thing that may also cause it if not accounted for. Should be an easy fix. Looking at the React Native reference: TextInput with multiline={true} Dynamically grow height using onContentSizeChange up to a defined maxHeight Enable scrolling past maxHeight (scrollEnabled={true}) Set textAlignVertical=\"top\" for Android alignment Wrap in KeyboardAvoidingView and ScrollView if the form spans multiple fields or page height Example: <TextInput multiline value={value} onChangeText={setValue} onContentSizeChange={e => setHeight(Math.min(e.nativeEvent.contentSize.height, 400)) // auto-grow until max } scrollEnabled={height >= 400} // allow scrolling past max textAlignVertical=\"top\" // fix Android vertical alignment style={{ height, minHeight: 100, maxHeight: 400, borderWidth: 1, borderColor: '#ccc', padding: 10 }} /> That would prevent clipping, works on iOS and Android, maintain the layout, and handle keyboard interactions and flex layouts correctly. Or I could be completely wrong about the exact cause, but it should still be an easy fix since it's certainly a css issue. As for QA, this is the kind of issue that can slip past all of the non-manual / device testing test methods, including E2E because simulated keyboard and layout stuff can behave differently from real devices. Even then, it's an edge case for manual testing.",
+        "likes": 0
+      },
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-02-20",
+        "content": "Just thinking here, but what about a second question below the long answer that says \"Continued if Required\"?",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "to PestFreeCanada Clever! I tested the long answer box, and it does seem to be limited to 4096 characters.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Is there a way to view all customers on a map in Jobber?",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/is-there-a-way-to-view-all-customers-on-a-map-in-jobber/8720",
+    "author": "BlueSkies",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-14",
+    "content": "Not sure if this is in the right spot.. Working on renewals for new year. I have a few different offers and depends on customer location. It would be nice if i can just see them on the map and then work my through them that way. ROUTE OPTIMIZATION",
+    "views": 21,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-20",
+        "content": "Hi BlueSkies​, Great question, and this is absolutely the right place to ask. If you are looking to view your customers geographically, you can check out Route Optimization in Settings. That feature will display your clients' locations on a map, which may work well if you are planning renewals by area. It is a helpful way to visually cluster clients and work through them region by region. You may also want to take a look at the video in this help article. It walks through the New Schedule workflow, which allows you to book jobs incredibly quickly, in some cases within 42 seconds. Depending on how you plan to structure your renewal outreach, this workflow might significantly streamline the process!",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How can I create a dynamic appointment cancellation list in Jobber?",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/how-can-i-create-a-dynamic-appointment-cancellation-list-in-jobber/8711",
+    "author": "JondyL",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-14",
+    "content": "Hey all, I am looking to keep and maintain a dynamic list of visits for customers who want to be contacted if we can get them in sooner than their sheduled visit. So, if they service vist on the calendar and would to be notified if we have a cancellation/open space (e.g., the emergency service block is not filled for a particular day) to move up their visit. I have set up a custom field on the job level, and to access this information, I have to run a forward-looking report (with \"custom dates\" or \"this month\" for options) and then it cannot sort by a custom field. For example, I can uncheck all sorts of columns with information and add a custom field to a report, but then you can't sort by that column. You would need to export to excel and then get the information you want. (Confirmed this with Jobber support.) This is not something you can do on the App for obvious reasons. It is critical to have this information for the field techs since they are the ones who find extra time on their hands and could very easily call a customer (\"hey, I see you have an appointment next week for xyx, we are/will be around the corner and have time to do it today.\") if the list was maintained dynamically and available on the app. Going to reports, customizing columns, exporting to excel and then going back to Jobber is, well, clunky and inefficient. Anyone have success with another way to manage a cancel list?",
+    "views": 16,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
+    "title": "Multiple job forms per job",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/multiple-job-forms-per-job/8655",
+    "author": "TESVT",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-11",
+    "content": "I just started using Jobber and was excited about using the job forms. While the forms are great and work well for capturing information and sending service reports, I wish I could add multiple versions of the same form on one job. For example, I have a job to visit a client for preventive maintenance on 3 different machines. I have a job form for the maintenance task and add three copies of it to the job: one for each machine. When adding the form to the job I can name them to correspond to each of the machines. The work around I have so far is to make a separate visit for each of the tasks (even thought they are on the same day), as that populates an empty job form into each visit. Anyone have any other suggestions? jade 12 days ago Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com",
+    "views": 45,
+    "likes": 1,
+    "comments": 4,
+    "replies": [
+      {
+        "author": "jade",
+        "time": "2026-02-12",
+        "content": "Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2026-02-12",
+        "content": "Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com",
+        "likes": 0
+      },
+      {
+        "author": "TESVT",
+        "time": "2026-02-13",
+        "content": "Thanks. That could work for me. jade 12 days ago Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com PestFreeCanada 12 days ago TESVT to PestFreeCanada Thanks.",
+        "likes": 0
+      },
+      {
+        "author": "TESVT",
+        "time": "2026-02-13",
+        "content": "Thanks. That could work for me.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How does Jobber calculate routes, and can it use real driving directions instead of straight-line distance?",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/how-does-jobber-calculate-routes-and-can-it-use-real-driving-directions-instead-/8663",
+    "author": "allpestoff",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-11",
+    "content": "I am writing to express my significant frustration with the current routing functionality within the platform. The primary issue is that the software appears to calculate routes based on \"as the crow flies\" distance rather than actual driving paths. Furthermore, the routing does not prioritize arrival logic that places the vehicle with the passenger side facing the customer's residence. This is a standard feature in competing routing software and is essential for the safety and efficiency of my team. ROUTE OPTIMIZATION",
+    "views": 25,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "jade",
+        "time": "2026-02-12",
+        "content": "Hello! Thanks for bringing this to the community. We noticed your comment on a similar post, and I have replied there. I apologize if my answer is repetitive, but I want to validate your feedback here! I can understand how a feature that calculates driving paths would be beneficial to you and other Jobber customers. In the Jobber app, you can click the service property and open it in your maps of choice to ensure you are on the best route. While this is not calculated in Jobber at this time, we are always looking to improve, and we will share this valuable feedback with our Product Development team. In addition to me sharing your feedback with our team, you can use this form to provide direct feedback and elaborate on your ideal outcome :)",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Text notifications for requests wanted",
+    "url": "https://community.getjobber.com/discussions/job-details-scheduling/text-notifications-for-requests-wanted/8625",
+    "author": "geoffhazel",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-07",
+    "content": "I am glad jobber emails me as soon as a request comes in but I’m not on email all day. Is there a way to get a text when a request comes in? If so, how is it set up? if not, can Jobber put it in the next release? I feel that quick response to requests helps get things off on the right foot.",
+    "views": 29,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-02-10",
+        "content": "Hi geoffhazel​ Thanks for sharing this, and we completely agree that quick responses to new requests make a big difference in getting things off on the right foot. At the moment, Jobber does not send text messages for new requests; however, Jobber does send push notifications to the Jobber mobile app when something new requires action, including new requests. If you are an admin user, you can opt into additional push notifications so you are notified right away when a client or lead submits a new request, sends a text, views a quote for the first time, or approves a quote. A “new request” push notification is triggered when a client or lead submits a request, but not when a team member creates a request internally.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Do photos and notes from Jobber requests carry over to jobs and quotes?",
     "url": "https://community.getjobber.com/discussions/job-details-scheduling/do-photos-and-notes-from-jobber-requests-carry-over-to-jobs-and-quotes/8565",
     "author": "Mobius",

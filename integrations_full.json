@@ -1,5 +1,92 @@
 [
   {
+    "title": "Stop wasting time doing job site visits",
+    "url": "https://community.getjobber.com/discussions/integrations/stop-wasting-time-doing-job-site-visits/8822",
+    "author": "HUGEHandyman",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-20",
+    "content": "I just did a demo with Live Switch and if you are spending a lot of windshield time knocking out quotes I HIGHLY suggest you look in to it. I'm not a sales person or anything for them but I feel I just spend $1200 bucks for the year to save me at least 80 hours of time of the course of a year, probably a lot more. They have an AI integration that'll summarize the video calls also.",
+    "views": 12,
+    "likes": 1,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "I just did the same for myself, but with a little home brew web app that generates most of what I need on a site visit from just photos. Live Switch sounds a good option for people who's services need more visual data than some photos.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Quick Books - Book Keeping & Jobber",
+    "url": "https://community.getjobber.com/discussions/integrations/quick-books---book-keeping--jobber/8736",
+    "author": "Danpg1",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-16",
+    "content": "Our book keeper has a lot of trouble with reconciling Jobber transactions via Quickbooks. Does anyone know of a good book keeper who is familar with how Jobber and Quick books intergrate and may be able to take this on? Is anyone elses book keeper having difficulty with this? QUICKBOOKS",
+    "views": 33,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I've had this problem with a few bookkeepers - my take away - if they know what they are doing, they can figure it out. Maybe it's how you are putting stuff in to jobber? As long as your keeping your payments squared away, they shouldn't have an issue. I had a bookeeper 3 years ago that was complaining about something this, then the next one, I didn't hear a peep out of it. Sometimes they just need to be proactive and call jobber support themselves to sort it out. Jobber support has always been very helpful and it'd take them minutes. There's a lot of good bookkeepers out there. Mine is fairly expensive but worth it. Hit me up if you want her info. Danpg1 to HUGEHandyman Sending you a private message, thank you so much.",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "I've had this problem with a few bookkeepers - my take away - if they know what they are doing, they can figure it out. Maybe it's how you are putting stuff in to jobber? As long as your keeping your payments squared away, they shouldn't have an issue. I had a bookeeper 3 years ago that was complaining about something this, then the next one, I didn't hear a peep out of it. Sometimes they just need to be proactive and call jobber support themselves to sort it out. Jobber support has always been very helpful and it'd take them minutes. There's a lot of good bookkeepers out there. Mine is fairly expensive but worth it. Hit me up if you want her info.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Facebook Leads, Zapier, and Jobber Help!",
+    "url": "https://community.getjobber.com/discussions/integrations/facebook-leads-zapier-and-jobber-help/8823",
+    "author": "HUGEHandyman",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-20",
+    "content": "Has anyone been successful getting a facebook lead zapped to a jobber request? I'm having a hard time getting this to function. Screen shots please!",
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
+    "title": "How Are You Doing Service Agreements in Jobber?",
+    "url": "https://community.getjobber.com/discussions/integrations/how-are-you-doing-service-agreements-in-jobber/8737",
+    "author": "HUGEHandyman",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-16",
+    "content": "One of the places I feel Jobber could improve the most is making service agreements more easy to administrate. It's a little chunky doing the re-occurring job thing. For those companies that have a lot of these, how are you guys doing in in Jobber?",
+    "views": 40,
+    "likes": 0,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "D_LHerbier",
+        "time": "2026-02-17",
+        "content": "I agree. I am actually just finalizing a new service agreement type program for our company, and I have noticed the same thing. One thing we are trying to do is charge a flat annual fee for our program. I was surprised to find that there is no way to do an automatic reoccurring payment without connecting it with a visit. So we basically have to set up two reoccurring jobs, one for the actual visits to complete the work, and one just for the annual payment to come out. It would also be nice if there was a way to get notified when a reoccurring job visit is coming up, instead of just relying on the schedule. When you have someone with an annual appointment, it is scheduled way in advance, so you have to reach out to them at least a week or two in advance to set to reset the date and time. ryaantuttle to D_LHerbier 6 days ago Try using Stripe and Zapier. Thats what we've done very successfully over the years. D_LHerbier​ tbarth to ryaantuttle 6 days ago I have found countless things in the core functionality that are lacking in common sense, useful features, and third party solutions are likely the only option we have. The product is 15+ years old, so anything obvious that's missing is almost certainly the result of an ongoing decision not to add it. SaaS products quickly shift focus to adding shiny new features to drive growth, ant the expense of base systems not being fixed or improved.",
+        "likes": 0
+      },
+      {
+        "author": "D_LHerbier",
+        "time": "2026-02-17",
+        "content": "I agree. I am actually just finalizing a new service agreement type program for our company, and I have noticed the same thing. One thing we are trying to do is charge a flat annual fee for our program. I was surprised to find that there is no way to do an automatic reoccurring payment without connecting it with a visit. So we basically have to set up two reoccurring jobs, one for the actual visits to complete the work, and one just for the annual payment to come out. It would also be nice if there was a way to get notified when a reoccurring job visit is coming up, instead of just relying on the schedule. When you have someone with an annual appointment, it is scheduled way in advance, so you have to reach out to them at least a week or two in advance to set to reset the date and time.",
+        "likes": 0
+      },
+      {
+        "author": "ryaantuttle",
+        "time": "2026-02-18",
+        "content": "to D_LHerbier Try using Stripe and Zapier. Thats what we've done very successfully over the years. D_LHerbier​",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Looking for a jobber consultant/expert",
     "url": "https://community.getjobber.com/discussions/integrations/looking-for-a-jobber-consultantexpert/8581",
     "author": "Wyatt",

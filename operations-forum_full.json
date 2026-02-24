@@ -1,5 +1,238 @@
 [
   {
+    "title": "What Should Home Service Businesses Automate First to Save Time?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/what-should-home-service-businesses-automate-first-to-save-time/8693",
+    "author": "julie",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-13",
+    "content": "JOBBER COMMUNITY TEAM Small manual tasks start stacking up, catching up on follow-ups, re-adjusting scheduling, invoicing, review requests, the list goes on and on. Sound familiar? What’s one task you’re still doing manually that you know could be automated? What’s stopping you from setting it up? AI ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING",
+    "views": 33,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "All your different leads should be coming to one place - Jobber haha but you can usually use zapier to automate that work flow. The other thing is your KPIs. There's a couple schools of thought on those - you should calculate them manually so you feel the pain of having to look at them. I don't that at all because then I won't do it and run my business based off the fell. I love Jobbers KPI dashboard and you can pull reports to cover the other bases. Maybe AI can't do all of it but you can sure pull the jobber reports, throw it in Chat GPT then ask it for the KPI. Problem solved. roselvaggio 6 days ago The \"people\" side of things- quote approvals, job confirmations, review requests, feedback forms. On the flip side, invoicing and scheduling was the last thing we automated because of the room for error!",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "All your different leads should be coming to one place - Jobber haha but you can usually use zapier to automate that work flow. The other thing is your KPIs. There's a couple schools of thought on those - you should calculate them manually so you feel the pain of having to look at them. I don't that at all because then I won't do it and run my business based off the fell. I love Jobbers KPI dashboard and you can pull reports to cover the other bases. Maybe AI can't do all of it but you can sure pull the jobber reports, throw it in Chat GPT then ask it for the KPI. Problem solved.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How do home service businesses fill their calendar before busy season?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/how-do-home-service-businesses-fill-their-calendar-before-busy-season/8661",
+    "author": "julie",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-11",
+    "content": "JOBBER COMMUNITY TEAM When work slows down, most service businesses feel it fast: stress, cash flow pressure, and last-minute scrambling. Sound familiar? What’s the one thing you rely on most before busy season to keep your calendar full? New leads Repeat customers Referrals Deposits or upfront payments Booking weeks in advance Something else? (do tell!) Bonus: What used to stress you out about slow periods that doesn’t anymore? ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CLIENT COMMUNICATIONS CONSTRUCTION CONTRACTS & CONTRACTING DOOR SERVICES",
+    "views": 78,
+    "likes": 0,
+    "comments": 8,
+    "replies": [
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "You have to be marketing during the times you're busiest to set up your pipeline. If you start taking your foot off the gas you're going to hurt yourself. judithvirag BUILDER 1 12 days ago We had a promotion in December trying to fill our schedule for January and February and worked well. We sold discounted hours in packages up to 20 hours. We sold over 10K on this promotion trying to book work when we are slow in January and February. ThatHandymanVan to judithvirag 11 days ago My concern is whether people would commit now and then cancel later in the season. For example, if we open booking from October through December and fill the schedule, we could then contact the January and February clients to confirm or release their spot. Another option would be taking a deposit at the time of booking to reduce cancellations. I am trying to figure out the best way to structure it so our schedule stays full without creating a lot of last minute drop offs. judithvirag BUILDER 1 to ThatHandymanVan 10 days ago ThatHandymanVan​ it is hours they bought so they can book these hours after December. We do have a cancellation policy in place as well. julie JOBBER COMMUNITY TEAM to judithvirag 12 days ago Selling discounted hours in advance is so smart. Pre-selling hours gives you cash flow and predictable work. Double win! Did most of those packages come from repeat customers or new leads? judithvirag BUILDER 1 to julie 12 days ago Bag of mix. Some from new customers some from our lead list - our mailing list. ThatHandymanVan 13 days ago Did you ever notice that Walmart is selling (not just advertising) Christmas before Halloween? I sell indoor painting Jobs for January and February when I am cleaning gutters in the fall. I'm not just advertising, but actually booking them. Just as I would book a faucet changeout next Wednesday. To make it happen, just remember your close ratio and adjust your marketing to fill the calendar. Build a machine so you don't have to wonder about the off-season. Your past data doesn't lie, and it will help you. julie JOBBER COMMUNITY TEAM to ThatHandymanVan 12 days ago Whoa, that Walmart analogy is spot on. Booking January work while you're still busy in the fall is such a shift in thinking.",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-20",
+        "content": "You have to be marketing during the times you're busiest to set up your pipeline. If you start taking your foot off the gas you're going to hurt yourself.",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-02-12",
+        "content": "BUILDER 1 We had a promotion in December trying to fill our schedule for January and February and worked well. We sold discounted hours in packages up to 20 hours. We sold over 10K on this promotion trying to book work when we are slow in January and February.",
+        "likes": 0
+      },
+      {
+        "author": "ThatHandymanVan",
+        "time": "2026-02-13",
+        "content": "to judithvirag My concern is whether people would commit now and then cancel later in the season. For example, if we open booking from October through December and fill the schedule, we could then contact the January and February clients to confirm or release their spot. Another option would be taking a deposit at the time of booking to reduce cancellations. I am trying to figure out the best way to structure it so our schedule stays full without creating a lot of last minute drop offs.",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-02-14",
+        "content": "BUILDER 1 to ThatHandymanVan ThatHandymanVan​ it is hours they bought so they can book these hours after December. We do have a cancellation policy in place as well.",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2026-02-12",
+        "content": "JOBBER COMMUNITY TEAM to judithvirag Selling discounted hours in advance is so smart. Pre-selling hours gives you cash flow and predictable work. Double win! Did most of those packages come from repeat customers or new leads?",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-02-12",
+        "content": "BUILDER 1 to julie Bag of mix. Some from new customers some from our lead list - our mailing list.",
+        "likes": 0
+      },
+      {
+        "author": "ThatHandymanVan",
+        "time": "2026-02-11",
+        "content": "Did you ever notice that Walmart is selling (not just advertising) Christmas before Halloween? I sell indoor painting Jobs for January and February when I am cleaning gutters in the fall. I'm not just advertising, but actually booking them. Just as I would book a faucet changeout next Wednesday. To make it happen, just remember your close ratio and adjust your marketing to fill the calendar. Build a machine so you don't have to wonder about the off-season. Your past data doesn't lie, and it will help you.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What SOP have you created that saved you the most time or sanity this year?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/what-sop-have-you-created-that-saved-you-the-most-time-or-sanity-this-year/8764",
+    "author": "roselvaggio",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-18",
+    "content": "My coach and I are currently auditing and modifying our SOP library (including organizing it so things are easy to find!) For 2026, what SOP has taken the mental load off of you?",
+    "views": 15,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-20",
+        "content": "If you’re not a tech person, it’s worth having someone who is take a look at your entire job flow. They may be able to spot opportunities to streamline things and help you build and implement simple systems. I’m a tech guy, and I’ve created several basic tools we use every day that save a huge amount of time. They’re specific to our business, but as an example, we can now generate most bids from a few client photos and a handful of measurements. Before, we were doing site visits, taking tons of measurements, writing everything down by hand, and manually entering it into a spreadsheet. It was easily 2–6 hours of actual work per bid, including travel. Now it’s 10–20 minutes, with no travel. Not sure if that's the type of SOP you mean, but it's how we produce most bids now, compared to how we used to do all of them. If you don’t know enough about tech to see where it could apply, including in operations, you might be missing some significant time and cost-saving opportunities.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Jobber Media Opportunity! Using Jobber AI and seeing real results? 👀 We want to feature you.",
+    "url": "https://community.getjobber.com/discussions/operations-forum/jobber-media-opportunity-using-jobber-ai-and-seeing-real-results-%F0%9F%91%80-we-want-to-f/8791",
+    "author": "julie",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-19",
+    "content": "JOBBER COMMUNITY TEAM Jobber's marketing team is looking to connect with a few pros who are using Jobber’s AI tools. We’d love to chat if you: Have noticed measurable wins (more booked jobs, revenue growth, faster replies, fewer missed calls, etc.) Can speak to operational efficiency gains (e.g., handling more inquiries without hiring, delaying headcount, saving meaningful time each week) Feel AI is giving you a competitive edge in your market Are comfortable sharing high-level numbers (percent growth, hours saved, call volume handled, etc.) Would be open to speaking with media if selected If that sounds you, send me a DM, and I’ll connect you with our PR team. We’d love to help amplify your story! AI REPORTING & BUSINESS INSIGHTS SOFTWARE",
+    "views": 28,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
+    "title": "Hire slow - Fire fast - How do you know you made a hiring mistake?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/hire-slow---fire-fast---how-do-you-know-you-made-a-hiring-mistake/8701",
+    "author": "HUGEHandyman",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-13",
+    "content": "I've previously hired an Ops manager (key role in the company, we're pretty small) and had to fire him after one week. The guy wasn't vibing with the team and was trying to do side jobs during the week while having a large salary with us. Do you have any good stories here? I want to hear them. What triggered the alarms in your head that it was time to go?",
+    "views": 30,
+    "likes": 2,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "Random list. Some is preventative. Depending on your industry, substance abuse can be common. Learn to spot the signs if issues could affect your business, have a testing policy, and make note of it in the job postings. The earliest sign of that is lots of missed / late days, always with plausible reasons. The implausibility being that there were reasons several times a month. If you have a service where employee safety is critical, fire people if they repeatedly don't follow safety rules. If safety is critical and they simply don't understand how to do things safely. There are times when someone doesn't have the ability to take what you are telling and showing them, and adapt it to different situations they'll need to be able to do. Some people just don't have the mechanical aptitude where it counts. Not a bad worker, just a bad fit for the job. Background check. Do your own too... google for things the employee name and L&I claim. The last company I worked for had someone fake a couple injuries and their L&I claims lasted for three years. When it all started, they googled the guy and found court records of him doing the same thing to his last employer. Situational compliance with anything important. The person who will learn all the things that need to be done and then asks a coworker, \"So how much of that do we really need to do?\" Fudging timecards will usually start early if it's going to happen at all. Keep an eye on that at first for sure. Don't be afraid to secretly check in on new workers from time to time. Seeing how they perform when unsupervised is important and an early indicator. ryaantuttle 10 days ago Our team is a part of the process with any new hires. And we do with any of the businesses we own. It not only empowers the team, it also helps weed out the bad energy vibes new hires can bring. We also set expectations from the start with a clearly defined process. PestFreeCanada 10 days ago You 100% made the right choice getting rid of that guy. Sounds a nightmare.",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "Random list. Some is preventative. Depending on your industry, substance abuse can be common. Learn to spot the signs if issues could affect your business, have a testing policy, and make note of it in the job postings. The earliest sign of that is lots of missed / late days, always with plausible reasons. The implausibility being that there were reasons several times a month. If you have a service where employee safety is critical, fire people if they repeatedly don't follow safety rules. If safety is critical and they simply don't understand how to do things safely. There are times when someone doesn't have the ability to take what you are telling and showing them, and adapt it to different situations they'll need to be able to do. Some people just don't have the mechanical aptitude where it counts. Not a bad worker, just a bad fit for the job. Background check. Do your own too... google for things the employee name and L&I claim. The last company I worked for had someone fake a couple injuries and their L&I claims lasted for three years. When it all started, they googled the guy and found court records of him doing the same thing to his last employer. Situational compliance with anything important. The person who will learn all the things that need to be done and then asks a coworker, \"So how much of that do we really need to do?\" Fudging timecards will usually start early if it's going to happen at all. Keep an eye on that at first for sure. Don't be afraid to secretly check in on new workers from time to time. Seeing how they perform when unsupervised is important and an early indicator.",
+        "likes": 0
+      },
+      {
+        "author": "ryaantuttle",
+        "time": "2026-02-14",
+        "content": "Our team is a part of the process with any new hires. And we do with any of the businesses we own. It not only empowers the team, it also helps weed out the bad energy vibes new hires can bring. We also set expectations from the start with a clearly defined process.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What’s the #1 task you’re still doing that your software should be handling?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/what%E2%80%99s-the-1-task-you%E2%80%99re-still-doing-that-your-software-should-be-handling/8642",
+    "author": "roselvaggio",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-10",
+    "content": "For us, we’re attempting to automate our LEAD funnel further and I’m unsure if there’s a way to zap our online estimate into online booking for clients (currently we go back and forth to set a date). I didn’t list this in the jobber specific forum because our online estimate form is built through Go High Level. Thoughts? SOFTWARE",
+    "views": 63,
+    "likes": 1,
+    "comments": 8,
+    "replies": [
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "As my business is simple, I only use the basic features so far, but I do have an answer to your question, and I assume it affects all of us: The constant workflow disruption of having to reapply filters and sort orders to the lists of Clients, Requests, Quotes, Jobs, Invoices, and Payments every time I return to one of those pages. For example, when you click on a menu item \"Invoices,\" it loads the Invoices page with default settings of their choosing; in this case, every invoice you've ever created, sorted by status, which is an overwhelming amount of info to have to search through for what you want. When you add filters or sorting to improve your workflow, Jobber nukes nukes them whenever you leave the page. The good news is that fixing this problem would be very straightforward, and the software Jobber runs on has the functionality built right into it. The app just needs to remember your last-used settings in the browser, and update the six menu buttons so they load the saved settings instead of a forced default view. That’s it, no complicated changes needed. It's been the standard way to save things UI preferences for well over a decade. If Jobber has around 300,000 users, fixing this would save around a million unnecessary clicks every day! The not so good news is that users have been asking about this since the product launched in 2011, so it doesn't seem likely that they are going to modernize the lists. I’ve gotten to the point where I regularly fall behind on desk work because I’m avoiding the constant irritation of this issue. Workarounds keeping multiple tabs open just add more complexity to the workflow, and are themselves more repetitive clicks. It’s driving a car with power seats that reset to an uncomfortable position every single time you get out, when a one-time, relatively easy fix could save every driver of the 300,000 cars already sold and every car sold in the future from having to fiddle with the buttons or sit in an uncomfortable position every time they drive. ProGrade1 10 days ago I am still receiving emails from property managers for work requests and inputting them manually. I believe Zapier will input to jobber from an email but have not figured it out. roselvaggio to ProGrade1 I do LOVE Zapier, I'm not sure how we lived before we subscribed! HUGEHandyman 10 days ago You don't need an app for that. Jobber has that capability! It's super easy. PestFreeCanada 10 days ago I know I should have an app that snaps pictures of my receipts and tracks them for me. I have been so busy and really need to focus on finding one of there! roselvaggio to PestFreeCanada I do believe Jobber has some feature similar to this, no? HUGEHandyman 11 days ago Following this because I may change from Chiirp to go high level! One thing we've been using is priceguide.io - It's a really nice price estimator and you can use zaps to get it in a jobber request - then there are a lot of automations from there. roselvaggio to HUGEHandyman I can appreciate that! Our GHL form doesn't zap the lead into our Jobber funnel and that's been frustrating due to email campaigns being sent through there. I'm sure I could build out a pipeline on GHL, but it honestly feels rocket science!",
+        "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "As my business is simple, I only use the basic features so far, but I do have an answer to your question, and I assume it affects all of us: The constant workflow disruption of having to reapply filters and sort orders to the lists of Clients, Requests, Quotes, Jobs, Invoices, and Payments every time I return to one of those pages. For example, when you click on a menu item \"Invoices,\" it loads the Invoices page with default settings of their choosing; in this case, every invoice you've ever created, sorted by status, which is an overwhelming amount of info to have to search through for what you want. When you add filters or sorting to improve your workflow, Jobber nukes nukes them whenever you leave the page. The good news is that fixing this problem would be very straightforward, and the software Jobber runs on has the functionality built right into it. The app just needs to remember your last-used settings in the browser, and update the six menu buttons so they load the saved settings instead of a forced default view. That’s it, no complicated changes needed. It's been the standard way to save things UI preferences for well over a decade. If Jobber has around 300,000 users, fixing this would save around a million unnecessary clicks every day! The not so good news is that users have been asking about this since the product launched in 2011, so it doesn't seem likely that they are going to modernize the lists. I’ve gotten to the point where I regularly fall behind on desk work because I’m avoiding the constant irritation of this issue. Workarounds keeping multiple tabs open just add more complexity to the workflow, and are themselves more repetitive clicks. It’s driving a car with power seats that reset to an uncomfortable position every single time you get out, when a one-time, relatively easy fix could save every driver of the 300,000 cars already sold and every car sold in the future from having to fiddle with the buttons or sit in an uncomfortable position every time they drive.",
+        "likes": 0
+      },
+      {
+        "author": "ProGrade1",
+        "time": "2026-02-14",
+        "content": "I am still receiving emails from property managers for work requests and inputting them manually. I believe Zapier will input to jobber from an email but have not figured it out.",
+        "likes": 0
+      },
+      {
+        "author": "roselvaggio",
+        "time": "2026-02-18",
+        "content": "to ProGrade1 I do LOVE Zapier, I'm not sure how we lived before we subscribed!",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-14",
+        "content": "You don't need an app for that. Jobber has that capability! It's super easy.",
+        "likes": 0
+      },
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-02-14",
+        "content": "I know I should have an app that snaps pictures of my receipts and tracks them for me. I have been so busy and really need to focus on finding one of there!",
+        "likes": 0
+      },
+      {
+        "author": "roselvaggio",
+        "time": "2026-02-18",
+        "content": "to PestFreeCanada I do believe Jobber has some feature similar to this, no?",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-02-13",
+        "content": "Following this because I may change from Chiirp to go high level! One thing we've been using is priceguide.io - It's a really nice price estimator and you can use zaps to get it in a jobber request - then there are a lot of automations from there.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "AI & Lead Gen for Service Based Contractors",
+    "url": "https://community.getjobber.com/discussions/operations-forum/ai--lead-gen-for-service-based-contractors/8739",
+    "author": "josegrados",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-17",
+    "content": "Any service based or fence contractor businesses interested in helping each other in AI and Lead generation I have created some really helpful Automation and AI tools that I use every day that have helped my business out tremendously. : AI Answering phone calls, determining call intent, and then sending me an email right when call ends. No missed calls. Scrape google businesses in any zipcodes based on search terms (great for marketing B2B) Find emails from list of websites Automated Wordpress Blog Posts based on keywords Mass Email sender (so it looks it comes from you personally). The only non free ai tool is the AI Answering assistant, but it is super cheap. What I am currently struggling with is getting consistent lead flow. I'm only doing Google ads, but wanted to see what other ways are working for you to generate leads. Would be happy to discuss the above with anyone that currently owns/ operates a service based business. AI CONSTRUCTION FENCE SERVICES",
+    "views": 15,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
+    "title": "Are there any AI apps that I could be using for a pest control company?",
+    "url": "https://community.getjobber.com/discussions/operations-forum/are-there-any-ai-apps-that-i-could-be-using-for-a-pest-control-company/8647",
+    "author": "PestFreeCanada",
+    "authorRole": "Contributor 2",
+    "time": "2026-02-11",
+    "content": "I see a lot of people asking very interesting questions about using AI for electrical companies, moving companies, landscaping...I am wondering if there is anything out there that I could be using for my pest control company? AI PEST CONTROL",
+    "views": 13,
+    "likes": 0,
+    "comments": 0,
+    "replies": []
+  },
+  {
     "title": "How Are Home Service Businesses Preparing for AI Search Visibility?",
     "url": "https://community.getjobber.com/discussions/operations-forum/how-are-home-service-businesses-preparing-for-ai-search-visibility/8615",
     "author": "julie",
