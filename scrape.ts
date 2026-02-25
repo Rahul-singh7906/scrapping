@@ -227,19 +227,24 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   async function clickExpandButtons(): Promise<boolean> {
     let clickedAny = false;
     const selectors = [
+      "[data-testid*='LoadMore']",
+      "[data-testid*='load-more']",
+      "[data-testid*='show-more']",
+      "[data-testid*='ShowMore']",
       "button:has-text('Load more replies')",
       "a:has-text('Load more replies')",
       "button:has-text('Show More')",
-      "button:has-text('Show more')",
       "a:has-text('Show More')",
+      "button:has-text('Show more')",
       "a:has-text('Show more')",
       "button:has-text('Read More')",
-      "button:has-text('Read more')",
       "a:has-text('Read More')",
+      "button:has-text('Read more')",
       "a:has-text('Read more')",
-      "[data-testid*='load-more']",
-      "[data-testid*='show-more']",
-      "[aria-expanded='false']:has-text('more')",
+      "button:has-text('View more')",
+      "a:has-text('View more')",
+      "button:has-text('more replies')",
+      "a:has-text('more replies')",
     ];
     for (const sel of selectors) {
       const loc = page.locator(sel);
@@ -247,9 +252,9 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
       for (let i = 0; i < count; i++) {
         const el = loc.nth(i);
         if (await el.isVisible().catch(() => false)) {
-          await el.click({ timeout: 2000 }).catch(() => {});
+          await el.click({ timeout: 3000 }).catch(() => {});
           clickedAny = true;
-          await delay(1500); // wait for new content to load
+          await delay(2000); // wait for new content to load
         }
       }
     }
@@ -257,6 +262,7 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   }
 
   // Scroll + click loop until no more content loads
+  let noChangeRounds = 0;
   for (let round = 0; round < 200; round++) {
     const beforeCount = await countArticles();
 
@@ -265,27 +271,28 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
     await delay(1000);
 
     // Click any expand buttons
-    await clickExpandButtons();
+    const clicked = await clickExpandButtons();
 
     // Scroll again after clicking (new buttons may appear below)
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-    await delay(500);
+    await delay(1000);
 
     const afterCount = await countArticles();
 
-    // Stop if no new content appeared and nothing was clickable
-    if (afterCount === beforeCount) {
-      // One more attempt - scroll up and back down to trigger lazy loading
-      await page.evaluate(() => window.scrollTo(0, 0));
-      await delay(300);
-      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-      await delay(1000);
-      const finalCount = await countArticles();
-      if (finalCount === afterCount) break;
+    if (afterCount > beforeCount) {
+      noChangeRounds = 0; // reset counter, we're still loading
+    } else if (clicked) {
+      // Clicked but no growth yet - content may still be loading, only count as half
+      noChangeRounds += 0.5;
+    } else {
+      noChangeRounds++;
     }
 
-    if (round % 10 === 0 && round > 0) {
-      console.log(`  ↳ Expanding replies... ${afterCount} articles loaded so far`);
+    // Only stop after 5 consecutive no-change rounds with nothing to click
+    if (noChangeRounds >= 5) break;
+
+    if (round % 5 === 0) {
+      console.log(`  ↳ Expanding replies... ${afterCount} articles loaded so far (round ${round})`);
     }
   }
 
