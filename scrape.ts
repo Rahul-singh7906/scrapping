@@ -218,59 +218,76 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   await delay(Math.random() * 2000 + 1000);
   await page.waitForSelector("article, [data-testid='MessageSubject']", { timeout: 15000 });
 
-  // Aggressively click all Show More / Read More / Load More controls across the thread
-  async function expandAllContent() {
-    for (let round = 0; round < 50; round++) {
-      let clickedAny = false;
-      const selectors = [
-        // explicit labels (case-insensitive)
-        "button:has-text('Show More')",
-        "button:has-text('Show more')",
-        "a:has-text('Show More')",
-        "a:has-text('Show more')",
-        "button:has-text('Read More')",
-        "button:has-text('Read more')",
-        "a:has-text('Read More')",
-        "a:has-text('Read more')",
-        "button:has-text('Load more replies')",
-        "a:has-text('Load more replies')",
-        // generic data-testids
-        "[data-testid*='show-more']",
-        "[data-testid*='load-more']",
-        // aria/collapsible toggles that mention more
-        "[aria-expanded='false']:has-text('Show More')",
-        "[aria-expanded='false']:has-text('Show more')",
-        "[aria-expanded='false']:has-text('more')",
-      ];
-      for (const sel of selectors) {
-        const loc = page.locator(sel);
-        const count = await loc.count();
-        for (let i = 0; i < count; i++) {
-          const el = loc.nth(i);
-          if (await el.isVisible().catch(() => false)) {
-            await el.click({ timeout: 500 }).catch(() => {});
-            clickedAny = true;
-            await delay(150);
-          }
+  // Count current leaf articles on page
+  async function countArticles(): Promise<number> {
+    return page.locator("article:not(:has(article))").count();
+  }
+
+  // Click any visible "Load more" / "Show more" buttons
+  async function clickExpandButtons(): Promise<boolean> {
+    let clickedAny = false;
+    const selectors = [
+      "button:has-text('Load more replies')",
+      "a:has-text('Load more replies')",
+      "button:has-text('Show More')",
+      "button:has-text('Show more')",
+      "a:has-text('Show More')",
+      "a:has-text('Show more')",
+      "button:has-text('Read More')",
+      "button:has-text('Read more')",
+      "a:has-text('Read More')",
+      "a:has-text('Read more')",
+      "[data-testid*='load-more']",
+      "[data-testid*='show-more']",
+      "[aria-expanded='false']:has-text('more')",
+    ];
+    for (const sel of selectors) {
+      const loc = page.locator(sel);
+      const count = await loc.count();
+      for (let i = 0; i < count; i++) {
+        const el = loc.nth(i);
+        if (await el.isVisible().catch(() => false)) {
+          await el.click({ timeout: 2000 }).catch(() => {});
+          clickedAny = true;
+          await delay(1500); // wait for new content to load
         }
       }
-      // small scroll to reveal more toggles
-      await page.mouse.wheel(0, 1200);
-      await delay(200);
-      if (!clickedAny) break;
+    }
+    return clickedAny;
+  }
+
+  // Scroll + click loop until no more content loads
+  for (let round = 0; round < 200; round++) {
+    const beforeCount = await countArticles();
+
+    // Scroll to bottom
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await delay(1000);
+
+    // Click any expand buttons
+    await clickExpandButtons();
+
+    // Scroll again after clicking (new buttons may appear below)
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await delay(500);
+
+    const afterCount = await countArticles();
+
+    // Stop if no new content appeared and nothing was clickable
+    if (afterCount === beforeCount) {
+      // One more attempt - scroll up and back down to trigger lazy loading
+      await page.evaluate(() => window.scrollTo(0, 0));
+      await delay(300);
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      await delay(1000);
+      const finalCount = await countArticles();
+      if (finalCount === afterCount) break;
+    }
+
+    if (round % 10 === 0 && round > 0) {
+      console.log(`  ↳ Expanding replies... ${afterCount} articles loaded so far`);
     }
   }
-  await expandAllContent();
-
-  // Scroll to load all replies
-  await page.evaluate(async () => {
-    for (let i = 0; i < 10; i++) {
-      window.scrollBy(0, document.body.scrollHeight);
-      await new Promise((r) => setTimeout(r, 1000));
-    }
-  });
-  // Try expanding again after scrolling (new toggles may appear)
-  await expandAllContent();
 
   const title = await page.locator("h1, h2[data-testid='MessageSubject']").first().textContent().catch(() => "");
   const mainAuthor = await page.locator("a[data-testid='userLink']").first().textContent().catch(() => "");
