@@ -295,11 +295,10 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
   // Collect replies: try multiple selectors for reply containers
   let repliesRaw: any[] = [];
   const replySelectors = [
-    "article",
-    "li[data-testid^='message']", 
+    "article:not(:has(article))",  // leaf articles only, skip wrapper articles
+    "li[data-testid^='message']",
     "[data-testid='message-view']",
     ".lia-message-view",
-    "[class*='message']"
   ];
   
   for (const selector of replySelectors) {
@@ -311,7 +310,11 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
             const body = (el.querySelector(
               ".MessageViewBody_lia-message-body-content__kHe3r, .lia-message-body-content, .topic-body, .comment-body"
             ) as HTMLElement | null);
-            const author = (el.querySelector("a[data-testid='userLink']") as HTMLElement | null)?.textContent?.trim() || "";
+            let author = (el.querySelector("a[data-testid='userLink']") as HTMLElement | null)?.textContent?.trim() || "";
+            // Guard: "Liked"/"Like" comes from kudos button, not a real username
+            if (author.toLowerCase() === "liked" || author.toLowerCase() === "like") {
+              author = "";
+            }
             const time = (el.querySelector("[data-testid='messageTime'] span, [data-testid='messageTime']") as HTMLElement | null)?.textContent?.trim() || "";
             const role = (el.querySelector("[data-testid*='rank'], [data-testid*='role'], [class*='badge'], [class*='Rank'], [class*='Title']") as HTMLElement | null)?.textContent?.trim() || '';
             let content = body ? body.innerText.trim() : ((el as HTMLElement).innerText || "").trim();
@@ -373,12 +376,24 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
     // drop empties
     .filter(r => (r.author && r.author.trim().length > 0) || (r.content && r.content.trim().length > 0));
   
-  console.log(`→ After cleanup: ${replies.length} valid replies`);
+  // Deduplicate replies by content fingerprint
+  const seen = new Set<string>();
+  const dedupedReplies = replies.filter(r => {
+    const fp = `${r.author}::${r.content.substring(0, 100)}`;
+    if (seen.has(fp)) return false;
+    seen.add(fp);
+    return true;
+  });
+
+  console.log(`→ After cleanup: ${dedupedReplies.length} valid replies`);
 
   // If the page shows a Replies count, align to it
+  if (typeof expectedReplies === 'number' && expectedReplies >= 0 && dedupedReplies.length !== expectedReplies) {
+    console.log(`⚠️ Reply count mismatch: page says ${expectedReplies}, extracted ${dedupedReplies.length}`);
+  }
   const limitedReplies = (typeof expectedReplies === 'number' && expectedReplies >= 0)
-    ? replies.slice(0, expectedReplies)
-    : replies;
+    ? dedupedReplies.slice(0, expectedReplies)
+    : dedupedReplies;
 
   // Grab counters if visible
   const viewCount = await page.locator("svg use[href*='views']").evaluateAll(
