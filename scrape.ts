@@ -411,13 +411,11 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
 
   console.log(`→ After cleanup: ${dedupedReplies.length} valid replies`);
 
-  // If the page shows a Replies count, align to it
+  // Log reply count comparison (informational only, never truncate scraped data)
   if (typeof expectedReplies === 'number' && expectedReplies >= 0 && dedupedReplies.length !== expectedReplies) {
     console.log(`⚠️ Reply count mismatch: page says ${expectedReplies}, extracted ${dedupedReplies.length}`);
   }
-  const limitedReplies = (typeof expectedReplies === 'number' && expectedReplies >= 0)
-    ? dedupedReplies.slice(0, expectedReplies)
-    : dedupedReplies;
+  const limitedReplies = dedupedReplies;
 
   // Grab counters if visible
   const viewCount = await page.locator("svg use[href*='views']").evaluateAll(
