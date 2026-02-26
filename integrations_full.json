@@ -3,10 +3,10 @@
     "title": "Stop wasting time doing job site visits",
     "url": "https://community.getjobber.com/discussions/integrations/stop-wasting-time-doing-job-site-visits/8822",
     "author": "HUGEHandyman",
-    "authorRole": "Contributor 2",
+    "authorRole": "Jobber Ambassador",
     "time": "2026-02-20",
     "content": "I just did a demo with Live Switch and if you are spending a lot of windshield time knocking out quotes I HIGHLY suggest you look in to it. I'm not a sales person or anything for them but I feel I just spend $1200 bucks for the year to save me at least 80 hours of time of the course of a year, probably a lot more. They have an AI integration that'll summarize the video calls also.",
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -25,20 +25,20 @@
     "authorRole": "Contributor 2",
     "time": "2026-02-16",
     "content": "Our book keeper has a lot of trouble with reconciling Jobber transactions via Quickbooks. Does anyone know of a good book keeper who is familar with how Jobber and Quick books intergrate and may be able to take this on? Is anyone elses book keeper having difficulty with this? QUICKBOOKS",
-    "views": 33,
+    "views": 34,
     "likes": 0,
     "comments": 2,
     "replies": [
       {
         "author": "HUGEHandyman",
         "time": "2026-02-20",
-        "content": "I've had this problem with a few bookkeepers - my take away - if they know what they are doing, they can figure it out. Maybe it's how you are putting stuff in to jobber? As long as your keeping your payments squared away, they shouldn't have an issue. I had a bookeeper 3 years ago that was complaining about something this, then the next one, I didn't hear a peep out of it. Sometimes they just need to be proactive and call jobber support themselves to sort it out. Jobber support has always been very helpful and it'd take them minutes. There's a lot of good bookkeepers out there. Mine is fairly expensive but worth it. Hit me up if you want her info. Danpg1 to HUGEHandyman Sending you a private message, thank you so much.",
+        "content": "I've had this problem with a few bookkeepers - my take away - if they know what they are doing, they can figure it out. Maybe it's how you are putting stuff in to jobber? As long as your keeping your payments squared away, they shouldn't have an issue. I had a bookeeper 3 years ago that was complaining about something this, then the next one, I didn't hear a peep out of it. Sometimes they just need to be proactive and call jobber support themselves to sort it out. Jobber support has always been very helpful and it'd take them minutes. There's a lot of good bookkeepers out there. Mine is fairly expensive but worth it. Hit me up if you want her info.",
         "likes": 0
       },
       {
-        "author": "HUGEHandyman",
+        "author": "Danpg1",
         "time": "2026-02-20",
-        "content": "I've had this problem with a few bookkeepers - my take away - if they know what they are doing, they can figure it out. Maybe it's how you are putting stuff in to jobber? As long as your keeping your payments squared away, they shouldn't have an issue. I had a bookeeper 3 years ago that was complaining about something this, then the next one, I didn't hear a peep out of it. Sometimes they just need to be proactive and call jobber support themselves to sort it out. Jobber support has always been very helpful and it'd take them minutes. There's a lot of good bookkeepers out there. Mine is fairly expensive but worth it. Hit me up if you want her info.",
+        "content": "to HUGEHandyman Sending you a private message, thank you so much.",
         "likes": 0
       }
     ]
@@ -47,31 +47,32 @@
     "title": "Facebook Leads, Zapier, and Jobber Help!",
     "url": "https://community.getjobber.com/discussions/integrations/facebook-leads-zapier-and-jobber-help/8823",
     "author": "HUGEHandyman",
-    "authorRole": "Contributor 2",
+    "authorRole": "Jobber Ambassador",
     "time": "2026-02-20",
     "content": "Has anyone been successful getting a facebook lead zapped to a jobber request? I'm having a hard time getting this to function. Screen shots please!",
-    "views": 4,
+    "views": 5,
     "likes": 0,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "How Are You Doing Service Agreements in Jobber?",
     "url": "https://community.getjobber.com/discussions/integrations/how-are-you-doing-service-agreements-in-jobber/8737",
     "author": "HUGEHandyman",
-    "authorRole": "Contributor 2",
+    "authorRole": "Jobber Ambassador",
     "time": "2026-02-16",
     "content": "One of the places I feel Jobber could improve the most is making service agreements more easy to administrate. It's a little chunky doing the re-occurring job thing. For those companies that have a lot of these, how are you guys doing in in Jobber?",
-    "views": 40,
+    "views": 41,
     "likes": 0,
     "comments": 3,
     "replies": [
-      {
-        "author": "D_LHerbier",
-        "time": "2026-02-17",
-        "content": "I agree. I am actually just finalizing a new service agreement type program for our company, and I have noticed the same thing. One thing we are trying to do is charge a flat annual fee for our program. I was surprised to find that there is no way to do an automatic reoccurring payment without connecting it with a visit. So we basically have to set up two reoccurring jobs, one for the actual visits to complete the work, and one just for the annual payment to come out. It would also be nice if there was a way to get notified when a reoccurring job visit is coming up, instead of just relying on the schedule. When you have someone with an annual appointment, it is scheduled way in advance, so you have to reach out to them at least a week or two in advance to set to reset the date and time. ryaantuttle to D_LHerbier 6 days ago Try using Stripe and Zapier. Thats what we've done very successfully over the years. D_LHerbier​ tbarth to ryaantuttle 6 days ago I have found countless things in the core functionality that are lacking in common sense, useful features, and third party solutions are likely the only option we have. The product is 15+ years old, so anything obvious that's missing is almost certainly the result of an ongoing decision not to add it. SaaS products quickly shift focus to adding shiny new features to drive growth, ant the expense of base systems not being fixed or improved.",
-        "likes": 0
-      },
       {
         "author": "D_LHerbier",
         "time": "2026-02-17",
@@ -83,6 +84,31 @@
         "time": "2026-02-18",
         "content": "to D_LHerbier Try using Stripe and Zapier. Thats what we've done very successfully over the years. D_LHerbier​",
         "likes": 0
+      },
+      {
+        "author": "tbarth",
+        "time": "2026-02-18",
+        "content": "to ryaantuttle I have found countless things in the core functionality that are lacking in common sense, useful features, and third party solutions are likely the only option we have. The product is 15+ years old, so anything obvious that's missing is almost certainly the result of an ongoing decision not to add it. SaaS products quickly shift focus to adding shiny new features to drive growth, ant the expense of base systems not being fixed or improved.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Have you used OneStepGPS in Jobber?",
+    "url": "https://community.getjobber.com/discussions/integrations/have-you-used-onestepgps-in-jobber/8591",
+    "author": "DarrenSteele",
+    "authorRole": "Contributor 4",
+    "time": "2026-02-06",
+    "content": "Just got a demo of OneStepGPS. I'm looking for a fleet tracking system and integrating with Jobber sounds great. BUT They couldn't run a demo of it in Jobber, didn't have screenshots, really couldn't tell me anything about how it integrates beyond \"you'll see everything in Jobber\" Anybody have this, can you share how it works, maybe some screen shots? @JobberDevelopers One of the other programs I looked at is on the ball and wants to integrate with Jobber. Get your team talking to Fleet Complete! INTEGRATIONS",
+    "views": 53,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "stephaniec14",
+        "time": "2026-02-10",
+        "content": "JOBBER PRODUCT TEAM Hi DarrenSteele​ - Exciting to hear you're interested in integrating a fleet management partner. Once OneStepGPS is connected, you can see everything right inside Jobber. Your vehicles show up under Settings → Vehicles and can be assigned to teams, and on the Schedule you can turn on the Vehicles map layer to see where trucks are in real time alongside your jobs. If you click on a vehicle, you’ll see its current status (driving or parked), last update, and location. I’ve also shared a few screenshots so you can get a feel for what it looks in Jobber. image (8).png 462 KB image (9).png 445 KB image (10).png 454 KB",
+        "likes": 0
       }
     ]
   },
@@ -92,15 +118,15 @@
     "author": "Wyatt",
     "authorRole": "Contributor 2",
     "time": "2026-02-06",
-    "content": "NEW MEMBER My septic company recently invested in Jobber as a means to move away from endless paperwork and redundant data entry. We use software Quickbooks Online, Filemaker Pro, and CompanyCam. Anyone who can help us integrate our work and migrate our data into jobber and train me would be greatly appreciated! COMPANYCAM QUICKBOOKS SOFTWARE",
-    "views": 16,
+    "content": "My septic company recently invested in Jobber as a means to move away from endless paperwork and redundant data entry. We use software Quickbooks Online, Filemaker Pro, and CompanyCam. Anyone who can help us integrate our work and migrate our data into jobber and train me would be greatly appreciated! COMPANYCAM QUICKBOOKS SOFTWARE",
+    "views": 46,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "Janine",
         "time": "2026-02-06",
-        "content": "NEW MEMBER HeyWyatt​ I help people learn and integrate Jobber. Happy to connect if you are interested in that. You can email me at mailto:hello@janinechambers.com or you can book a Zoom Intro meeting at http://www.janinechambers.com/intro",
+        "content": "HeyWyatt​ I help people learn and integrate Jobber. Happy to connect if you are interested in that. You can email me at mailto:hello@janinechambers.com or you can book a Zoom Intro meeting at http://www.janinechambers.com/intro",
         "likes": 0
       }
     ]
@@ -112,7 +138,7 @@
     "authorRole": "Contributor 2",
     "time": "2026-01-28",
     "content": "Hi Team, Has anyone here created an automation in Zapier that automate the creation of Request in Jobber will add all fields, including data in On-Site Assessment field and assigning to a Team. I have integrated jobber and use the jobber zap in zapier but it will just create a Request and add note to a request. but won't automate the On-Site Assessment and assign it to a team. Is there any way that we can do this? I'm thinking about using the jobber app, but I can't find any documentation about using it. or maybe i'm confuse on the documentation. If you have created or have done this, please let me know. ZAPIER",
-    "views": 84,
+    "views": 105,
     "likes": 0,
     "comments": 1,
     "replies": [
@@ -125,38 +151,26 @@
     ]
   },
   {
-    "title": "Have you used OneStepGPS in Jobber?",
-    "url": "https://community.getjobber.com/discussions/integrations/have-you-used-onestepgps-in-jobber/8591",
-    "author": "DarrenSteele",
-    "authorRole": "Contributor 2",
-    "time": "2026-02-06",
-    "content": "Just got a demo of OneStepGPS. I'm looking for a fleet tracking system and integrating with Jobber sounds great. BUT They couldn't run a demo of it in Jobber, didn't have screenshots, really couldn't tell me anything about how it integrates beyond \"you'll see everything in Jobber\" Anybody have this, can you share how it works, maybe some screen shots? @JobberDevelopers One of the other programs I looked at is on the ball and wants to integrate with Jobber. Get your team talking to Fleet Complete! INTEGRATIONS",
-    "views": 12,
-    "likes": 0,
-    "comments": 0,
-    "replies": []
-  },
-  {
     "title": "Highlevel",
     "url": "https://community.getjobber.com/discussions/integrations/highlevel/7072",
     "author": "Synergybizis",
     "authorRole": "Contributor 2",
-    "time": "2025-10-07",
-    "content": "How will this work for the GHL Consultants. Will Jobber and GHL compete or this is collaboration? A consultant can essentially have ghl and jobber and offer both to clients? DIGITAL MARKETING STRATEGIES SOFTWARE Ashley 3 months ago The integration is a collaboration between Jobber and HighLevel - it's a new partnership we recently announced! The CRM Connector keeps your Jobber and HighLevel accounts in sync so things contacts, jobs, and follow-ups all stay up to date automatically. GHL consultants can absolutely use both Jobber and HighLevel to provide clients a smoother, more connected experience. If you're using a white-labeled version of HighLevel, your clients will just see it as LeadConnector - but it connects the same way! You can find more details in the Jobber App Marketplace.",
-    "views": 52,
+    "time": "2025-10-25",
+    "content": "How will this work for the GHL Consultants. Will Jobber and GHL compete or this is collaboration? A consultant can essentially have ghl and jobber and offer both to clients? DIGITAL MARKETING STRATEGIES SOFTWARE Ashley The integration is a collaboration between Jobber and HighLevel - it's a new partnership we recently announced! The CRM Connector keeps your Jobber and HighLevel accounts in sync so things contacts, jobs, and follow-ups all stay up to date automatically. GHL consultants can absolutely use both Jobber and HighLevel to provide clients a smoother, more connected experience. If you're using a white-labeled version of HighLevel, your clients will just see it as LeadConnector - but it connects the same way! You can find more details in the Jobber App Marketplace.",
+    "views": 78,
     "likes": 0,
     "comments": 2,
     "replies": [
       {
         "author": "Ashley",
-        "time": "2025-11-07",
-        "content": "The integration is a collaboration between Jobber and HighLevel - it's a new partnership we recently announced! The CRM Connector keeps your Jobber and HighLevel accounts in sync so things contacts, jobs, and follow-ups all stay up to date automatically. GHL consultants can absolutely use both Jobber and HighLevel to provide clients a smoother, more connected experience. If you're using a white-labeled version of HighLevel, your clients will just see it as LeadConnector - but it connects the same way! You can find more details in the Jobber App Marketplace.",
+        "time": "2025-10-25",
+        "content": "JOBBER PRODUCT TEAM The integration is a collaboration between Jobber and HighLevel - it's a new partnership we recently announced! The CRM Connector keeps your Jobber and HighLevel accounts in sync so things contacts, jobs, and follow-ups all stay up to date automatically. GHL consultants can absolutely use both Jobber and HighLevel to provide clients a smoother, more connected experience. If you're using a white-labeled version of HighLevel, your clients will just see it as LeadConnector - but it connects the same way! You can find more details in the Jobber App Marketplace.",
         "likes": 0
       },
       {
-        "author": "Ashley",
-        "time": "2025-11-07",
-        "content": "The integration is a collaboration between Jobber and HighLevel - it's a new partnership we recently announced! The CRM Connector keeps your Jobber and HighLevel accounts in sync so things contacts, jobs, and follow-ups all stay up to date automatically. GHL consultants can absolutely use both Jobber and HighLevel to provide clients a smoother, more connected experience. If you're using a white-labeled version of HighLevel, your clients will just see it as LeadConnector - but it connects the same way! You can find more details in the Jobber App Marketplace.",
+        "author": "WiringByron",
+        "time": "2026-02-03",
+        "content": "Do we have a spot where people are chatting about this integration and what people are building with it? I would love to know more.",
         "likes": 0
       }
     ]
@@ -166,15 +180,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/thoughts-with-openphone/3002",
     "author": "yhuricamae1",
     "authorRole": "Contributor 2",
-    "time": "2025-05-07",
+    "time": "2025-04-25",
     "content": "Hi! We currently using Ooma as our soft phone as it's integrated with Jobber. Unfortunately, only almost 2 months in and we're experiencing a lot of issues including missing voicemail and poor syncing of call logs. We recently notified about new softphone VOIP integration with Open Phone. Does anyone already using it? What's your experience so far? Your response is much appreciated! INTEGRATIONS SOFTWARE",
-    "views": 53,
+    "views": 67,
     "likes": 4,
     "comments": 1,
     "replies": [
       {
         "author": "Moss912",
-        "time": "2026-01-24",
+        "time": "2026-01-25",
         "content": "Hi I have used open phone for about a month. I would say I was pleased with the way it responded to customers and also with the way it turned the call into a request on jobber. I did have a couple issues. One I didn’t how the spam calls that came in went against the monthly call total resulting in a lot of wasted requests and calls. The other thing is that the saved customer in my phone didn’t show up on caller id.",
         "likes": 0
       }
@@ -185,27 +199,27 @@
     "url": "https://community.getjobber.com/discussions/integrations/zapier-and-receives-messages/7693",
     "author": "LTL",
     "authorRole": "Contributor 2",
-    "time": "2025-12-07",
+    "time": "2025-12-25",
     "content": "I set up a basic zap to grab my Google Ads, FB Ads, and Website leads. When I import the customer date it defaults the \"Receives messages\" toggle to OFF. Has anyone had success with importing customers phone numbers and it turning on that toggle by default?",
-    "views": 44,
+    "views": 55,
     "likes": 0,
     "comments": 3,
     "replies": [
       {
-        "author": "D_LHerbier",
-        "time": "2026-01-21",
-        "content": "Out of curiosity, can I ask what you are doing this for, and what benefits Zapier provides? This sounds very interesting, and I am wondering if its something we should do as well. Currently, we linked our jobber request form on our website, google business page, and facebook. So potential clients can submit a request from these areas, and they show up as a new request in Jobber. How is this different and what would the advantages be? LTL to D_LHerbier I’m using Zapier to automatically import new leads and create a request within jobber. It sounds it’s doing the same thing you are jade 2 months ago Hey LTL! Thanks for the question. If you are noticing the Receives Messages field is defaulted to \"OFF\", I do recommend getting in touch with our Success Team, who can hop on a screen share to see how the Zaps are currently set up. You can call us at 888-721-1115 ext 1 or email support@getjobber.com Moving forward, the quickest way to fix that field for the clients who have already been imported is by using the Client Import tool, so you can bulk update, rather than edit the clients individually. In Jobber, go to the Clients tab > More Actions > Export Client list > open in Excel or another spreadsheet tool > change the value of that field - then back to Jobber > Clients > More Actions > Import client list. More information on that here.",
+        "author": "jade",
+        "time": "2025-12-25",
+        "content": "Hey LTL! Thanks for the question. If you are noticing the Receives Messages field is defaulted to \"OFF\", I do recommend getting in touch with our Success Team, who can hop on a screen share to see how the Zaps are currently set up. You can call us at 888-721-1115 ext 1 or email support@getjobber.com Moving forward, the quickest way to fix that field for the clients who have already been imported is by using the Client Import tool, so you can bulk update, rather than edit the clients individually. In Jobber, go to the Clients tab > More Actions > Export Client list > open in Excel or another spreadsheet tool > change the value of that field - then back to Jobber > Clients > More Actions > Import client list. More information on that here.",
         "likes": 0
       },
       {
         "author": "D_LHerbier",
-        "time": "2026-01-21",
+        "time": "2026-01-25",
         "content": "Out of curiosity, can I ask what you are doing this for, and what benefits Zapier provides? This sounds very interesting, and I am wondering if its something we should do as well. Currently, we linked our jobber request form on our website, google business page, and facebook. So potential clients can submit a request from these areas, and they show up as a new request in Jobber. How is this different and what would the advantages be?",
         "likes": 0
       },
       {
         "author": "LTL",
-        "time": "2026-01-21",
+        "time": "2026-01-25",
         "content": "to D_LHerbier I’m using Zapier to automatically import new leads and create a request within jobber. It sounds it’s doing the same thing you are",
         "likes": 0
       }
@@ -215,35 +229,35 @@
     "title": "Gift Card Workflow/Integration",
     "url": "https://community.getjobber.com/discussions/integrations/gift-card-workflowintegration/7874",
     "author": "DarrenSteele",
-    "authorRole": "Contributor 2",
-    "time": "2026-01-07",
+    "authorRole": "Contributor 4",
+    "time": "2025-12-25",
     "content": "Hey all, I want to offer Christmas Gift cards to my client list. Last minute? Yup! But there's a long cold season where we won't be doing much work staring at us. Anybody have a good system for offering/tracking gift cards within Jobber or with a solid integration? Best, Darren INTEGRATIONS",
-    "views": 58,
+    "views": 82,
     "likes": 1,
     "comments": 4,
     "replies": [
       {
-        "author": "D_LHerbier",
-        "time": "2026-01-21",
-        "content": "A simple but effective way to do this would be to send an email blast out to your client list mentioning the sale, gift card, loyalty discount, promotion, etc. You can mention some type of verbiage stating that this applies to anyone that schedules work by the end of the month, for example. Then when people reach out and mention the promotion, you can manually apply this to their quote or invoice. You may also be able to automate this by using the referral feature in Jobber. You can set it up so that there will be an automatic credit of a certain amount (or percentage) applied to their account. krista 1 month ago Hey Darren, One option that can work well for tracking gift card details in Jobber is Custom Fields. You can add a custom field to the client, request, job, or invoice to capture details gift card amount, issue date, and remaining balance. The nice part is that custom fields can show up in reports when you add them as a selected column, so you can filter and export a list to track what is outstanding and what has been redeemed. Have you tried using custom fields for this yet, or are you hoping to manage the full gift card purchase and redemption process through an integration as well? Moly JOBBER COMMUNITY TEAM 1 month ago SendJim is a Jobber integration that might be able to help with this: https://secure.getjobber.com/app_marketplace/sendjim Otherwise I imagine you could use tags to help with something Tremendous that Julie mentioned below, but I know you're the tag master so you've probably thought of that! julie JOBBER COMMUNITY TEAM 1 month ago Hey Darren! Awesome to see a familiar name in the forum Although it doesn't integrate with Jobber, have you checked out Tremendous? We use this platform all the time + it's super easy to use",
-        "likes": 0
-      },
-      {
-        "author": "D_LHerbier",
-        "time": "2026-01-21",
-        "content": "A simple but effective way to do this would be to send an email blast out to your client list mentioning the sale, gift card, loyalty discount, promotion, etc. You can mention some type of verbiage stating that this applies to anyone that schedules work by the end of the month, for example. Then when people reach out and mention the promotion, you can manually apply this to their quote or invoice. You may also be able to automate this by using the referral feature in Jobber. You can set it up so that there will be an automatic credit of a certain amount (or percentage) applied to their account.",
-        "likes": 0
-      },
-      {
-        "author": "krista",
-        "time": "2026-01-07",
-        "content": "Hey Darren, One option that can work well for tracking gift card details in Jobber is Custom Fields. You can add a custom field to the client, request, job, or invoice to capture details gift card amount, issue date, and remaining balance. The nice part is that custom fields can show up in reports when you add them as a selected column, so you can filter and export a list to track what is outstanding and what has been redeemed. Have you tried using custom fields for this yet, or are you hoping to manage the full gift card purchase and redemption process through an integration as well?",
+        "author": "julie",
+        "time": "2025-12-25",
+        "content": "JOBBER COMMUNITY TEAM Hey Darren! Awesome to see a familiar name in the forum Although it doesn't integrate with Jobber, have you checked out Tremendous? We use this platform all the time + it's super easy to use",
         "likes": 0
       },
       {
         "author": "Moly",
-        "time": "2026-01-07",
+        "time": "2025-12-25",
         "content": "JOBBER COMMUNITY TEAM SendJim is a Jobber integration that might be able to help with this: https://secure.getjobber.com/app_marketplace/sendjim Otherwise I imagine you could use tags to help with something Tremendous that Julie mentioned below, but I know you're the tag master so you've probably thought of that!",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2025-12-25",
+        "content": "Hey Darren, One option that can work well for tracking gift card details in Jobber is Custom Fields. You can add a custom field to the client, request, job, or invoice to capture details gift card amount, issue date, and remaining balance. The nice part is that custom fields can show up in reports when you add them as a selected column, so you can filter and export a list to track what is outstanding and what has been redeemed. Have you tried using custom fields for this yet, or are you hoping to manage the full gift card purchase and redemption process through an integration as well?",
+        "likes": 0
+      },
+      {
+        "author": "D_LHerbier",
+        "time": "2026-01-25",
+        "content": "A simple but effective way to do this would be to send an email blast out to your client list mentioning the sale, gift card, loyalty discount, promotion, etc. You can mention some type of verbiage stating that this applies to anyone that schedules work by the end of the month, for example. Then when people reach out and mention the promotion, you can manually apply this to their quote or invoice. You may also be able to automate this by using the referral feature in Jobber. You can set it up so that there will be an automatic credit of a certain amount (or percentage) applied to their account.",
         "likes": 0
       }
     ]
@@ -253,34 +267,34 @@
     "url": "https://community.getjobber.com/discussions/integrations/quickbooks-sync-issues/1314",
     "author": "jonathan23",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Has anyone else had a problem with their being an Unapplied Cash Payment account Quickbooks Account? I do not want the account on my P & L but it automatically shows up when syncing to jobber. LANDSCAPING QUICKBOOKS SNOW REMOVAL",
-    "views": 164,
+    "views": 183,
     "likes": 2,
     "comments": 4,
     "replies": [
       {
-        "author": "D_LHerbier",
-        "time": "2026-01-21",
-        "content": "We use the quickbooks integration and sync invoices and payments on a daily basis. We do not have a problem with this, ours works pretty well. I have had this happen a few times, and its usually always because the payment date is an earlier date than the invoice date. If the invoice date is after the payment date, it will not link them together. The payment date has to be either on or after the invoice date for it to be applied properly. This is a simple fix by adjusting one of the two dates. TrueStar 29 days ago Frustrating problem for sure! AlwaysSparkling 1 year ago Yes! I have $40,000 worth of invoices that need reassigned... not happy with all the bugs there are, when we pay so much for jobber! bedellmgmt 1 year ago You'll have to reassign those transactions to a different account in your chart of accounts to zero it out and remove it from appearing in your P & L.",
+        "author": "AlwaysSparkling",
+        "time": "2025-02-25",
+        "content": "Yes! I have $40,000 worth of invoices that need reassigned... not happy with all the bugs there are, when we pay so much for jobber!",
         "likes": 0
       },
       {
-        "author": "D_LHerbier",
-        "time": "2026-01-21",
-        "content": "We use the quickbooks integration and sync invoices and payments on a daily basis. We do not have a problem with this, ours works pretty well. I have had this happen a few times, and its usually always because the payment date is an earlier date than the invoice date. If the invoice date is after the payment date, it will not link them together. The payment date has to be either on or after the invoice date for it to be applied properly. This is a simple fix by adjusting one of the two dates.",
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "You'll have to reassign those transactions to a different account in your chart of accounts to zero it out and remove it from appearing in your P & L.",
         "likes": 0
       },
       {
         "author": "TrueStar",
-        "time": "2026-01-09",
+        "time": "2026-01-25",
         "content": "Frustrating problem for sure!",
         "likes": 0
       },
       {
-        "author": "AlwaysSparkling",
-        "time": "2025-02-07",
-        "content": "Yes! I have $40,000 worth of invoices that need reassigned... not happy with all the bugs there are, when we pay so much for jobber!",
+        "author": "D_LHerbier",
+        "time": "2026-01-25",
+        "content": "We use the quickbooks integration and sync invoices and payments on a daily basis. We do not have a problem with this, ours works pretty well. I have had this happen a few times, and its usually always because the payment date is an earlier date than the invoice date. If the invoice date is after the payment date, it will not link them together. The payment date has to be either on or after the invoice date for it to be applied properly. This is a simple fix by adjusting one of the two dates.",
         "likes": 0
       }
     ]
@@ -290,15 +304,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/ply-and-jobber/8018",
     "author": "Mikebishop",
     "authorRole": "Contributor 2",
-    "time": "2026-01-07",
+    "time": "2026-01-25",
     "content": "We just bought Jobber and ply and are trying to integrate the two, finding some really interesting idiosyncrasies- a Jobber does not bring over an item number, it only imports item description so wondered if anyone has dealt with this.",
-    "views": 42,
+    "views": 56,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "jade",
-        "time": "2026-01-07",
+        "time": "2026-01-25",
         "content": "Hey Mike! Thanks for the question here. I am so sorry to hear that you have been having issues with the Ply integration. You can contact us by phone 888-721-1115 ext 1, by email mailto:support@getjobber.com or by using the live chat!",
         "likes": 0
       }
@@ -309,15 +323,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/how-to-connect-jobber-app-to-accountmake-com/7559",
     "author": "dbowser",
     "authorRole": "Contributor 2",
-    "time": "2025-12-07",
+    "time": "2025-11-25",
     "content": "I am trying to send offline conversions and values from jobber to make.com which then sends to Google Ads. I am currently using Callrail to track form fills and phone calls and connected Jobber to callrail. I created a jobber app with a custom make.com webhook. Here is where I am stuck: I am looking to connect my jobber app to my jobber account. We are currently subscribed to the plan \"Grow.\" I submitted the app for review but Support replied that I did not need to have it reviewed since its only internal for transferring customer info. Does anyone know how to a connect custom jobber app to their jobber account? Any insight would be greatly appreciated! LEAD GEN",
-    "views": 63,
+    "views": 72,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "Shawn_Optipath",
-        "time": "2025-12-07",
+        "time": "2025-11-25",
         "content": "Hi dbowser​, If you have created a Jobber app in make.com, congratulations! It's something a lot of Make developers have struggled with. In your app make sure you have at least 1 connection and 1 module set up. Once you have your custom Jobber app ready, you just need to go into any scenario and add a module any other. Click on the + and search your app name. The first time you add your Jobber app module, you will need to create your connection. Click add >> give it a name >> click on advanced settings, and put in your Client ID and Client secret. From there, you can start using your Jobber custom app.",
         "likes": 0
       }
@@ -327,77 +341,77 @@
     "title": "Xero/Jobber Integration Issues",
     "url": "https://community.getjobber.com/discussions/integrations/xerojobber-integration-issues/805",
     "author": "Housekept_Tim",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "Hey all! We were quite excited when the XERO / Jobber invoice integration was introduced. However, we have experienced a few issues, the most recent of which has created a rather large problem. It appears that the integration has gone backwards and pushed through doubles of HEAPS of invoices, even those that have been closed or untouched for some time. Needless to say, this has posed a reconciliation nightmare and to add insult to injury, Jobber Support has pointed to the developer who has pointed us back to Jobber who has pointed to Xero Support. Has anybody else experienced this or other issues with this integration?",
-    "views": 274,
+    "views": 297,
     "likes": 2,
     "comments": 11,
     "replies": [
       {
-        "author": "krista",
-        "time": "2025-11-07",
-        "content": "Hi housekeptaus​ Thanks for taking the time to share your experience with the Jobber–Xero integration. I’m really sorry to hear about the challenges you’ve run into and the frustration it’s caused—especially around syncing issues and missing notifications. We appreciate you sharing the detailed examples of what hasn’t worked well. Feedback this helps us and our partners identify where improvements are needed to make sure the integration runs smoothly for your business. Housekept_Tim to krista krista​ we've talked to Jobber's team and Xero's team as well as the third party who developed the integration. Jobber points the finger at Xero every time but it's Jobber's customers who use, need and benefit from the integration or, in this case, have been burdened by it. Jobber needs to take accountability for its integrations if it's going to push them as selling points for using the system. julie JOBBER COMMUNITY TEAM to Housekept_Tim Hey Housekept_Tim​! That's very fair. I can understand how this is impacting your business. I'd love to look into this a little more if I could. Do you happen to have a case number or the name of someone you've been working on this with recently? Housekept_Tim to julie Hi Julie, feel free to email me and I can forward you comms julie JOBBER COMMUNITY TEAM to Housekept_Tim Sent you an email! housekeptaus 5 months ago There seems to be no update, honestly I am getting so frustrated at the lack support and customer care jobber shows towards their clients. It's the most expensive CRM in the service industry, and nothing seems to fully work when they roll updates out. This jobber/xero integration is so bad, we had to disconnect it and use an expensive zap to intergrate the systems. 1. Failed uploading invoices into xero, with no notification system built in 2. No two way sync 3. When you update an invoice in one system it doesn't update in both 4. When you mark a payment in one system it doesn't update in both 5. There is only one option to have payments posted to. So if you use stripe/square for credit cards, and wire transfers for payments, it can only post to one account. You have to setup clearing accounts, and it is a complete mess to manage. Warning! Do not integrate the systems with this app, it caused us $1000's of dollars in accounting and bookkeeping work to rectify the issues causes AlwaysSparkling 11 months ago Any update on this? Tailoredcleans 1 year ago Hi, thanks for the information. (No value to add sorry) I've been wanting to integrate myself but not cause myself and issue as such. Did you manage to rectify the issue in the end? If so, how did that go? julie JOBBER COMMUNITY TEAM 1 year ago Hi there! We're sorry to hear about these issues. Contacting Xero support is indeed the correct path for any issues this in the future. In this case, our team has reached out to them as well and is currently coordinating to find out exactly what caused this particular case and how we can prevent it in the future. Someone will be reaching out to you to get this matter resolved! housekeptaus to julie 10 months ago Is there any update on the Xero integration, we really need a two way sync. It causes such a headache for our accounts receivables team to reconcile invoices etc. jade to housekeptaus 10 months ago Hello HouseKept! The Xero integration is still a one-way sync, I do not believe there are any plans to change that in the near future. We appreciate the feedback and will continue to share it with our Product Development team.",
+        "author": "julie",
+        "time": "2025-02-25",
+        "content": "JOBBER COMMUNITY TEAM Hi there! We're sorry to hear about these issues. Contacting Xero support is indeed the correct path for any issues this in the future. In this case, our team has reached out to them as well and is currently coordinating to find out exactly what caused this particular case and how we can prevent it in the future. Someone will be reaching out to you to get this matter resolved!",
+        "likes": 0
+      },
+      {
+        "author": "housekeptaus",
+        "time": "2025-03-25",
+        "content": "to julie Is there any update on the Xero integration, we really need a two way sync. It causes such a headache for our accounts receivables team to reconcile invoices etc.",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2025-04-25",
+        "content": "to housekeptaus Hello HouseKept! The Xero integration is still a one-way sync, I do not believe there are any plans to change that in the near future. We appreciate the feedback and will continue to share it with our Product Development team.",
+        "likes": 0
+      },
+      {
+        "author": "Tailoredcleans",
+        "time": "2025-02-25",
+        "content": "Hi, thanks for the information. (No value to add sorry) I've been wanting to integrate myself but not cause myself and issue as such. Did you manage to rectify the issue in the end? If so, how did that go?",
+        "likes": 0
+      },
+      {
+        "author": "AlwaysSparkling",
+        "time": "2025-02-25",
+        "content": "Any update on this?",
+        "likes": 0
+      },
+      {
+        "author": "housekeptaus",
+        "time": "2025-09-25",
+        "content": "There seems to be no update, honestly I am getting so frustrated at the lack support and customer care jobber shows towards their clients. It's the most expensive CRM in the service industry, and nothing seems to fully work when they roll updates out. This jobber/xero integration is so bad, we had to disconnect it and use an expensive zap to intergrate the systems. 1. Failed uploading invoices into xero, with no notification system built in 2. No two way sync 3. When you update an invoice in one system it doesn't update in both 4. When you mark a payment in one system it doesn't update in both 5. There is only one option to have payments posted to. So if you use stripe/square for credit cards, and wire transfers for payments, it can only post to one account. You have to setup clearing accounts, and it is a complete mess to manage. Warning! Do not integrate the systems with this app, it caused us $1000's of dollars in accounting and bookkeeping work to rectify the issues causes",
         "likes": 0
       },
       {
         "author": "krista",
-        "time": "2025-11-07",
+        "time": "2025-10-25",
         "content": "Hi housekeptaus​ Thanks for taking the time to share your experience with the Jobber–Xero integration. I’m really sorry to hear about the challenges you’ve run into and the frustration it’s caused—especially around syncing issues and missing notifications. We appreciate you sharing the detailed examples of what hasn’t worked well. Feedback this helps us and our partners identify where improvements are needed to make sure the integration runs smoothly for your business.",
         "likes": 0
       },
       {
         "author": "Housekept_Tim",
-        "time": "2025-11-07",
+        "time": "2025-10-25",
         "content": "to krista krista​ we've talked to Jobber's team and Xero's team as well as the third party who developed the integration. Jobber points the finger at Xero every time but it's Jobber's customers who use, need and benefit from the integration or, in this case, have been burdened by it. Jobber needs to take accountability for its integrations if it's going to push them as selling points for using the system.",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-11-07",
+        "time": "2025-11-25",
         "content": "JOBBER COMMUNITY TEAM to Housekept_Tim Hey Housekept_Tim​! That's very fair. I can understand how this is impacting your business. I'd love to look into this a little more if I could. Do you happen to have a case number or the name of someone you've been working on this with recently?",
         "likes": 0
       },
       {
         "author": "Housekept_Tim",
-        "time": "2025-11-07",
-        "content": "to julie Hi Julie, feel free to email me and I can forward you comms julie JOBBER COMMUNITY TEAM to Housekept_Tim Sent you an email!",
-        "likes": 0
-      },
-      {
-        "author": "Housekept_Tim",
-        "time": "2025-11-07",
+        "time": "2025-11-25",
         "content": "to julie Hi Julie, feel free to email me and I can forward you comms",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-11-07",
+        "time": "2025-11-25",
         "content": "JOBBER COMMUNITY TEAM to Housekept_Tim Sent you an email!",
-        "likes": 0
-      },
-      {
-        "author": "housekeptaus",
-        "time": "2025-09-07",
-        "content": "There seems to be no update, honestly I am getting so frustrated at the lack support and customer care jobber shows towards their clients. It's the most expensive CRM in the service industry, and nothing seems to fully work when they roll updates out. This jobber/xero integration is so bad, we had to disconnect it and use an expensive zap to intergrate the systems. 1. Failed uploading invoices into xero, with no notification system built in 2. No two way sync 3. When you update an invoice in one system it doesn't update in both 4. When you mark a payment in one system it doesn't update in both 5. There is only one option to have payments posted to. So if you use stripe/square for credit cards, and wire transfers for payments, it can only post to one account. You have to setup clearing accounts, and it is a complete mess to manage. Warning! Do not integrate the systems with this app, it caused us $1000's of dollars in accounting and bookkeeping work to rectify the issues causes",
-        "likes": 0
-      },
-      {
-        "author": "AlwaysSparkling",
-        "time": "2025-03-07",
-        "content": "Any update on this?",
-        "likes": 0
-      },
-      {
-        "author": "Tailoredcleans",
-        "time": "2025-02-07",
-        "content": "Hi, thanks for the information. (No value to add sorry) I've been wanting to integrate myself but not cause myself and issue as such. Did you manage to rectify the issue in the end? If so, how did that go?",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-02-07",
-        "content": "JOBBER COMMUNITY TEAM Hi there! We're sorry to hear about these issues. Contacting Xero support is indeed the correct path for any issues this in the future. In this case, our team has reached out to them as well and is currently coordinating to find out exactly what caused this particular case and how we can prevent it in the future. Someone will be reaching out to you to get this matter resolved!",
         "likes": 0
       }
     ]
@@ -406,40 +420,40 @@
     "title": "Weather Widget 🌞🌧️❄️🔥",
     "url": "https://community.getjobber.com/discussions/integrations/weather-widget-%F0%9F%8C%9E%F0%9F%8C%A7%EF%B8%8F%E2%9D%84%EF%B8%8F%F0%9F%94%A5/2491",
     "author": "Jessica-2025",
-    "authorRole": "Contributor 2",
-    "time": "2025-03-07",
-    "content": "Is it possible to integrate Jobber with a weather app? On the dashboard, we were thinking a 7-day forecast could be visible. Also, I thought a small temperature reading on the monthly calendar would be visible. We also thought the weather for the day could be captured and saved as an internal note for the job. ARBORIST CONSTRUCTION GENERAL CONTRACTING HANDYMAN INSTALLATION SERVICES INTEGRATIONS IRRIGATION SERVICES LANDSCAPING LAWN CARE PLUMBING krista Hi, Jessica-2025, What a great idea! I could see that being useful for many Home Service Providers. We would love to hear more about your company’s experiences; please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com so we can collect all the feedback.",
-    "views": 118,
-    "likes": 3,
+    "authorRole": "Contributor 3",
+    "time": "2025-03-25",
+    "content": "Is it possible to integrate Jobber with a weather app? On the dashboard, we were thinking a 7-day forecast could be visible. Also, I thought a small temperature reading on the monthly calendar would be visible. We also thought the weather for the day could be captured and saved as an internal note for the job. ARBORIST CONSTRUCTION GENERAL CONTRACTING HANDYMAN INSTALLATION SERVICES INTEGRATIONS IRRIGATION SERVICES LANDSCAPING LAWN CARE PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING krista Hi, Jessica-2025, What a great idea! I could see that being useful for many Home Service Providers. We would love to hear more about your company’s experiences; please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com so we can collect all the feedback.",
+    "views": 133,
+    "likes": 4,
     "comments": 5,
     "replies": [
       {
-        "author": "krista",
-        "time": "2025-03-07",
-        "content": "Hi, Jessica-2025, What a great idea! I could see that being useful for many Home Service Providers. We would love to hear more about your company’s experiences; please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com so we can collect all the feedback.",
+        "author": "judithvirag",
+        "time": "2025-03-25",
+        "content": "BUILDER 1 It would be a great idea I think. For the technicians to see the 7 day forecast. We have comments sometimes \"oh I wasn't aware that a snowstorm had come in\". LOL",
+        "likes": 0
+      },
+      {
+        "author": "Jessica-2025",
+        "time": "2025-10-25",
+        "content": "We are still hoping this may get added to Jobber in the future. 🙏👏",
         "likes": 0
       },
       {
         "author": "krista",
-        "time": "2025-03-07",
+        "time": "2025-03-25",
         "content": "Hi, Jessica-2025, What a great idea! I could see that being useful for many Home Service Providers. We would love to hear more about your company’s experiences; please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com so we can collect all the feedback.",
         "likes": 0
       },
       {
         "author": "Jessica-2025",
-        "time": "2025-11-07",
-        "content": "Why was this marked solved? julie JOBBER COMMUNITY TEAM to Jessica-2025 Hey Jessica, we just used the ‘Marked as Solution’ tag to signal that we’ve answered your question and noted your feedback, but the conversation isn’t over from here—we’ve passed your feedback on to our Product Team and understand this would be helpful! Jessica-2025 We are still hoping this may get added to Jobber in the future. 🙏👏 krista 11 months ago Hi, Jessica-2025, What a great idea! I could see that being useful for many Home Service Providers. We would love to hear more about your company’s experiences; please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com so we can collect all the feedback. judithvirag BUILDER 1 11 months ago It would be a great idea I think. For the technicians to see the 7 day forecast. We have comments sometimes \"oh I wasn't aware that a snowstorm had come in\". LOL",
-        "likes": 0
-      },
-      {
-        "author": "Jessica-2025",
-        "time": "2025-11-07",
+        "time": "2025-10-25",
         "content": "Why was this marked solved?",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-11-07",
+        "time": "2025-10-25",
         "content": "JOBBER COMMUNITY TEAM to Jessica-2025 Hey Jessica, we just used the ‘Marked as Solution’ tag to signal that we’ve answered your question and noted your feedback, but the conversation isn’t over from here—we’ve passed your feedback on to our Product Team and understand this would be helpful!",
         "likes": 0
       }
@@ -449,16 +463,16 @@
     "title": "Home Depot Pro Referral Integration ?",
     "url": "https://community.getjobber.com/discussions/integrations/home-depot-pro-referral-integration-/5174",
     "author": "EnergizeUs",
-    "authorRole": "Contributor 2",
-    "time": "2025-08-07",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-07-25",
     "content": "Good afternoon, I know a lot of contractors are listed for Home Depot Pro Referral - and I was wondering if Jobber has had the ability to directly integrate with them. Since using jobber, I have had my office manager transfer every contact over, one by one, because it didnt allow us to track stats/communication within home depots crm. So I was wondering what do you all use ? Or is it all manual for you too? If you want to check it out - here is the link Try Home Depot Pro CONSTRUCTION ELECTRICAL CONTRACTING INTEGRATIONS SOFTWARE",
-    "views": 43,
+    "views": 57,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "julie",
-        "time": "2025-11-07",
+        "time": "2025-10-25",
         "content": "JOBBER COMMUNITY TEAM Hello! I'm happy to come back to your post and share that the Jobber and Home Depot integration is currently available as a Jobber Lab in the USA. For more details, we have this article here which also includes how to join the Jobber Lab.",
         "likes": 0
       }
@@ -469,15 +483,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/need-help-integrating-go-high-level/7032",
     "author": "choresandmore",
     "authorRole": "Contributor 2",
-    "time": "2025-10-07",
+    "time": "2025-10-25",
     "content": "I'm seeing that Go High Level is finally on the app integration list! Yay! I'm trying to follow the instructions to link my GHL & Jobber accounts, but am having no luck. Can someone walk me through it?! CLEANING INTEGRATIONS krista Hi choresandmore​ That’s exciting to hear you’re getting started with the Go High Level integration! 🎉 I’m sorry you’ve run into some trouble linking your accounts, I know how frustrating that can be when you’re eager to get things set up. Our Success Team would be happy to walk you through the process directly. You can give them a call at 1-888-721-1115 (option 1) and they’ll guide you step by step. In the meantime, you can also follow along with our instructions here. These resources outline the setup process in detail and may help you get connected right away. Please don’t hesitate to reach out to the team, they’ll be glad to make sure everything is up and running smoothly for you.",
-    "views": 38,
+    "views": 50,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-10-07",
+        "time": "2025-10-25",
         "content": "Hi choresandmore​ That’s exciting to hear you’re getting started with the Go High Level integration! 🎉 I’m sorry you’ve run into some trouble linking your accounts, I know how frustrating that can be when you’re eager to get things set up. Our Success Team would be happy to walk you through the process directly. You can give them a call at 1-888-721-1115 (option 1) and they’ll guide you step by step. In the meantime, you can also follow along with our instructions here. These resources outline the setup process in detail and may help you get connected right away. Please don’t hesitate to reach out to the team, they’ll be glad to make sure everything is up and running smoothly for you.",
         "likes": 0
       }
@@ -488,15 +502,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/only-intergration/6628",
     "author": "Uniservicellc",
     "authorRole": "Contributor 2",
-    "time": "2025-10-07",
+    "time": "2025-09-25",
     "content": "Has anyone had any positive feedback for the Oply integration? We are looking to add it to our account and just looking for some feedback before we pull the trigger GENERAL CONTRACTING HANDYMAN PROPERTY MAINTENANCE",
-    "views": 24,
+    "views": 30,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "julie",
-        "time": "2025-10-07",
+        "time": "2025-09-25",
         "content": "JOBBER COMMUNITY TEAM Hello! Looking forward to other home service pros chiming in with their experience in the thread 🙌",
         "likes": 0
       }
@@ -507,21 +521,21 @@
     "url": "https://community.getjobber.com/discussions/integrations/xero-integration---custom-feilds-job-descriptions-and-invoices-2-way-sync/6315",
     "author": "SarahHWRAUNZ",
     "authorRole": "Contributor 2",
-    "time": "2025-10-07",
+    "time": "2025-09-25",
     "content": "Hey team Jobber! Id love some feedback/advice on the best way to transfer the information from Jobber to Xero. Primarily the custom fields for job references/POs, longer descriptions and 2-way sync for invoices. INTEGRATIONS",
-    "views": 26,
+    "views": 35,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
-        "author": "ryaantuttle",
-        "time": "2025-10-07",
-        "content": "You should be able to create a \"Zap\" between the two databases. Ridgeline_Jeff We use Xero too. I'm hopeful for a few replies. wondering if Zappier would work?",
+        "author": "Ridgeline_Jeff",
+        "time": "2025-09-25",
+        "content": "We use Xero too. I'm hopeful for a few replies. wondering if Zappier would work?",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2025-10-07",
+        "time": "2025-09-25",
         "content": "You should be able to create a \"Zap\" between the two databases.",
         "likes": 0
       }
@@ -532,46 +546,46 @@
     "url": "https://community.getjobber.com/discussions/integrations/jobber-expert-needed/5165",
     "author": "Micha567",
     "authorRole": "Contributor 2",
-    "time": "2025-08-07",
+    "time": "2025-07-25",
     "content": "Looking for a Jobber expert or consultant to help me set up and manage Jobber for my construction company with 3 divisions (run separate companies), integrate it with QuickBooks, migrate client info, manage it short-term, and train me. Any recommendations? CONSTRUCTION",
-    "views": 84,
+    "views": 109,
     "likes": 2,
     "comments": 6,
     "replies": [
       {
-        "author": "WiringByron",
-        "time": "2025-10-07",
-        "content": "Hi Micha, curious do you have all three companies in one Jobber or seperated? BrandenSewell 5 months ago I have found that JanineChambers​ is an incredible source of Jobber knowledge. She has been a huge help to me. krista 6 months ago PropProtector13 6 months ago just sent you an email! PropProtector13 6 months ago Hey Micha, I’d love to learn more about your needs and see if I can help you. You mind discussing more over Google meets? Micha567 to PropProtector13 6 months ago Happy to - email me at mailto:mw@jamdirect.com and we’ll set something up.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-10-07",
-        "content": "Hi Micha, curious do you have all three companies in one Jobber or seperated?",
-        "likes": 0
-      },
-      {
-        "author": "BrandenSewell",
-        "time": "2025-09-07",
-        "content": "I have found that JanineChambers​ is an incredible source of Jobber knowledge. She has been a huge help to me.",
-        "likes": 0
-      },
-      {
-        "author": "",
-        "time": "2025-08-07",
-        "content": "krista",
-        "likes": 0
-      },
-      {
         "author": "PropProtector13",
-        "time": "2025-08-07",
+        "time": "2025-07-25",
         "content": "just sent you an email!",
         "likes": 0
       },
       {
+        "author": "",
+        "time": "2025-07-25",
+        "content": "krista",
+        "likes": 0
+      },
+      {
+        "author": "BrandenSewell",
+        "time": "2025-08-25",
+        "content": "I have found that JanineChambers​ is an incredible source of Jobber knowledge. She has been a huge help to me.",
+        "likes": 0
+      },
+      {
         "author": "PropProtector13",
-        "time": "2025-08-07",
+        "time": "2025-07-25",
         "content": "Hey Micha, I’d love to learn more about your needs and see if I can help you. You mind discussing more over Google meets?",
+        "likes": 0
+      },
+      {
+        "author": "Micha567",
+        "time": "2025-07-25",
+        "content": "to PropProtector13 Happy to - email me at mailto:mw@jamdirect.com and we’ll set something up.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-09-25",
+        "content": "Hi Micha, curious do you have all three companies in one Jobber or seperated?",
         "likes": 0
       }
     ]
@@ -580,22 +594,22 @@
     "title": "Painters & Drywallers!",
     "url": "https://community.getjobber.com/discussions/integrations/painters--drywallers/2569",
     "author": "paintbrosma",
-    "authorRole": "Contributor 2",
-    "time": "2025-04-07",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-03-25",
     "content": "How are you utilizing jobber to improve your business efficiency? I'd to connect with other people in our industry to see how they're utilizing jobber for success. paintbrosma.com GOOGLE GUSTO INTEGRATIONS PAINTING PLUS PLAN QUICKBOOKS WISETACK WORDPRESS WORK SMARTER ZAPIER",
-    "views": 54,
+    "views": 70,
     "likes": 4,
     "comments": 2,
     "replies": [
       {
-        "author": "BrandenSewell",
-        "time": "2025-09-07",
-        "content": "Hey, would love to connect or even get you on the podcast sometime if that works to talk about how we both use Jobber. http://www.sealpropainting.com http://www.brandensewell.com ryaantuttle 10 months ago Hey Paintbros! It looks we're in the same area, so feel free to to reach out any time if you'd to grab a coffee and or virtual chat to discuss how you can leverage Jobber. ryaan@thebesthandymancompany.com besthandymanboston.com",
+        "author": "ryaantuttle",
+        "time": "2025-03-25",
+        "content": "Hey Paintbros! It looks we're in the same area, so feel free to to reach out any time if you'd to grab a coffee and or virtual chat to discuss how you can leverage Jobber. ryaan@thebesthandymancompany.com besthandymanboston.com",
         "likes": 0
       },
       {
         "author": "BrandenSewell",
-        "time": "2025-09-07",
+        "time": "2025-09-25",
         "content": "Hey, would love to connect or even get you on the podcast sometime if that works to talk about how we both use Jobber. http://www.sealpropainting.com http://www.brandensewell.com",
         "likes": 0
       }
@@ -605,47 +619,61 @@
     "title": "Liveswitch or Company Cam?",
     "url": "https://community.getjobber.com/discussions/integrations/liveswitch-or-company-cam/5638",
     "author": "BrandenSewell",
-    "authorRole": "Contributor 2",
-    "time": "2025-09-07",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-08-25",
     "content": "Which one would you use for your business and why? Do you offer virtual assessments? PAINTING REPORTING & BUSINESS INSIGHTS SOFTWARE ZAPIER",
-    "views": 17,
+    "views": 21,
     "likes": 0,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "Notifications Service For GetJobber Entities",
     "url": "https://community.getjobber.com/discussions/integrations/notifications-service-for-getjobber-entities/5391",
     "author": "Aswath",
-    "authorRole": "Contributor 2",
-    "time": "2025-08-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-08-25",
     "content": "I am creating a new Jobber integration called JNotify. The JNotify allows you to sync the data and set up notifications by email, sms and slack. The notifications could be sent to the client, team members or any email. The right person should get the right notification at the right time for business process improvement. I am imagining the following types of notfications are possible with this JNofity. But, it is entirely configurable based on the user needs. - When a visit is completed and the job value is > x, then email the owner and the manager - When a payment is created and amount > x, then email the accounts receivable and owner - When a 'Request' is created with emergency keywords urgent, 'no heat', flooding, then email to manager, dispatcher - When a high value job is deleted, notify the owner. Your feedback is highly appreciated ! The following Jobber entities can synced to JNotify based on the activity in the Jobber. When a client is created When a client is deleted When a client is updated When an expense is created When an expense is deleted When an expense is updated When an invoice is created When an invoice is deleted When an invoice is updated When a job is closed When a job is created When a job is deleted When a job is updated When a on my way tracking link is requested When a payment is created When a payment is deleted When a payment is updated When a payout is created When a payout is deleted When a payout is updated When a product or service is created When a product or service is deleted When a product or service is updated When a property is created When a property is deleted When a property is updated When a quote is approved When a quote is created When a quote is deleted When a quote is sent When a quote is updated When a request is created When a request is deleted When a request is updated When a timesheet is created When a timesheet is deleted When a timesheet is updated When a visit is completed When a visit is created When a visit is deleted When a visit is updated SOFTWARE",
-    "views": 32,
+    "views": 36,
     "likes": 0,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "🚗Fleet Sharp and Schedule (alpha) Split Screen",
     "url": "https://community.getjobber.com/discussions/integrations/%F0%9F%9A%97fleet-sharp-and-schedule-alpha-split-screen/2798",
     "author": "Jessica-2025",
-    "authorRole": "Contributor 2",
-    "time": "2025-04-07",
-    "content": "Hello, Our Fleet Sharp trackers do Not populate on the schedule (Alpha) split screen. We heard about Force Fleet at the spring feature announcement, and we have seen screenshots of Force Fleet trackers visible on the schedule split screen. We are wondering (hoping 🙏) if Jobber will update the split screen to show both Force Fleet AND Fleet Sharp trackers. We are wondering if anyone has heard or knows info regarding this topic. Thank you ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CLEANING CONSTRUCTION ELECTRICAL CONTRACTING FENCE SERVICES FLEETSHARP FORCE FLEET TRACKING",
-    "views": 52,
+    "authorRole": "Contributor 3",
+    "time": "2025-04-25",
+    "content": "Hello, Our Fleet Sharp trackers do Not populate on the schedule (Alpha) split screen. We heard about Force Fleet at the spring feature announcement, and we have seen screenshots of Force Fleet trackers visible on the schedule split screen. We are wondering (hoping 🙏) if Jobber will update the split screen to show both Force Fleet AND Fleet Sharp trackers. We are wondering if anyone has heard or knows info regarding this topic. Thank you ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CLEANING CONSTRUCTION ELECTRICAL CONTRACTING FENCE SERVICES FLEETSHARP FORCE FLEET TRACKING GENERAL CONTRACTING HANDYMAN HVAC INSTALLATION SERVICES INTEGRATIONS IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING",
+    "views": 63,
     "likes": 1,
     "comments": 2,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-05-07",
-        "content": "Hi Jessica, thanks for this question! We also want both options to be available to you! Some technical changes need to be made for Fleetsharp to work on the new schedule, and as far as we understand, this is being worked on. Right now, we don't have any timeline for when it will be available, but It would be great if you let Fleetsharp know you would to be able to work with the new schedule so they are aware of the demand! hshoosier to krista 6 months ago What about Force Fleet? Does it show on the map in real time? We are currently looking at different options for this. Just wondering which shows in real time.",
+        "time": "2025-04-25",
+        "content": "Hi Jessica, thanks for this question! We also want both options to be available to you! Some technical changes need to be made for Fleetsharp to work on the new schedule, and as far as we understand, this is being worked on. Right now, we don't have any timeline for when it will be available, but It would be great if you let Fleetsharp know you would to be able to work with the new schedule so they are aware of the demand!",
         "likes": 0
       },
       {
-        "author": "krista",
-        "time": "2025-05-07",
-        "content": "Hi Jessica, thanks for this question! We also want both options to be available to you! Some technical changes need to be made for Fleetsharp to work on the new schedule, and as far as we understand, this is being worked on. Right now, we don't have any timeline for when it will be available, but It would be great if you let Fleetsharp know you would to be able to work with the new schedule so they are aware of the demand!",
+        "author": "hshoosier",
+        "time": "2025-07-25",
+        "content": "to krista What about Force Fleet? Does it show on the map in real time? We are currently looking at different options for this. Just wondering which shows in real time.",
         "likes": 0
       }
     ]
@@ -655,15 +683,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/xero-with-jobber/5109",
     "author": "AusJobber135",
     "authorRole": "Contributor 2",
-    "time": "2025-08-07",
+    "time": "2025-07-25",
     "content": "Is there a way of xero linking in with jobber to recipe payment collected. They appear on our statement but as they have not been paid through jobber we have to manually recipe some 300 invoices a week. Is there a faster way? TIA krista AusJobber135​ Thanks for reaching out. Yes, Jobber can be integrated with Xero to help streamline your workflow, including syncing payments and reducing manual entry. However, the sync is one way from Jobber to Xero. Our Success team would be happy to help you get set up and walk you through the integration process. Feel free to reach out to them at 1-888-721-1115 (option 1) or email support@getjobber.com.",
-    "views": 28,
+    "views": 35,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-08-07",
+        "time": "2025-07-25",
         "content": "AusJobber135​ Thanks for reaching out. Yes, Jobber can be integrated with Xero to help streamline your workflow, including syncing payments and reducing manual entry. However, the sync is one way from Jobber to Xero. Our Success team would be happy to help you get set up and walk you through the integration process. Feel free to reach out to them at 1-888-721-1115 (option 1) or email support@getjobber.com.",
         "likes": 0
       }
@@ -673,53 +701,53 @@
     "title": "Crew Insight | New KPI Dashboard in Jobber app marketplace",
     "url": "https://community.getjobber.com/discussions/integrations/crew-insight--new-kpi-dashboard-in-jobber-app-marketplace/648",
     "author": "Daichi",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 4",
+    "time": "2025-02-25",
     "content": "Hi All! I run a lawn care and gardening business and have struggled with getting all the KPIs I need from Jobber. I've had to spend many hours each month crunching numbers on spreadsheets that could have been spent growing my business. To solve this, I created a software platform that would pull in data from Jobber automatically and give me the numbers I need. Seems KPI tracking is a common pain point amongst community members so I thought I’d create a post to start the conversation. What KPI’s are you obsessed with? What KPI’s feel hard to track? What metrics are you struggling to improve? If anyone is interested in the software, its called Crew Insight and we recently got it published to the Jobber marketplace so you can find it there or, at crew-insight.com. INTEGRATIONS REPORTING & BUSINESS INSIGHTS SOFTWARE",
-    "views": 512,
+    "views": 527,
     "likes": 5,
     "comments": 7,
     "replies": [
       {
-        "author": "Daichi",
-        "time": "2025-08-07",
-        "content": "Lots of cool new features happening in Crew Insight. Sign up for a free trial and check them all out! https://crew-insight.com/ Daichi 1 year ago Hi all! It seems we've been receiving a lot of requests for custom KPI's, commission tracking, and custom field integrations. We're building a platform that works for everybody, however, we do build custom dashboards -- with that in mind. If anyone is looking for something custom, feel free to reach out to me at daichi@crew-insight.com FredHodgeJr 1 year ago Love it, will be trying! Daichi to FredHodgeJr 1 year ago Sweet! Let me know if you have any questions or feature requests! melanie 1 year ago Definitely checking this app out. We have numerous spreadsheets where we track our KPIs and we are always looking to streamline our processes. melanie to melanie 1 year ago As a follow-up to my last comment--we have decided to utilize the Crew Insight--it really hits the mark for a large portion of the KPIs we want at our fingertips without having to export and design charts ourselves. Certainly recommend checking it out...there's a 14 day free trial! Daichi to melanie 1 year ago Glad you're finding it valuable Melanie! If you have any other metrics you're looking for don't hesitate to reach out to me directly at daichi@crew-insight.com.",
-        "likes": 0
-      },
-      {
-        "author": "Daichi",
-        "time": "2025-08-07",
-        "content": "Lots of cool new features happening in Crew Insight. Sign up for a free trial and check them all out! https://crew-insight.com/",
-        "likes": 0
-      },
-      {
-        "author": "Daichi",
-        "time": "2025-02-07",
-        "content": "Hi all! It seems we've been receiving a lot of requests for custom KPI's, commission tracking, and custom field integrations. We're building a platform that works for everybody, however, we do build custom dashboards -- with that in mind. If anyone is looking for something custom, feel free to reach out to me at daichi@crew-insight.com",
-        "likes": 0
-      },
-      {
-        "author": "FredHodgeJr",
-        "time": "2025-02-07",
-        "content": "Love it, will be trying!",
-        "likes": 0
-      },
-      {
-        "author": "Daichi",
-        "time": "2025-02-07",
-        "content": "to FredHodgeJr Sweet! Let me know if you have any questions or feature requests!",
-        "likes": 0
-      },
-      {
         "author": "melanie",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Definitely checking this app out. We have numerous spreadsheets where we track our KPIs and we are always looking to streamline our processes.",
         "likes": 0
       },
       {
         "author": "melanie",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "to melanie As a follow-up to my last comment--we have decided to utilize the Crew Insight--it really hits the mark for a large portion of the KPIs we want at our fingertips without having to export and design charts ourselves. Certainly recommend checking it out...there's a 14 day free trial!",
+        "likes": 0
+      },
+      {
+        "author": "Daichi",
+        "time": "2025-02-25",
+        "content": "to melanie Glad you're finding it valuable Melanie! If you have any other metrics you're looking for don't hesitate to reach out to me directly at daichi@crew-insight.com.",
+        "likes": 0
+      },
+      {
+        "author": "FredHodgeJr",
+        "time": "2025-02-25",
+        "content": "Love it, will be trying!",
+        "likes": 0
+      },
+      {
+        "author": "Daichi",
+        "time": "2025-02-25",
+        "content": "to FredHodgeJr Sweet! Let me know if you have any questions or feature requests!",
+        "likes": 0
+      },
+      {
+        "author": "Daichi",
+        "time": "2025-02-25",
+        "content": "Hi all! It seems we've been receiving a lot of requests for custom KPI's, commission tracking, and custom field integrations. We're building a platform that works for everybody, however, we do build custom dashboards -- with that in mind. If anyone is looking for something custom, feel free to reach out to me at daichi@crew-insight.com",
+        "likes": 0
+      },
+      {
+        "author": "Daichi",
+        "time": "2025-07-25",
+        "content": "Lots of cool new features happening in Crew Insight. Sign up for a free trial and check them all out! https://crew-insight.com/",
         "likes": 0
       }
     ]
@@ -728,29 +756,29 @@
     "title": "Quickbooks Deposits Not Matching Invoices",
     "url": "https://community.getjobber.com/discussions/integrations/quickbooks-deposits-not-matching-invoices/2733",
     "author": "paintbrosma",
-    "authorRole": "Contributor 2",
-    "time": "2025-04-07",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-03-25",
     "content": "Heres the problem: We send a quote out, it requires a 25% deposit. Jobber collects the deposit, quickbooks registers the payment, but with NO invoice # since an invoice has not been completed. Once the job is complete, an invoice is issues. The data is not matching and recording properly in quickbooks. How do I make quickbooks work efficiently with jobber while using deposits with my customers? QUICKBOOKS SOFTWARE",
-    "views": 58,
+    "views": 71,
     "likes": 1,
     "comments": 3,
     "replies": [
       {
-        "author": "homefront",
-        "time": "2025-07-07",
-        "content": "I've had some HUGE issues with the sync. My Accountant just reached out with a massive list, which now turns into a 3-4 hour job to tear apart each client/job to figure out what went wrong. I'm not impressed, to say the least. If this is the case, I will not invoice from Jobber if this is going to be the ongoing issue. Then makes me question using the software as its a huge part of CRM>JOB function>Invoicing. > Sync issues> No invoice to reference? between Jobber/QBO > Sync issues> deposit amount not being recorded due to syncing a ghost invoice, or errors. The majority of them are deposit issues. Entered in under the quote, receiving the deposit. Jobbers' invoicing system needs some serious work. Especially if you've invoiced jobs from QBO. then come to Jobber for it there is no comparison. The constant sync issues have caused a huge mess on QBO books, backdating to February. I'm even having issues with the deposit being recorded or payments being recorded, and somehow the client ends up with credit. BadgerHauling 10 months ago I saw post on the Jobber FB group. There are definitely some sync issues that I feel are easily solvable but it’s up to Jobber and Quickbooks to work it out. I found a different issue which we found a work around. Here is what I posted in that group. I worked with my CSM at Jobber. While Jobber Payments (Stripe) doesn’t deposit the total amount of the invoice, we found that the invoice is zero’d out and the fee is recognized on your P&L statements. I provided feedback and would love for this to be 1:1 QuickBooks Payments. For example: if you invoice and get paid $500 your deposit it $500. In addition to the deposit, the processing fee is then deducted as a separate transaction which makes it easier to identify SarahN 10 months ago I saw an all-call go out for your help on your question. I am still learning Quickbooks myself, and will do my best to answer your question. When you make the customer card, you can sync it over to Quickbooks so you don't have to do double entry. Search the client on Quickbooks, then on the top right of their card, there's a green button \"New Transaction\". Click receive payment, and enter the deposit amount you've collected. That will create something to match to the bank statement. Of course when you collect deposits with Jobber payments, Jobber takes their cut. On the bank transactions page, click on the deposited money, match it to the received payment you've created, fill in the full amount , then at the bottom you'll need to resolve the difference. The difference is Jobber's fee. I have an account set up in my chart of accounts to track Jobber's fees. Then the deposit is matched to their account and can be later applied against the generated invoice once you move it to Quickbooks. There may be a better way to do this, so I'll let others chime in on that.",
-        "likes": 0
-      },
-      {
-        "author": "homefront",
-        "time": "2025-07-07",
-        "content": "I've had some HUGE issues with the sync. My Accountant just reached out with a massive list, which now turns into a 3-4 hour job to tear apart each client/job to figure out what went wrong. I'm not impressed, to say the least. If this is the case, I will not invoice from Jobber if this is going to be the ongoing issue. Then makes me question using the software as its a huge part of CRM>JOB function>Invoicing. > Sync issues> No invoice to reference? between Jobber/QBO > Sync issues> deposit amount not being recorded due to syncing a ghost invoice, or errors. The majority of them are deposit issues. Entered in under the quote, receiving the deposit. Jobbers' invoicing system needs some serious work. Especially if you've invoiced jobs from QBO. then come to Jobber for it there is no comparison. The constant sync issues have caused a huge mess on QBO books, backdating to February. I'm even having issues with the deposit being recorded or payments being recorded, and somehow the client ends up with credit.",
+        "author": "SarahN",
+        "time": "2025-03-25",
+        "content": "I saw an all-call go out for your help on your question. I am still learning Quickbooks myself, and will do my best to answer your question. When you make the customer card, you can sync it over to Quickbooks so you don't have to do double entry. Search the client on Quickbooks, then on the top right of their card, there's a green button \"New Transaction\". Click receive payment, and enter the deposit amount you've collected. That will create something to match to the bank statement. Of course when you collect deposits with Jobber payments, Jobber takes their cut. On the bank transactions page, click on the deposited money, match it to the received payment you've created, fill in the full amount , then at the bottom you'll need to resolve the difference. The difference is Jobber's fee. I have an account set up in my chart of accounts to track Jobber's fees. Then the deposit is matched to their account and can be later applied against the generated invoice once you move it to Quickbooks. There may be a better way to do this, so I'll let others chime in on that.",
         "likes": 0
       },
       {
         "author": "BadgerHauling",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "I saw post on the Jobber FB group. There are definitely some sync issues that I feel are easily solvable but it’s up to Jobber and Quickbooks to work it out. I found a different issue which we found a work around. Here is what I posted in that group. I worked with my CSM at Jobber. While Jobber Payments (Stripe) doesn’t deposit the total amount of the invoice, we found that the invoice is zero’d out and the fee is recognized on your P&L statements. I provided feedback and would love for this to be 1:1 QuickBooks Payments. For example: if you invoice and get paid $500 your deposit it $500. In addition to the deposit, the processing fee is then deducted as a separate transaction which makes it easier to identify",
+        "likes": 0
+      },
+      {
+        "author": "homefront",
+        "time": "2025-07-25",
+        "content": "I've had some HUGE issues with the sync. My Accountant just reached out with a massive list, which now turns into a 3-4 hour job to tear apart each client/job to figure out what went wrong. I'm not impressed, to say the least. If this is the case, I will not invoice from Jobber if this is going to be the ongoing issue. Then makes me question using the software as its a huge part of CRM>JOB function>Invoicing. > Sync issues> No invoice to reference? between Jobber/QBO > Sync issues> deposit amount not being recorded due to syncing a ghost invoice, or errors. The majority of them are deposit issues. Entered in under the quote, receiving the deposit. Jobbers' invoicing system needs some serious work. Especially if you've invoiced jobs from QBO. then come to Jobber for it there is no comparison. The constant sync issues have caused a huge mess on QBO books, backdating to February. I'm even having issues with the deposit being recorded or payments being recorded, and somehow the client ends up with credit.",
         "likes": 0
       }
     ]
@@ -759,28 +787,35 @@
     "title": "Streetfair Jobber Integration",
     "url": "https://community.getjobber.com/discussions/integrations/streetfair-jobber-integration/4711",
     "author": "BadgerHauling",
-    "authorRole": "Contributor 2",
-    "time": "2025-07-07",
+    "authorRole": "Contributor 4",
+    "time": "2025-07-25",
     "content": "Anyone using this new integration and service? If so, I’d love some feedback.",
-    "views": 17,
+    "views": 19,
     "likes": 1,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "Docusign Integration",
     "url": "https://community.getjobber.com/discussions/integrations/docusign-integration/4591",
     "author": "scottmorefield",
     "authorRole": "Contributor 2",
-    "time": "2025-07-07",
+    "time": "2025-06-25",
     "content": "Does anyone use this integration? We start with a basic client agreement, but have found the integration to be super frustrating. First of all, it creates a draft for EVERY job. If you have multiple jobs per client, it's creating a draft and a Docusign box for EACH ONE. Problem is, we only need one per client. You also, for some reason that nobody can explain, can't push a document out to a present client without creating a new job. Who on earth came up with this is beyond me. What we've done is create a dummy job called 'Client Agreement' in order to 'house' the document and ignore the drafts on all the rest. One would think that Jobber would just create a Docusign draft box on each front client page and leave it at that, but they've made it as bulky and illogical as possible. And before you suggest it, we've already submitted requests to fix this in a new update, but as with all of those we don't expect anything to be done. We love Jobber for the most part, but some of their logic is ridiculous. DOCUSIGN INTEGRATIONS krista Hi scottmorefield — thanks so much for reaching out, and I’m really sorry to hear about the frustration with the DocuSign integration. We really appreciate you taking the time to share your feedback with the team. It helps guide how we approach improvements to our integrations going forward. Just to clarify, is the main issue that there's a growing backlog of drafts sitting in DocuSign? If so, it might also be worth reaching out to DocuSign directly, as they may be able to assist on that front as well. One potential workaround our team has discussed is setting up a Zap using Zapier to connect with DocuSign. With this approach, a document would only be created when a new client is added, which could help avoid the draft backlog. This setup only requires a two-step Zap, so it should work on Zapier’s free plan. Hope that helps! Let us know if you have any questions or if we can dig in further.",
-    "views": 26,
+    "views": 39,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-07-07",
+        "time": "2025-06-25",
         "content": "Hi scottmorefield — thanks so much for reaching out, and I’m really sorry to hear about the frustration with the DocuSign integration. We really appreciate you taking the time to share your feedback with the team. It helps guide how we approach improvements to our integrations going forward. Just to clarify, is the main issue that there's a growing backlog of drafts sitting in DocuSign? If so, it might also be worth reaching out to DocuSign directly, as they may be able to assist on that front as well. One potential workaround our team has discussed is setting up a Zap using Zapier to connect with DocuSign. With this approach, a document would only be created when a new client is added, which could help avoid the draft backlog. This setup only requires a two-step Zap, so it should work on Zapier’s free plan. Hope that helps! Let us know if you have any questions or if we can dig in further.",
         "likes": 0
       }
@@ -791,9 +826,9 @@
     "url": "https://community.getjobber.com/discussions/integrations/angi-ads-integration/4386",
     "author": "apexhomeworks",
     "authorRole": "Contributor 2",
-    "time": "2025-07-07",
+    "time": "2025-06-25",
     "content": "Has anyone set up the API Integration with Angi Ads? I was provided the steps below but I'm unclear how to follow them properly and was wondering if anyone familiar with Jobber here would know and/or have had success. In order to set up your API Integration with Angi, you will need to have the following information gathered: Your account's Company ID. This is not always the same as your Service Provider ID that you see next to your company name in the Angi for Pros site. You can find your Company ID in the URL of your desktop Angi for Pros site, on the top right of your Angi Ads Agreement, labeled SPID, or by reaching out to us in chat. The email address you would to connect to your CRM Your unique webhook URL (provided by your CRM contact) Authentication Type (key or no key) Data Format (most commonly JSON, but your CRM contact will know for sure) The Standard Lead API Requirements that will be needed for set up are shown here in more detail. Angi_Standard_Lead_API_Requirements1.pdf Once you have this information gathered, you can start the setup for your API Integration, using the steps below: Log into the Angi for Pros site on your desktop. Once logged in, open a new tab in your browser and type in the following URL: Note: The area where you see XXXXXX in the URL is where you will place your Company ID from the information gathered above. For example, if your account's Company ID is 123456, the URL should be -https://office.angi.com/app/webhooks/123456/leads/configure https://office.angi.com/app/webhooks/XXXXXX/leads/configure Once you've typed in that URL, you should see this screen, where you will click Get Started. From here, fill in the blanks on the Edit Configuration page with the information you gathered in the first section above, then click Next. Remember, you should still be logged into your Angi Ads Business Center during this setup process. Note: If your Authentication Type requires a key, a second drop-down will appear to ask you to type in the key. Please do not share this key in chat or via email, as it is a private security key for your company only. Now it is time to test your configuration. Click on Send Test Lead in the middle of the page. A blue box should appear at the top of your screen confirming that test lead was successfully sent to your URL. Once you receive the confirmation box, click Next at the bottom of the screen. If you do not receive the confirmation box below, please take a screenshot of the message you received for troubleshooting purposes and feel free to start a chat with us for assistance! You're almost done! Click the Save and Activate button at the bottom of the screen to complete the integration process. You're all finished, and your integration has been completed. From here you can close out of this tab. Your webhook will receive a copy of each new lead as it is generated! If you have more than one account that needs to be set up, just follow all of the steps again, making sure you are logged into the account you are setting up, and be sure to replace the Company ID in the URL in Step 2. INTEGRATIONS LEAD GEN SOFTWARE",
-    "views": 17,
+    "views": 21,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -810,15 +845,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/what-are-you-using-to-capture-field-data/4278",
     "author": "ChipG",
     "authorRole": "Contributor 2",
-    "time": "2025-07-07",
+    "time": "2025-06-25",
     "content": "Hi Everyone, I am a new Jobber user, the first at my company. I am trying to learn the system myself before onboarding my team. We are a custom home building company using Jobber to provide a premium home maintenance subscription to our former customers and their neighbours who might be interested. I am struggling a bit to figure out a solid way to record field data consistently. I know Jobber has the ability to create Job Forms, but I feel it might be a bit too simple for my needs. Currently, we need to be able to create a rather large Comprehensive Home Systems Inventory. This would include everything from capturing info on their electrical panels, HVAC systems (furnaces, boilers, HRVs), appliances, hydronics, to finishes paint colors, tiles, flooring etc. The idea would be that we would store this information to be to create reports for our customers, and give our team the ability to reference and know what filters are needed for what units, when they were last serviced, where the FAQs or codes for various appliances could be found, etc. Right now, I am defaulting to just taking in paper copies, because we are very early on trying to prove this business, and I don't have a big budget. This catalogue would likely have hundreds of entries in it for each home. Just curious what people have been using to collect data this in the field that is affordable and doesn't cost too much? Thanks! INTEGRATIONS PROPERTY MAINTENANCE",
-    "views": 36,
+    "views": 48,
     "likes": 2,
     "comments": 1,
     "replies": [
       {
         "author": "ryaantuttle",
-        "time": "2025-07-07",
+        "time": "2025-06-25",
         "content": "I highly suggest leveraging Job forms inside of Jobber for this exact request you have. We've been doing the SAME exact thing with great success for years using the Job forms and our team and customers love them.",
         "likes": 0
       }
@@ -828,35 +863,35 @@
     "title": "Any integrations that add internal notes?",
     "url": "https://community.getjobber.com/discussions/integrations/any-integrations-that-add-internal-notes/1688",
     "author": "aarontree",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "In an attempt to streamline most of our client data into Jobber while keeping it organizied, we use a series of internal notes to track communication, scheduling, crew notes, etc. Has anyone found any of the integrations that are able to add a note when certain actions happens. Or even add to a note when something happens. Example: each time a new client is created, a series of notes are added with specific text, one for \"OFFICE NOTES\", one for \"SALES REP NOTES\", one for \"SCHEDULING NOTES\"",
-    "views": 102,
+    "views": 103,
     "likes": 2,
     "comments": 4,
     "replies": [
       {
         "author": "Randy_Warner",
-        "time": "2025-06-07",
-        "content": "Hey aarontree​ . So this sounds more of an 'internal automation' where every time a Client is created you want to add three separate notes, right? Alternatively, are you wanting to somehow have another system add a note to a Client when a certain action happens? If so, can you give an example? Notes are heavily utilized by some Jobber users and I've found everyone uses them very differently. aarontree to Randy_Warner 7 months ago Internal or external doesn't matter, I'd be interested if anyone has figured out a way to automatically add notes in this way. Randy_Warner to aarontree 7 months ago Bottom line, in theory, this appears to be possible. As a Jobber Developer Partner I've been digging into a number of things surrounding Notes lately aarontree​ and here is what I have found out so far... Notes are not a standalone object within Jobber's architecture. What this means is that they always have to be accessed through the 'parent' record, Client, Request, Quote, etc. I'm going to first work on testing this with Client notes. I will keep you posted. Thanks for the additional context. bedellmgmt 1 year ago This is a great idea - does anyone else have a solution for this??",
-        "likes": 0
-      },
-      {
-        "author": "Randy_Warner",
-        "time": "2025-06-07",
+        "time": "2025-06-25",
         "content": "Hey aarontree​ . So this sounds more of an 'internal automation' where every time a Client is created you want to add three separate notes, right? Alternatively, are you wanting to somehow have another system add a note to a Client when a certain action happens? If so, can you give an example? Notes are heavily utilized by some Jobber users and I've found everyone uses them very differently.",
         "likes": 0
       },
       {
         "author": "aarontree",
-        "time": "2025-07-07",
+        "time": "2025-06-25",
         "content": "to Randy_Warner Internal or external doesn't matter, I'd be interested if anyone has figured out a way to automatically add notes in this way.",
         "likes": 0
       },
       {
         "author": "Randy_Warner",
-        "time": "2025-07-07",
+        "time": "2025-06-25",
         "content": "to aarontree Bottom line, in theory, this appears to be possible. As a Jobber Developer Partner I've been digging into a number of things surrounding Notes lately aarontree​ and here is what I have found out so far... Notes are not a standalone object within Jobber's architecture. What this means is that they always have to be accessed through the 'parent' record, Client, Request, Quote, etc. I'm going to first work on testing this with Client notes. I will keep you posted. Thanks for the additional context.",
+        "likes": 0
+      },
+      {
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "This is a great idea - does anyone else have a solution for this??",
         "likes": 0
       }
     ]
@@ -866,21 +901,21 @@
     "url": "https://community.getjobber.com/discussions/integrations/hubspot-integration-anyone/1401",
     "author": "sector",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Curious how many businesses are using HubSpot as their Sales and Marketing engine? How do you find the integration with Jobber using Zapier? SOFTWARE",
-    "views": 104,
+    "views": 115,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
-        "author": "Randy_Warner",
-        "time": "2025-06-07",
-        "content": "sector​ TL;DR - Totally possible. I've seen a few folks implement it. The big thing that is lacking in Zapier for a full fledged integration is some of the 'Update' triggers for when a record is updated in Jobber. Also, custom fields don't exist with the native Zapier integration. For something this you would definitely want to look into Adhesion Connect. JanineChambers 1 year ago I have seen it work well together, it depends how you are using it. Do your clients start in Hubspot or start in Jobber? What connection points are needed throughout your workflow?",
+        "author": "JanineChambers",
+        "time": "2025-02-25",
+        "content": "I have seen it work well together, it depends how you are using it. Do your clients start in Hubspot or start in Jobber? What connection points are needed throughout your workflow?",
         "likes": 0
       },
       {
         "author": "Randy_Warner",
-        "time": "2025-06-07",
+        "time": "2025-06-25",
         "content": "sector​ TL;DR - Totally possible. I've seen a few folks implement it. The big thing that is lacking in Zapier for a full fledged integration is some of the 'Update' triggers for when a record is updated in Jobber. Also, custom fields don't exist with the native Zapier integration. For something this you would definitely want to look into Adhesion Connect.",
         "likes": 0
       }
@@ -891,15 +926,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/can-we-have-a-wix-integration-to-gather-more-data/3775",
     "author": "PLUMR",
     "authorRole": "Contributor 2",
-    "time": "2025-06-07",
+    "time": "2025-05-25",
     "content": "I feel we should be able to integrate with other platforms wix for example to gather our own website data and either send out email marketing campaigns that leads to our blogs or send clients to a part of a website INTEGRATIONS LEAD GEN PLUMBING krista Hi PLUMR​ that is a great idea! We are always looking for ways to get business owners more data on their company. We would love to hear more about how you would to see this integration work for you. Please reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com additionally, you can request App integrations from on the bottom left side of getjobber.com way at the bottom of the page",
-    "views": 25,
+    "views": 34,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-06-07",
+        "time": "2025-05-25",
         "content": "Hi PLUMR​ that is a great idea! We are always looking for ways to get business owners more data on their company. We would love to hear more about how you would to see this integration work for you. Please reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com additionally, you can request App integrations from on the bottom left side of getjobber.com way at the bottom of the page",
         "likes": 0
       }
@@ -910,16 +945,16 @@
     "url": "https://community.getjobber.com/discussions/integrations/adding-line-option-for-service-fees-via-percentages-/3769",
     "author": "PLUMR",
     "authorRole": "Contributor 2",
-    "time": "2025-06-07",
+    "time": "2025-05-25",
     "content": "can we add the feature for invoices to add a service fee option via percentages julie Hey PLUMR! Our Success Team is the best way to get this idea to our Product Team as they consolidate customer ideas and feedback on a regular basis so we can have a pulse on what would help our customers the most overall. Please contact them by phone at 1-888-721-1115 or through the chat function in your account. Thank you!",
-    "views": 17,
+    "views": 20,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "julie",
-        "time": "2025-06-07",
-        "content": "Hey PLUMR! Our Success Team is the best way to get this idea to our Product Team as they consolidate customer ideas and feedback on a regular basis so we can have a pulse on what would help our customers the most overall. Please contact them by phone at 1-888-721-1115 or through the chat function in your account. Thank you!",
+        "time": "2025-05-25",
+        "content": "JOBBER COMMUNITY TEAM Hey PLUMR! Our Success Team is the best way to get this idea to our Product Team as they consolidate customer ideas and feedback on a regular basis so we can have a pulse on what would help our customers the most overall. Please contact them by phone at 1-888-721-1115 or through the chat function in your account. Thank you!",
         "likes": 0
       }
     ]
@@ -929,15 +964,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/can-we-please-have-a-tab-in-the-mobile-app-for-materials-please-and-thank-you/3725",
     "author": "PLUMR",
     "authorRole": "Contributor 2",
-    "time": "2025-06-07",
+    "time": "2025-05-25",
     "content": "hi it would nice to have materials in the mobile app as a separate tab jade Hey there, thanks for the suggestion! We would love to learn more about how this feature could be beneficial to you and how it would work! We are always open to feedback, please contact our Success Team so we can get a better understanding on this. You can call them at 888-721-1115 ext 1 or email support@getjobber.com",
-    "views": 20,
+    "views": 23,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "jade",
-        "time": "2025-06-07",
+        "time": "2025-05-25",
         "content": "Hey there, thanks for the suggestion! We would love to learn more about how this feature could be beneficial to you and how it would work! We are always open to feedback, please contact our Success Team so we can get a better understanding on this. You can call them at 888-721-1115 ext 1 or email support@getjobber.com",
         "likes": 0
       }
@@ -947,58 +982,58 @@
     "title": "OpenPhone Please!",
     "url": "https://community.getjobber.com/discussions/integrations/openphone-please/664",
     "author": "HandyMillerMan",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "Hi! I understand that Jobber has a partnership with CallRail, but that system is a little too expensive for our smaller business, so we decided to go with OpenPhone since we just have one line and two employees that do all of our scheduling. Would love a native integration to OpenPhone so I don't have to keep paying for things Zapier/Pebbly/etc. CALLRAIL",
-    "views": 360,
+    "views": 380,
     "likes": 3,
     "comments": 8,
     "replies": [
       {
-        "author": "andrewfavro",
-        "time": "2025-05-07",
-        "content": "Hey HandyMillerMan yhuricamae1! My name is Andrew and I'm a Product Manager on Jobber's integrations. As yhuricamae1 mentioned, our integration with OpenPhone is now available and can be installed from our App Marketplace!. You can learn more about the integration from our Product Updates Announcement. And if you run into any issues, I would recommend checking out our help center article for this integration. If you run into any issues or have any feedback, please let me know! Thanks! yhuricamae1 Hi! How's OpenPhone so far? They just actually announced it being integrated with Jobber, looking forward with using OpenPhone hehe Roger 1 year ago For our office needs, we use an Ooma Office account with the Pro Plus plan, which I recently discovered can be integrated with Jobber. It’s definitely worth checking out! Jobber marketplace https://secure.getjobber.com/marketplace/ooma Ooma Site https://office.ooma.com/ julie JOBBER COMMUNITY TEAM 1 year ago If you’re interested in an OpenPhone integration in the future, we’d highly recommend submitting a request for OpenPhone with the “Request an App” button at the bottom of our App Marketplace. That’s the best way to hear about it first, if we were to ever launch the integration. We typically reach out to customers who have specifically requested an integration, and we ask if they’d to join our Beta group before the official release! HandyMillerMan to julie 1 year ago julieThank you! I actually did that the other day and mentioned that I'd be happy to also sit down with the team to talk through what I'm trying to accomplish. Thanks! julie JOBBER COMMUNITY TEAM to HandyMillerMan 1 year ago Yay! I'm glad to hear that ryaantuttle 1 year ago We use Goconnect for ALL of our business lines. We have (4) separate lines that all go to one line, making life SIMPLE and EASY. We also leverage virtual offices, so we don't need anyone at a physical location and can easily port the numbers to VA's if need be. It also allows us to set up prompts and have ALL messages transcribed via email. https://www.goto.com/offer/connect/a?campaignid=7014P000001vksuQAA&leadsource=Paid%20Search&gad_source=1&gbraid=0AAAAADumLfi65h1WNxb9l5sHcJfo01Pge&gclid=Cj0KCQjwyL24BhCtARIsALo0fSBn-50D6BLAvUWLr1f0wp3yu8L53z9pRrtjfLlghTciSWS5GAf96FsaAnyFEALw_wcB&gclsrc=aw.ds julie JOBBER COMMUNITY TEAM 1 year ago Hey HandyMillerMan, thanks for your post! We’ve forwarded your feedback to Success as they collect all feedback to share with our Product Team as they consolidate customer ideas/feedback so we can have a pulse on what would help our customers the most overall. If you have additional feedback or suggestions, please reach out to the Success team directly at support@getjobber.com, by phone at 1-888-721-1115, or chat via the chat icon in your Jobber account!",
-        "likes": 0
-      },
-      {
-        "author": "andrewfavro",
-        "time": "2025-05-07",
-        "content": "Hey HandyMillerMan yhuricamae1! My name is Andrew and I'm a Product Manager on Jobber's integrations. As yhuricamae1 mentioned, our integration with OpenPhone is now available and can be installed from our App Marketplace!. You can learn more about the integration from our Product Updates Announcement. And if you run into any issues, I would recommend checking out our help center article for this integration. If you run into any issues or have any feedback, please let me know! Thanks!",
-        "likes": 0
-      },
-      {
-        "author": "yhuricamae1",
-        "time": "2025-05-07",
-        "content": "Hi! How's OpenPhone so far? They just actually announced it being integrated with Jobber, looking forward with using OpenPhone hehe",
-        "likes": 0
-      },
-      {
-        "author": "Roger",
-        "time": "2025-02-07",
-        "content": "For our office needs, we use an Ooma Office account with the Pro Plus plan, which I recently discovered can be integrated with Jobber. It’s definitely worth checking out! Jobber marketplace https://secure.getjobber.com/marketplace/ooma Ooma Site https://office.ooma.com/",
+        "author": "julie",
+        "time": "2025-02-25",
+        "content": "JOBBER COMMUNITY TEAM Hey HandyMillerMan, thanks for your post! We’ve forwarded your feedback to Success as they collect all feedback to share with our Product Team as they consolidate customer ideas/feedback so we can have a pulse on what would help our customers the most overall. If you have additional feedback or suggestions, please reach out to the Success team directly at support@getjobber.com, by phone at 1-888-721-1115, or chat via the chat icon in your Jobber account!",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "JOBBER COMMUNITY TEAM If you’re interested in an OpenPhone integration in the future, we’d highly recommend submitting a request for OpenPhone with the “Request an App” button at the bottom of our App Marketplace. That’s the best way to hear about it first, if we were to ever launch the integration. We typically reach out to customers who have specifically requested an integration, and we ask if they’d to join our Beta group before the official release!",
         "likes": 0
       },
       {
         "author": "HandyMillerMan",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "to julie julieThank you! I actually did that the other day and mentioned that I'd be happy to also sit down with the team to talk through what I'm trying to accomplish. Thanks!",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "JOBBER COMMUNITY TEAM to HandyMillerMan Yay! I'm glad to hear that",
         "likes": 0
       },
       {
+        "author": "yhuricamae1",
+        "time": "2025-04-25",
+        "content": "Hi! How's OpenPhone so far? They just actually announced it being integrated with Jobber, looking forward with using OpenPhone hehe",
+        "likes": 0
+      },
+      {
+        "author": "andrewfavro",
+        "time": "2025-04-25",
+        "content": "Hey HandyMillerMan yhuricamae1! My name is Andrew and I'm a Product Manager on Jobber's integrations. As yhuricamae1 mentioned, our integration with OpenPhone is now available and can be installed from our App Marketplace!. You can learn more about the integration from our Product Updates Announcement. And if you run into any issues, I would recommend checking out our help center article for this integration. If you run into any issues or have any feedback, please let me know! Thanks!",
+        "likes": 0
+      },
+      {
+        "author": "Roger",
+        "time": "2025-02-25",
+        "content": "For our office needs, we use an Ooma Office account with the Pro Plus plan, which I recently discovered can be integrated with Jobber. It’s definitely worth checking out! Jobber marketplace https://secure.getjobber.com/marketplace/ooma Ooma Site https://office.ooma.com/",
+        "likes": 0
+      },
+      {
         "author": "ryaantuttle",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "We use Goconnect for ALL of our business lines. We have (4) separate lines that all go to one line, making life SIMPLE and EASY. We also leverage virtual offices, so we don't need anyone at a physical location and can easily port the numbers to VA's if need be. It also allows us to set up prompts and have ALL messages transcribed via email. https://www.goto.com/offer/connect/a?campaignid=7014P000001vksuQAA&leadsource=Paid%20Search&gad_source=1&gbraid=0AAAAADumLfi65h1WNxb9l5sHcJfo01Pge&gclid=Cj0KCQjwyL24BhCtARIsALo0fSBn-50D6BLAvUWLr1f0wp3yu8L53z9pRrtjfLlghTciSWS5GAf96FsaAnyFEALw_wcB&gclsrc=aw.ds",
         "likes": 0
       }
@@ -1008,22 +1043,22 @@
     "title": "Gmail, Outlook Add-on and GetJobber Integration proposal",
     "url": "https://community.getjobber.com/discussions/integrations/gmail-outlook-add-on-and-getjobber-integration-proposal/2837",
     "author": "Aswath",
-    "authorRole": "Contributor 2",
-    "time": "2025-04-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-04-25",
     "content": "Dear Community, I am in the process of identifying integration work for Jobber and I have identified my first. Let me know if the following proposal sounds valuable for your business. Do field service professionals spend significant time communicating with clients via email? Getjobber currently lacks native Gmail and Outlook integration, unlike other CRM competitors who are moving toward email integration CRMs HubSpot, Salesforce, and Zoho have proven the value of Gmail integration Proposed Potential Features Customer Context Panel: Display Getjobber customer info in the Gmail sidebar when viewing client emails Job Creation: Create jobs directly from client emails with one click Email-to-Job Logging: Automatically record important emails to job history Scheduling: Add appointments to the Getjobber calendar from email conversations Business Value Time Savings: Field service businesses could save 5-10 hours weekly by eliminating context-switching Improved Response Time: Faster client communication with contextual information readily available Data Accuracy: Reduced manual data entry between email and Getjobber Customer Experience: More professional, coordinated communication with clients INTEGRATIONS SOFTWARE WORK SMARTER",
-    "views": 57,
+    "views": 67,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
-        "author": "Aswath",
-        "time": "2025-04-07",
-        "content": "Thanks for the . Our team is improving the expertise on Chrome extensions and gmail add-ons. We are looking forward to build the above add-on and offer it in jobber marketplace. Hopefully it is ok with you. If there is any scope for a partnership with your company to do this add-on, I am happy to discuss further. Thanks. jade Hello Aswath! Thank you for the wonderful suggestion. Although Jobber does not currently have an email integration, I think many Jobber customers would benefit from a feature this. I have submitted your feedback to our Product Development team. However, the best place to go and submit feedback when it comes to integration is the \"Apps\" tab on the left side menu of Jobber Online > Scroll down > Request an App. This form is monitored by the team responsible for adding new integrations for Jobber; your suggestion will go directly to them. Thanks for bringing this to the community!",
+        "author": "jade",
+        "time": "2025-04-25",
+        "content": "Hello Aswath! Thank you for the wonderful suggestion. Although Jobber does not currently have an email integration, I think many Jobber customers would benefit from a feature this. I have submitted your feedback to our Product Development team. However, the best place to go and submit feedback when it comes to integration is the \"Apps\" tab on the left side menu of Jobber Online > Scroll down > Request an App. This form is monitored by the team responsible for adding new integrations for Jobber; your suggestion will go directly to them. Thanks for bringing this to the community!",
         "likes": 0
       },
       {
         "author": "Aswath",
-        "time": "2025-04-07",
+        "time": "2025-04-25",
         "content": "Thanks for the . Our team is improving the expertise on Chrome extensions and gmail add-ons. We are looking forward to build the above add-on and offer it in jobber marketplace. Hopefully it is ok with you. If there is any scope for a partnership with your company to do this add-on, I am happy to discuss further. Thanks.",
         "likes": 0
       }
@@ -1034,40 +1069,40 @@
     "url": "https://community.getjobber.com/discussions/integrations/quickbooks-vs-xero/2197",
     "author": "AlwaysSparkling",
     "authorRole": "Contributor 2",
-    "time": "2025-03-07",
+    "time": "2025-02-25",
     "content": "Which have you guys found is easier to sync with jobber? quickbooks, or Xero? I tried syncing my account with Quickbooks, but I had $40k worth of undistributed funds, and would have to go through about 1,000 invoices individually to fix. called Jobber, they said its was quickbooks fault, and quickbooks said it was jobbers fault. I hate that there isn't someone from both ends that will hop on a call with you! Will most likely switch to Xero, what's been your guys experience with them? CLEANING QUICKBOOKS SOFTWARE",
-    "views": 152,
+    "views": 170,
     "likes": 1,
     "comments": 5,
     "replies": [
       {
-        "author": "Daniel_Wine",
-        "time": "2025-04-07",
-        "content": "I was actually told by a book keeper that it's best not to sync QB with any CRM. This is because it sometimes has these types of issues. He said that it's better just to export all the needed data via CSV and upload it at the end of the year to your QB. Something to that effect anyways. Not if this is helpful. AlwaysSparkling I have benign contact with Jobber support, I will hopefully be meeting with an experienced rep next week to show them what's going on. Hopefully there's some insight that can help us MLS10 to AlwaysSparkling That’s great! Please give an update! Would love to hear what they say. Thank You! MLS10 11 months ago I also have the same issue with jobber and QuickBooks. It’s making my book keeping a nightmare. MovingKing 11 months ago I am having the same issue and cant seem to get either party to resolve it. Looking forward to responses on this thread!",
+        "author": "MovingKing",
+        "time": "2025-02-25",
+        "content": "I am having the same issue and cant seem to get either party to resolve it. Looking forward to responses on this thread!",
         "likes": 0
       },
       {
-        "author": "Daniel_Wine",
-        "time": "2025-04-07",
-        "content": "I was actually told by a book keeper that it's best not to sync QB with any CRM. This is because it sometimes has these types of issues. He said that it's better just to export all the needed data via CSV and upload it at the end of the year to your QB. Something to that effect anyways. Not if this is helpful.",
+        "author": "MLS10",
+        "time": "2025-03-25",
+        "content": "I also have the same issue with jobber and QuickBooks. It’s making my book keeping a nightmare.",
         "likes": 0
       },
       {
         "author": "AlwaysSparkling",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "I have benign contact with Jobber support, I will hopefully be meeting with an experienced rep next week to show them what's going on. Hopefully there's some insight that can help us",
         "likes": 0
       },
       {
         "author": "MLS10",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "to AlwaysSparkling That’s great! Please give an update! Would love to hear what they say. Thank You!",
         "likes": 0
       },
       {
-        "author": "MLS10",
-        "time": "2025-03-07",
-        "content": "I also have the same issue with jobber and QuickBooks. It’s making my book keeping a nightmare.",
+        "author": "Daniel_Wine",
+        "time": "2025-03-25",
+        "content": "I was actually told by a book keeper that it's best not to sync QB with any CRM. This is because it sometimes has these types of issues. He said that it's better just to export all the needed data via CSV and upload it at the end of the year to your QB. Something to that effect anyways. Not if this is helpful.",
         "likes": 0
       }
     ]
@@ -1076,28 +1111,28 @@
     "title": "How Zapier and Jobber Integrations Can Make Your Life Easier",
     "url": "https://community.getjobber.com/discussions/integrations/how-zapier-and-jobber-integrations-can-make-your-life-easier/47",
     "author": "ryaantuttle",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-02-25",
     "content": "Saving time and cutting down on mistakes is key in our business. I’ve been using Zapier to connect Jobber with tools Google Sheets, Jotform, and WordPress. This setup has automated a lot of the repetitive tasks and keeps everything running smoothly. Let’s compare notes on the tools and workflows that are making our jobs easier. What about you? How are you using Zapier or other integrations with Jobber to streamline your business? What automations have made the biggest difference for you? HANDYMAN ZAPIER",
-    "views": 180,
+    "views": 189,
     "likes": 2,
     "comments": 3,
     "replies": [
       {
-        "author": "EnzoMinniti",
-        "time": "2025-04-07",
-        "content": "i’m interested to know how you’re using jot forms with Jobber WiringByron to EnzoMinniti Personally I use Airtable for my forms but I would think Jot Forms would be a great one to use! WiringByron 1 year ago Hi Ryaan, a friend of mine does some cool stuff with Jotform so it's been on my radar a little bit more. Could you tell me how your using it with Jobber? I use an airtable form that my crew fills out on their phones if there is a scope change while they are on site that the estimating team needs to know about. It's been handy.",
+        "author": "WiringByron",
+        "time": "2025-02-25",
+        "content": "Hi Ryaan, a friend of mine does some cool stuff with Jotform so it's been on my radar a little bit more. Could you tell me how your using it with Jobber? I use an airtable form that my crew fills out on their phones if there is a scope change while they are on site that the estimating team needs to know about. It's been handy.",
         "likes": 0
       },
       {
         "author": "EnzoMinniti",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "i’m interested to know how you’re using jot forms with Jobber",
         "likes": 0
       },
       {
         "author": "WiringByron",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "to EnzoMinniti Personally I use Airtable for my forms but I would think Jot Forms would be a great one to use!",
         "likes": 0
       }
@@ -1108,28 +1143,28 @@
     "url": "https://community.getjobber.com/discussions/integrations/qb-desktop-and-jobber/914",
     "author": "DevanS",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "I would to talk with someone that uses QB Desktop and Jobber for their business. I am trying to figure out my workflow for using both programs. I do not want to manually enter any invoices into QB. If there is a company out there that is using these two programs I’d love to connect and hear how you are using them together. QUICKBOOKS",
-    "views": 126,
+    "views": 135,
     "likes": 2,
     "comments": 3,
     "replies": [
       {
         "author": "bedellmgmt",
-        "time": "2025-02-07",
-        "content": "I use Quickbooks Online and Jobber. Feel free to ask any questions - always happy to help!!! 😎 flowirrigation to bedellmgmt Hey there, I just posted here about my QB and Jobber difficulties. My issue is, I logged into QB and half of my transactions/invoices are missing from Jan 1st though June 23rd. Have you ever had this happen and what did you do to remedy this and recover all the information back into QB? -Ryan AlwaysSparkling to flowirrigation 10 months ago Hey Ryan, any luck with your problem?",
-        "likes": 0
-      },
-      {
-        "author": "bedellmgmt",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "I use Quickbooks Online and Jobber. Feel free to ask any questions - always happy to help!!! 😎",
         "likes": 0
       },
       {
         "author": "flowirrigation",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "to bedellmgmt Hey there, I just posted here about my QB and Jobber difficulties. My issue is, I logged into QB and half of my transactions/invoices are missing from Jan 1st though June 23rd. Have you ever had this happen and what did you do to remedy this and recover all the information back into QB? -Ryan",
+        "likes": 0
+      },
+      {
+        "author": "AlwaysSparkling",
+        "time": "2025-03-25",
+        "content": "to flowirrigation Hey Ryan, any luck with your problem?",
         "likes": 0
       }
     ]
@@ -1138,22 +1173,22 @@
     "title": "Quotes, Deposits and Quickbooks....",
     "url": "https://community.getjobber.com/discussions/integrations/quotes-deposits-and-quickbooks-/1500",
     "author": "andrewluxuryre",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "Hi, when a client approves a quote and leaves a deposit dropper does not allow Quickbooks to recognize it. I actually need to create an invoice in order for Jobber to allow Quickbooks that recognize it. The only problem is the job has not been done yet they've only provided a deposit. So then what I end up having to do is create an invoice just so that deposit payment gets recognized by Quickbooks. Then I have to create another invoice when the job is actually done could be days or months depending on the job and that doesn't show the deposit I received when the job was approved. That I have to manually add it and it screws my Quickbooks Up! Who else lives this nightmare? QUICKBOOKS",
-    "views": 97,
+    "views": 107,
     "likes": 4,
     "comments": 2,
     "replies": [
       {
-        "author": "netco",
-        "time": "2025-04-07",
-        "content": "I'm also struggling with this quote->deposit->Quickbooks reconciliation workflow. We receive hundreds of deposits through Jobber quotes, and it's a mess in Quickbooks. Credit match in QBs didn't work for me, the final invoice in jobber (total-deposit) was than the incorrect amount when synced to QB (total- jobber deposit - credit memo). If I create an invoice off of the quote once I receive a deposit in Jobber, that seems to reconcile in QB. However, I'm then creating invoices before jobs are done and that's backwards (especially w/ invoice due dates and change orders). Hoping the Jobber product team can prioritize the integration workflow, it seems a pretty major flaw... bedellmgmt 1 year ago Try creating a credit memo in quickbooks instead. You'll likely have to manually match this up your deposit transaction in your (checking?) register but it may auto-match. You'll also have to apply this credit to the invoice you create when you finally complete the work and generate an invoice but this may provide a cleaner solution for you.",
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "Try creating a credit memo in quickbooks instead. You'll likely have to manually match this up your deposit transaction in your (checking?) register but it may auto-match. You'll also have to apply this credit to the invoice you create when you finally complete the work and generate an invoice but this may provide a cleaner solution for you.",
         "likes": 0
       },
       {
         "author": "netco",
-        "time": "2025-04-07",
+        "time": "2025-03-25",
         "content": "I'm also struggling with this quote->deposit->Quickbooks reconciliation workflow. We receive hundreds of deposits through Jobber quotes, and it's a mess in Quickbooks. Credit match in QBs didn't work for me, the final invoice in jobber (total-deposit) was than the incorrect amount when synced to QB (total- jobber deposit - credit memo). If I create an invoice off of the quote once I receive a deposit in Jobber, that seems to reconcile in QB. However, I'm then creating invoices before jobs are done and that's backwards (especially w/ invoice due dates and change orders). Hoping the Jobber product team can prioritize the integration workflow, it seems a pretty major flaw...",
         "likes": 0
       }
@@ -1164,27 +1199,34 @@
     "url": "https://community.getjobber.com/discussions/integrations/jobber-and-realwork/2560",
     "author": "Schellpower",
     "authorRole": "Contributor 2",
-    "time": "2025-04-07",
+    "time": "2025-03-25",
     "content": "Has anybody integrated RealWork into jobber? if so is it worth it? Thanks in advance",
-    "views": 41,
+    "views": 43,
     "likes": 1,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "Automatic daily syncing to Quickbooks",
     "url": "https://community.getjobber.com/discussions/integrations/automatic-daily-syncing-to-quickbooks/2180",
     "author": "amelectrique",
     "authorRole": "Contributor 2",
-    "time": "2025-03-07",
+    "time": "2025-02-25",
     "content": "Is there a way to automatically sync my client list daily with quickbooks so I can avoid always having to go to my computer to sync manually the newly entered client info before being able to say create an invoice on QB or a job on Jobber? QUICKBOOKS krista Hi there, thank you so much for the question! Let's see what we can do to automate this! Our Success team would love to discuss your Quickbook Sync options! Please reach out to 1-888-721-1115 option 1 or support@getjobber.com",
-    "views": 77,
+    "views": 86,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-03-07",
+        "time": "2025-02-25",
         "content": "Hi there, thank you so much for the question! Let's see what we can do to automate this! Our Success team would love to discuss your Quickbook Sync options! Please reach out to 1-888-721-1115 option 1 or support@getjobber.com",
         "likes": 0
       }
@@ -1194,35 +1236,35 @@
     "title": "Pay Stubs/slips",
     "url": "https://community.getjobber.com/discussions/integrations/pay-stubsslips/2043",
     "author": "GloriousAir",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "What intergrade software i could use to may pay stubs/slips at a reasonable price",
-    "views": 135,
+    "views": 145,
     "likes": 4,
     "comments": 4,
     "replies": [
       {
-        "author": "TheProcessCEO",
-        "time": "2025-03-07",
-        "content": "We use Quickbooks to pay and track spend for our subcontractors! FredHodgeJr 1 year ago ADP doesnt integrate with Jobber but it has been reliable and resonably priced. judithvirag BUILDER 1 1 year ago We use Quickbooks and do the payroll ourselves. There is a Workforce portion of QB where the employee can view their paystubs. It is $2 extra per month per active employee (we are in Canada). Super easy. bedellmgmt to judithvirag 1 year ago Same here - QBO makes this very easy!!",
+        "author": "judithvirag",
+        "time": "2025-02-25",
+        "content": "BUILDER 1 We use Quickbooks and do the payroll ourselves. There is a Workforce portion of QB where the employee can view their paystubs. It is $2 extra per month per active employee (we are in Canada). Super easy.",
         "likes": 0
       },
       {
-        "author": "TheProcessCEO",
-        "time": "2025-03-07",
-        "content": "We use Quickbooks to pay and track spend for our subcontractors!",
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "to judithvirag Same here - QBO makes this very easy!!",
         "likes": 0
       },
       {
         "author": "FredHodgeJr",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "ADP doesnt integrate with Jobber but it has been reliable and resonably priced.",
         "likes": 0
       },
       {
-        "author": "judithvirag",
-        "time": "2025-02-07",
-        "content": "BUILDER 1 We use Quickbooks and do the payroll ourselves. There is a Workforce portion of QB where the employee can view their paystubs. It is $2 extra per month per active employee (we are in Canada). Super easy.",
+        "author": "TheProcessCEO",
+        "time": "2025-02-25",
+        "content": "We use Quickbooks to pay and track spend for our subcontractors!",
         "likes": 0
       }
     ]
@@ -1232,22 +1274,22 @@
     "url": "https://community.getjobber.com/discussions/integrations/docusign/1520",
     "author": "Valerie",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "We are going to use the billing portion of Jobber this season (in the past we have used another platform). In order to have customers contracts signed- do we need DocuSign? Seems another monthly payment added on top of jobber. DOCUSIGN krista Hi Valerie, thanks for the question. Exciting to hear you are starting to invoice with Jobber! It would depend on what kind of documentation you require. We have required signatures on quotes, which many Jobber customers use as contracts. DocuSign is a great option if your needs with contracts are more extensive than a client message on a Quote would provide.",
-    "views": 125,
+    "views": 135,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Hi Valerie, thanks for the question. Exciting to hear you are starting to invoice with Jobber! It would depend on what kind of documentation you require. We have required signatures on quotes, which many Jobber customers use as contracts. DocuSign is a great option if your needs with contracts are more extensive than a client message on a Quote would provide.",
         "likes": 0
       },
       {
-        "author": "krista",
-        "time": "2025-02-07",
-        "content": "Hi Valerie, thanks for the question. Exciting to hear you are starting to invoice with Jobber! It would depend on what kind of documentation you require. We have required signatures on quotes, which many Jobber customers use as contracts. DocuSign is a great option if your needs with contracts are more extensive than a client message on a Quote would provide.",
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "Great question - following!!!",
         "likes": 0
       }
     ]
@@ -1257,15 +1299,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/has-anyone-used-the-docusign-integration/1510",
     "author": "dougbryant88",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Does it post signed docs to customer portal? Want to move more into digital but don't want to have to jump to multiple platforms to find things. DOCUSIGN",
-    "views": 77,
+    "views": 85,
     "likes": 2,
     "comments": 1,
     "replies": [
       {
         "author": "bedellmgmt",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Great question - following along as this is something I'm looking to implement as well",
         "likes": 0
       }
@@ -1275,53 +1317,53 @@
     "title": "What are your favorite integrations in Jobber?",
     "url": "https://community.getjobber.com/discussions/integrations/what-are-your-favorite-integrations-in-jobber/20",
     "author": "rebecca",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
-    "content": "JOBBER COMMUNITY TEAM How have they helped your business? CALLRAIL COMPANYCAM DOCUSIGN GOOGLE GUSTO MAILCHIMP QUICKBOOKS RESPONSIBID THUMBTACK WISETACK",
-    "views": 413,
+    "authorRole": "Jobber Community Team",
+    "time": "2025-02-25",
+    "content": "JOBBER COMMUNITY TEAM How have they helped your business? CALLRAIL COMPANYCAM DOCUSIGN GOOGLE GUSTO MAILCHIMP QUICKBOOKS RESPONSIBID THUMBTACK WISETACK ZAPIER",
+    "views": 430,
     "likes": 3,
     "comments": 7,
     "replies": [
       {
-        "author": "GoodNeighborAtx",
-        "time": "2025-02-07",
-        "content": "Zapier and Company Cam hands down! Gary Hands down Company Cam Followed by Responsibid Although Responsibid Is a supper close second. Art Still can't find time to take a look at them and see if any of them can help my business. But thanks for suggestions. THS Definitely Gusto. rebecca JOBBER COMMUNITY TEAM to THS Oh! Thanks for sharing. Is it a new integration for you? How has it been helping? ryaantuttle I would say our favorite integration is between Zapier and Jotform. It's allowed us to automate our estimate process and run digital business model 🙌 rebecca JOBBER COMMUNITY TEAM to ryaantuttle That's great! The more automations the better ⚡️",
+        "author": "ryaantuttle",
+        "time": "2025-02-25",
+        "content": "I would say our favorite integration is between Zapier and Jotform. It's allowed us to automate our estimate process and run digital business model 🙌",
         "likes": 0
       },
       {
-        "author": "GoodNeighborAtx",
-        "time": "2025-02-07",
-        "content": "Zapier and Company Cam hands down!",
-        "likes": 0
-      },
-      {
-        "author": "Gary",
-        "time": "2025-02-07",
-        "content": "Hands down Company Cam Followed by Responsibid Although Responsibid Is a supper close second.",
-        "likes": 0
-      },
-      {
-        "author": "Art",
-        "time": "2025-02-07",
-        "content": "Still can't find time to take a look at them and see if any of them can help my business. But thanks for suggestions.",
+        "author": "rebecca",
+        "time": "2025-02-25",
+        "content": "JOBBER COMMUNITY TEAM to ryaantuttle That's great! The more automations the better ⚡️",
         "likes": 0
       },
       {
         "author": "THS",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Definitely Gusto.",
         "likes": 0
       },
       {
         "author": "rebecca",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "JOBBER COMMUNITY TEAM to THS Oh! Thanks for sharing. Is it a new integration for you? How has it been helping?",
         "likes": 0
       },
       {
-        "author": "ryaantuttle",
-        "time": "2025-02-07",
-        "content": "I would say our favorite integration is between Zapier and Jotform. It's allowed us to automate our estimate process and run digital business model 🙌",
+        "author": "Art",
+        "time": "2025-02-25",
+        "content": "Still can't find time to take a look at them and see if any of them can help my business. But thanks for suggestions.",
+        "likes": 0
+      },
+      {
+        "author": "Gary",
+        "time": "2025-02-25",
+        "content": "Hands down Company Cam Followed by Responsibid Although Responsibid Is a supper close second.",
+        "likes": 0
+      },
+      {
+        "author": "GoodNeighborAtx",
+        "time": "2025-02-25",
+        "content": "Zapier and Company Cam hands down!",
         "likes": 0
       }
     ]
@@ -1331,15 +1373,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/airbnb-cleaning-calendar-intergration/1098",
     "author": "JSilva77",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Is there anyway to integrate ICAL Links from booking sites airbnb VRBO Hostaway into jobber to auto create jobs when there is a checkout. We need this asap, other platforms already have it (Maidily) CLEANING SOFTWARE ZAPIER",
-    "views": 110,
+    "views": 118,
     "likes": 2,
     "comments": 1,
     "replies": [
       {
         "author": "seanwatkins479",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "You may want to check this string Airbnb Cleaning Automated Scheduling | JOBBER BLUEPRINT - 330",
         "likes": 0
       }
@@ -1349,22 +1391,22 @@
     "title": "Outsourcing Booking Keeping QB to a firm",
     "url": "https://community.getjobber.com/discussions/integrations/outsourcing-booking-keeping-qb-to-a-firm/1039",
     "author": "gvlandscape",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 3",
+    "time": "2025-02-25",
     "content": "Does anybody have any luck with hiring a book keeper to take care of your bankfeed and QB online account that is remote? Do they have any experience with moving jobber data to QB? QUICKBOOKS",
-    "views": 134,
+    "views": 143,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
-        "author": "ProServe-DreGo",
-        "time": "2025-02-07",
-        "content": "Hey there! I’m curious about your business setup. You’re juggling running your business, doing accounting and bookkeeping, and managing your QuickBooks. I’ve found it tough to keep up with all these tasks simultaneously. I’m particularly interested in how you manage your accounting and bookkeeping, especially since you’re dealing with a lot of transactions and expenses. I’m wondering if you could share your process for creating a smooth system for processing through QBO and Jobber. I'm hoping i could identify any potential issues in my accounting and bookkeeping. I’m particularly interested in how you manage your accounting, especially since you’re dealing with a CPA or tax guy. On the other hand, a bookkeeper manages the policy of the books, whether it’s cash or accrual basis. A lot of this stuff can be challenging and interesting, but it seems you’d need a minor in accounting to be proficient in either role. Do you have any thoughts or recommendations on how you manage your accounting and bookkeeping? What red flags do you keep an eye out for to avoid mistakes and maximize opportunities? I’m also interested in how you balance your accounting with other business pillars operations, marketing, sales, and core competency. bedellmgmt I don't use an accountant or bookkeeper but I have used Jobber and QBO synced together for 10 years now. I know QBO has bookkeepers you can hire directly - perhaps that's a good place to start?? Hoping others have some good solutions too!!",
+        "author": "bedellmgmt",
+        "time": "2025-02-25",
+        "content": "I don't use an accountant or bookkeeper but I have used Jobber and QBO synced together for 10 years now. I know QBO has bookkeepers you can hire directly - perhaps that's a good place to start?? Hoping others have some good solutions too!!",
         "likes": 0
       },
       {
         "author": "ProServe-DreGo",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Hey there! I’m curious about your business setup. You’re juggling running your business, doing accounting and bookkeeping, and managing your QuickBooks. I’ve found it tough to keep up with all these tasks simultaneously. I’m particularly interested in how you manage your accounting and bookkeeping, especially since you’re dealing with a lot of transactions and expenses. I’m wondering if you could share your process for creating a smooth system for processing through QBO and Jobber. I'm hoping i could identify any potential issues in my accounting and bookkeeping. I’m particularly interested in how you manage your accounting, especially since you’re dealing with a CPA or tax guy. On the other hand, a bookkeeper manages the policy of the books, whether it’s cash or accrual basis. A lot of this stuff can be challenging and interesting, but it seems you’d need a minor in accounting to be proficient in either role. Do you have any thoughts or recommendations on how you manage your accounting and bookkeeping? What red flags do you keep an eye out for to avoid mistakes and maximize opportunities? I’m also interested in how you balance your accounting with other business pillars operations, marketing, sales, and core competency.",
         "likes": 0
       }
@@ -1375,15 +1417,15 @@
     "url": "https://community.getjobber.com/discussions/integrations/xero-integration/299",
     "author": "davemc",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "We have 5 sales categories in Xero. Jobber only allows sales to be sent to one Xero account. Has anyone discovered a means of placing the jobber sales into the proper Xero accounts",
-    "views": 110,
+    "views": 115,
     "likes": 3,
     "comments": 1,
     "replies": [
       {
         "author": "bedellmgmt",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "Did you end up figuring this out? If so, what worked??",
         "likes": 0
       }
@@ -1393,16 +1435,16 @@
     "title": "Any plans to see more social integrations native to Jobber?",
     "url": "https://community.getjobber.com/discussions/integrations/any-plans-to-see-more-social-integrations-native-to-jobber/378",
     "author": "BadgerHauling",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Contributor 4",
+    "time": "2025-02-25",
     "content": "I would love to capture my leads that come in from Nextdoor and Facebook. DIGITAL MARKETING STRATEGIES LEAD GEN SOCIAL MEDIA MARKETING",
-    "views": 132,
+    "views": 137,
     "likes": 7,
     "comments": 1,
     "replies": [
       {
         "author": "bedellmgmt",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "That's a neat suggestion! I can imagine that would be really helpful to a lot of users 😎",
         "likes": 0
       }
@@ -1413,45 +1455,52 @@
     "url": "https://community.getjobber.com/discussions/integrations/jobber-and-qb-desktop/882",
     "author": "DevanS",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Does anyone else use QB Desktop version along with Jobber? I’m specifically looking for how you handle deposits and bank reconciliation. Before Jobber, we would manually enter invoices into QB Desktop and reconcile but now that we don’t have our invoices going through QB I’m looking for the proper workflow for entering my payments and deposits into QB.",
-    "views": 40,
+    "views": 41,
     "likes": 1,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   },
   {
     "title": "Pulling Job Internal Notes with Zapier",
     "url": "https://community.getjobber.com/discussions/integrations/pulling-job-internal-notes-with-zapier/754",
     "author": "Matt_Dwight",
     "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "time": "2025-02-25",
     "content": "Hi y'all, I'm working with a client of mine that uses Jobber and has used them for years, but I'm fairly new to the platform. I work in digital marketing and I'm working on creating a new tool for them. In order for the tool to work, I'm first just trying to export specific data from Jobs into a Google Sheet. I've been able to export everything I need except \"internal notes\". I can't seem to find that field to map to anywhere. Is it labeled something else or just not there? Ultimately I need the pics from the project and my client uploads them to that field. Open to ideas or suggestions and happy to expand on what I'm working on if anyone is curious. Thanks in advance! Matt ZAPIER julie Pulling the internal note info on jobs is unfortunately not currently supported by our Zapier integration, but it’s on our radar for adding in the future. Within the Zapier tool, you can use the get help button to submit feature requests. That is the best place to request any sort of additional functionality this. We also have our Developer Center, where you can build custom integrations. This requires more technical programming skills, but you can totally read all of the internal note data from jobs in there.",
-    "views": 182,
+    "views": 195,
     "likes": 2,
     "comments": 4,
     "replies": [
       {
         "author": "julie",
-        "time": "2025-02-07",
-        "content": "Pulling the internal note info on jobs is unfortunately not currently supported by our Zapier integration, but it’s on our radar for adding in the future. Within the Zapier tool, you can use the get help button to submit feature requests. That is the best place to request any sort of additional functionality this. We also have our Developer Center, where you can build custom integrations. This requires more technical programming skills, but you can totally read all of the internal note data from jobs in there.",
+        "time": "2025-02-25",
+        "content": "JOBBER COMMUNITY TEAM Hey Matt! Unfortunately, there is no way to pull a report of internal notes. However, this is really good feedback which I've passed along to our Success Team. Curious to see if other members have any workarounds or suggestions!",
+        "likes": 0
+      },
+      {
+        "author": "Matt_Dwight",
+        "time": "2025-02-25",
+        "content": "Thanks Julie for responding! Is there another field they can add pics to or notes to that we could pull data on? Open to other solutions or options.",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-02-07",
-        "content": "Pulling the internal note info on jobs is unfortunately not currently supported by our Zapier integration, but it’s on our radar for adding in the future. Within the Zapier tool, you can use the get help button to submit feature requests. That is the best place to request any sort of additional functionality this. We also have our Developer Center, where you can build custom integrations. This requires more technical programming skills, but you can totally read all of the internal note data from jobs in there.",
+        "time": "2025-02-25",
+        "content": "JOBBER COMMUNITY TEAM to Matt_Dwight Hey Matt, good follow-up question. There are no other fields within Jobber where you can add pics. No export options for notes. However, it can run reports on custom fields, and company cam might be a better alternative for your pictures.",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-02-07",
-        "content": "JOBBER COMMUNITY TEAM Pulling the internal note info on jobs is unfortunately not currently supported by our Zapier integration, but it’s on our radar for adding in the future. Within the Zapier tool, you can use the get help button to submit feature requests. That is the best place to request any sort of additional functionality this. We also have our Developer Center, where you can build custom integrations. This requires more technical programming skills, but you can totally read all of the internal note data from jobs in there. Matt_Dwight Thanks Julie for responding! Is there another field they can add pics to or notes to that we could pull data on? Open to other solutions or options. julie JOBBER COMMUNITY TEAM to Matt_Dwight Hey Matt, good follow-up question. There are no other fields within Jobber where you can add pics. No export options for notes. However, it can run reports on custom fields, and company cam might be a better alternative for your pictures. julie JOBBER COMMUNITY TEAM Hey Matt! Unfortunately, there is no way to pull a report of internal notes. However, this is really good feedback which I've passed along to our Success Team. Curious to see if other members have any workarounds or suggestions!",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-02-07",
+        "time": "2025-02-25",
         "content": "JOBBER COMMUNITY TEAM Pulling the internal note info on jobs is unfortunately not currently supported by our Zapier integration, but it’s on our radar for adding in the future. Within the Zapier tool, you can use the get help button to submit feature requests. That is the best place to request any sort of additional functionality this. We also have our Developer Center, where you can build custom integrations. This requires more technical programming skills, but you can totally read all of the internal note data from jobs in there.",
         "likes": 0
       }
@@ -1461,12 +1510,19 @@
     "title": "What integrations have you been considering connecting with Jobber and want advice on?",
     "url": "https://community.getjobber.com/discussions/integrations/what-integrations-have-you-been-considering-connecting-with-jobber-and-want-advi/556",
     "author": "rebecca",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-07",
+    "authorRole": "Jobber Community Team",
+    "time": "2025-02-25",
     "content": "JOBBER COMMUNITY TEAM Or, share your favorite integration and how it's helped your business!",
-    "views": 63,
+    "views": 65,
     "likes": 1,
-    "comments": 0,
-    "replies": []
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
   }
 ]
