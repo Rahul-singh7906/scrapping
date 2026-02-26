@@ -548,14 +548,35 @@ async function scrapeDiscussionList(
       break;
     }
 
-    // Find explicit Next link
-    const nextHref = await page
-      .locator(".pagination a[rel='next'], a[aria-label='Next Page'], a[aria-label='Next'], a:has-text('Next')")
-      .first()
-      .getAttribute('href')
-      .catch(() => null);
+    // Find explicit Next link - try multiple selectors for different Khoros pagination styles
+    let nextHref: string | null = null;
+    const nextSelectors = [
+      ".pagination a[rel='next']",
+      "a[aria-label='Next Page']",
+      "a[aria-label='Next']",
+      "a:has-text('Next')",
+      // Khoros Aurora cursor-based pagination: links with ?after= parameter
+      "a[href*='?after=']",
+      "a[href*='&after=']",
+      // PagerPreviousNextLinkable component
+      "[data-testid*='pager'] a",
+      "[data-testid*='Pager'] a",
+      "[class*='Pager'] a:not(:has-text('Previous')):not(:has-text('first'))",
+      "[class*='pager'] a:not(:has-text('Previous')):not(:has-text('first'))",
+    ];
+    for (const sel of nextSelectors) {
+      nextHref = await page.locator(sel).first().getAttribute('href').catch(() => null);
+      if (nextHref) break;
+    }
     if (nextHref) {
-      current = new URL(nextHref, current).toString();
+      const nextUrl = new URL(nextHref, current).toString();
+      // Don't revisit already-seen pages
+      if (visitedPages.has(nextUrl)) {
+        current = null;
+      } else {
+        console.log(`→ Found next page: ${nextUrl.substring(nextUrl.indexOf('?'))}`);
+        current = nextUrl;
+      }
     } else {
       current = null;
     }
