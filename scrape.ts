@@ -35,7 +35,13 @@ interface ScrapeMetadata {
   [topicPath: string]: TopicMetadata;
 }
 
-const METADATA_FILE = "scrape_metadata.json";
+const OUTPUT_DIR = "output";
+const METADATA_FILE = `${OUTPUT_DIR}/scrape_metadata.json`;
+
+// Ensure output directory exists
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
 
 function readMetadata(): ScrapeMetadata {
   if (fs.existsSync(METADATA_FILE)) {
@@ -81,10 +87,13 @@ function getProxyConfig() {
   
   try {
     const url = new URL(proxy);
+    // Most HTTP proxies use http:// for the proxy connection itself,
+    // even when proxying HTTPS traffic. Normalize https: -> http:
+    const protocol = url.protocol === 'https:' ? 'http:' : url.protocol;
     return {
-      server: `${url.protocol}//${url.host}`,
-      username: url.username || undefined,
-      password: url.password || undefined,
+      server: `${protocol}//${url.host}`,
+      username: url.username ? decodeURIComponent(url.username) : undefined,
+      password: url.password ? decodeURIComponent(url.password) : undefined,
     };
   } catch (err) {
     console.warn(`Invalid proxy URL: ${proxy}`);
@@ -700,7 +709,7 @@ async function scrapeDiscussionList(
 
       const topicPath = topicPathMatch[1];
       console.log(`📂 Topic path identified: ${topicPath}`);
-      const outputFilename = `${topicPath.replace(/\//g, "_")}_full.json`;
+      const outputFilename = `${OUTPUT_DIR}/${topicPath.replace(/\//g, "_")}_full.json`;
       console.log(`💾 Output filename: ${outputFilename}`);
 
       // Load existing data for incremental scraping
