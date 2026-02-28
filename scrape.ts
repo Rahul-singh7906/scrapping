@@ -80,25 +80,76 @@ function getRandomUserAgent() {
   return userAgents[Math.floor(Math.random() * userAgents.length)];
 }
 
-// Parse proxy configuration
-function getProxyConfig() {
-  const proxy = process.env.PROXY_URL || process.argv.find(arg => arg.startsWith('--proxy='))?.split('=')[1];
-  if (!proxy) return undefined;
-  
+type ProxyConfig = { server: string; username?: string; password?: string };
+
+// Parse a URL-format proxy (http://user:pass@host:port or https://...)
+function parseProxyUrl(proxy: string): ProxyConfig | null {
   try {
     const url = new URL(proxy);
-    // Most HTTP proxies use http:// for the proxy connection itself,
-    // even when proxying HTTPS traffic. Normalize https: -> http:
+    // Normalize https: -> http: (proxy connection is plain HTTP even when proxying HTTPS traffic)
     const protocol = url.protocol === 'https:' ? 'http:' : url.protocol;
     return {
       server: `${protocol}//${url.host}`,
       username: url.username ? decodeURIComponent(url.username) : undefined,
       password: url.password ? decodeURIComponent(url.password) : undefined,
     };
-  } catch (err) {
-    console.warn(`Invalid proxy URL: ${proxy}`);
-    return undefined;
+  } catch {
+    return null;
   }
+}
+
+// Parse a file-format proxy line: host:port:user:pass or host:port
+function parseProxyLine(line: string): ProxyConfig | null {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.startsWith('#')) return null;
+  const parts = trimmed.split(':');
+  if (parts.length >= 4) {
+    const [host, port, username, password] = parts;
+    return { server: `http://${host}:${port}`, username, password };
+  }
+  if (parts.length === 2) {
+    return { server: `http://${parts[0]}:${parts[1]}` };
+  }
+  return null;
+}
+
+// Load all proxies from web-proxies.txt
+function loadProxiesFromFile(): ProxyConfig[] {
+  const filePath = 'web-proxies.txt';
+  if (!fs.existsSync(filePath)) return [];
+  return fs.readFileSync(filePath, 'utf-8')
+    .split('\n')
+    .map(parseProxyLine)
+    .filter((p): p is ProxyConfig => p !== null);
+}
+
+// Build full proxy list: env/CLI proxy first, then all file proxies
+function buildProxyList(): ProxyConfig[] {
+  const cliProxy = process.env.PROXY_URL ||
+    process.argv.find(arg => arg.startsWith('--proxy='))?.split('=')[1];
+  const list: ProxyConfig[] = [];
+  if (cliProxy) {
+    const p = parseProxyUrl(cliProxy);
+    if (p) list.push(p);
+    else console.warn(`⚠️ Invalid proxy URL from env/args: ${cliProxy}`);
+  }
+  list.push(...loadProxiesFromFile());
+  return list;
+}
+
+// Returns true when the error is a proxy/network connection failure
+function isProxyError(err: unknown): boolean {
+  const msg = err instanceof Error ? err.message : String(err);
+  const name = err instanceof Error ? err.name : '';
+  return (
+    msg.includes('ERR_PROXY_CONNECTION_FAILED') ||
+    msg.includes('ERR_TIMED_OUT') ||
+    msg.includes('ERR_HTTP_RESPONSE_CODE_FAILURE') ||
+    msg.includes('ERR_CONNECTION_REFUSED') ||
+    msg.includes('ERR_CONNECTION_TIMED_OUT') ||
+    name === 'TimeoutError' ||
+    msg.includes('Timeout') && msg.includes('exceeded')
+  );
 }
 
 // Text cleanup utilities
@@ -621,21 +672,19 @@ async function scrapeDiscussionList(
   return allDetails;
 }
 
-(async () => {
-  const proxyConfig = getProxyConfig();
+async function launchBrowser(proxyConfig?: ProxyConfig) {
   if (proxyConfig) {
     console.log(`🌐 Using proxy: ${proxyConfig.server}`);
+  } else {
+    console.log(`🌐 No proxy — connecting directly`);
   }
-
-  const browser = await chromium.launch({ 
+  const browser = await chromium.launch({
     headless: false,
     proxy: proxyConfig,
   });
-  
   const context = await browser.newContext({
     userAgent: getRandomUserAgent(),
     viewport: { width: 1366, height: 768 },
-    // Additional stealth settings
     extraHTTPHeaders: {
       'Accept-Language': 'en-US,en;q=0.9',
       'Accept-Encoding': 'gzip, deflate, br',
@@ -644,15 +693,21 @@ async function scrapeDiscussionList(
       'Upgrade-Insecure-Requests': '1',
     },
   });
-  
   const page = await context.newPage();
-  
-  // Set random timezone and hide webdriver
   await page.addInitScript(() => {
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
   });
+  return { browser, page };
+}
 
-// List of target URLs to scrape
+(async () => {
+  const proxyList = buildProxyList();
+  let proxyIndex = 0;
+  console.log(`📋 Loaded ${proxyList.length} proxy/proxies from env/file`);
+
+  let { browser, page } = await launchBrowser(proxyList[proxyIndex]);
+
+  // List of target URLs to scrape
   const targetUrls = [
     "https://community.getjobber.com/category/using-jobber/discussions/online-booking-requests/all-topics",
     "https://community.getjobber.com/category/using-jobber/discussions/marketing-tools/all-topics",
@@ -673,16 +728,34 @@ async function scrapeDiscussionList(
     "https://community.getjobber.com/category/ask-the-community/discussions/announcements/all-topics",
   ];
 
-  // Check for login only once at the beginning
-  await page.goto(targetUrls[0], { waitUntil: "domcontentloaded" });
-
-  const needsLogin = await page.isVisible('text="Sign In"');
-  if (needsLogin && !process.env.SKIP_LOGIN) {
-    console.log("➡️ Please click 'Sign In' and complete login manually, then press Resume.");
-    console.log("   (Set SKIP_LOGIN=1 to skip this prompt and scrape without logging in)");
-    await page.pause();
-  } else if (needsLogin) {
-    console.log("⚠️ Sign In detected but SKIP_LOGIN is set — continuing without login.");
+  // Login check — rotate proxy if connection fails
+  {
+    let loginDone = false;
+    let loginAttempts = 0;
+    while (!loginDone) {
+      try {
+        await page.goto(targetUrls[0], { waitUntil: "domcontentloaded" });
+        const needsLogin = await page.isVisible('text="Sign In"');
+        if (needsLogin && !process.env.SKIP_LOGIN) {
+          console.log("➡️ Please click 'Sign In' and complete login manually, then press Resume.");
+          console.log("   (Set SKIP_LOGIN=1 to skip this prompt and scrape without logging in)");
+          await page.pause();
+        } else if (needsLogin) {
+          console.log("⚠️ Sign In detected but SKIP_LOGIN is set — continuing without login.");
+        }
+        loginDone = true;
+      } catch (err) {
+        loginAttempts++;
+        if (isProxyError(err) && proxyList.length > 1 && loginAttempts < proxyList.length) {
+          console.error(`❌ Proxy ${proxyList[proxyIndex]?.server} failed. Rotating to next proxy...`);
+          await browser.close();
+          proxyIndex = (proxyIndex + 1) % proxyList.length;
+          ({ browser, page } = await launchBrowser(proxyList[proxyIndex]));
+        } else {
+          throw err;
+        }
+      }
+    }
   }
 
   console.log(`🤖 Using User-Agent: ${await page.evaluate(() => navigator.userAgent)}`);
@@ -699,56 +772,76 @@ async function scrapeDiscussionList(
     console.log(`🔄 [${i + 1}/${targetUrls.length}] Processing: ${targetUrl}`);
     console.log('='.repeat(80));
 
-    try {
-      // Extract topic path from URL for filename
-      const topicPathMatch = targetUrl.match(/\/discussions\/([^\/]+)/);
-      if (!topicPathMatch) {
-        console.error("❌ Invalid target URL format. Skipping...");
-        continue;
+    // Extract topic path from URL for filename
+    const topicPathMatch = targetUrl.match(/\/discussions\/([^\/]+)/);
+    if (!topicPathMatch) {
+      console.error("❌ Invalid target URL format. Skipping...");
+      continue;
+    }
+
+    const topicPath = topicPathMatch[1];
+    console.log(`📂 Topic path identified: ${topicPath}`);
+    const outputFilename = `${OUTPUT_DIR}/${topicPath.replace(/\//g, "_")}_full.json`;
+    console.log(`💾 Output filename: ${outputFilename}`);
+
+    // Load existing data for incremental scraping
+    const existingDiscussions = loadExistingDiscussions(outputFilename);
+    const existingUrls = new Set(existingDiscussions.map(d => d.url));
+    console.log(`📂 Found ${existingDiscussions.length} existing discussions in ${outputFilename}`);
+
+    // Scrape with automatic proxy rotation on connection failure
+    const maxProxyAttempts = Math.min(proxyList.length || 1, 5);
+    let proxyAttemptsForUrl = 0;
+
+    while (proxyAttemptsForUrl < maxProxyAttempts) {
+      try {
+        console.log("🔍 Scraping new discussions (incremental mode with auto-save)...");
+        const newDiscussions = await scrapeDiscussionList(page, targetUrl, existingUrls, existingDiscussions, outputFilename);
+        console.log(`🆕 Completed ${newDiscussions.length} new discussion(s)`);
+
+        // Final merge and save
+        const mergedDiscussions = [...newDiscussions, ...existingDiscussions];
+        fs.writeFileSync(outputFilename, JSON.stringify(mergedDiscussions, null, 2));
+        console.log(`✅ Final save: ${mergedDiscussions.length} total discussion(s) to ${outputFilename}`);
+
+        // Update metadata
+        metadata[topicPath] = {
+          lastScrapedAt: new Date().toISOString(),
+          totalDiscussions: mergedDiscussions.length,
+        };
+        writeMetadata(metadata);
+        console.log(`📊 Updated metadata for ${topicPath}`);
+
+        break; // success — exit the proxy-retry loop
+
+      } catch (err) {
+        proxyAttemptsForUrl++;
+        const canRotate = isProxyError(err) && proxyList.length > 1 && proxyAttemptsForUrl < maxProxyAttempts;
+
+        if (canRotate) {
+          console.error(`❌ Proxy ${proxyList[proxyIndex]?.server} failed on ${targetUrl}. Rotating (attempt ${proxyAttemptsForUrl}/${maxProxyAttempts})...`);
+          await browser.close();
+          proxyIndex = (proxyIndex + 1) % proxyList.length;
+          ({ browser, page } = await launchBrowser(proxyList[proxyIndex]));
+          await delay(2000);
+        } else {
+          console.error(`❌ Error processing ${targetUrl}:`, err);
+          if (isProxyError(err)) {
+            console.log(`⏩ Exhausted ${proxyAttemptsForUrl} proxy attempt(s). Skipping URL.`);
+          } else {
+            console.log("⏩ Continuing to next URL...");
+          }
+          await delay(5000);
+          break;
+        }
       }
+    }
 
-      const topicPath = topicPathMatch[1];
-      console.log(`📂 Topic path identified: ${topicPath}`);
-      const outputFilename = `${OUTPUT_DIR}/${topicPath.replace(/\//g, "_")}_full.json`;
-      console.log(`💾 Output filename: ${outputFilename}`);
-
-      // Load existing data for incremental scraping
-      const existingDiscussions = loadExistingDiscussions(outputFilename);
-      const existingUrls = new Set(existingDiscussions.map(d => d.url));
-      console.log(`📂 Found ${existingDiscussions.length} existing discussions in ${outputFilename}`);
-
-      // Scrape only NEW discussions (incremental mode)
-      // Saves progress after each discussion so data isn't lost if interrupted
-      console.log("🔍 Scraping new discussions (incremental mode with auto-save)...");
-      const newDiscussions = await scrapeDiscussionList(page, targetUrl, existingUrls, existingDiscussions, outputFilename);
-      console.log(`🆕 Completed ${newDiscussions.length} new discussion(s)`);
-
-      // Final merge and save (in case no new discussions or to ensure final state)
-      const mergedDiscussions = [...newDiscussions, ...existingDiscussions];
-      fs.writeFileSync(outputFilename, JSON.stringify(mergedDiscussions, null, 2));
-      console.log(`✅ Final save: ${mergedDiscussions.length} total discussion(s) to ${outputFilename}`);
-
-      // Update metadata
-      metadata[topicPath] = {
-        lastScrapedAt: new Date().toISOString(),
-        totalDiscussions: mergedDiscussions.length,
-      };
-      writeMetadata(metadata);
-      console.log(`📊 Updated metadata for ${topicPath}`);
-
-      // Add delay between URLs to avoid rate limiting (except for the last URL)
-      if (i < targetUrls.length - 1) {
-        const delaySeconds = Math.random() * 3 + 2; // 2-5 seconds
-        console.log(`⏳ Waiting ${delaySeconds.toFixed(1)}s before next URL...`);
-        await delay(delaySeconds * 1000);
-      }
-    } catch (err) {
-      console.error(`❌ Error processing ${targetUrl}:`, err);
-      console.log("⏩ Continuing to next URL...");
-      // Add longer delay after error
-      if (i < targetUrls.length - 1) {
-        await delay(5000);
-      }
+    // Delay between URLs to avoid rate limiting (except last)
+    if (i < targetUrls.length - 1) {
+      const delaySeconds = Math.random() * 3 + 2;
+      console.log(`⏳ Waiting ${delaySeconds.toFixed(1)}s before next URL...`);
+      await delay(delaySeconds * 1000);
     }
   }
 
