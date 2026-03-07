@@ -497,7 +497,10 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
 }
 
 // ✅ Scrape the list of discussions across ALL pages (pagination + load more + infinite scroll)
-// When existingUrls is provided, stops pagination once it hits already-scraped discussions (incremental mode)
+// When existingUrls is provided, uses incremental mode:
+//   - Continues past existing discussions (they may have moved up due to new replies)
+//   - Only stops when an ENTIRE page is all existing (stable zone)
+//   - Re-scrapes existing discussions that appear above the stable zone (they have new activity)
 // Saves progress incrementally to outputFilename after each discussion (if provided)
 async function scrapeDiscussionList(
   page: Page,
@@ -506,11 +509,13 @@ async function scrapeDiscussionList(
   existingDiscussions: DiscussionDetail[] = [],
   outputFilename?: string
 ): Promise<DiscussionDetail[]> {
-  const collected = new Map<string, { title: string; url: string; author: string; time: string; views: number; likes: number; comments: number }>();
+  type DiscussionSummary = { title: string; url: string; author: string; time: string; views: number; likes: number; comments: number };
+  const collected = new Map<string, DiscussionSummary>();        // brand new discussions
+  const toRescrape = new Map<string, DiscussionSummary>();       // existing discussions with new activity
   const visitedPages = new Set<string>();
-  let hitExisting = false;
+  let hitFullPageExisting = false;
 
-  // Returns true if we hit previously-scraped discussions and should stop
+  // Returns true if we hit a full page of previously-scraped discussions (stable zone)
   async function collectFromCurrentPage(): Promise<boolean> {
     const summaries = await page.$$eval(
       "li.PaneledItemList_lia-panel-list-item__bV87f",
@@ -538,28 +543,31 @@ async function scrapeDiscussionList(
     let existingOnThisPage = 0;
 
     for (const s of summaries) {
-      if (s.url && !collected.has(s.url)) {
-        if (existingUrls.has(s.url)) {
-          existingOnThisPage++;
-        } else {
-          collected.set(s.url, s);
-          newOnThisPage++;
-        }
+      if (!s.url) continue;
+      if (collected.has(s.url) || toRescrape.has(s.url)) continue; // already tracked
+
+      if (existingUrls.has(s.url)) {
+        existingOnThisPage++;
+        // Existing discussion appeared above the stable zone — it has new activity, re-scrape it
+        toRescrape.set(s.url, s);
+      } else {
+        collected.set(s.url, s);
+        newOnThisPage++;
       }
     }
 
     if (existingUrls.size > 0) {
-      console.log(`→ Page yielded ${newOnThisPage} new, ${existingOnThisPage} already-scraped`);
+      console.log(`→ Page yielded ${newOnThisPage} new, ${existingOnThisPage} already-scraped (will re-scrape)`);
     }
-    console.log(`→ Collected ${collected.size} new discussion(s) so far`);
+    console.log(`→ Collected ${collected.size} new + ${toRescrape.size} to-rescrape discussion(s) so far`);
 
-    // If we found any existing URL, we've reached old content
-    // Since listing is sorted most-recent-first, all subsequent pages are also old
-    if (existingOnThisPage > 0) {
-      hitExisting = true;
+    // Only stop when the ENTIRE page is all existing discussions (stable zone)
+    // This means we've passed all discussions with new activity
+    if (summaries.length > 0 && existingOnThisPage === summaries.length) {
+      hitFullPageExisting = true;
     }
 
-    return hitExisting;
+    return hitFullPageExisting;
   }
 
   async function tryLoadMoreAndScroll() {
@@ -574,7 +582,7 @@ async function scrapeDiscussionList(
       ]);
       await delay(500);
       await collectFromCurrentPage();
-      if (hitExisting) return;
+      if (hitFullPageExisting) return;
     }
     // Infinite scroll until height stops growing
     for (let i = 0; i < 20; i++) {
@@ -583,7 +591,7 @@ async function scrapeDiscussionList(
       await delay(500);
       const next = await page.evaluate(() => document.body.scrollHeight);
       await collectFromCurrentPage();
-      if (hitExisting) return;
+      if (hitFullPageExisting) return;
       if (next <= prev) break;
     }
   }
@@ -598,13 +606,13 @@ async function scrapeDiscussionList(
 
     const shouldStop = await collectFromCurrentPage();
     if (shouldStop) {
-      console.log("→ Hit previously-scraped discussions. Stopping pagination.");
+      console.log("→ Hit full page of existing discussions (stable zone). Stopping pagination.");
       break;
     }
 
     await tryLoadMoreAndScroll();
-    if (hitExisting) {
-      console.log("→ Hit previously-scraped discussions after scroll. Stopping.");
+    if (hitFullPageExisting) {
+      console.log("→ Hit full page of existing discussions after scroll (stable zone). Stopping.");
       break;
     }
 
@@ -642,13 +650,23 @@ async function scrapeDiscussionList(
     }
   }
 
-  // Open each NEW discussion and collect full details
+  // Combine new + to-rescrape discussions for scraping
+  const newArray = Array.from(collected.values());
+  const rescrapeArray = Array.from(toRescrape.values());
+  const allToScrape = [...newArray, ...rescrapeArray];
+  const rescrapeUrls = new Set(toRescrape.keys());
+
+  if (rescrapeArray.length > 0) {
+    console.log(`🔄 Will re-scrape ${rescrapeArray.length} existing discussion(s) with new activity`);
+  }
+
+  // Open each discussion and collect full details
   // Save incrementally after each discussion to avoid data loss
   const allDetails: DiscussionDetail[] = [];
-  const collectedArray = Array.from(collected.values());
-  for (let i = 0; i < collectedArray.length; i++) {
-    const d = collectedArray[i];
-    console.log(`🧩 [${i + 1}/${collectedArray.length}] Opening discussion: ${d.title}`);
+  for (let i = 0; i < allToScrape.length; i++) {
+    const d = allToScrape[i];
+    const isRescrape = rescrapeUrls.has(d.url);
+    console.log(`🧩 [${i + 1}/${allToScrape.length}] ${isRescrape ? '🔄 Re-scraping' : 'Opening'} discussion: ${d.title}`);
     // Random delay between requests (1-4 seconds)
     await delay(Math.random() * 3000 + 1000);
     try {
@@ -659,9 +677,12 @@ async function scrapeDiscussionList(
 
       // Save progress incrementally after each discussion
       if (outputFilename) {
-        const merged = [...allDetails, ...existingDiscussions];
+        // Remove old versions of re-scraped discussions from existing
+        const scrapedSoFar = new Set(allDetails.map(dd => dd.url));
+        const remainingExisting = existingDiscussions.filter(dd => !scrapedSoFar.has(dd.url));
+        const merged = [...allDetails, ...remainingExisting];
         fs.writeFileSync(outputFilename, JSON.stringify(merged, null, 2));
-        console.log(`💾 Saved progress: ${allDetails.length} new + ${existingDiscussions.length} existing = ${merged.length} total`);
+        console.log(`💾 Saved progress: ${allDetails.length} scraped + ${remainingExisting.length} existing = ${merged.length} total`);
       }
     } catch (err) {
       console.error(`❌ Failed to scrape ${d.url}:`, err);
@@ -795,12 +816,14 @@ async function launchBrowser(proxyConfig?: ProxyConfig) {
 
     while (proxyAttemptsForUrl < maxProxyAttempts) {
       try {
-        console.log("🔍 Scraping new discussions (incremental mode with auto-save)...");
-        const newDiscussions = await scrapeDiscussionList(page, targetUrl, existingUrls, existingDiscussions, outputFilename);
-        console.log(`🆕 Completed ${newDiscussions.length} new discussion(s)`);
+        console.log("🔍 Scraping new + updated discussions (incremental mode with auto-save)...");
+        const scrapedDiscussions = await scrapeDiscussionList(page, targetUrl, existingUrls, existingDiscussions, outputFilename);
+        console.log(`🆕 Completed ${scrapedDiscussions.length} scraped discussion(s)`);
 
-        // Final merge and save
-        const mergedDiscussions = [...newDiscussions, ...existingDiscussions];
+        // Final merge: replace old versions of re-scraped discussions with fresh ones
+        const scrapedUrls = new Set(scrapedDiscussions.map(d => d.url));
+        const remainingExisting = existingDiscussions.filter(d => !scrapedUrls.has(d.url));
+        const mergedDiscussions = [...scrapedDiscussions, ...remainingExisting];
         fs.writeFileSync(outputFilename, JSON.stringify(mergedDiscussions, null, 2));
         console.log(`✅ Final save: ${mergedDiscussions.length} total discussion(s) to ${outputFilename}`);
 
