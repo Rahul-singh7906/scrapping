@@ -1,128 +1,140 @@
 [
   {
-    "title": "How to prevent or merge duplicate client records when syncing with QuickBooks?",
-    "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-prevent-or-merge-duplicate-client-records-when-syncing-with-quickbooks/3677",
-    "author": "HotTubDave",
-    "authorRole": "Contributor 3",
-    "time": "2025-05-27",
-    "content": "I've been asking about this for a while and am hoping that someone has found a solution. At least once a week, when syncing with quickbooks, I get an error message saying that it can't sync CLIENT NAME because CLIENT NAME already exists. There are essentially two causes of the problem: An existing customer uses the on-line request form. The most common thing I'm seeing is that they type their address as \"NJ.\" When we enter new clients, we use the autofill feature with the address that always fills with \"New Jersey.\" We usually catch the error AFTER the technician has gone out and done a job, entered job notes, created and invoice and collected payment. Now we have two records in jobber, each with incomplete information, The second cause of the problem is if I or my office manager are talking to someone and create a new customer account. I can't blame anyone but myself, but it would be a nice feature for jobber to catch that. If I change a password on my bank account and I used that password a year ago, the bank notices it. If I try to open a google account and use my name when I already have a google account, google catches it. So does just about every other on-line service. So my first question is how come Quickbooks, TDBank and Google can figure it out and Jobber can't? My second question is with all the investment in artificial intelligence, how come jobber can't see that it has two records with the same name, phone number, email address and street address? This could be resolved in one of two ways: Either have jobber check if the name/address/phone number or another unique identifier is being use when a new client is entered. Have jobber allow me to merge the two client records into one. Right now, it takes half an hour for me to cut and paste between the two records to make one. The real pain in the neck is the photos we take for our customers projects. They can't be cut and pasted between two jobber accounts. They need to be downloaded from the extra client record to my PC, then uploaded to the other client record. Sorry for my venting - but this is getting to be a real time killer for me. I invested in computer hardware and software to make up for my shortcomings - not to create problems that I have to use my evenings to fix. Anyone else care about this, or am I the only one with the problem? CLIENT HUB CLIENT MANAGER",
-    "views": 257,
-    "likes": 3,
-    "comments": 12,
-    "replies": [
-      {
-        "author": "pelicancorey",
-        "time": "2025-07-27",
-        "content": "Just here to also request the ability to merge 2 accounts. - Thank you!",
-        "likes": 0
-      },
-      {
-        "author": "JHTS",
-        "time": "2026-01-27",
-        "content": "to pelicancorey I would to be able to merge clients and/or addresses - we deal with a lot of property managers, who leave, change person etc and trying to keep up as they sometimes call us to arrange a site visit but is a site we already have and now its in twice but under different names. So records of sites are not kept together.",
-        "likes": 0
-      },
-      {
-        "author": "CandyCain24",
-        "time": "2025-07-27",
-        "content": "I dont think leaving it up to the client is the best solution. We definitely need a merge option for when our employees enter in the same client two or three times. (yes that has happened) i have even had them reissue invoices for the same service at least two different times.",
-        "likes": 0
-      },
-      {
-        "author": "HotTubDave",
-        "time": "2025-07-27",
-        "content": "If a merge function isn't practical, how about have Jobber just note that the address or phone number is already in another customer record, just to catch the data entry conflict before it becomes a duplicate of an existing record?",
-        "likes": 0
-      },
-      {
-        "author": "krista",
-        "time": "2025-05-27",
-        "content": "Hi Dave, thanks for reaching out. I appreciate the time you took to share this feedback. One solution to the issue I know works for some of our customers is to have a login for existing customers on your webpage. This will let your customers login to the client hub and submit requests within their client portal. You can get this link from the Gear Icon > Settings > Client Hub > bottom of the page > share login page I think a merge client option would be a great idea, I would be happy to share this use case with the team. There are so many emerging opportunities for us to implement AI to help us improve workflows and we are always looking for more. As for this working with the Quickbooks Online sync, our Success Team would be happy to resolve that with you. Please reach out to 1-888-721-1115 option 1 or support@getjobber.com at your convenient.",
-        "likes": 0
-      },
-      {
-        "author": "HotTubDave",
-        "time": "2025-05-27",
-        "content": "to krista Thanks Krista. I am really against the idea for my customers having to log into the client hub. I don't know about you, but I must have 150 passwords and half are for sites that really don't need that level of security. I use a password manager but some of my customers are senior citizens that are challenged sending a text message or email. I want to make it easier for them, not harder. Also, we do repairs, so we may only interact with a customer once every 2 or 3 years. They aren't going to remember they have a client hub. If I'm the only customer with the problem, I understand you guys not wanting to put the resources into it. I was just looking to see if it's a common issue or I'm a loner. Thanks, Dave Felder",
-        "likes": 0
-      },
-      {
-        "author": "DAC",
-        "time": "2026-01-27",
-        "content": "Our company is currently dealing with this same problem, and we'd to chime in that adding a 'Merge' client function in Jobber is essential for our business management. It's also a standard feature on many CRM platforms with which our office administrator has worked previously. Please make our dreams come true in 2026, Jobber dev team!",
-        "likes": 0
-      },
-      {
-        "author": "Nantucket",
-        "time": "2025-10-27",
-        "content": "Hey Jobber Community. my first post, so this thread is where I’ll jump in to ask for the same feature or ability to migrate client data, or even inside a job you could just change the client, I have a few instances where I had multiple reaching out to me for different projects before I realize they work for the same company so I had two individual clients three properties on one two properties on the other before I got any billing done, luckily there’s one billing email so I was able to just add that billing email to both clients and now the office can log into the client hub and see everything under that email but again for people who are not technically advanced I think the client hub is still a ways out for some of my clients So anyways, requesting job does do some sort of merge function or at least be able to change the client I’m not too far into where I can’t manually move stuff over at this point, but I can imagine having technicians doing this working under me and then getting way behind. It would be a pain to try to get it all fixed.",
-        "likes": 0
-      },
-      {
-        "author": "HotTubDave",
-        "time": "2025-10-27",
-        "content": "I have noticed lately that Jobber will catch similar information when entering a new customer and let me know the client already exists. So kudos to that! still have the issue with job requests however. I don’t know that I want my customers or prospects getting error messages that “client already exists.” Maybe Jobber could flag it so I see on the back end? or just spend 40 minutes once or twice a month doing it manually when Quickbooks catches the error. But it does raise the question: How come Quickbooks can spot the error and Jobber can’t?",
-        "likes": 0
-      },
-      {
-        "author": "MrElectro",
-        "time": "2025-12-27",
-        "content": "Can I also add that I also have this issue but also get customers making a request when they have an existing account but somehow adding there address again so I can have some customers with 7 different addresses which are all under the same account and all ever so slightly different. Because of the way in which requests - quote - job etc can be moved its not often caught unless you delve deep into the customer profile and find out they have multiple properties with the same address. Now we have to either leave these or delete the extra ones which deletes are the history against that particular address. So it would be better to have a way for a customer once they have an existing account to at least need to login maybe to make a new request etc or be able to merge addresses, customers etc. My jobber crm is now a complete mess of duplicate customers and addresses.",
-        "likes": 0
-      },
-      {
-        "author": "MrElectro",
-        "time": "2026-01-27",
-        "content": "I’ve also now got customers making duplicates of properties with identical addresses",
-        "likes": 0
-      },
-      {
-        "author": "CRHotTubTech",
-        "time": "2026-02-26",
-        "content": "NEW MEMBER +1 for a client merge feature, I was shocked this feature didn't exist when I went looking for it :(",
-        "likes": 0
-      }
-    ]
-  },
-  {
     "title": "Bulk Messaging",
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/bulk-messaging/1715",
     "author": "AidenStrehle",
     "authorRole": "Contributor 3",
-    "time": "2025-02-27",
+    "time": "2025-03-09",
     "content": "Hey everyone! I know jobber has a client communications feature with one of the paid plans, but does that feature include bulk email and text messaging to clients? I find myself often using MailChimp to send out emails but I would rather have Jobber create a feature where I can email and text clients all at once or based off of their tag. For example, when it snows we do snow removal. I would to send out a bulk message to all our snow removal clients what time we plan to dispatch. Or another example, when it rains, I would to send out a message to our clients that we will be rescheduling due to the weather. Does anyone have any feedback? Thanks! FredHodgeJr The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.",
-    "views": 280,
+    "views": 331,
     "likes": 1,
-    "comments": 5,
+    "comments": 7,
     "replies": [
       {
         "author": "FredHodgeJr",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.",
         "likes": 0
       },
       {
         "author": "jade",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "Hey Aiden, thanks for the question! Our community member Fred is correct. Jobber's marketing tools include the ability to mass-email through our Campaigns add-on, but it does not include SMS at this time. I am more than happy to submit this feature request to our Product Team. If you want to see if the Campaign add-on will work for your business, please contact our Success Team, who are happy to help. Thank you, Fred, for the helpful suggestion!",
-        "likes": 0
-      },
-      {
-        "author": "christian1993",
-        "time": "2025-02-27",
-        "content": "to jade I agree, mass texting should be a part of the plan that i pay so much for. I pay for the highest tier everything. In addition to mass texting, attaching photos from phone to a text message should be added. I have been contemplating swithcing from jobber becuase other platforms offer both of these now and for less money.",
         "likes": 0
       },
       {
         "author": "Diana",
         "time": "2026-02-26",
-        "content": "NEW MEMBER to jade Hi jade​ is there any news on this being rolled out; sms blast ?",
+        "content": "to jade Hi jade​ is there any news on this being rolled out; sms blast ?",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-03-02",
+        "content": "to Diana Hi Diana​, Thanks for checking in. I am not aware of any updates or timeline for an SMS campaign or blast feature at this time. That said, I am happy to pass along your interest to our Product Team so they can see there is continued demand for it. Feedback this definitely helps inform future improvements. If anything changes, we will be sure to share updates in the Community.",
+        "likes": 0
+      },
+      {
+        "author": "christian1993",
+        "time": "2025-03-09",
+        "content": "to jade I agree, mass texting should be a part of the plan that i pay so much for. I pay for the highest tier everything. In addition to mass texting, attaching photos from phone to a text message should be added. I have been contemplating swithcing from jobber becuase other platforms offer both of these now and for less money.",
         "likes": 0
       },
       {
         "author": "wdkljana",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "We have transitioned to Jobber campaigns from Mailchimp and find it works much in the same way, with one less step, we don't have to import emails & tags from jobber. That one less step makes it more efficient and is most cost effective also.",
+        "likes": 0
+      },
+      {
+        "author": "IronWorksAI",
+        "time": "2026-03-08",
+        "content": "NEW MEMBER Our bulk SMS marketing app, Notify Customers, is available on the Jobber App store. When you sign up, we sync all your clients and keep them updated over time. Pay-as-you go pricing, no monthly fees. Over 100 Jobber users have signed up.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How to prevent or merge duplicate client records when syncing with QuickBooks?",
+    "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-prevent-or-merge-duplicate-client-records-when-syncing-with-quickbooks/3677",
+    "author": "HotTubDave",
+    "authorRole": "Contributor 3",
+    "time": "2025-05-09",
+    "content": "I've been asking about this for a while and am hoping that someone has found a solution. At least once a week, when syncing with quickbooks, I get an error message saying that it can't sync CLIENT NAME because CLIENT NAME already exists. There are essentially two causes of the problem: An existing customer uses the on-line request form. The most common thing I'm seeing is that they type their address as \"NJ.\" When we enter new clients, we use the autofill feature with the address that always fills with \"New Jersey.\" We usually catch the error AFTER the technician has gone out and done a job, entered job notes, created and invoice and collected payment. Now we have two records in jobber, each with incomplete information, The second cause of the problem is if I or my office manager are talking to someone and create a new customer account. I can't blame anyone but myself, but it would be a nice feature for jobber to catch that. If I change a password on my bank account and I used that password a year ago, the bank notices it. If I try to open a google account and use my name when I already have a google account, google catches it. So does just about every other on-line service. So my first question is how come Quickbooks, TDBank and Google can figure it out and Jobber can't? My second question is with all the investment in artificial intelligence, how come jobber can't see that it has two records with the same name, phone number, email address and street address? This could be resolved in one of two ways: Either have jobber check if the name/address/phone number or another unique identifier is being use when a new client is entered. Have jobber allow me to merge the two client records into one. Right now, it takes half an hour for me to cut and paste between the two records to make one. The real pain in the neck is the photos we take for our customers projects. They can't be cut and pasted between two jobber accounts. They need to be downloaded from the extra client record to my PC, then uploaded to the other client record. Sorry for my venting - but this is getting to be a real time killer for me. I invested in computer hardware and software to make up for my shortcomings - not to create problems that I have to use my evenings to fix. Anyone else care about this, or am I the only one with the problem? CLIENT HUB CLIENT MANAGER",
+    "views": 273,
+    "likes": 3,
+    "comments": 12,
+    "replies": [
+      {
+        "author": "pelicancorey",
+        "time": "2025-07-09",
+        "content": "Just here to also request the ability to merge 2 accounts. - Thank you!",
+        "likes": 0
+      },
+      {
+        "author": "JHTS",
+        "time": "2026-02-09",
+        "content": "to pelicancorey I would to be able to merge clients and/or addresses - we deal with a lot of property managers, who leave, change person etc and trying to keep up as they sometimes call us to arrange a site visit but is a site we already have and now its in twice but under different names. So records of sites are not kept together.",
+        "likes": 0
+      },
+      {
+        "author": "CandyCain24",
+        "time": "2025-07-09",
+        "content": "I dont think leaving it up to the client is the best solution. We definitely need a merge option for when our employees enter in the same client two or three times. (yes that has happened) i have even had them reissue invoices for the same service at least two different times.",
+        "likes": 0
+      },
+      {
+        "author": "HotTubDave",
+        "time": "2025-07-09",
+        "content": "If a merge function isn't practical, how about have Jobber just note that the address or phone number is already in another customer record, just to catch the data entry conflict before it becomes a duplicate of an existing record?",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2025-05-09",
+        "content": "Hi Dave, thanks for reaching out. I appreciate the time you took to share this feedback. One solution to the issue I know works for some of our customers is to have a login for existing customers on your webpage. This will let your customers login to the client hub and submit requests within their client portal. You can get this link from the Gear Icon > Settings > Client Hub > bottom of the page > share login page I think a merge client option would be a great idea, I would be happy to share this use case with the team. There are so many emerging opportunities for us to implement AI to help us improve workflows and we are always looking for more. As for this working with the Quickbooks Online sync, our Success Team would be happy to resolve that with you. Please reach out to 1-888-721-1115 option 1 or support@getjobber.com at your convenient.",
+        "likes": 0
+      },
+      {
+        "author": "HotTubDave",
+        "time": "2025-06-09",
+        "content": "to krista Thanks Krista. I am really against the idea for my customers having to log into the client hub. I don't know about you, but I must have 150 passwords and half are for sites that really don't need that level of security. I use a password manager but some of my customers are senior citizens that are challenged sending a text message or email. I want to make it easier for them, not harder. Also, we do repairs, so we may only interact with a customer once every 2 or 3 years. They aren't going to remember they have a client hub. If I'm the only customer with the problem, I understand you guys not wanting to put the resources into it. I was just looking to see if it's a common issue or I'm a loner. Thanks, Dave Felder",
+        "likes": 0
+      },
+      {
+        "author": "DAC",
+        "time": "2026-02-09",
+        "content": "Our company is currently dealing with this same problem, and we'd to chime in that adding a 'Merge' client function in Jobber is essential for our business management. It's also a standard feature on many CRM platforms with which our office administrator has worked previously. Please make our dreams come true in 2026, Jobber dev team!",
+        "likes": 0
+      },
+      {
+        "author": "Nantucket",
+        "time": "2025-11-09",
+        "content": "Hey Jobber Community. my first post, so this thread is where I’ll jump in to ask for the same feature or ability to migrate client data, or even inside a job you could just change the client, I have a few instances where I had multiple reaching out to me for different projects before I realize they work for the same company so I had two individual clients three properties on one two properties on the other before I got any billing done, luckily there’s one billing email so I was able to just add that billing email to both clients and now the office can log into the client hub and see everything under that email but again for people who are not technically advanced I think the client hub is still a ways out for some of my clients So anyways, requesting job does do some sort of merge function or at least be able to change the client I’m not too far into where I can’t manually move stuff over at this point, but I can imagine having technicians doing this working under me and then getting way behind. It would be a pain to try to get it all fixed.",
+        "likes": 0
+      },
+      {
+        "author": "HotTubDave",
+        "time": "2025-11-09",
+        "content": "I have noticed lately that Jobber will catch similar information when entering a new customer and let me know the client already exists. So kudos to that! still have the issue with job requests however. I don’t know that I want my customers or prospects getting error messages that “client already exists.” Maybe Jobber could flag it so I see on the back end? or just spend 40 minutes once or twice a month doing it manually when Quickbooks catches the error. But it does raise the question: How come Quickbooks can spot the error and Jobber can’t?",
+        "likes": 0
+      },
+      {
+        "author": "MrElectro",
+        "time": "2026-01-09",
+        "content": "Can I also add that I also have this issue but also get customers making a request when they have an existing account but somehow adding there address again so I can have some customers with 7 different addresses which are all under the same account and all ever so slightly different. Because of the way in which requests - quote - job etc can be moved its not often caught unless you delve deep into the customer profile and find out they have multiple properties with the same address. Now we have to either leave these or delete the extra ones which deletes are the history against that particular address. So it would be better to have a way for a customer once they have an existing account to at least need to login maybe to make a new request etc or be able to merge addresses, customers etc. My jobber crm is now a complete mess of duplicate customers and addresses.",
+        "likes": 0
+      },
+      {
+        "author": "MrElectro",
+        "time": "2026-02-09",
+        "content": "I’ve also now got customers making duplicates of properties with identical addresses",
+        "likes": 0
+      },
+      {
+        "author": "CRHotTubTech",
+        "time": "2026-02-27",
+        "content": "+1 for a client merge feature, I was shocked this feature didn't exist when I went looking for it :(",
         "likes": 0
       }
     ]
@@ -132,9 +144,9 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/%F0%9F%92%A1feature-request-schedule-send-communications/8782",
     "author": "ThatHandymanVan",
     "authorRole": "Contributor 4",
-    "time": "2026-02-18",
+    "time": "2026-02-19",
     "content": "When I’m ready to send an estimate or invoice, Jobber makes it easy to send directly to the customer. The issue is timing. I often finish admin work outside normal business hours because I’m in the field during the day. When I send estimates/invoices late at night, it can feel unprofessional (or at minimum, it triggers customer replies at weird times). Current workaround: I send the estimate/invoice to myself, then schedule send it to the customer later during business hours. Phones make this easy. It works, but it’s extra steps. Feature request: Add a “Schedule Send” option when sending estimates and invoices, similar to email scheduling. Ideal behavior: At send time, give options: Send now / Schedule send For schedule: choose date + time (and time zone handling) Queue it and show status Scheduled / Sent / Failed Allow cancel/edit of scheduled sends This would save time, reduce mistakes, and keep customer communications going out at appropriate times without requiring a workaround. CLIENT MANAGER TEXT & EMAIL TEMPLATES TWO-WAY TEXT MESSAGING WIN JOBS WORK SMARTER",
-    "views": 22,
+    "views": 32,
     "likes": 1,
     "comments": 2,
     "replies": [
@@ -157,9 +169,9 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/question-for-jobber-team-why-are-filter-and-sort-settings-not-persisted/8508",
     "author": "tbarth",
     "authorRole": "Contributor 3",
-    "time": "2026-01-31",
+    "time": "2026-02-09",
     "content": "Across every core page, Jobber relies on sortable and filterable lists. Filter and sort settings are not persisted, not across sessions, not across navigation, and not even within the same page during a session. This forces users to: Reapply filters Re-sort columns Rebuild the same view they just set up moments ago Workflow comes to a full stop every time this happens. Unless users only use the default list views, it is impossible to work efficiently when moving between pages. This is not a “feature request.” It is fundamental software behavior that has been solved in applications for decades. Any tool with sortable and filterable lists as a core component must persist these settings. There are multiple well-understood ways to do this, including: Persisting settings in the URL so navigation or session reloads maintain state Storing preferences in session or local storage Saving user-level defaults or remembered views Why does Jobber not implement one of these basic solutions? Jobber positions workflow efficiency as a core value. Why are users who rely on sort and filter options condemned to endless repetitive actions? Instead of working on my business, why do I have to spend that time creating scripts that save sort and filter changes and reapply them every time the page loads? This is a critical UX failure that directly slows daily work for nearly everyone. If this is technical debt, it's too big to keep ignoring at the cost of user experience. When will this be addressed? WORK SMARTER",
-    "views": 81,
+    "views": 86,
     "likes": 1,
     "comments": 4,
     "replies": [
@@ -171,7 +183,7 @@
       },
       {
         "author": "krista",
-        "time": "2026-02-03",
+        "time": "2026-02-09",
         "content": "Hi tbarth​ Thank you for taking the time to write this up so clearly. I really appreciate the detailed feedback, and I would be happy to share this with the team. I completely understand how disruptive it can be when filters and sorting do not persist and interrupt your workflow. As a small tip in the meantime, if you are on a list page, for example, the Clients page with filters applied, and want to open an individual client without losing your view, you can open the client in a new tab. On Mac, hold Command and click the client name. On PC, hold Control and click. That way your filtered list remains intact in the original tab. Thanks again for calling this out so thoughtfully. Feedback this is incredibly valuable.",
         "likes": 0
       },
@@ -196,7 +208,7 @@
     "authorRole": "Contributor 3",
     "time": "2026-02-17",
     "content": "When viewing a client's properties on the Client page, I noticed that the left column is oddly empty: Clicking the + New Property button or clicking on an existing property and clicking the Edit button opens a dialog with the following fields: However, clicking on the Edit button for the client, scrolling down to the Property address section, and clicking the Add Another Address button, a dialog opens with an additional field, Property name: Adding a property name displays that info in the left column of the property list on the client's page: This seems the intended functionality because: Assigning names to properties makes working with multiple properties much easier. The feature is already built into the product and should be fully functional. So, to fix the missing data field in this dialog: Typing ~5 lines of existing syntax 10-15 minutes of testing Minimal time for code review / QA sign-off Deploy in the next scheduled update It seems extremely unlikely I am the first to report this, yet I first raised this issue nearly five months ago and was told the feature was not implemented, even though it is clearly used elsewhere, showing it is intentional and fully functional. I followed up three and a half months ago with the exact code showing how simple the fix is. From my experience across the software production cycle, this is a simple functional omission bug: a UI regression that hides an already implemented feature and disrupts user workflow. The fix is trivial and low-risk. Realistically, from checkout to review, QA sign-off, and deployment, it requires maybe 60-90 minutes of human time. Can you confirm whether this fix is scheduled to be made, and if so, when it will be applied? Thank you. CLIENT MANAGER WORK SMARTER",
-    "views": 17,
+    "views": 29,
     "likes": 0,
     "comments": 1,
     "replies": [
@@ -215,7 +227,7 @@
     "authorRole": "Contributor 2",
     "time": "2026-02-14",
     "content": "It is very hard to know who we are talking to as many of our clients have multiple points of contact (husband/wife), maybe the GC on the project. But our commercial clients can have 2-5 contacts easily, the company plus managers. The text system currently displays the Client or Business Name and the phone number.... but the phone number is often cut-off completely. And there is Zero way for us to see who we are talking too as you can not click into more details per text. What we need at minimum right away - A way to see the full phone number of the texter What we would to see very soon - The name of the person texting if they are in a client file... if a number can be matched to a file, then you can match it deeper to the actual contact name. What we need ultimately - we need to be able to choose who we text quicker and easier. From the desktop browser we pull up a client file, and under Contacts it lists multiple people, currently you have to copy and paste that phone number into the text box. We need a Text this person option/button by there name/number. That opens a the text chain in the text pane, showing all past conversations with the specific person. The absolutely ideal scenario - all of the above and Contacts Management (and let us link it to our google, apple, whatever contacts) this rolodex of contacts will allow the system to reference it for the name correctly when a random texts us that we know. (ie. If Joe Contractor texts me about a job, but he is not listed anywhere in Jobber, I need to be able to save his number as a general contact, so his name shows up instead of just a number).",
-    "views": 29,
+    "views": 41,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -232,21 +244,21 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/referral-credit-system-is-very-lacking/8539",
     "author": "dcholding302",
     "authorRole": "Contributor 2",
-    "time": "2026-02-04",
+    "time": "2026-02-09",
     "content": "This post is feedback, and a place to allow other users to leave feedback, for the Client Referral marketing tool in Jobber. The current client referral system is very lacking for a premium paid feature. We would to see some deep functionality changes and additions immediately, since this has been around for a while now with no improvements....here is my current thoughts on what could be added or should be changed - Credits need to show in the Clients file (maybe under account balance) Staff needs to know if a credit is available or could apply for sales purposes. Currently its restricted to owners/admins in the marketing section and you can't do anything with that info anyway from there, its pretty useless. Credits need to be usable across the whole system & in the field (mobile invoices), we better for techs in the field ('hey, i see you have credit, would you to use it on this invoice?') Credits need to be adjustable, we want to be able to add referral credits manually if we see fit. (this is especially ideal for when staff forgets to fill out the referrer entry on a job) which happens all the time. Apply credits anyway we would (if a client has a $100 in credit, we want to be able to apply that whole amount if they have a huge invoice(s) being paid at once) the current automatic application is not good enough. Credit Amount settings ($ / % amount) should be able to be set based on Client type/tag (if the client is a Builder Partner we want to give them 10%, instead of just the $50 we give to a regular customer per lead) Option to set the Amount of credit ($/%) given based on a range of invoice value (5% for $100-500 invoice amount / 8% for $500-1000 invoice amount / etc) Option to exclude certain Clients from the referral program (we have builder partners that are on a completely different program internally, we do not want there account to also be getting other discounts). Option in Jobber websites to add a Refer A Friend button, so we do not have to rely on the email campaigns that most people don't open. Allow the client to see credits in their portal, and apply them to invoices when making payments. APPLIANCE REPAIR ARBORIST CAMPAIGN GENERATOR CHIMNEY SWEEP SERVICES DIGITAL MARKETING STRATEGIES DOOR SERVICES FLOORING HVAC LOCKSMITH POOL & SPA RV SERVICES SALES TRAINING",
-    "views": 80,
+    "views": 93,
     "likes": 1,
     "comments": 3,
     "replies": [
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-04",
+        "time": "2026-02-09",
         "content": "I know this is a great place to leave this but I'd also recommend sending to support. They are really good at getting feedback to the right people and getting changes implemented.",
         "likes": 0
       },
       {
         "author": "dcholding302",
-        "time": "2026-02-04",
+        "time": "2026-02-09",
         "content": "to HUGEHandyman yup, this has been emailed to support also.",
         "likes": 0
       },
@@ -263,15 +275,15 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/custom-fields-missing-when-editing-existing-properties/8465",
     "author": "Kevin_G",
     "authorRole": "Contributor 2",
-    "time": "2026-01-30",
+    "time": "2026-02-09",
     "content": "Hi, does anyone know why I don’t have the option to edit custom fields when updating an existing property in Jobber? When I create a new property for the same client, the custom fields appear and can be filled out. However, when editing an existing property, the custom fields are not available. I’m not an admin, and the admin account does have access to these fields. We couldn’t find any permission settings that would allow me to edit property custom fields without having to delete the property and create a new one. Has anyone run into this or found a workaround?",
-    "views": 39,
+    "views": 41,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2026-02-03",
+        "time": "2026-02-09",
         "content": "hi Kevin_G​ Thanks for flagging this.",
         "likes": 0
       }
@@ -282,63 +294,63 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/duplicates-merge/1141",
     "author": "Naz",
     "authorRole": "Contributor 2",
-    "time": "2025-02-27",
+    "time": "2025-03-09",
     "content": "Hi guys. Its been a while we been asking for a possibility to merge contacts. Simple as any other crm has. Hope to get more likes on this post and it will be implemented soon. Thanks Naz (Using jobber since 215)",
-    "views": 438,
+    "views": 463,
     "likes": 8,
     "comments": 9,
     "replies": [
       {
         "author": "jade",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "Hey Naz! So great to have you as a customer since 2015! We really appreciate your continued feedback to make Jobber a more powerful tool. Client merge is not currently a feature in Jobber, but I’m happy to share your feedback with our Product Team as I understand how this would be valuable. New features are based on trends of requests, so if you’ve shared this feedback before this extra flag will be helpful. Your feature requests are important, so please keep them coming. We are also happy to help with some workarounds so please contact our Success Team!",
         "likes": 0
       },
       {
         "author": "ThatHandymanVan",
-        "time": "2026-01-29",
+        "time": "2026-02-09",
         "content": "to jade jade​ I feel Jobber has blinds on for AI right now. Can you remind them to take a look at the issues that the customers using their software need, and not just the latest trend? Customer retention is at stake!",
         "likes": 0
       },
       {
         "author": "HotTubDave",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "Definitely a need here. We use Jobber Requests, and I get existing clients who use the \"Request Service\" button on my website, creating a whole new client record. Happens a couple times a month.",
         "likes": 0
       },
       {
         "author": "cami1",
-        "time": "2026-01-27",
+        "time": "2026-02-09",
         "content": "How has this not made its way to the developers task board yet?",
         "likes": 0
       },
       {
         "author": "LuminaryLawns",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "Agreed! This would be a big help. We have customers create multiple accounts when they submit requests either from the jobber portal or from the form we have on our website. If there was a way to check the email address and merge the info it would be extremely helpful.",
         "likes": 0
       },
       {
         "author": "Naz",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "to LuminaryLawns I hope Jobber will listen to this and make it happen.",
         "likes": 0
       },
       {
         "author": "wdkljana",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "We've been asking Jobber for this for years now! So frustrating they don't have it others do.",
         "likes": 0
       },
       {
         "author": "Naz",
-        "time": "2025-02-27",
+        "time": "2025-03-09",
         "content": "to wdkljana Same thing here, been asking for years.",
         "likes": 0
       },
       {
         "author": "JHTS",
-        "time": "2026-01-29",
+        "time": "2026-02-09",
         "content": "I too would a merge feature. We deal with property managers of large companies and we get asked about a site from one, they leave and someone else asks about same site - a new client is added for new PM. Then we realise we have already done work at this site under a different PM. So to be able to merge the acounts into one so that we can keep a tag on the address and all the works done there would be a very beneficial thing to be able to do. Please bring this in asap",
         "likes": 0
       }
@@ -349,15 +361,15 @@
     "url": "https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-manage-duplicate-clients-flags-and-scheduling-visibility-in-jobber/8134",
     "author": "CookAppliance",
     "authorRole": "Contributor 2",
-    "time": "2026-01-27",
+    "time": "2026-02-09",
     "content": "Hello, A few things I'd love to see added to jobber, if not already there and I have the wrong package. Being able to merge clients! When multiple people answer the phone, some do not check for previously entered spelling errors and such, we end up with multiple duplicate clients. Multiple jobs/invoices are scattered within all the duplicate clients. Being able to flag clients, maybe a color coded flag red for no service at all, yellow, needs payment collected first or allow us to label our flags how we need to. Or give us a drop down box to make selections by color, or a preview box so we see it as soon as the clients name is entered before scheduling and without it being on the profile for invoices and receipts. Color highlight for clients that are on the schedule, if someone is flexible and can be worked in on a day we have a cancelation or a color if they have to have a solid appointment day. These colors need to be separated from the team colors and be able to be seen on the calendar view so CSR's can see at a glance that someone can be worked in right away if there is a cancelation. That's all I got for now :) WORK SMARTER",
-    "views": 80,
+    "views": 97,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2026-01-27",
+        "time": "2026-02-09",
         "content": "Hi CookAppliance​, thanks so much for taking the time to share this feedback. These are all really common workflow challenges, and you are definitely not alone in running into them. On duplicate clients, at this time Jobber does not support merging client records. The best workaround is prevention, making sure the team searches existing clients carefully before creating new ones. I completely understand how tricky this can be with multiple people answering phones, and I have passed this feedback along, as this is something many teams ask for. For flagging or labeling clients, Jobber does offer custom client tags. Tags can be used to note items such as no service, payment required first, VIP, flexible scheduling, and more. While tags are not colour-coded and do not surface directly on the schedule or booking flow, they can be very helpful internally for identifying clients and filtering lists. You are correct though that they are not visible at a glance in the calendar, and that is valuable feedback. Regarding scheduling visibility and colour highlights, currently colours on the schedule are tied to team members or keywords rather than client attributes. Has your team tried using the keywords to colour-code clients based on flexibility or appointment requirements directly on the calendar? Many teams handle this with internal notes, tags, or naming conventions, but I agree that true visual indicators would make this much easier for CSRs managing cancellations and fill-in opportunities. I really appreciate you laying this out so clearly. Product feedback this is actively reviewed by our team, and posts yours help shape future improvements. Please keep it coming if you think of anything else. Thanks again for sharing.",
         "likes": 0
       }
