@@ -4,11 +4,118 @@ Total Discussions: 32
 
 ---
 
-## 1. Share your best Tool experience
+## 1. Does anyone run a ramp rack system in a 2500 pick up? What are disadvantages?
+
+**Author:** Moss912 (Contributor 3)
+**Posted:** 2026-02-09
+**Views:** 48 | **Likes:** 0 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/equipment--tools-forum/does-anyone-run-a-ramp-rack-system-in-a-2500-pick-up-what-are-disadvantages/8532
+
+### Content
+
+Thinking on running the ramp rack system to save on pulling a trailer in tight neighborhoods. Curious if anyone is having any issues. LANDSCAPING LAWN CARE TOOL & EQUIPMENT BRANDS
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** SimonSaysYard
+**Posted:** 2026-02-09
+
+DO IT i use it and now plan a new fleet this year of dodge 1500 with upgraded rear end with ramp racks.
+
+#### Reply 2
+
+**Author:** kpm
+**Posted:** 2026-02-22
+
+The biggest downside I have faced with the ramp rack on my F250 CCLB is not being able to keep the bagger on my 52" Vride 2... It has been great for those tighter areas, as well as on some of our commercial/condo properties, where parking a truck and trailer is almost impossible without blocking people in. The other downside faced is we are limited on what we have for room with keeping square barrels in the truck, on the few properties we bag. 2027 we are looking into purchasing a new mowing truck, and leaning towards a cab over with a landscape body to provide us more space. We currently fit our **bleep** 36" SWZT and our 52" vride on the truck.
+
+#### Reply 3
+
+**Author:** Moss912
+**Posted:** 2026-03-07
+
+to kpm Thank you for the feedback. Are you able to run 2 52” mowers?
+
+#### Reply 4
+
+**Author:** kpm
+**Posted:** 2026-03-07
+
+You’d have to build a ramp system or get one that ramp rack offers so that the first 52” can clear your wheel wells.
+
+---
+
+## 2. Any Benefit to a Newer Work truck vs Buying an Older one?
+
+**Author:** MonkeyDLuffy (Contributor 2)
+**Posted:** 2026-01-09
+**Views:** 286 | **Likes:** 2 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/equipment--tools-forum/any-benefit-to-a-newer-work-truck-vs-buying-an-older-one/7963
+
+### Content
+
+I'm looking for testimonials here. Was it worth buying a 2020+ vehicle when trucks from the early 2000s still hold strong? I feel with the money Id save on a 2500 Ford or RAM, I could use that to buy a Digger and a bob cat. VEHICLES
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-01-09
+
+JOBBER COMMUNITY TEAM our community member BrandenSewell​ can definitely provide some insights here!
+
+#### Reply 2
+
+**Author:** BrandenSewell
+**Posted:** 2026-01-09
+
+MonkeyDLuffy​ this has a lot of personal nuance to it. For everyone this answer could be different but let me share my own experience. In 2022, after listening to some podcasts, I decided it would be a good idea to buy newer trucks and vans for my business and finance them. That was great until business unexpectedly slowed down and I had 4-5 car loans and payments. I ended up having to down size, sell my trucks at a loss, and basically start all over again. Fast forward, now I have 3 Vans that are between 2011 and 2014 I bought each for around $9K-$10K and they are paid for. I also have a paid for 2018 Ford Frontier and a paid for Chevy Sonic that is a sales car. Really good car owned by a mechanic before me. I own all of those with no payments. This has been a significant win for me. We have been working on wrapping all our fleet too. This past year we grew 45% over last year. In the future, when my business is more mature and established we might think about starting to finance some vehicles again but right now at our size it wasn't the right call. I hope that helps. At the end of the day, a newer/nicer truck is great if you know what you are getting into. Just know it is a risk. You cant ever tell what the future will hold. If I had to make a recommendation I would take into consideration your cash position, personal and current business debt, years in business, forecasted growth, and long term plans. If you have any follow up questions I am happy to help.
+
+#### Reply 3
+
+**Author:** MMarti21
+**Posted:** 2026-02-09
+
+to BrandenSewell Nice print job on your business vehicles
+
+#### Reply 4
+
+**Author:** Moss912
+**Posted:** 2026-02-09
+
+to BrandenSewell I love your response to the question! I started my lawn and landscaping company in 2018 and went full time in 2020. I currently have 3 trucks and the newest being a 21 ram 2500. The other two vehicles and are a 99 ram 1500 and a 96 ram 2500 that are obviously paid for cash. Paid$2000 for one and $5700 for the other. Buying those two truck cash with no payment allowed me to grow my company year after year since then by investing that money into more equipment in other areas. That allowed me to get into a position to purchase the 21 ram when the time was right. Still didn’t get a brand new 26 but I got what was needed at a good price. point is I waited to be in a position where I would be able to withstand a slow period and still maintain my payment.
+
+#### Reply 5
+
+**Author:** NicktheArborist
+**Posted:** 2026-01-09
+
+I buy new because I 0% enjoy working on broken ones. It’s that simple.
+
+#### Reply 6
+
+**Author:** 
+**Posted:** 2026-01-09
+
+EnergizeUs
+
+#### Reply 7
+
+**Author:** IronSpurX
+**Posted:** 2026-03-04
+
+Personally I feel it’s not worth buying a brand new truck. I have 2013 f250 6.7l and I think it’s one of the better trucks out there. My old boss bought a few newer trucks 2020+ and all of them broke down multiple times.
+
+---
+
+## 3. Share your best Tool experience
 
 **Author:** GreenwoodPro (Contributor 2)
 **Posted:** 2026-02-26
-**Views:** 7 | **Likes:** 0 | **Comments:** 1
+**Views:** 11 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/share-your-best-tool-experience/8902
 
 ### Content
@@ -26,83 +133,54 @@ No Replies Be the first to
 
 ---
 
-## 2. Does anyone run a ramp rack system in a 2500 pick up? What are disadvantages?
+## 4. Does anyone use a battery powered pole saw? If so what brands are reliable as far as battery life.
 
 **Author:** Moss912 (Contributor 3)
-**Posted:** 2026-02-03
-**Views:** 42 | **Likes:** 0 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/equipment--tools-forum/does-anyone-run-a-ramp-rack-system-in-a-2500-pick-up-what-are-disadvantages/8532
-
-### Content
-
-Thinking on running the ramp rack system to save on pulling a trailer in tight neighborhoods. Curious if anyone is having any issues. LANDSCAPING LAWN CARE TOOL & EQUIPMENT BRANDS
-
-### Replies (2)
-
-#### Reply 1
-
-**Author:** SimonSaysYard
 **Posted:** 2026-02-09
-
-DO IT i use it and now plan a new fleet this year of dodge 1500 with upgraded rear end with ramp racks.
-
-#### Reply 2
-
-**Author:** kpm
-**Posted:** 2026-02-22
-
-The biggest downside I have faced with the ramp rack on my F250 CCLB is not being able to keep the bagger on my 52" Vride 2... It has been great for those tighter areas, as well as on some of our commercial/condo properties, where parking a truck and trailer is almost impossible without blocking people in. The other downside faced is we are limited on what we have for room with keeping square barrels in the truck, on the few properties we bag. 2027 we are looking into purchasing a new mowing truck, and leaning towards a cab over with a landscape body to provide us more space. We currently fit our **bleep** 36" SWZT and our 52" vride on the truck.
-
----
-
-## 3. Does anyone use a battery powered pole saw? If so what brands are reliable as far as battery life.
-
-**Author:** Moss912 (Contributor 3)
-**Posted:** 2026-01-31
-**Views:** 78 | **Likes:** 0 | **Comments:** 4
+**Views:** 84 | **Likes:** 0 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/does-anyone-use-a-battery-powered-pole-saw-if-so-what-brands-are-reliable-as-far/8476
 
 ### Content
 
-I’m looking to get some limb work done but also be quite in the early morning. Looking for something light but effective. ARBORIST EQUIPMENT & TOOL BRANDS LANDSCAPING LAWN CARE MAINTENANCE ThatHandymanVan 27 days ago I use a line of Ego tools. I find that they are reliable and the 56v batteries are great. I definitely recommend the chainsaw. Yes,I have the pole saw.
+I’m looking to get some limb work done but also be quite in the early morning. Looking for something light but effective. ARBORIST EQUIPMENT & TOOL BRANDS LANDSCAPING LAWN CARE MAINTENANCE ThatHandymanVan I use a line of Ego tools. I find that they are reliable and the 56v batteries are great. I definitely recommend the chainsaw. Yes,I have the pole saw.
 
 ### Replies (4)
 
 #### Reply 1
 
 **Author:** lawn_kingsUS
-**Posted:** 2026-02-01
+**Posted:** 2026-02-09
 
 I personally use gas, but I hear good things about the Milwaukee battery powered equipment
 
 #### Reply 2
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-02-01
+**Posted:** 2026-02-09
 
 I use a line of Ego tools. I find that they are reliable and the 56v batteries are great. I definitely recommend the chainsaw. Yes,I have the pole saw.
 
 #### Reply 3
 
 **Author:** Moss912
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 to ThatHandymanVan Awesome I see a lot of people using the Ego tools. They are sold in most stores near me.
 
 #### Reply 4
 
 **Author:** Handyman2026
-**Posted:** 2026-02-11
+**Posted:** 2026-02-10
 
 I bought this 20 V Dewalt pole saw last year and used it about half of the summer, I’m very happy with it and replacement chains are only $16. https://www.homedepot.com/p/DEWALT-20V-MAX-8in-Brushless-Cordless-Battery-Powered-Pole-Saw-Tool-Only-DCPS620B/310164031 https://www.homedepot.com/p/DEWALT-8-in-Pole-and-Pruning-Chainsaw-Chain-34-Link-DWO1DT608/314053806
 
 ---
 
-## 4. Does anyone have a preference on Snow plow brands? Boss vs western?
+## 5. Does anyone have a preference on Snow plow brands? Boss vs western?
 
 **Author:** Moss912 (Contributor 3)
-**Posted:** 2026-01-31
-**Views:** 9 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 11 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/does-anyone-have-a-preference-on-snow-plow-brands-boss-vs-western/8475
 
 ### Content
@@ -120,68 +198,11 @@ No Replies Be the first to
 
 ---
 
-## 5. Any Benefit to a Newer Work truck vs Buying an Older one?
-
-**Author:** MonkeyDLuffy (Contributor 2)
-**Posted:** 2025-12-28
-**Views:** 275 | **Likes:** 2 | **Comments:** 6
-**URL:** https://community.getjobber.com/discussions/equipment--tools-forum/any-benefit-to-a-newer-work-truck-vs-buying-an-older-one/7963
-
-### Content
-
-I'm looking for testimonials here. Was it worth buying a 2020+ vehicle when trucks from the early 2000s still hold strong? I feel with the money Id save on a 2500 Ford or RAM, I could use that to buy a Digger and a bob cat. VEHICLES
-
-### Replies (6)
-
-#### Reply 1
-
-**Author:** julie
-**Posted:** 2025-12-28
-
-JOBBER COMMUNITY TEAM our community member BrandenSewell​ can definitely provide some insights here!
-
-#### Reply 2
-
-**Author:** BrandenSewell
-**Posted:** 2025-12-28
-
-MonkeyDLuffy​ this has a lot of personal nuance to it. For everyone this answer could be different but let me share my own experience. In 2022, after listening to some podcasts, I decided it would be a good idea to buy newer trucks and vans for my business and finance them. That was great until business unexpectedly slowed down and I had 4-5 car loans and payments. I ended up having to down size, sell my trucks at a loss, and basically start all over again. Fast forward, now I have 3 Vans that are between 2011 and 2014 I bought each for around $9K-$10K and they are paid for. I also have a paid for 2018 Ford Frontier and a paid for Chevy Sonic that is a sales car. Really good car owned by a mechanic before me. I own all of those with no payments. This has been a significant win for me. We have been working on wrapping all our fleet too. This past year we grew 45% over last year. In the future, when my business is more mature and established we might think about starting to finance some vehicles again but right now at our size it wasn't the right call. I hope that helps. At the end of the day, a newer/nicer truck is great if you know what you are getting into. Just know it is a risk. You cant ever tell what the future will hold. If I had to make a recommendation I would take into consideration your cash position, personal and current business debt, years in business, forecasted growth, and long term plans. If you have any follow up questions I am happy to help.
-
-#### Reply 3
-
-**Author:** MMarti21
-**Posted:** 2026-01-28
-
-to BrandenSewell Nice print job on your business vehicles
-
-#### Reply 4
-
-**Author:** Moss912
-**Posted:** 2026-01-28
-
-to BrandenSewell I love your response to the question! I started my lawn and landscaping company in 2018 and went full time in 2020. I currently have 3 trucks and the newest being a 21 ram 2500. The other two vehicles and are a 99 ram 1500 and a 96 ram 2500 that are obviously paid for cash. Paid$2000 for one and $5700 for the other. Buying those two truck cash with no payment allowed me to grow my company year after year since then by investing that money into more equipment in other areas. That allowed me to get into a position to purchase the 21 ram when the time was right. Still didn’t get a brand new 26 but I got what was needed at a good price. point is I waited to be in a position where I would be able to withstand a slow period and still maintain my payment.
-
-#### Reply 5
-
-**Author:** NicktheArborist
-**Posted:** 2025-12-28
-
-I buy new because I 0% enjoy working on broken ones. It’s that simple.
-
-#### Reply 6
-
-**Author:** 
-**Posted:** 2025-12-28
-
-EnergizeUs
-
----
-
 ## 6. You down with PPE? Yeah, you know me!
 
 **Author:** RichardM (Contributor 4)
-**Posted:** 2025-12-28
-**Views:** 101 | **Likes:** 3 | **Comments:** 4
+**Posted:** 2026-01-09
+**Views:** 104 | **Likes:** 3 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/you-down-with-ppe-yeah-you-know-me/7769
 
 ### Content
@@ -193,28 +214,28 @@ Google AI explains it as "Personal Protective Equipment (PPE) refers to any clot
 #### Reply 1
 
 **Author:** Moly
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM My brother is a foreman and ear, eye, and safety boots are required. There's also a lot of emphasis on processes for enclosed spaces, etc. He works for companies that take safety seriously because the consequences are literally fatal. That's really opened my eyes to how great it is when businesses do safety tailgate talks, take PPE seriously, etc. and how that's actually an employer differentiator bc unfortunately not every business puts enough focus on safety.
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 BUILDER 1 I own a cleaning company and we use gloves for sure. Also, we only work in closed toe shoes (we have indoor shoes for cleaning the homes) and long pants only. Absolutely no mixing of chemicals so we don't need masks.
 
 #### Reply 3
 
 **Author:** That1traveler
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 I wear PPE just to blow out the "dust" in clients' computers because often it can have insects and other things....
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM to That1traveler what industry are you in?
 
@@ -223,8 +244,8 @@ JOBBER COMMUNITY TEAM to That1traveler what industry are you in?
 ## 7. The $10,000 Flush: Why Your "Flushable" Wipes are Killing Your Septic System
 
 **Author:** FirstTurn (Contributor 2)
-**Posted:** 2026-01-28
-**Views:** 72 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-02-09
+**Views:** 74 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/the-10000-flush-why-your-flushable-wipes-are-killing-your-septic-system/8138
 
 ### Content
@@ -236,28 +257,28 @@ We see it every week. A homeowner calls us out for a backup, swearing they’ve 
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM This is a solid breakdown! There’s a lot of misinformation out there when it comes to septic “best practices,” especially around wipes and additives. The point about wipes not breaking down toilet paper is especially important. Once they make it past the tank, the damage gets expensive fast, and homeowners rarely connect the dots until it’s too late. Appreciate you taking the time to lay this out clearly. Out of curiosity, how often do you get service calls where wipes or additives are part of the problem? Is this an occasional issue for you, or something you’re seeing on a regular basis? Would love to hear how common this actually is in the field.
 
 #### Reply 2
 
 **Author:** FirstTurn
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 to julie It is more common than you think! The items we find in septic tanks are....... not supposed to be there! I would say a majority of the calls we run into wipes, additives, or at least a couple of items that should not be flushed.
 
 #### Reply 3
 
 **Author:** julie
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM to FirstTurn 😅 That checks out. “More common than you think” seems to be the unofficial slogan of septic work. It’s wild how often tanks turn into a lost-and-found for things that were never meant to be flushed. Appreciate you sharing the reality from the field!
 
 #### Reply 4
 
 **Author:** PestFreeCanada
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 I just realised that the Jobber community could be a great place to go for trade specific advice! It's our secret club of small business owners to help each other out with our own problems. I hear the same things in my industry too, those plug in ultrasonic deterrents for mice, peppermint oil, cloves, drawing chalk lines, dish soap, and my favourite... diatomaceous earth blocks! I simply tell people, "If these things worked, I wouldn't have a job". If anyone has any pest control questions, debunking myths, product advise, best practices, please feel free to ask me!
 
@@ -266,8 +287,8 @@ I just realised that the Jobber community could be a great place to go for trade
 ## 8. What tools do service professionals carry every day beyond their main equipment?
 
 **Author:** RichardM (Contributor 4)
-**Posted:** 2025-11-28
-**Views:** 166 | **Likes:** 2 | **Comments:** 4
+**Posted:** 2025-11-09
+**Views:** 174 | **Likes:** 2 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/what-tools-do-service-professionals-carry-every-day-beyond-their-main-equipment/7513
 
 ### Content
@@ -279,28 +300,28 @@ I’m not just referring to the basic tools of the trade. Every Day Carries (EDC
 #### Reply 1
 
 **Author:** Anonymous
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 This checks my OCD boxes so beautifully. I do the pocket check every morning before leaving the house...Cellphone, flashlight, Leatherman, extendable reaching tool, notepad, pen, sunglass case, sunglasses, keys, wallet, business card holder, bait box keys. I love how all service pros have basically the same core of items and then 1-2 special tools specific to the trade. Your irrigation adjustment key, mine for the bait boxes.
 
 #### Reply 2
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 to Anonymous I love how all service pros have basically the same core of items and then 1-2 special tools specific to the trade. Right! I am curious about what other trades carry for specific EDC's. Plumbers Electricians Handyman Framers Drywallers General Contractors Cleaners Equipment/Appliance Repair etc...
 
 #### Reply 3
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-11-09
 
 I wear a tactical belt with a small tool pouch for everything. Super handy.
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2025-11-28
+**Posted:** 2025-11-09
 
 JOBBER COMMUNITY TEAM This is a home service pro's "what's in my bag" moment! Do you carry everything in a tool pouch, box, bag, etc.?
 
@@ -309,8 +330,8 @@ JOBBER COMMUNITY TEAM This is a home service pro's "what's in my bag" moment! Do
 ## 9. What's your equipment horror story?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-12-28
-**Views:** 62 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 68 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/whats-your-equipment-horror-story/7766
 
 ### Content
@@ -322,7 +343,7 @@ In my world of pest control there are sort of industry standards of equipment, b
 #### Reply 1
 
 **Author:** judithvirag
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 BUILDER 1 Absolutely! I bought two of the disinfection guns - one with the backpack and the price was 6K!!!! for the pandemic. Did not go anywhere and made us no money at all.
 
@@ -331,69 +352,69 @@ BUILDER 1 Absolutely! I bought two of the disinfection guns - one with the backp
 ## 10. New, Used, or Lease? And WHEN?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-10-28
-**Views:** 165 | **Likes:** 2 | **Comments:** 8
+**Posted:** 2025-10-09
+**Views:** 167 | **Likes:** 2 | **Comments:** 8
 **URL:** https://community.getjobber.com/discussions/equipment--tools-forum/new-used-or-lease-and-when/7189
 
 ### Content
 
-As a small business owner it has been nothing short of challenging to build a business from nothing. I came from nothing and have built this thing from the ground up. I didn't have a lot of money. When I first started I couldn't afford company vehicles. I eventually bought used vehicles in the $20K-$30K range and financed them and that was fine until I unexpectedly slowed down and had to sell off my trucks just to survive. Once I rebuilt from the slow down I decided to buy used vans around $9K to $10K cash. Right now I have 6 vehicles. One of those vehicles needs major work done. And the others are all 100K miles or more and I feel they are just ticking time bombs. I want the reliability of newer, or leased vehicles but the risk intimidates me after my struggles in 2022. Is there a formula for when you should go from paying cash for used, to financing newer/new, and to finally leasing? Is there a revenue metric, a number of vehicles in your fleet, or some other sign that going one route over the other is more advantageous or less risky? Thanks for taking the time to read this and share feedback! BEST PLACES TO BUY CONSTRUCTION COSTS EQUIPMENT & TOOL BRANDS MAINTENANCE PAINTING TOOL & EQUIPMENT BRANDS VEHICLES woodland-phac This seems to be a cashflow question as much as it is a vehicle question. Are you able to set aside some $ every month for vehicles? You may not be able to upgrade all the vehicles at once, but maybe set it as a goal over the next 1-2 years. A little about us: We are a husband and wife owner team of a plumbing and hvac company. We started in our garage and bought our first vehicle. For the first few years we had subs and they used their own trucks. Then we shifted to employees and started buying vehicles 1-2/year. We have sold some and this year bought our first late model trucks. We now have 8 - 4 of those are between '21-'23. The others are older. We had 2 down last week for a day )=. Over the next several months, 1-2 years we hope to upgrade the rest. None of them are wrapped, but that is an idea on the horizon once we can fine-tune design ideas. The idea is to save $x/month/vehicle and when needed or the right time comes to pay cash for a replacement truck. I used to set $500/truck/month in a truck replacement fund. Now in our area $700/truck/ month is likely better. The other thought I have is about when you said about your higher mileage vehicles " I feel they are just ticking time bombs." Your other trucks could need major maintenance soon or be ok for awhile. Try not to let fear or anxiety push you into financing or hasty purchases if that is not your plan (= Best of luck and hope you guys have great vehicles soon.
+As a small business owner it has been nothing short of challenging to build a business from nothing. I came from nothing and have built this thing from the ground up. I didn't have a lot of money. When I first started I couldn't afford company vehicles. I eventually bought used vehicles in the $20K-$30K range and financed them and that was fine until I unexpectedly slowed down and had to sell off my trucks just to survive. Once I rebuilt from the slow down I decided to buy used vans around $9K to $10K cash. Right now I have 6 vehicles. One of those vehicles needs major work done. And the others are all 100K miles or more and I feel they are just ticking time bombs. I want the reliability of newer, or leased vehicles but the risk intimidates me after my struggles in 2022. Is there a formula for when you should go from paying cash for used, to financing newer/new, and to finally leasing? Is there a revenue metric, a number of vehicles in your fleet, or some other sign that going one route over the other is more advantageous or less risky? Thanks for taking the time to read this and share feedback! BEST PLACES TO BUY CONSTRUCTION COSTS EQUIPMENT & TOOL BRANDS MAINTENANCE PAINTING TOOL & EQUIPMENT BRANDS VEHICLES woodland-phac 4 months ago This seems to be a cashflow question as much as it is a vehicle question. Are you able to set aside some $ every month for vehicles? You may not be able to upgrade all the vehicles at once, but maybe set it as a goal over the next 1-2 years. A little about us: We are a husband and wife owner team of a plumbing and hvac company. We started in our garage and bought our first vehicle. For the first few years we had subs and they used their own trucks. Then we shifted to employees and started buying vehicles 1-2/year. We have sold some and this year bought our first late model trucks. We now have 8 - 4 of those are between '21-'23. The others are older. We had 2 down last week for a day )=. Over the next several months, 1-2 years we hope to upgrade the rest. None of them are wrapped, but that is an idea on the horizon once we can fine-tune design ideas. The idea is to save $x/month/vehicle and when needed or the right time comes to pay cash for a replacement truck. I used to set $500/truck/month in a truck replacement fund. Now in our area $700/truck/ month is likely better. The other thought I have is about when you said about your higher mileage vehicles " I feel they are just ticking time bombs." Your other trucks could need major maintenance soon or be ok for awhile. Try not to let fear or anxiety push you into financing or hasty purchases if that is not your plan (= Best of luck and hope you guys have great vehicles soon.
 
 ### Replies (8)
 
 #### Reply 1
 
 **Author:** woodland-phac
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 This seems to be a cashflow question as much as it is a vehicle question. Are you able to set aside some $ every month for vehicles? You may not be able to upgrade all the vehicles at once, but maybe set it as a goal over the next 1-2 years. A little about us: We are a husband and wife owner team of a plumbing and hvac company. We started in our garage and bought our first vehicle. For the first few years we had subs and they used their own trucks. Then we shifted to employees and started buying vehicles 1-2/year. We have sold some and this year bought our first late model trucks. We now have 8 - 4 of those are between '21-'23. The others are older. We had 2 down last week for a day )=. Over the next several months, 1-2 years we hope to upgrade the rest. None of them are wrapped, but that is an idea on the horizon once we can fine-tune design ideas. The idea is to save $x/month/vehicle and when needed or the right time comes to pay cash for a replacement truck. I used to set $500/truck/month in a truck replacement fund. Now in our area $700/truck/ month is likely better. The other thought I have is about when you said about your higher mileage vehicles " I feel they are just ticking time bombs." Your other trucks could need major maintenance soon or be ok for awhile. Try not to let fear or anxiety push you into financing or hasty purchases if that is not your plan (= Best of luck and hope you guys have great vehicles soon.
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 to woodland-phac We seem to be in a similar place. I really what you said about not letting the anxiety or fear get to me. Thank you for the detailed feedback.
 
 #### Reply 3
 
 **Author:** julie
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 JOBBER COMMUNITY TEAM Hey Brandon! Thanks for sharing this so openly. I'm sure your story will resonate with a lot of our members here. I also love that you’re thinking about this so strategically. Most people only revisit their vehicle plan when something breaks down!
 
 #### Reply 4
 
 **Author:** BrandenSewell
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 to julie We need more transparency honestly. Not just about the wins but the struggles too. When we share the wins without the struggles it causes people to shoot for the stars before counting the cost. I think people need to know the possible pit falls or common mistakes that get overlooked. Our businesses move fast and it is easy to miss the details that matter the most.
 
 #### Reply 5
 
 **Author:** judithvirag
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 BUILDER 1 Fleet vehicles/company vehicles are super expensive and agreed it is stressful. We do not have company vehicles but our team members use their own cars and we pay the gas. Maybe this would be one of the solutions to not to extend yourself?
 
 #### Reply 6
 
 **Author:** BrandenSewell
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 to judithvirag I have done a mix of having my own and having employees use their own. My goal is just for all my leads and sales team to have company vehicles. I do the power of branding, local brand equity that is built through a fully wrapped fleet. I attribute a lot of our growth over the last year to wrapping our fleet.
 
 #### Reply 7
 
 **Author:** judithvirag
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 BUILDER 1 to BrandenSewell Every market and industy is different. :) Where I am google ads are our best bet in our industry.
 
 #### Reply 8
 
 **Author:** PRZ_CPA
-**Posted:** 2025-10-28
+**Posted:** 2025-11-09
 
 I also agree with woodland-phac, seems a cash flow question. If you have enough money (6months) to cover overhead, payrolll etc.. then I would consider new or lease. If not buying used is the best bet. But it all depends on your numbers.
 

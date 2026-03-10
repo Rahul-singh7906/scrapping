@@ -1,33 +1,277 @@
 # Jobber Community Forum - Marketing Forum
 
-Total Discussions: 103
+Total Discussions: 108
 
 ---
 
-## 1. When a customer says, "That's too expensive," how do you respond?
+## 1. Less is MORE!
+
+**Author:** Apex-solutionz (New Member)
+**Posted:** 2026-03-09
+**Views:** 9 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/less-is-more/9234
+
+### Content
+
+NEW MEMBER Something I notice a LOT in many marketing strategies is the overwhelming amount of detail people put into their campaign. To clarify, lets take a look at the ways people market. Yardsigns, social media ads, business cards, vehicle wraps, billboards, etc. Lets remember what the goal is in marketing. BRAND RECOGNITION Keep It Simple Stupid Less is MORE When a prospect is driving at 45mph in their vehicle, they can NOT read the tiny cursive lettering on your dark colored, detail cluttered, yard sign. Same with all other campaigns and products. All marketing needs to lead to somewhere. a website or social media page where you your customers can get all the information they need to know. Until then, the marketing needs to immediately show with as few words and details as possible who you are, what you are, and lastly a phone number, web address, or QR code. Pick a company color, logo, font, and repeat it across all platforms and displays. Maintain something the customer will begin to recognize. Make it simple and clear to read. Below is the art work for nearly all of our marketing. Yeah, it might be boring but it's effective!! I don't need to show a dozen little bullet points of specific services. That is what our webpage is for. Please share your marketing strategies and let's help others be SEEN!!
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 2. In small rural areas... How do you keep your prices reasonable?
+
+**Author:**  (Contributor 2)
+**Posted:** 2026-03-08
+**Views:** 11 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/in-small-rural-areas-how-do-you-keep-your-prices-reasonable/9227
+
+### Content
+
+20201 In small rural areas, given the rising cost of everything else, how do we keep our prices reasonable without hurting our own pockets buying equipment, products etc.? The income in the area is below average, which makes it **bleep** would be consumers needing services. AUTO DETAILING HOW TO GROW YOUR BUSINESS PRESSURE WASHING PRICING STRATEGIES
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-08
+
+This is a little bit of a touchy subject for me - I'm quite passionate about that term "reasonable". When you cut prices to appease a certain customer base, the only person it hurts is yourself. My short answer is - you can't unless you are cutting things that aren't providing you value or generating revenue. Everyone is not your customer. I guarantee, regardless of where you live, there are people that are willing to pay WHAT IT TAKES to get to service performed at the price you have to charge to do it. That is unless you are trying to sell dog poop scooping or something that's more of a luxury service in a low income area. If that's the case, I'd say move or don't do that business. Cutting or not raising prices when you need to, is suicide. Variable costs Your labor costs X - you try to cut that, you just F over your coworkers. Do you have people that aren't producing and need to go? You could cut that. If you have good people that are providing value, I wouldn't cut them or their pay. Materials - sure you may be able to source somewhere less expensive but you also need to account for your time getting those cheaper materials and what other costs are associated with it. Fixed costs Insurance - can't do anything about that. Marketing - You don't really want to cut marketing so you can cut prices Consumables - You can try to manage those better but is that really going to have a meaningful affect on price that would make you want to lower prices Equipment/ vehicles- As long as you are using them to perform you job well, can't really do much with these. Do you have extra vehicles? You could cut that I guess Officer salaries - are you taking too much salary? Maybe cut that if so but long term that's not a solution. Eventually you'll need to pay someone to do what you're doing unless you want to work in your business forever so I'd leave it in there unless your salary is way too high. If all the above is WHAT IT TAKES to do something, why would you charge less? To have less hard conversations with customers? I get it, price resistance sucks. I have that conversation 3-4 times a day. But you have to get over. And BTW - I have the same price resistant conversations charging at $150/ hr, I did when I charged $50/ hr. Just with different people and now I make enough to sustain the business.
+
+---
+
+## 3. On line help
+
+**Author:** Jrhvac (Contributor 2)
+**Posted:** 2026-03-07
+**Views:** 6 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/on-line-help/9225
+
+### Content
+
+Yelp ratings ADVERTISING HOW TO GROW YOUR BUSINESS HVAC
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 4. Which social media platforms work best for marketing a local service business?
+
+**Author:** adlgado (Contributor 2)
+**Posted:** 2026-03-05
+**Views:** 60 | **Likes:** 2 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/marketing-forum/which-social-media-platforms-work-best-for-marketing-a-local-service-business/9141
+
+### Content
+
+Managing partner here for Rene & Son's Landscaping, Inc. in Wheeling IL. Was just wondering and trying to get everyone's input on this. I'm 25 and when it comes to social media marketing I am kind of at a loss. Is Facebook still a thing that a lot of people use? I have FB but barely use it. I know older generations use Facebook but to what extent. Should I be focusing my marketing more toward Instagram or tik tok? I mean as we continue to move forward should our focus shift into different marketing trends. Should the focus be more on Google marketing or Yelp? Do people still use Yelp? ADVERTISING BRANDING DIGITAL MARKETING STRATEGIES HOW TO GROW YOUR BUSINESS SOCIAL MEDIA MARKETING
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-06
+
+You definitely need to have your GMB page dialed in. If you don't know what you need to do, ask chat gpt. That has to be optimized (pictures, videos, services, products, etc etc). Jobber has had a few podcasts on that so definitely look in to it. For social media - you really need to just be posting consistently on all of them. If you make something for IG, post it on tik tok and you tube. If you post on IG, is automatically puts in on Facebook. The main thing to keep in mind, your page needs to be appealing to your avatar customer. If you're trying to bring in business (and not just follows) you need to have customer testimonials, videos of your projects, videos of you specifically, picture carosels, literally all of it. And you need to be consistent! Is it a lot? Yes! Sometimes I go 5 days without posting because I'm getting my butt kicked but be as consistent as you can. Another trick I've tried to get followers is pay for boosting posts. You can pinpoint the audience you are looking for and boost it. Pick the area you serve and people that what you're selling and boost it. Facebook marketing is also good but they have whole programs on how to market there. I can put you on to something that if you have some money to invest in your education but follow the advice above, know it's not an overnight fix, and you should be ok.
+
+#### Reply 2
+
+**Author:** Ogun
+**Posted:** 2026-03-05
+
+For starters do you have a Google Business page? I think you should use all the major social media platforms and see which ones have the best response for your business.
+
+#### Reply 3
+
+**Author:** NJones
+**Posted:** 2026-03-06
+
+Facebook still works really well for us because it reaches all age groups, especially homeowners who are making buying decisions. Our biggest drivers have been: 1. Facebook marketing 2. Google presence and reviews 3. Instagram for showcasing work TikTok can be good for exposure, but Facebook and Google tend to bring in more local paying customers. At the end of the day though, quality work and strong Google reviews are the best marketing.
+
+#### Reply 4
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-07
+
+I read an article lately that Boomers are starting to move a lot of money into the next generation of small business. They have ageing homes and a lot are looking to downsize which would require a lot of blue collar work to either maintain or prepare for a sale. A lot of those Boomers are on Facebook. So I would say you should know your demographic, know who your customers are and find out where they are. Where they are looking for contractors. From the article I also took that Boomers have heard the news about the Chinese government involvement with TikTok and don't trust the platform due to historically bad relations with China and the West. They trust Facebook and Google as a homegrown company and still use it quite consistently. You can make your own decisions about that comment though! I will try and find that article and post it for everyone because it was very interesting. Get a good Google profile and ask for as many reviews as you can. Start a Facebook page and post some interesting things on there. I am a dinosaur when it comes to social media, but I committed myself to stepping it up in 2026! If I can do it, anyone can.
+
+#### Reply 5
+
+**Author:** TheGlowGetter
+**Posted:** 2026-03-07
+
+At Jobber Summit on Wednesday, Cheryl had an awesome session about boosting your presence in local Facebook groups. Post as often as you're allowed to and make your posts eye-catching. She said group members will start to recognize you if you post often, therefore they're more likely to recommend you. I joined a ton of local groups in the markets we service and started posting. We'll see what happens but the older generation is definitely on Facebook so still use it as a marketing tool!
+
+---
+
+## 5. Most Profitable Marketing
+
+**Author:** Stapleton (Contributor 2)
+**Posted:** 2025-03-09
+**Views:** 513 | **Likes:** 1 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/marketing-forum/most-profitable-marketing/2326
+
+### Content
+
+What marketing strategy has been the largest driver for your business in terms of generating revenue? Best ROI. Marketing company, facebook ads, google ads, SEO, billboard, newspaper, cold emails, cold calling, door to door, business cards/flyers/postcards, or any type of free advertisement, charity work, the list goes on. As contractors, we can become ignorant if we think we have it all figured out. We can all learn from each other. Please share your best ROI. CHIMNEY SWEEP SERVICES
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** PickinPoop
+**Posted:** 2025-03-09
+
+We do Pet Waste Management. For us its been an almost even split of Direct Mail, Google search and boots on the ground Guerrilla Marketing.Word of mouth and local small business interaction has been very useful. Joining the local COC has been a plus also. Facebook, Nextdoor and Yelp have been duds for me.
+
+#### Reply 2
+
+**Author:** TacticalPWR
+**Posted:** 2025-04-09
+
+to PickinPoop Yeah I haven’t been having any luck with them either
+
+#### Reply 3
+
+**Author:** EnzoMinniti
+**Posted:** 2025-03-09
+
+SEO and Google ads. Next up to pair with that is social media content and also tagging our company in local town facebook groups.
+
+#### Reply 4
+
+**Author:** FredHodgeJr
+**Posted:** 2025-04-09
+
+SEO has been extrmely valuble to grow our business and our residential clients, but our best ROI would be from professional organizations and trade associations. We work with Porperty & Facility management companies and those organizations are giving us a 25:1 ROI. Emaple we are spending (investing) 15K and seeing 375K. My general rule of thumb is any lead source you continue should give you a minimum of 5:1 ROI
+
+#### Reply 5
+
+**Author:** JustinD254
+**Posted:** 2026-03-03
+
+to FredHodgeJr the company we use whatconverts says 5 is low and to shoot for 10x ROI minimum and using their platform has us their currently
+
+#### Reply 6
+
+**Author:** judithvirag
+**Posted:** 2025-03-09
+
+BUILDER 1 For us it is Google Ads. 70% of our leads come through here. The next one is referrals and networking.
+
+#### Reply 7
+
+**Author:** JustinD254
+**Posted:** 2026-03-03
+
+This companies motto is proving ROI and ROAS to companies to show what is working and what is not working. They did not integrate with Jobber until a few months ago but now that there is a direct integration, it works so great. I highly suggest checking it out. If you have any querstions you can reach out to me directly. Or you can talk to them directly https://calendly.com/1-whatconverts/jobber-whatconverts
+
+---
+
+## 6. What are you doing right now to make the phone ring for your business?
+
+**Author:** brooksmcnichols (Contributor 2)
+**Posted:** 2026-02-07
+**Views:** 235 | **Likes:** 1 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-you-doing-right-now-to-make-the-phone-ring-for-your-business/8609
+
+### Content
+
+what is your go to advertisements or sales tactics to get lead generation? We have been in business for over 17 years now servicing the Tampa bay area and this year has hit us the hardest. I am an isa certified arborist and I do engage in networking and community events but despite our best efforts we are still experiencing a lack of leads. I don't want to just throw money at the wall but we are running out of options. what are some things that are working for you? ADVERTISING ARBORIST CAMPAIGNS DIGITAL MARKETING STRATEGIES EMAIL MARKETING HOW TO GROW YOUR BUSINESS LEAD GEN PRINTED MARKETING SEO SOCIAL MEDIA MARKETING
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** BRWC
+**Posted:** 2026-02-07
+
+Hey Brooks, we’re sorry to hear this. A couple of quick “cheap” wins may be to create and share a social media post from your companies business page into local Facebook groups (Some allow this, some don’t). These would just be typical Facebook posts. A helpful tip would be to add a link to online booking through jobber to get people in the funnel. We find the link helps in instances where they may see the post after hours or would prefer to book service/requests at their leisure.
+
+#### Reply 2
+
+**Author:** BRWC
+**Posted:** 2026-02-07
+
+to BRWC Depending on your client data you may even try sending an email campaign through jobber about getting scheduled quicker and more seamless through the online bookings link or service request link.
+
+#### Reply 3
+
+**Author:** PestFreeCanada
+**Posted:** 2026-02-11
+
+I was using a paid lead platform called Homestars and that was getting me in front of a lot of customers. I recently decided that hiring a marketing team would be in my best interest and I am hoping this pays off as a good ROI. Either way I wouldn't consider cheap, but the paid leads are working out and I hope for good results from the marketing firm.
+
+#### Reply 4
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-02-11
+
+brooksmcnichols​ I think the QUICKEST way to get a job is calling past clients. Next, there are door knockers with WRITTEN pricing on them. These instant quotes catch people's eyes. Lastly, I do EDDM (every door direct mail) postcards with PCM. At less than a dollar a mailer, it's well worth getting that extra touch on the customer. I hope this helps. Keep your head up out there!
+
+#### Reply 5
+
+**Author:** HUGEHandyman
+**Posted:** 2026-02-13
+
+RIGHT NOW - I'm working on dialing in facebook and IG ads. There's a really good course I can refer you if you message me. What I WOULDN'T do, is hire an ad agency. Take the responsibility to learn the stuff yourself and do it.
+
+#### Reply 6
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-05
+
+All solid advice in here. One thing I would add that often gets overlooked: before throwing more money at getting the phone to ring, it's worth making sure you're actually capturing every call that already comes in. Most busy home service businesses are missing 20 to 30 percent of inbound calls, especially after hours and during peak season when everyone is in the field. If you're spending on ads and half those calls are hitting voicemail, you're paying to generate leads you're not actually getting. Fixing the capture side first makes every dollar you spend on marketing go further.
+
+#### Reply 7
+
+**Author:** mikebjr
+**Posted:** 2026-03-05
+
+You want phone calls fast? Hows your website? Google Business Page? We set ours up nicely and Google PPC ads are doing wonders for us. Reach out if you just want to bs. mailto:Mike@doorkingtoday.com is my email
+
+---
+
+## 7. When a customer says, "That's too expensive," how do you respond?
 
 **Author:** Lisa (Jobber Community Team)
-**Posted:** 2026-02-17
-**Views:** 84 | **Likes:** 3 | **Comments:** 6
+**Posted:** 2026-02-18
+**Views:** 120 | **Likes:** 3 | **Comments:** 7
 **URL:** https://community.getjobber.com/discussions/marketing-forum/when-a-customer-says-thats-too-expensive-how-do-you-respond/8747
 
 ### Content
 
 JOBBER COMMUNITY TEAM What’s your go-to move when a customer pushes back on price? Do you ask a follow-up question? Offer different options? When do you know to walk away? In this episode of Masters of Home Service, Kevin Cook and Rob Soper explain how: "Too expensive" usually isn't about price, it's about trust and value Asking the right questions beats defending your price Giving options ( good, better, best pricing) changes the conversation Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Want to put these tips into action? Download our free guide to handling price objections (includes scripts). Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. PRICING STRATEGIES SALES TRAINING
 
-### Replies (6)
+### Replies (7)
 
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-18
+**Posted:** 2026-02-19
 
 I always go back to a line I had a trainer say to client in front of me more than 13 years ago, "I am not too expensive, you just don't see the value" I still use that line today. Sometimes when I get the vibe that someone was expecting a lower price I can't wait to drop that line on them because of how it changes their approach to the conversation.
 
 #### Reply 2
 
 **Author:** Lisa
-**Posted:** 2026-02-18
+**Posted:** 2026-02-19
 
 JOBBER COMMUNITY TEAM to PestFreeCanada Helping customers see the value behind the price is key. Even a quick explanation of what’s included and the results they can expect can really shift the conversation. Thanks for sharing! :)
 
@@ -40,39 +284,46 @@ I usually respond with empathy and try to subtly shift control back to them. Som
 
 #### Reply 4
 
-**Author:** Lisa
-**Posted:** 2026-02-20
+**Author:** cedarsmithhomes
+**Posted:** 2026-03-04
 
-JOBBER COMMUNITY TEAM to tbarth I love how you lead with empathy and frame the decision in a cooperative way. It's a solid and smart approach to keep things calm, give them space, and avoid negotiating against yourself! Thanks for breaking it down (+ sharing your script and thoughtful reminders when it comes to selling) :)
+to tbarth This approach seems a great way give your customers some relief. Not being defensive used to be difficult for me. I the way you approach it.
 
 #### Reply 5
 
-**Author:** FredHodgeJr
-**Posted:** 2026-02-25
+**Author:** Lisa
+**Posted:** 2026-02-21
 
-When a customer says, “That’s too expensive,” they’re almost never talking about money. They’re usually saying one of three things: • I don’t see the value • I wasn’t expecting that number • I’m not fully confident yet If your first move is to discount, you just validated their doubt. Do not defend. Do not justify. Do not drop price immediately. Slow the moment down and take control of the conversation. Ask: “When you say it’s too expensive, compared to what?” Now you’re diagnosing instead of reacting. If they mention another company, respond with: “Are they offering the same scope, warranty and process?” Force the comparison beyond price. Most cheaper quotes remove something. Scope. Prep work. Insurance. Warranty. Follow-up. That’s where value lives. If they say, “It’s more than we wanted to spend,” say: “Got it. Is the hesitation about the investment itself, or does the scope feel bigger than what you were hoping for?” Now you’ve separated budget from expectations. From there, you have three strong plays: Re-anchor the value Bring them back to the problem. “What happens if this doesn’t get addressed this season?” “What would it cost you if this gets worse?” Pain clarifies priority. Urgency creates movement. Offer controlled options Not a discount. A scope adjustment. “We could break this into phases.” “If we removed X, that would bring it to Y.” You stay in control. You adjust the plan, not your standards. Hold your ground “If we’re not the right fit at this level, I completely understand. We’re probably not the cheapest option, but we are the company that does it once and does it right.” Confidence closes more deals than coupons ever will. When do you walk away? You walk when: • They are only shopping for the lowest number • They negotiate before understanding value • They don’t respect expertise • The margin becomes unhealthy
+JOBBER COMMUNITY TEAM to tbarth I love how you lead with empathy and frame the decision in a cooperative way. It's a solid and smart approach to keep things calm, give them space, and avoid negotiating against yourself! Thanks for breaking it down (+ sharing your script and thoughtful reminders when it comes to selling) :)
 
 #### Reply 6
 
-**Author:** Lisa
+**Author:** FredHodgeJr
 **Posted:** 2026-02-26
+
+When a customer says, “That’s too expensive,” they’re almost never talking about money. They’re usually saying one of three things: • I don’t see the value • I wasn’t expecting that number • I’m not fully confident yet If your first move is to discount, you just validated their doubt. Do not defend. Do not justify. Do not drop price immediately. Slow the moment down and take control of the conversation. Ask: “When you say it’s too expensive, compared to what?” Now you’re diagnosing instead of reacting. If they mention another company, respond with: “Are they offering the same scope, warranty and process?” Force the comparison beyond price. Most cheaper quotes remove something. Scope. Prep work. Insurance. Warranty. Follow-up. That’s where value lives. If they say, “It’s more than we wanted to spend,” say: “Got it. Is the hesitation about the investment itself, or does the scope feel bigger than what you were hoping for?” Now you’ve separated budget from expectations. From there, you have three strong plays: Re-anchor the value Bring them back to the problem. “What happens if this doesn’t get addressed this season?” “What would it cost you if this gets worse?” Pain clarifies priority. Urgency creates movement. Offer controlled options Not a discount. A scope adjustment. “We could break this into phases.” “If we removed X, that would bring it to Y.” You stay in control. You adjust the plan, not your standards. Hold your ground “If we’re not the right fit at this level, I completely understand. We’re probably not the cheapest option, but we are the company that does it once and does it right.” Confidence closes more deals than coupons ever will. When do you walk away? You walk when: • They are only shopping for the lowest number • They negotiate before understanding value • They don’t respect expertise • The margin becomes unhealthy
+
+#### Reply 7
+
+**Author:** Lisa
+**Posted:** 2026-02-27
 
 JOBBER COMMUNITY TEAM to FredHodgeJr This is such a great breakdown, Fred! You’re spot on that “too expensive” usually isn’t about the number itself. It’s about confidence, expectations, or comparison. Slowing the moment down instead of reacting is such a powerful shift. I also really the points you made about knowing when to walk away. It's true, not every job is the right fit, and being clear on your standards and margins is huge for long-term success. Thanks so much for sharing. Really awesome perspective and scripts for anyone having these conversations regularly!
 
 ---
 
-## 2. How do you educate customers about pest prevention without giving away too much?
+## 8. How do you educate customers about pest prevention without giving away too much?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-24
-**Views:** 14 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-02-25
+**Views:** 34 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-educate-customers-about-pest-prevention-without-giving-away-too-much/8875
 
 ### Content
 
 I think properly explaining to a customer what I am going to do and how I am going to do it is very important. I do a lot of rodent exclusion and it takes skill to do it right, but a normal person could figure it out. I also think that if they wanted to, they could just take what I said I am going to do, and do it themselves. I often wonder where the line between explaining and selling is? If someone wants to pay me to do it, great. If someone wants to do it themselves and I am not out anything for just explaining it to them, that is great too. That is why I charge for inspections! I am happy to walk away with my inspection fee in my pocket but also enjoy the added revenue from performing the work! PEST CONTROL
 
-### Replies (2)
+### Replies (3)
 
 #### Reply 1
 
@@ -88,13 +339,20 @@ JOBBER COMMUNITY TEAM I'm with you on this! Educating customers is a huge part o
 
 Ive been in the Construction and Pest control Industry for over 15 years. and i Explain Exactly how to solve the problem and if they wanna do it them selves i always say go for it. Exclusion or Moisture Remediation work. Solving insect or termite problems. I never got alot of pushback about wanting to do it them selves so much. I always mentioned Read the label ur gonna need a 2 story ladder use Wire mesh not the cheap plastic stuff make sure ur crawl vents and crawl door or sealed properly. watch out for these Dehumidier brands. I look at it as I am here to provide a service cause you dont have time or dont wanna learn to DIY yourself
 
+#### Reply 3
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-01
+
+I'm not in the pest business but my business is similar because there is an element of they can do it themselves. If I was in your shoes, I would give them whatever information they are seeking but if they don't want to deal with it, that's where you come in. My impression of the pest industry is a lot of it comes down to being consistent with treatment which a lot of people probably wouldn't do for themselves (this is where a monthly or quarterly membership would come in).
+
 ---
 
-## 3. Facebook & Instagram Ads for Local Service Businesses: What Works Best?
+## 9. Facebook & Instagram Ads for Local Service Businesses: What Works Best?
 
 **Author:** Dina_PJC (Contributor 2)
-**Posted:** 2025-12-27
-**Views:** 308 | **Likes:** 3 | **Comments:** 9
+**Posted:** 2026-01-09
+**Views:** 344 | **Likes:** 3 | **Comments:** 9
 **URL:** https://community.getjobber.com/discussions/marketing-forum/facebook--instagram-ads-for-local-service-businesses-what-works-best/7824
 
 ### Content
@@ -106,42 +364,42 @@ Hello! Junk Removal company here 👋. We're posting (somewhat) regularly now, a
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM I asked a Jobber performance marketing ad expert on this topic and they said that their biggest tip is to make sure your ads use the same language your customers use. Check out Reddit Answers or even the comments on your competitors' ads. People will literallyy tell you their pain points in their own words. Pull those phrases directly into the first 3 seconds of your ad to hook people in. Hope this helps!
 
 #### Reply 2
 
 **Author:** Moly
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM to julie Ooh great insight. Matthew (same person Julie talked to) also encourages running multiple ads with different messages or images to see which ones resonate most. If you can run 2 great, 3 even better, etc. The stats will tell you what people are responding to!
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 I had this thought a while ago and my cousin made a joke about my younger sister being "a Instagram star, you should ask her". I am 40 and don't care much for social media but have been thinking about doing some marketing on there and asking my younger, phone addicted sister what the ads look out there. That brings me to my point, is to ask users what they see. What they , what they don't, what format looks best on a phone screen, what content is relevant...all that stuff. Ask your kids, friends, family colleagues. I guess you could call it a market research. When I had social media I thought I was posting some earth shattering content then people would say to me, why would you post that? What you think is good isn't always what people want to see!
 
 #### Reply 4
 
 **Author:** FredHodgeJr
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 From an exterior cleaning business owner’s perspective, what’s worked best for paid social is simple, video's showing the transformation before and after, short clips of crews in action, or one clear problem dirty siding, roof stains, or overflowing gutters with a quick solution. We keep the same ad running for weeks and let the algorithm do the work. We measure it primarily on cost per lead, but we also expect a branding lift, especially when people mention they’ve seen us “everywhere” before they ever fill out a form.
 
 #### Reply 5
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Facebook Ads and Instagram Ads should be trackable. You should be tracking your ad spend and where your leads come from. Track lead conversion rates, average tickets, demographics, etc. When you run these ads you should be running multiple at the same time that are completely different. This is simple called A B testing. Check your analytics on your ads and reallocate your ad spend to the ads that are best performing. This is a never ending cycle because what works now won't always work a month from now.
 
 #### Reply 6
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 to BrandenSewell I have found social media hard to break into for advertising, as I can't join groups or comment from my business page. Only as myself. Most of my leads come from Google search results, and I am happy to lean into this with paid Google adverts; however, I'd to lean into free social media advertising first. Any advice is helpful.
 
@@ -155,24 +413,24 @@ to ThatHandymanVan You need to build your personal brand on social media. People
 #### Reply 8
 
 **Author:** Pstock1988
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 I've worked with so many politicians as a campaign manager. The question is, whats your target audience? On Facebook? For example, there are a lot more normies, old folks and conservatives. They statistically will keep watching your add longer. Facebook does have a shady ad pay system that charges you for "views", meaning they scrolled by it. Instagram tends to have gen z and alpha active. Those adds I'd keep short and funny, but the service stays serious. Lastly, always use a 15-30 second video over a poster/image. Research shows that our attention span is horrendous and you need to hook you viewers in with some suspense or a $10 gift card for your store.
 
 #### Reply 9
 
 **Author:** Pstock1988
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 to Pstock1988 I always use a campaign spend because it tells your reach and it can be adjusted.
 
 ---
 
-## 4. Lead generating apps, is anyone using them?
+## 10. Lead generating apps, is anyone using them?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-12-27
-**Views:** 143 | **Likes:** 4 | **Comments:** 7
+**Posted:** 2026-01-09
+**Views:** 158 | **Likes:** 4 | **Comments:** 7
 **URL:** https://community.getjobber.com/discussions/marketing-forum/lead-generating-apps-is-anyone-using-them/7953
 
 ### Content
@@ -184,7 +442,7 @@ I have recently been looking into the platforms that generate paid leads and I w
 #### Reply 1
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 The reality is that lead generation sites work but they don't work for everyone. If you aren't systemized and using a proven sales process, then it is a waste of money because the guys who move faster, have the funding, and teams to get that work are going to before you can ever get to it. And yes, you will have some bad leads but thats to be expected. If you dont have call center who is calling leads first, funds to pay top dollar for leads/customer aquistion, and you dont have the team to handle the amount of work to make it worth it, then you need to learn how to get leads yourself. Let me know if you want to know how to grow your business without buying leads.
 
@@ -198,45 +456,45 @@ Personally, I'm a big fan of building your own marketing foundation on your webs
 #### Reply 3
 
 **Author:** katebrownell86
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 This is basically the core flaw of the paid-lead marketplace model — you’re paying for access, not intent. In my experience, anything that charges per lead instead of per booked job only works if: your close rate is very high, and your average job value easily absorbs wasted leads. Otherwise, you’re better off owning the channel — Google Business Profile, local SEO, or even simple PPC where at least the click is exclusive to you. It’s slower upfront, but you’re not bidding against 5 other contractors for the same homeowner. Lead apps can work, but they’re rarely “best” — they’re more a stopgap when your own pipeline isn’t full.
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM This is a really common frustration, especially with pay-per-lead models where you’re competing for the same customer or paying before there’s any real intent. You’re definitely not alone in feeling burned by that setup! I’m also curious to hear from others here about what’s actually worked for them. Hoping a few members can share real-world experiences (good or bad) so we can compare. BrandenSewell​ FredHodgeJr​ any platforms that come to mind?
 
 #### Reply 5
 
 **Author:** judithvirag
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 BUILDER 1 I would love to know as well. We do Google Ads and I find Yelp, Bark are the $%#@.
 
 #### Reply 6
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 One thing I have noticed is how these sites are so regional and almost focused into one community. I guess its all just word if mouth about one or the other. If a person is using Homestars then he tells neighbours and they tell neighbours, it builds up on the street! Same would go for any other app. I just really don't how 3-4-5 Pros can all be charged to receive a clients contact info and they only hire one.
 
 #### Reply 7
 
 **Author:** FredHodgeJr
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 You’re not wrong at all. What you’re experiencing isn’t a flaw in those platforms, it’s the business model itself. Most paid lead services HomeStars, Bark, Thumbtack, etc. are designed to monetize contractors, not protect them, which is why the same lead gets sold to multiple companies with no accountability for whether the job is already closed. In pest control it’s even worse because customers are often in panic mode and hire the first decent option, so by the time you get the lead you’re already late. You might get a few wins that make it feel worth it, but long term the cost, dead leads, and price shoppers add up fast. What has worked far better for us is owning the demand through Google Business Profile optimization and reviews, Local Service Ads, local grassroots efforts neighborhood Facebook groups or door hangers, and consistently marketing to past customers for recurring services. Paid lead platforms can work as a short-term filler, but as a foundation they’re frustrating and expensive. Owning your traffic and reputation locally beats renting leads every time.
 
 ---
 
-## 5. Lead Generator vrs Digital marketing and trying to market yourself
+## 11. Lead Generator vrs Digital marketing and trying to market yourself
 
 **Author:** GreenwoodPro (Contributor 2)
 **Posted:** 2026-02-18
-**Views:** 26 | **Likes:** 2 | **Comments:** 4
+**Views:** 37 | **Likes:** 2 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/marketing-forum/lead-generator-vrs-digital-marketing-and-trying-to-market-yourself/8772
 
 ### Content
@@ -269,29 +527,29 @@ My suggestion is to do a lot of the stuff yourself early on if you can. It's eas
 #### Reply 4
 
 **Author:** GreenwoodPro
-**Posted:** 2026-02-20
+**Posted:** 2026-02-21
 
 i do i have nextdoor facebook google business page and website. so far ive been building my backend my self. ive also been looking at createing my own lead generator to help create leads for myself. rather then purchase leads. im just trying to get an idea of how i can target certain marketing campaigns when im ready to pull scaleing in overdrive and accelerate my workflow. theres so many marketing things out there. that i dont wasting money. i wanna spend money and stay strategic and firm and make sure it works for me
 
 ---
 
-## 6. Do you charge for estimates, and has it worked for your business?
+## 12. Do you charge for estimates, and has it worked for your business?
 
 **Author:** DelgadoKW (Contributor 3)
 **Posted:** 2026-02-10
-**Views:** 154 | **Likes:** 1 | **Comments:** 8
+**Views:** 170 | **Likes:** 1 | **Comments:** 8
 **URL:** https://community.getjobber.com/discussions/marketing-forum/do-you-charge-for-estimates-and-has-it-worked-for-your-business/8630
 
 ### Content
 
-Does anyone here charge for estimates? I've been thinking about this for a while and curious if anyone has found success with it. I run a handyman business and solely focus on active listings for realtors. I've found that most of the time, when buyer's agents call for me to look at inspection punch list items, they never call back after I send the quote. I can only assume they're using my quote as leverage in the sale to get some sort of credit or concession from the seller. Now I'm thinking of asking which side of the sale they're on and charging if it's the buyer side, or just charging all around. Obviously, our time isn't cheap so I want to honor that. If you're charging for estimates, what kind of rate are you charging? CONSTRUCTION GENERAL CONTRACTING HANDYMAN PRICING STRATEGIES SALES TRAINING ryaantuttle YES. We charge an onsite estimate fee, and we’ve done it this way since 2018—long before COVID made everyone rethink how they run their business. We actually provide free estimates remotely and turn those around within 24 hours. If someone wants us to come out in person, that’s considered a paid onsite consultation. The reason is simple: Most people requesting estimates aren’t hiring — they’re price shopping, using numbers for leverage, or trying to “see what it might cost.” That time adds up fast, and it’s not sustainable to absorb it for free. Charging for onsite estimates has been one of the best decisions we’ve made: It immediately filters out tire-kickers It sets expectations that our time and expertise have value It dramatically improves our close rate on onsite visits The customers who are serious have no issue paying, and the ones who push back usually confirm exactly why the fee exists in the first place. We’re not charging to give a number! We’re charging for experience, scope clarity, and professional evaluation. And if a customer doesn’t see value in that, they’re not the right fit for our business anyway.
+Does anyone here charge for estimates? I've been thinking about this for a while and curious if anyone has found success with it. I run a handyman business and solely focus on active listings for realtors. I've found that most of the time, when buyer's agents call for me to look at inspection punch list items, they never call back after I send the quote. I can only assume they're using my quote as leverage in the sale to get some sort of credit or concession from the seller. Now I'm thinking of asking which side of the sale they're on and charging if it's the buyer side, or just charging all around. Obviously, our time isn't cheap so I want to honor that. If you're charging for estimates, what kind of rate are you charging? CONSTRUCTION GENERAL CONTRACTING HANDYMAN PRICING STRATEGIES SALES TRAINING ryaantuttle 26 days ago YES. We charge an onsite estimate fee, and we’ve done it this way since 2018—long before COVID made everyone rethink how they run their business. We actually provide free estimates remotely and turn those around within 24 hours. If someone wants us to come out in person, that’s considered a paid onsite consultation. The reason is simple: Most people requesting estimates aren’t hiring — they’re price shopping, using numbers for leverage, or trying to “see what it might cost.” That time adds up fast, and it’s not sustainable to absorb it for free. Charging for onsite estimates has been one of the best decisions we’ve made: It immediately filters out tire-kickers It sets expectations that our time and expertise have value It dramatically improves our close rate on onsite visits The customers who are serious have no issue paying, and the ones who push back usually confirm exactly why the fee exists in the first place. We’re not charging to give a number! We’re charging for experience, scope clarity, and professional evaluation. And if a customer doesn’t see value in that, they’re not the right fit for our business anyway.
 
 ### Replies (8)
 
 #### Reply 1
 
 **Author:** ryaantuttle
-**Posted:** 2026-02-10
+**Posted:** 2026-02-11
 
 YES. We charge an onsite estimate fee, and we’ve done it this way since 2018—long before COVID made everyone rethink how they run their business. We actually provide free estimates remotely and turn those around within 24 hours. If someone wants us to come out in person, that’s considered a paid onsite consultation. The reason is simple: Most people requesting estimates aren’t hiring — they’re price shopping, using numbers for leverage, or trying to “see what it might cost.” That time adds up fast, and it’s not sustainable to absorb it for free. Charging for onsite estimates has been one of the best decisions we’ve made: It immediately filters out tire-kickers It sets expectations that our time and expertise have value It dramatically improves our close rate on onsite visits The customers who are serious have no issue paying, and the ones who push back usually confirm exactly why the fee exists in the first place. We’re not charging to give a number! We’re charging for experience, scope clarity, and professional evaluation. And if a customer doesn’t see value in that, they’re not the right fit for our business anyway.
 
@@ -333,7 +591,7 @@ I do charge an estimate fee. I charge $35 for an in-home estimate. This is nowhe
 #### Reply 7
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-10
+**Posted:** 2026-02-11
 
 I believe in charging for an inspection. It is your time and effort to be onsite and create a plan for the client. A free inspection could be taken advantage of for sure and in my case would make the service cost more as I need to work in that time in the end. Even a small fee for your inspection isn't outrageous, somewhere in the $125-200 range.
 
@@ -346,11 +604,11 @@ I'm a remodeler waffle on this one. If they aren't willing to send me pictures a
 
 ---
 
-## 7. Postcard marketing
+## 13. Postcard marketing
 
 **Author:** DanielG2024 (Contributor 2)
-**Posted:** 2025-02-27
-**Views:** 941 | **Likes:** 2 | **Comments:** 11
+**Posted:** 2025-03-09
+**Views:** 979 | **Likes:** 2 | **Comments:** 11
 **URL:** https://community.getjobber.com/discussions/marketing-forum/postcard-marketing/1043
 
 ### Content
@@ -362,137 +620,87 @@ Hi everyone I run a small lawn and landscaping company, and I wanted to see what
 #### Reply 1
 
 **Author:** wesleyparker
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Expensive and hard to track. Even if you have a unique offer on the card I would consider more of an awareness tool than a lead generation tool.
 
 #### Reply 2
 
 **Author:** DanielG2024
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to wesleyparker Got it. More of an awareness tool than a lead generation tool.
 
 #### Reply 3
 
 **Author:** 
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 FB I’ve personally had no luck with them. I had one professionally designed and it looked great, offering a great deal for a furnace and AC maintenance combo. I looked up a ton other of companies offers too so I know it was a good deal. With CanadaPost I was even able to select specific demographics to receive them. I even made sure my web site, google all that stuff was up to **bleep** before sending them out. I sent out over 5k cards…literally got 1 call for $149.99. Super disappointing. I don’t know if I did something wrong but definitely did not work for me. Maybe someone else has had a better experience that can chime in.
 
 #### Reply 4
 
 **Author:** DanielG2024
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to FB Wow. I guess its good to have different marketing companies going at once, and not put all you eggs in one basket.
 
 #### Reply 5
 
 **Author:** bedellmgmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I haven't done any of this type of advertising, but have heard from others who have that the success seems to be very market-dependent. Some local areas seem to do well from these and a neighboring community produces the results FB experienced. Ultimately, I wouldn't put all your eggs in one basket. Multi-touch point marketing does work on a big enough scale - but you may find more instant success shaking hands and getting face-to-face with your target clients.
 
 #### Reply 6
 
 **Author:** DanielG2024
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to bedellmgmt I've tried doing face to face door nocking, and it works sometimes for me. But most of the time they ether don't come to there door, or when they do say there not interested before I can get a word out. Just trying to see what everyone's experience has been, and see if its a good idea to add this to my marketing campaigns.
 
 #### Reply 7
 
 **Author:** Royceard
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Direct mail still works! EDDM is both affordable and easy to use. However, you must send enough pieces out to give yourself an opportunity to be successful. Ideally, send out 5,000 pieces, 2 times with a 2 week interval between mailing. Then the next month, do it again with 5,000 new addresses. Next month, the same. After 3 months you can come back and resend to your original addresses. Don’t worry about refreshing the creative - they won’t remember and if they do that’s a win. This strategy should cost about $3,000/month and will generate a response rate of .25-.5%. So make sure the cost to acquire a customer works in your business. In this example you would get 5-10 customers per month. I’m in a different business now and will send 200,000 pieces of direct mail in 2025 - hitting each home 12 times. It definitely works!
 
 #### Reply 8
 
 **Author:** DanielG2024
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to Royceard Thank you. Looking into different marketing straggles for the 2025 season.
 
 #### Reply 9
 
 **Author:** sam-s
-**Posted:** 2026-02-19
+**Posted:** 2026-02-20
 
 to Royceard Awesome breakdown. So that's $300-600 per Client Acquisition. What's your average revenue per job? I imagine this is viable for roofers, etc.
 
 #### Reply 10
 
 **Author:** ryaantuttle
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Great question DanielG2024 ! Jobber has an integration with Sendjim where you can you send Postcards directly from Jobber. It's a really robust platform and works well. However, you'd really want to put an entire strategy/campaign together in order to effectively spend your marketing dollars correctly. Start by building out your ideal client avatar and go from there.
 
 #### Reply 11
 
 **Author:** DanielG2024
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to ryaantuttle I didn't realize jobber integrated with Sendjim I'll have to look into that.
 
 ---
 
-## 8. What are you doing right now to make the phone ring for your business?
-
-**Author:** brooksmcnichols (Contributor 2)
-**Posted:** 2026-02-06
-**Views:** 210 | **Likes:** 1 | **Comments:** 5
-**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-you-doing-right-now-to-make-the-phone-ring-for-your-business/8609
-
-### Content
-
-what is your go to advertisements or sales tactics to get lead generation? We have been in business for over 17 years now servicing the Tampa bay area and this year has hit us the hardest. I am an isa certified arborist and I do engage in networking and community events but despite our best efforts we are still experiencing a lack of leads. I don't want to just throw money at the wall but we are running out of options. what are some things that are working for you? ADVERTISING ARBORIST CAMPAIGNS DIGITAL MARKETING STRATEGIES EMAIL MARKETING HOW TO GROW YOUR BUSINESS LEAD GEN PRINTED MARKETING SEO SOCIAL MEDIA MARKETING
-
-### Replies (5)
-
-#### Reply 1
-
-**Author:** BRWC
-**Posted:** 2026-02-07
-
-Hey Brooks, we’re sorry to hear this. A couple of quick “cheap” wins may be to create and share a social media post from your companies business page into local Facebook groups (Some allow this, some don’t). These would just be typical Facebook posts. A helpful tip would be to add a link to online booking through jobber to get people in the funnel. We find the link helps in instances where they may see the post after hours or would prefer to book service/requests at their leisure.
-
-#### Reply 2
-
-**Author:** BRWC
-**Posted:** 2026-02-07
-
-to BRWC Depending on your client data you may even try sending an email campaign through jobber about getting scheduled quicker and more seamless through the online bookings link or service request link.
-
-#### Reply 3
-
-**Author:** PestFreeCanada
-**Posted:** 2026-02-10
-
-I was using a paid lead platform called Homestars and that was getting me in front of a lot of customers. I recently decided that hiring a marketing team would be in my best interest and I am hoping this pays off as a good ROI. Either way I wouldn't consider cheap, but the paid leads are working out and I hope for good results from the marketing firm.
-
-#### Reply 4
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-11
-
-brooksmcnichols​ I think the QUICKEST way to get a job is calling past clients. Next, there are door knockers with WRITTEN pricing on them. These instant quotes catch people's eyes. Lastly, I do EDDM (every door direct mail) postcards with PCM. At less than a dollar a mailer, it's well worth getting that extra touch on the customer. I hope this helps. Keep your head up out there!
-
-#### Reply 5
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-13
-
-RIGHT NOW - I'm working on dialing in facebook and IG ads. There's a really good course I can refer you if you message me. What I WOULDN'T do, is hire an ad agency. Take the responsibility to learn the stuff yourself and do it.
-
----
-
-## 9. What price objections do home service customers most commonly have?
+## 14. What price objections do home service customers most commonly have?
 
 **Author:** rebecca (Jobber Community Team)
-**Posted:** 2026-01-31
-**Views:** 84 | **Likes:** 0 | **Comments:** 4
+**Posted:** 2026-02-09
+**Views:** 86 | **Likes:** 0 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/marketing-forum/what-price-objections-do-home-service-customers-most-commonly-have/8504
 
 ### Content
@@ -504,38 +712,38 @@ JOBBER COMMUNITY TEAM What’s the most common objection you hear when customers
 #### Reply 1
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-02-01
+**Posted:** 2026-02-09
 
 I have had customers do the math and tell me, "So you're trying to make X an hour huh?" And I just , sounds about right, I cover my overhead and expenses. I don't argue or give in to explanation. Another when they say something is way too high, I tell them that I am not the cheapest option and I am sure they can find a weekend handyman to slap it on for them. We are however the highest rated and most reliable Handyman in the area.
 
 #### Reply 2
 
 **Author:** HUGEHandyman
-**Posted:** 2026-02-02
+**Posted:** 2026-02-09
 
 Oh man - where do I start haha Because I have a handyman business - I get a lot of "You're 2x more expensive than the other bids". These customers aren't going to come around usually so I typically just leave these at "sounds good" then move on. Honestly, it's probably because I didn't do a good job showing the value of my company so they are just using price as the main factor to judge off of. If I'm in a conversation with these people though, I just explain the difference between working with a business running things above board and one that's not (be it paying people in cash, being unlicensed etc) For other customers when they say something sounds expensive, i just agree with them! I say "ya I know, everything is more expensive these days". I try to make is less what I'm charging and more about that's what it takes. If it's truly out of budget, I will try to find ways to reduce the scope.
 
 #### Reply 3
 
 **Author:** rebecca
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM Appreciate these perspectives and it’s interesting how different the approaches can be depending on the situation and the customer. Price objections come up a lot in our community, especially around value and margin conversations. Noting that we’re digging into this topic in a Sell With Confidence session at Jobber Summit, focused on handling price objections and value conversations without defaulting to discounts if helpful: https://www.getjobber.com/summit?utm_source=organic-community&utm_medium=facebook-group&utm_campaign=jobber-summit-2026
 
 #### Reply 4
 
 **Author:** Janine
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 People make objections for a few reasons… it’s sport to them - they love getting a deal and ask everyone for a discount regardless of price. they are paying for something they are upset about having to pay for. No one is excited about the furnace needing to be replaced. they have never purchased what you are selling or they haven’t had to in a long time. the contractor is way too transparent with pricing. Detailed line item quotes honestly invite people to push back on the price of every single line item. the quote is too vague asking for a lot of money and not explaining the value of the offering.
 
 ---
 
-## 10. What Are the Best Low-Cost Marketing Ideas for Home Service Businesses?
+## 15. What Are the Best Low-Cost Marketing Ideas for Home Service Businesses?
 
 **Author:** julie (Jobber Community Team)
-**Posted:** 2026-01-29
-**Views:** 181 | **Likes:** 1 | **Comments:** 14
+**Posted:** 2026-02-09
+**Views:** 207 | **Likes:** 1 | **Comments:** 14
 **URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-the-best-low-cost-marketing-ideas-for-home-service-businesses/8428
 
 ### Content
@@ -547,108 +755,108 @@ JOBBER COMMUNITY TEAM ADVERTISING ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO
 #### Reply 1
 
 **Author:** lawn_kingsUS
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 In my opinion, the number 1 low or no cost marketing tactic is "establish an online presence". A google business profile is free and allows you to 1.) showcase social proof (reviews and photos) and 2.) allows you to get new customers for a $0 customer acquisition cost. Ideally, you've got a professional looking website ranking well too. Both of those will get you showing up in 2 of the top 4 spots on google, the map pack and search listings. Additionally, you can take it a step further and pay for Local service ads and search ads and all of a sudden, you're showing up 4 times with every relevant search.
 
 #### Reply 2
 
 **Author:** julie
-**Posted:** 2026-01-30
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM to lawn_kingsUS I totally agree with this 👏 Your point about Google Business Profiles pulling double duty (social proof and visibility) is huge, especially for service businesses competing locally. A lot of folks don’t realize how efficient GBP can be when it’s actually maintained (photos, reviews, updates, etc.).
 
 #### Reply 3
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 to lawn_kingsUS "A google business profile is free and allows you to" This is where 70% of my leads come from. Good call. I want to explore Local service ads next as I start to niche down.
 
 #### Reply 4
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 Whatever you do to market, make sure it is part of EVERY call, "Hey, how did you hear about us? ... ok great, I really appreciate that, it helps us know what we are doing is getting heard, now what can I do to help today?"
 
 #### Reply 5
 
 **Author:** judithvirag
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 BUILDER 1 Door knockers around the homes we already clean, with a QR code to the website. This generates extra traffic to the website and our Google performs better.
 
 #### Reply 6
 
 **Author:** julie
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM to judithvirag Ooo, simple yet effective. Are you able to track the traffic from the door knocker QR code?
 
 #### Reply 7
 
 **Author:** judithvirag
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 BUILDER 1 to julie Yes we are :)
 
 #### Reply 8
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 to judithvirag Do you find that people use the QR codes? I find that they just call me instead. I would to push people to the website so they can input all their information there, saving me time, but the call also gets the customer.
 
 #### Reply 9
 
 **Author:** Moss912
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 I would say getting involved and sponsoring community events such as little league, pups basketball teams, as well as town parades. Some cost between $25 - 125 for entry and sponsorship. We gained a lot of route density and community trust that way.
 
 #### Reply 10
 
 **Author:** julie
-**Posted:** 2026-01-31
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM to Moss912 Community visibility and trust are HUGE. Was it easy to reach out to events and organizations and build these relationships?
 
 #### Reply 11
 
 **Author:** Moss912
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 to julie Yes very easy. The town calendar and town websites usually offers information about sponsoring sports teams and events. Local schools offer information as well.
 
 #### Reply 12
 
 **Author:** julie
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM For other members just coming across this post, if low-cost marketing has been top of mind for you, Cheryl Hajjar is breaking down exactly how she generated 90 leads in 90 days without paid ads at Jobber Summit on March 4th! Learn more about here session here.
 
 #### Reply 13
 
 **Author:** Moss912
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 Looking forward to attending jobber summit!
 
 #### Reply 14
 
 **Author:** roselvaggio
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 It appears Google My Business! Using the nice job add-on, it automates our requests and provides us the authority for our region. We are hoping to utilize this to grow into a new region later this year. also don’t sleep on word of mouth! We have “an offer you can’t refuse” that incentivizes our current client list to bring in family or neighbors. We’ve grown over 1200% in 5 years but I’m always looking for new and creative ideas!
 
 ---
 
-## 11. Virtually Estimating with Video and A.I
+## 16. Virtually Estimating with Video and A.I
 
 **Author:** WiringByron (Jobber Ambassador)
-**Posted:** 2026-02-02
-**Views:** 30 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 38 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-forum/virtually-estimating-with-video-and-a-i/8523
 
 ### Content
@@ -666,11 +874,11 @@ No Replies Be the first to
 
 ---
 
-## 12. You Get One Billboard.....
+## 17. You Get One Billboard.....
 
 **Author:** ryaantuttle (Jobber Ambassador)
-**Posted:** 2026-01-27
-**Views:** 126 | **Likes:** 2 | **Comments:** 6
+**Posted:** 2026-01-09
+**Views:** 145 | **Likes:** 2 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/marketing-forum/you-get-one-billboard-/8020
 
 ### Content
@@ -682,52 +890,52 @@ If you had one billboard for your business, just a few words seen by thousands o
 #### Reply 1
 
 **Author:** Moly
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM Ryaan, would yours say ‘Best Handyman Boston’?! Says it all!
 
 #### Reply 2
 
 **Author:** ryaantuttle
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 to Moly Hey Moly!!! YEASSSSSSS!!!!!! Our billboard would read: “Not the cheapest in town”
 
 #### Reply 3
 
 **Author:** cmg
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Love this question. Mine would say: 'Done right the first time. Honest pricing. No surprises.' Speaks for itself!
 
 #### Reply 4
 
 **Author:** FredHodgeJr
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Less is more. Prolific Brand Design made this for us and recommended not even having our phone number on it. We haven't used it yet though.
 
 #### Reply 5
 
 **Author:** ryaantuttle
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 to FredHodgeJr Thats look awesome! I think it would be advantageous to put a QR code for tracking & lead gen. purposes along with the location of the business. FredHodgeJr​
 
 #### Reply 6
 
 **Author:** ChrisGagnon
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 our latest
 
 ---
 
-## 13. What to do when business gets slow?
+## 18. What to do when business gets slow?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-08-27
-**Views:** 119 | **Likes:** 1 | **Comments:** 3
+**Posted:** 2025-09-09
+**Views:** 122 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/marketing-forum/what-to-do-when-business-gets-slow/5659
 
 ### Content
@@ -739,31 +947,31 @@ What would you add? Here are 10 things you can do when business gets slow to hel
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Knock on doors, set a goal for cold calling a certain number of people per day! You may not be in your peak time, but lining up customers for busy times always better than looking for new ones when you're slammed!
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 to PestFreeCanada Love it! Great advice.
 
 #### Reply 3
 
 **Author:** dtteam
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 I ran my own small business marketing company for over 10 years and I can definitely say newsletters are a great way to stay top of mind. No sales, just info. I to say think of areas that seem obvious to you in your business and industry - I can bet that most customers have no clue! Give a peek behind the curtain, give tips that show off your knowledge, even if they may or may not already know it. Never go longer between sending than monthly, and only send more frequently if you have relevant and useful info!
 
 ---
 
-## 14. How Are You Designing Funnels That Actually Convert Service Leads?
+## 19. How Are You Designing Funnels That Actually Convert Service Leads?
 
 **Author:** Funnelsflex (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 12 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 16 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-forum/how-are-you-designing-funnels-that-actually-convert-service-leads/8194
 
 ### Content
@@ -781,11 +989,11 @@ No Replies Be the first to
 
 ---
 
-## 15. How do you keep your service marketing simple and consistent over time?
+## 20. How do you keep your service marketing simple and consistent over time?
 
 **Author:** Funnelsflex (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 46 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 55 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-keep-your-service-marketing-simple-and-consistent-over-time/8182
 
 ### Content
@@ -797,13 +1005,13 @@ Hi everyone, I’ve been thinking about how marketing efforts change after the i
 #### Reply 1
 
 **Author:** judithvirag
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 BUILDER 1 Great question and struggle myself with this. Would love to see any great ideas here.
 
 ---
 
-## 16. What’s the single biggest change you made that increased your close rate the most in 2025?
+## 21. What’s the single biggest change you made that increased your close rate the most in 2025?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-01-27
@@ -825,7 +1033,7 @@ No Replies Be the first to
 
 ---
 
-## 17. What percentage of revenue did you spend on marketing in 2025, and what's your 2026 target?
+## 22. What percentage of revenue did you spend on marketing in 2025, and what's your 2026 target?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-01-27
@@ -854,7 +1062,7 @@ We're at 10% this year, came in at 9.1% in 2025. We're pretty aggressive and we 
 
 ---
 
-## 18. Should you use yourself as your model in your advertisement campaign?
+## 23. Should you use yourself as your model in your advertisement campaign?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-01-27
@@ -883,7 +1091,7 @@ JOBBER COMMUNITY TEAM Hello! Marketing professional here on the Jobber side, and
 
 ---
 
-## 19. We have a hard rule that all marketing must hit a 5:1 ROI or it gets dropped.
+## 24. We have a hard rule that all marketing must hit a 5:1 ROI or it gets dropped.
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-01-27
@@ -905,7 +1113,7 @@ JOBBER COMMUNITY TEAM That’s a strong benchmark, Fred. Having a clear cutoff :
 
 ---
 
-## 20. Client leads
+## 25. Client leads
 
 **Author:** turrisico (Contributor 2)
 **Posted:** 2026-01-27
@@ -934,7 +1142,7 @@ JOBBER COMMUNITY TEAM Networking and door hangers come up a lot. Networking only
 
 ---
 
-## 21. Putting in the work, but no clients yet. What would you do in my shoes?
+## 26. Putting in the work, but no clients yet. What would you do in my shoes?
 
 **Author:** jose-miami (Contributor 3)
 **Posted:** 2025-06-27
@@ -1138,7 +1346,7 @@ JOBBER COMMUNITY TEAM Hey there, jose-miami​, curious if you’ve seen some s
 
 ---
 
-## 22. My last meeting with Patrick Bet-David for 2025
+## 27. My last meeting with Patrick Bet-David for 2025
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -1174,7 +1382,7 @@ Todays Meeting
 
 ---
 
-## 23. 4 Overlooked Sales & Marketing Techniques! *They all have to do with appearance.
+## 28. 4 Overlooked Sales & Marketing Techniques! *They all have to do with appearance.
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -1196,7 +1404,7 @@ No Replies Be the first to
 
 ---
 
-## 24. Why should I wrap my business vehicle?
+## 29. Why should I wrap my business vehicle?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-27
@@ -1561,7 +1769,7 @@ JOBBER COMMUNITY TEAM Erica Krupin had some great takes on this episode of the M
 
 ---
 
-## 25. How Are You Managing and Nurturing Leads?
+## 30. How Are You Managing and Nurturing Leads?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -1583,7 +1791,7 @@ BUILDER 1 We follow up with leads until they tell us to stop. Our nurturing is 4
 
 ---
 
-## 26. How (if at all) are you using video in your business?
+## 31. How (if at all) are you using video in your business?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-12-27
@@ -1626,7 +1834,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr Love this breakdown, Fred! These are solid 
 
 ---
 
-## 27. How do you get more jobs in the same neighborhood?
+## 32. How do you get more jobs in the same neighborhood?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -1704,7 +1912,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr Stacking visibility and catching neighbors 
 
 ---
 
-## 28. A win that reinforced why we do what we do
+## 33. A win that reinforced why we do what we do
 
 **Author:** berrycleanusa (Contributor 2)
 **Posted:** 2025-12-27
@@ -1733,7 +1941,7 @@ That’s an incredible win. Huge respect to you for building something that actu
 
 ---
 
-## 29. How to sign up a business that has multiple sites across your city?
+## 34. How to sign up a business that has multiple sites across your city?
 
 **Author:** Anonymous (Jobber Community Team)
 **Posted:** 2025-12-27
@@ -1762,7 +1970,7 @@ I Julie's feedback. Just really consider the costs of offering discounts across 
 
 ---
 
-## 30. ok… what lead tactics are ACTUALLY working for you all?
+## 35. ok… what lead tactics are ACTUALLY working for you all?
 
 **Author:** berrycleanusa (Contributor 2)
 **Posted:** 2025-12-27
@@ -1791,7 +1999,7 @@ BNI groups ! Look up a Business Networking International in your area. Easy mone
 
 ---
 
-## 31. How Can a Staging and Organizing Business Grow on Social Media?
+## 36. How Can a Staging and Organizing Business Grow on Social Media?
 
 **Author:** NItsPlace (Contributor 2)
 **Posted:** 2025-07-27
@@ -1848,7 +2056,7 @@ If you want to grow on social media, the first step is to figure out your goal 
 
 ---
 
-## 32. Has Anyone Hired a Virtual Assistant to Help Manage Their Team?
+## 37. Has Anyone Hired a Virtual Assistant to Help Manage Their Team?
 
 **Author:** shelter (Contributor 2)
 **Posted:** 2025-08-27
@@ -1905,7 +2113,7 @@ BUILDER 1 What could you solve by AI and automation?
 
 ---
 
-## 33. How To Track Commission Plans in Your Business for Jobber
+## 38. How To Track Commission Plans in Your Business for Jobber
 
 **Author:** Daichi (Contributor 4)
 **Posted:** 2025-10-27
@@ -1927,7 +2135,7 @@ No Replies Be the first to
 
 ---
 
-## 34. What Are the Best Practices for Expanding Painting Service Contracts?
+## 39. What Are the Best Practices for Expanding Painting Service Contracts?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-27
@@ -1949,7 +2157,7 @@ I have worked around this in the past by adapting my pricing. Sell your initial 
 
 ---
 
-## 35. What Monthly Services Work Best for a 55+ Community?
+## 40. What Monthly Services Work Best for a 55+ Community?
 
 **Author:** Djpat (Contributor 2)
 **Posted:** 2025-06-27
@@ -2034,7 +2242,7 @@ Collaborations with other small business is always really great way to keep goin
 
 ---
 
-## 36. Where Do You Get Your Flyers or Printed Materials Made?
+## 41. Where Do You Get Your Flyers or Printed Materials Made?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-27
@@ -2056,7 +2264,7 @@ JOBBER COMMUNITY TEAM Appreciate you sharing this and love that you’re keeping
 
 ---
 
-## 37. How is Google handling AI Content?
+## 42. How is Google handling AI Content?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-11-27
@@ -2106,7 +2314,7 @@ This is a timely discussion. With AI content becoming more common, it’s helpfu
 
 ---
 
-## 38. What’s the hardest part about creating social media content for your business right now?
+## 43. What’s the hardest part about creating social media content for your business right now?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -2191,7 +2399,7 @@ BUILDER 1 to BrandenSewell I can totally feel what you have said Branden
 
 ---
 
-## 39. Who else is offering memberships???
+## 44. Who else is offering memberships???
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -2227,7 +2435,7 @@ Love Adams suggestion. We have a service contract. We don't offer levels but I d
 
 ---
 
-## 40. Are you undercharging?
+## 45. Are you undercharging?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -2256,7 +2464,7 @@ Love this. We are typically the highest bid our customers get, but if I am hones
 
 ---
 
-## 41. Marked or unmarked vehicles?
+## 46. Marked or unmarked vehicles?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-27
@@ -2285,7 +2493,7 @@ Just wondering why anyone would ask you to park around the corner? If it's an is
 
 ---
 
-## 42. Customer Appreciation Dinner/Event?
+## 47. Customer Appreciation Dinner/Event?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -2363,7 +2571,7 @@ to BrandenSewell Landscaping, maintenance, arborist, landscape pest control. Pro
 
 ---
 
-## 43. What is the biggest bottleneck for you as a blue collar trade owner?
+## 48. What is the biggest bottleneck for you as a blue collar trade owner?
 
 **Author:** Jeff (Jobber Ambassador)
 **Posted:** 2025-10-27
@@ -2399,7 +2607,7 @@ JOBBER COMMUNITY TEAM Hey Jeff! Great to see you in the Home Service Community �
 
 ---
 
-## 44. Keep it flowin' - Sales Pipeline
+## 49. Keep it flowin' - Sales Pipeline
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-27
@@ -2428,7 +2636,7 @@ to rebecca This day and age, a solid online presence is a huge part of driving n
 
 ---
 
-## 45. Understand your customer’s pain = win more deals
+## 50. Understand your customer’s pain = win more deals
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -2450,7 +2658,7 @@ No Replies Be the first to
 
 ---
 
-## 46. Outside workers, what are you doing to stay busy in the winter months?
+## 51. Outside workers, what are you doing to stay busy in the winter months?
 
 **Author:** Anonymous (Contributor 3)
 **Posted:** 2025-11-27
@@ -2486,7 +2694,7 @@ Anonymous​ I would assume that you would be pretty busy with rodent control, s
 
 ---
 
-## 47. Marketing for Thanksgiving (USA): Pumpkin Day!
+## 52. Marketing for Thanksgiving (USA): Pumpkin Day!
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-27
@@ -2508,7 +2716,7 @@ JOBBER COMMUNITY TEAM This is amazing (and a genius idea)! And what a sweet touc
 
 ---
 
-## 48. A way to give back to the community and also market your business!
+## 53. A way to give back to the community and also market your business!
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -2530,7 +2738,7 @@ JOBBER COMMUNITY TEAM This is a great idea to spread awareness for your business
 
 ---
 
-## 49. Ask-an-Expert: Social Media Post Audit -
+## 54. Ask-an-Expert: Social Media Post Audit -
 3 Simple Tweaks to Boost Your Results
 
 **Author:** Dumpire (Contributor 2)
@@ -2693,7 +2901,7 @@ to WilliamAChicoS Post looks great, but we can definitely improve. Also, I LOVE 
 
 ---
 
-## 50. 1,000+ Google reviews in a year? Phil Risher shares his secrets
+## 55. 1,000+ Google reviews in a year? Phil Risher shares his secrets
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-09-27
@@ -2743,7 +2951,7 @@ JOBBER COMMUNITY TEAM This episode had such great tips, PhilRisher​ is joining
 
 ---
 
-## 51. How to land 10X bigger jobs (without more leads)
+## 56. How to land 10X bigger jobs (without more leads)
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -2765,7 +2973,7 @@ No Replies Be the first to
 
 ---
 
-## 52. Looking to collaborate with Junk removal, landscape or cleaning companies.
+## 57. Looking to collaborate with Junk removal, landscape or cleaning companies.
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-10-27
@@ -2787,7 +2995,7 @@ JOBBER COMMUNITY TEAM Loving the spirit behind this post. It's always inspiring 
 
 ---
 
-## 53. How do you know you’re undercharging?
+## 58. How do you know you’re undercharging?
 
 **Author:** Moly (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -2844,7 +3052,7 @@ JOBBER COMMUNITY TEAM Boom! The master class with all the metrics. Thanks, Brand
 
 ---
 
-## 54. How to get big commercial accounts
+## 59. How to get big commercial accounts
 
 **Author:** Turfsamurai (Contributor 3)
 **Posted:** 2025-06-27
@@ -2992,7 +3200,7 @@ For me, I just walk into the business and talk to whoever is in charge, maybe it
 
 ---
 
-## 55. Have you ever landed a big job from a single email?
+## 60. Have you ever landed a big job from a single email?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -3014,7 +3222,7 @@ No Replies Be the first to
 
 ---
 
-## 56. What's your go-to automated marketing stack?
+## 61. What's your go-to automated marketing stack?
 
 **Author:** dhawkins (Contributor 2)
 **Posted:** 2025-10-27
@@ -3050,7 +3258,7 @@ to RichardM Sure thing, RichardM​ Since leads typically get inundated with cal
 
 ---
 
-## 57. Google Ad Leads- Phone Lead
+## 62. Google Ad Leads- Phone Lead
 
 **Author:** RedbirdPool (Contributor 2)
 **Posted:** 2025-04-27
@@ -3072,7 +3280,7 @@ That's a frustrating but common issue. It sounds you're correctly using Google's
 
 ---
 
-## 58. UTM tracking / Google Analytics tracking
+## 63. UTM tracking / Google Analytics tracking
 
 **Author:** si4star (Contributor 2)
 **Posted:** 2025-02-27
@@ -3185,7 +3393,7 @@ to Sweely Thanks - that is a really helpful, and interesting, .
 
 ---
 
-## 59. Where do you buy yard signs?
+## 64. Where do you buy yard signs?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-09-27
@@ -3221,7 +3429,7 @@ FredHodgeJr​ can you tell me approximately what the cost is?
 
 ---
 
-## 60. how to cancel jobber.
+## 65. how to cancel jobber.
 
 **Author:** daveDAVE (Contributor 2)
 **Posted:** 2025-09-27
@@ -3250,7 +3458,7 @@ I agree about transparency but I think you might be focusing on the wrong things
 
 ---
 
-## 61. Podcast discussion: Texted an old quote list and closed $100K
+## 66. Podcast discussion: Texted an old quote list and closed $100K
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-09-27
@@ -3279,7 +3487,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr It's definitely important to know your demo
 
 ---
 
-## 62. Painters: what ideas do you have for the cold holiday season?
+## 67. Painters: what ideas do you have for the cold holiday season?
 
 **Author:**  (Contributor 3)
 **Posted:** 2025-02-27
@@ -3308,7 +3516,7 @@ Do you have any system/strategy for staying top of mind? You could also implemen
 
 ---
 
-## 63. What 50+ Free Social Media Audits Taught Us About Small Business Marketing
+## 68. What 50+ Free Social Media Audits Taught Us About Small Business Marketing
 
 **Author:** kasyallen (Contributor 4)
 **Posted:** 2025-08-27
@@ -3330,7 +3538,7 @@ JOBBER COMMUNITY TEAM Hey Kasy! Thanks so much for summarizing your top learning
 
 ---
 
-## 64. 🌟 Free Social Media Audit - Ask-an-Expert! 🌟
+## 69. 🌟 Free Social Media Audit - Ask-an-Expert! 🌟
 
 **Author:** kasyallen (Contributor 4)
 **Posted:** 2025-08-27
@@ -4619,7 +4827,7 @@ https://www.instagram.com/cleanoutdrains/
 
 ---
 
-## 65. What are you doing for PR?
+## 70. What are you doing for PR?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-08-27
@@ -4641,7 +4849,7 @@ BUILDER 1 We do what you have listed. We are going to try a press release as wel
 
 ---
 
-## 66. Are you building your personal brand?
+## 71. Are you building your personal brand?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-08-27
@@ -4684,7 +4892,7 @@ to judithvirag The power of a personal brand in todays world is vastly overlooke
 
 ---
 
-## 67. Finding B2B Partnerships to Unlock New Revenue w/ Phil Risher
+## 72. Finding B2B Partnerships to Unlock New Revenue w/ Phil Risher
 
 **Author:** DWPGINC (Contributor 3)
 **Posted:** 2025-08-27
@@ -4706,7 +4914,7 @@ JOBBER COMMUNITY TEAM Hi there, you can find Phil's webinar here: https://www.ge
 
 ---
 
-## 68. Seeking ideas for developing power partnerships to better work with clients & grow our biz?!!
+## 73. Seeking ideas for developing power partnerships to better work with clients & grow our biz?!!
 
 **Author:** PalFire (Contributor 2)
 **Posted:** 2025-07-27
@@ -4742,7 +4950,7 @@ I would highly recommend joining the CAI Greater Los Angeles Chapter. You will m
 
 ---
 
-## 69. Growth. How do you take your business to the next level?
+## 74. Growth. How do you take your business to the next level?
 
 **Author:** TidyKleenLLC (Contributor 2)
 **Posted:** 2025-06-27
@@ -4806,7 +5014,7 @@ Social media’s a great start, consider adding SEO or running targeted ads to r
 
 ---
 
-## 70. 🌟 Ask-an-Expert: Want More B2B Partnerships? Let’s Make It Happen 👇
+## 75. 🌟 Ask-an-Expert: Want More B2B Partnerships? Let’s Make It Happen 👇
 
 **Author:** PhilRisher (Contributor 2)
 **Posted:** 2025-08-27
@@ -4891,7 +5099,7 @@ to Redfangoo Yeah and gutter cleaning companies too because they are close to wi
 
 ---
 
-## 71. Invoiced twice bug - same line item
+## 76. Invoiced twice bug - same line item
 
 **Author:** Pelect (Contributor 2)
 **Posted:** 2025-08-27
@@ -4913,7 +5121,7 @@ Whenever we have a client pay an upfront fee, we add it as a payment to the job.
 
 ---
 
-## 72. Podcast?
+## 77. Podcast?
 
 **Author:** Jyme (Contributor 2)
 **Posted:** 2025-06-27
@@ -4949,7 +5157,7 @@ BUILDER 1 I am really into sucess stories. How they made it happen, and not only
 
 ---
 
-## 73. Automation to extract job photos from "closed" jobs.
+## 78. Automation to extract job photos from "closed" jobs.
 
 **Author:** BHS (Contributor 3)
 **Posted:** 2025-07-27
@@ -5013,7 +5221,7 @@ to Aswath Aswath​ This is exactly with the custom integration action that I'm 
 
 ---
 
-## 74. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
+## 79. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
 
 **Author:** MountainMarine (Contributor 3)
 **Posted:** 2025-07-27
@@ -5042,7 +5250,7 @@ If you're looking for AI tools to create client-facing presentations and “Abou
 
 ---
 
-## 75. Setting and Achieving Revenue/Sales Goals
+## 80. Setting and Achieving Revenue/Sales Goals
 
 **Author:** Daichi (Contributor 4)
 **Posted:** 2025-07-27
@@ -5092,7 +5300,7 @@ We use HourlyIQ.com, it is connected to Jobber and we are able to see and track 
 
 ---
 
-## 76. Facebook Community Groups? Who's the expert??
+## 81. Facebook Community Groups? Who's the expert??
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-07-27
@@ -5184,7 +5392,7 @@ I did some digging and seems that ninja poster app isn't the best unfortunately.
 
 ---
 
-## 77. Best way to gain more clients?
+## 82. Best way to gain more clients?
 
 **Author:** persistlawns (Contributor 3)
 **Posted:** 2025-06-27
@@ -5381,7 +5589,7 @@ I’m in the same field. When I started I went door to door and when I did get a
 
 ---
 
-## 78. How do kn how much to charge
+## 83. How do kn how much to charge
 
 **Author:** Marloncaldwell (Contributor 2)
 **Posted:** 2025-05-27
@@ -5438,7 +5646,7 @@ handiworkllc
 
 ---
 
-## 79. Launching This Summer Looking for Tips on Hosting a Free Service Day for Veterans & Seniors
+## 84. Launching This Summer Looking for Tips on Hosting a Free Service Day for Veterans & Seniors
 
 **Author:** AquaDogs (Contributor 2)
 **Posted:** 2025-06-27
@@ -5460,7 +5668,7 @@ We actually hosted the Builders Convention in 2024 and kicked things off with a 
 
 ---
 
-## 80. How to grow business
+## 85. How to grow business
 
 **Author:** Mswells72 (Contributor 3)
 **Posted:** 2025-05-27
@@ -5706,7 +5914,7 @@ Glad to see you starting strong and congratulations firstly. Starting in this bu
 
 ---
 
-## 81. Sales Learning Opportunities
+## 86. Sales Learning Opportunities
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-06-27
@@ -5728,7 +5936,7 @@ Best sales course I took was Patrick Bet David Sales Leadership in Mar o Lago. I
 
 ---
 
-## 82. Securing Sponsorships to Grow Our Racing Division & Commercial Detailing – Strategies & Advice?
+## 87. Securing Sponsorships to Grow Our Racing Division & Commercial Detailing – Strategies & Advice?
 
 **Author:** AqualinePerf (Contributor 2)
 **Posted:** 2025-05-27
@@ -5757,7 +5965,7 @@ Sponsorships require a different playbook than normal business funding. You’re
 
 ---
 
-## 83. Partnership Roofing
+## 88. Partnership Roofing
 
 **Author:** MarlonCerv (Contributor 2)
 **Posted:** 2025-07-27
@@ -5779,7 +5987,7 @@ Hey Marlon, Great to see you looking to build partnerships. We’ve actually bee
 
 ---
 
-## 84. Your Best Marketing Ideas!
+## 89. Your Best Marketing Ideas!
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-27
@@ -5948,7 +6156,7 @@ I am currently building a studio and will start creating educational content for
 
 ---
 
-## 85. Google Local Service Ads Website URL Not Working
+## 90. Google Local Service Ads Website URL Not Working
 
 **Author:** Evan (Contributor 2)
 **Posted:** 2025-07-27
@@ -5984,7 +6192,7 @@ to Lazar28 After working with Jobber support, it seems necessary to leave the "j
 
 ---
 
-## 86. pay
+## 91. pay
 
 **Author:** DmvExteriorC (Contributor 2)
 **Posted:** 2025-04-27
@@ -6048,7 +6256,7 @@ Here’s what worked well for us: We paid our sales rep a weekly salary that cam
 
 ---
 
-## 87. GMB how to get listed as a mobile business
+## 92. GMB how to get listed as a mobile business
 
 **Author:** PawsitiveLawns (Contributor 2)
 **Posted:** 2025-06-27
@@ -6084,7 +6292,7 @@ It's just an option, but you can use a virtual Address instead of your physical 
 
 ---
 
-## 88. Sales Marketing
+## 93. Sales Marketing
 
 **Author:** preciousakin00 (Contributor 2)
 **Posted:** 2025-04-27
@@ -6127,7 +6335,7 @@ to Manolo54 You can book an appointment so we can communicate better on how to g
 
 ---
 
-## 89. Website
+## 94. Website
 
 **Author:** XADetailing (Contributor 2)
 **Posted:** 2025-06-27
@@ -6177,7 +6385,7 @@ Yes, this is important, BUT the type of website platform you choose is also impo
 
 ---
 
-## 90. Marketing
+## 95. Marketing
 
 **Author:** ChefT (Contributor 2)
 **Posted:** 2025-05-27
@@ -6227,7 +6435,7 @@ Anyone had good luck marketing with Next Door? I have more of a concierge cleani
 
 ---
 
-## 91. Marketing Companies
+## 96. Marketing Companies
 
 **Author:** PrimeGarage23 (Contributor 2)
 **Posted:** 2025-02-27
@@ -6361,7 +6569,7 @@ I started to use Hibu https://g.co/kgs/Xi8UXmF They redid my website https://www
 
 ---
 
-## 92. Posting flyers or door hangers more effective?
+## 97. Posting flyers or door hangers more effective?
 
 **Author:** Emzwash (Contributor 2)
 **Posted:** 2025-06-27
@@ -6502,7 +6710,7 @@ I’ve been going back and forth on door hangers. I’m in a Facebook community 
 
 ---
 
-## 93. Line item categories?
+## 98. Line item categories?
 
 **Author:** SomePlumber (Contributor 3)
 **Posted:** 2025-06-27
@@ -6524,7 +6732,7 @@ Hi SomePlumber​ Thanks for the question. In my experience most companies manag
 
 ---
 
-## 94. Yelp - share your experiences
+## 99. Yelp - share your experiences
 
 **Author:** eddy (Contributor 2)
 **Posted:** 2025-05-27
@@ -6602,7 +6810,7 @@ Stay away from Yelp, Eddy! I am still trying different avenues, but I have heard
 
 ---
 
-## 95. Sweat equity
+## 100. Sweat equity
 
 **Author:** Christoph (Contributor 3)
 **Posted:** 2025-05-27
@@ -6680,7 +6888,7 @@ I have Been in business for 13 years (Mr. Bubbles Power Washing) and I think the
 
 ---
 
-## 96. New to jobber
+## 101. New to jobber
 
 **Author:** Jmrautomations (Contributor 2)
 **Posted:** 2025-06-27
@@ -6702,7 +6910,7 @@ No Replies Be the first to
 
 ---
 
-## 97. Sales & Marketing for a DJ in Texas
+## 102. Sales & Marketing for a DJ in Texas
 
 **Author:** thedjastronaut (Contributor 2)
 **Posted:** 2025-06-27
@@ -6724,7 +6932,7 @@ No Replies Be the first to
 
 ---
 
-## 98. Asking for Reviews
+## 103. Asking for Reviews
 
 **Author:** HGLandscapeInc (Contributor 2)
 **Posted:** 2025-02-27
@@ -6781,7 +6989,7 @@ to Amy Hello Amy! These are great ideas! Could you tell me more about your "job 
 
 ---
 
-## 99. 🌟 Is Your Sales Pitch Costing You Work? Get Expert Feedback! 🌟
+## 104. 🌟 Is Your Sales Pitch Costing You Work? Get Expert Feedback! 🌟
 
 **Author:** AndyWeins (Contributor 2)
 **Posted:** 2025-05-27
@@ -6852,7 +7060,7 @@ Thanks for the sharp and practical insights during your sales and marketing pitc
 
 ---
 
-## 100. Integration with SendJim
+## 105. Integration with SendJim
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-06-27
@@ -6881,7 +7089,7 @@ Hey Branden. I think SendJim is a great solution overall! According to the docum
 
 ---
 
-## 101. Hello Community- I need help
+## 106. Hello Community- I need help
 
 **Author:** joshuasteerman1 (Contributor 2)
 **Posted:** 2025-05-27
@@ -6910,7 +7118,7 @@ Social media will be your best friend for getting noticed. If you haven’t alre
 
 ---
 
-## 102. Selling firewood in the winter
+## 107. Selling firewood in the winter
 
 **Author:** Zzzeld (Contributor 2)
 **Posted:** 2025-02-27
@@ -6946,7 +7154,7 @@ Great Question... I have also been thinking of do the same but Iam a small busin
 
 ---
 
-## 103. Looking for pros in DC to fulfill jobs for a client. Please reach out if you are interested.
+## 108. Looking for pros in DC to fulfill jobs for a client. Please reach out if you are interested.
 
 **Author:** gchrismon (Contributor 2)
 **Posted:** 2025-05-27

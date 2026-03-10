@@ -1,14 +1,94 @@
 # Jobber Community Forum - Marketing Tools
 
-Total Discussions: 29
+Total Discussions: 31
 
 ---
 
-## 1. Customizing Jobber AI Receptionist for Better Conversations
+## 1. How can I accurately track revenue generated from Jobber marketing campaigns?
+
+**Author:** PerryMechanical (Contributor 2)
+**Posted:** 2026-03-05
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-tools/how-can-i-accurately-track-revenue-generated-from-jobber-marketing-campaigns/9135
+
+### Content
+
+I have really enjoyed creating campaigns on jobber and being able to reach an audience in seconds. I love that you can customize the settings to be very specific on who you want the campaign to go to. The only issue I have is it shows my revenue for each campaign, but it seems to be incorrect and just pulling in random jobs. I would to have a way to see what revenue the campaigns truly brought in. Anyone else experiencing this?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 2. How can Jobber help me grow my business?
+
+**Author:** HandyMannyLLC1 (Contributor 2)
+**Posted:** 2026-03-04
+**Views:** 15 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-tools/how-can-jobber-help-me-grow-my-business/9061
+
+### Content
+
+I am a fairly new business and I am still finishing the detail of my operations. I have been using the basic plan from Jobber for my bookings but I did not find myself using the Marketing suite very much when I first purchased a plan. I believe it is because I was still figuring out how to run my business operations. My question is, what is the best marketing move for me to do as a relatively new business owner using Jobber with limited resources funds and a small client base. CAMPAIGN GENERATOR CAMPAIGNS EMAIL MARKETING GENERAL CONTRACCTING HANDYMAN JUNK REMOVAL LANDSCAPING WIN JOBS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** Montesrrllc
+**Posted:** 2026-03-05
+
+Hello, in the same boat here, would love some more details as well.
+
+---
+
+## 3. Google Reviews Not Syncing to Website
+
+**Author:** YaakovLewin (Contributor 2)
+**Posted:** 2026-01-09
+**Views:** 69 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-tools/google-reviews-not-syncing-to-website/7890
+
+### Content
+
+Hi. I've set up my website using Jobber's website builder and connected it to my Google Business Profile to display customer reviews as testimonials. The issue: When I first published the site, it pulled in my Google reviews perfectly. However, as new reviews come in on my Google profile, they're not syncing to the website - it's still showing the same number of reviews from when I initially connected it. My questions: Is this a known limitation, or should the reviews sync automatically? If they don't auto-sync, is there a manual refresh button or process I'm missing? Has anyone else experienced this, and if so, how did you resolve it? REVIEWS
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** krista
+**Posted:** 2026-01-09
+
+Hi YaakovLewin​ , At this time, the Google reviews section in Jobber Website Builder is static; it does not automatically refresh as new reviews come in. There is not currently a manual refresh button either. We would be happy to share your feedback that it would be better if this auto refreshed, because staying up to date without extra steps, I can see how that would definitely be ideal. For a workaround, you can refresh the content shown by editing your website, removing the Google Business reviews element, then adding it back and reconnecting it. That will pull in a fresh set of reviews from your Google profile.
+
+#### Reply 2
+
+**Author:** Sarina
+**Posted:** 2026-02-28
+
+to krista krista​ I do not find that work around to be true. I have taken off my google profile several times, refreshed, added it back... done all the things and it still show the same 3 reviews. It also does not show the right amount of reviews our business has. Do you know when this feature will be fixed? In the industries that benefit from Jobber- these features are very important for our customers.
+
+#### Reply 3
+
+**Author:** krista
+**Posted:** 2026-03-02
+
+Hi Sarina​, Thank you for trying those steps and for following up. I completely understand how important accurate and up-to-date reviews are, especially in industries where social proof plays such a big role. Since the workaround is not pulling in updated reviews for you, I would recommend reaching out directly to our Success Team. They can take a closer look at your specific website and Google connection to see what is happening and confirm whether this is expected behavior or something that needs further investigation. Please reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com
+
+---
+
+## 4. Customizing Jobber AI Receptionist for Better Conversations
 
 **Author:** emaidsjchoboken (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 104 | **Likes:** 1 | **Comments:** 5
+**Posted:** 2025-11-09
+**Views:** 121 | **Likes:** 1 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/marketing-tools/customizing-jobber-ai-receptionist-for-better-conversations/7196
 
 ### Content
@@ -20,45 +100,45 @@ I love the idea of integrating Jobber AI
 #### Reply 1
 
 **Author:** RatFinder
-**Posted:** 2026-02-26
+**Posted:** 2026-02-27
 
 Im trying to figure out if I can use AI receptionist, can I modify the AI, I tested the option where I can try it and the background was distracting, the AI spoke to fast, and kept asking if there anymore questions it was trying to get off the phone as fast as possible, and it said that someone will get back to you, but it did not say when or how fast. In my business rodent control, people want action yesterday, so to leave it open to when some one will back to them is not good, can I fix these problems myself in the dashboard?
 
 #### Reply 2
 
-**Author:** Decker
-**Posted:** 2026-02-18
-
-I do see it in the Website, but we aren't using the web site live.
-
-#### Reply 3
-
-**Author:** krista
-**Posted:** 2026-02-20
-
-to Decker Hi Decker​, Great question. That functionality may have been part of an earlier version of the AI Receptionist, which is likely why you have heard it referenced before. At the moment, there is no dedicated section to manually input “frequently asked questions” for call handling. That said, if having a way to add structured FAQs for phone calls would be useful for your workflow, we would absolutely love to hear more about how you would use it. Specific use cases are incredibly helpful for our Product team. If you are open to sharing what kinds of questions you would want it to handle and how you would expect it to respond, I would be happy to pass that feedback along to our Development team.
-
-#### Reply 4
-
 **Author:** Moly
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 JOBBER COMMUNITY TEAM Hi there! Super happy to hear you want to make Jobber's receptionist work even better for you with more customization. Here's a help doc that has some tips and how-tos to manage and customize your receptionist: https://help.getjobber.com/hc/en-us/articles/25315927533847-Receptionist-powered-by-Jobber-AI#h_01JMT1F1HM8NSSAH99ZNYBRBEK I've also talked to business owners that end up adding in 'frequently asked questions' they get from customers so their receptionist can reference these. Receptionist pulls from your Jobber account and website, but some of those FAQs might be more internal things the team just knows!
 
-#### Reply 5
+#### Reply 3
 
 **Author:** Decker
 **Posted:** 2026-02-18
 
 to Moly Where would one add in 'frequently asked questions'? I'm trying to improve our AI Receptionist for phone calls specifically.
 
+#### Reply 4
+
+**Author:** Decker
+**Posted:** 2026-02-18
+
+I do see it in the Website, but we aren't using the web site live.
+
+#### Reply 5
+
+**Author:** krista
+**Posted:** 2026-02-20
+
+to Decker Hi Decker​, Great question. That functionality may have been part of an earlier version of the AI Receptionist, which is likely why you have heard it referenced before. At the moment, there is no dedicated section to manually input “frequently asked questions” for call handling. That said, if having a way to add structured FAQs for phone calls would be useful for your workflow, we would absolutely love to hear more about how you would use it. Specific use cases are incredibly helpful for our Product team. If you are open to sharing what kinds of questions you would want it to handle and how you would expect it to respond, I would be happy to pass that feedback along to our Development team.
+
 ---
 
-## 2. Campaigns Update
+## 5. Campaigns Update
 
-**Author:** BlueSkies (Contributor 2)
+**Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-02-18
-**Views:** 20 | **Likes:** 0 | **Comments:** 1
+**Views:** 23 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-tools/campaigns-update/8771
 
 ### Content
@@ -76,11 +156,11 @@ Hi BlueSkies​, This is a really smart way to think about campaigns, especially
 
 ---
 
-## 3. Audience Selection
+## 6. Audience Selection
 
-**Author:** BlueSkies (Contributor 2)
+**Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-02-18
-**Views:** 23 | **Likes:** 0 | **Comments:** 3
+**Views:** 36 | **Likes:** 0 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/marketing-tools/audience-selection/8755
 
 ### Content
@@ -91,10 +171,10 @@ Maybe im an idiot and i dont think a coder. BUT why cant i just open up the camp
 
 #### Reply 1
 
-**Author:** krista
-**Posted:** 2026-02-20
+**Author:** BlueSkies
+**Posted:** 2026-02-18
 
-Hi BlueSkies​ , you are definitely not thinking about this wrong. Segmentation can feel a bit restrictive at first. Right now, campaign filters stack as AND conditions, meaning each filter further narrows the audience. So instead of trying to combine multiple include tags, it may be simpler to approach this a different way. For example, you could: • Start with a broader group, “All active clients” • Add a tag filter for the primary audience you want to target • Then use the Job status filter to exclude clients with an upcoming visit within X days • Or use the “Past clients” or “Upcoming clients” filters to narrow based on recent activity This often achieves the result you are looking for without juggling multiple include tags. Does that work for you? If you would , our team would be happy to look at your exact scenario and help you build the cleanest segment for what you are trying to accomplish.
+also selecting the client name doesn't work if you cant scroll all the way through them. im stuck at the Cs. not sure how im suppossed to individually select them without actively searching for clients
 
 #### Reply 2
 
@@ -105,18 +185,18 @@ Again excluding audiences. there has to be a way where it take 500 clients exclu
 
 #### Reply 3
 
-**Author:** BlueSkies
-**Posted:** 2026-02-18
+**Author:** krista
+**Posted:** 2026-02-20
 
-also selecting the client name doesn't work if you cant scroll all the way through them. im stuck at the Cs. not sure how im suppossed to individually select them without actively searching for clients
+Hi BlueSkies​ , you are definitely not thinking about this wrong. Segmentation can feel a bit restrictive at first. Right now, campaign filters stack as AND conditions, meaning each filter further narrows the audience. So instead of trying to combine multiple include tags, it may be simpler to approach this a different way. For example, you could: • Start with a broader group, “All active clients” • Add a tag filter for the primary audience you want to target • Then use the Job status filter to exclude clients with an upcoming visit within X days • Or use the “Past clients” or “Upcoming clients” filters to narrow based on recent activity This often achieves the result you are looking for without juggling multiple include tags. Does that work for you? If you would , our team would be happy to look at your exact scenario and help you build the cleanest segment for what you are trying to accomplish.
 
 ---
 
-## 4. Reviews
+## 7. Reviews
 
 **Author:** TNLM06 (Contributor 2)
-**Posted:** 2025-02-27
-**Views:** 270 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2025-03-09
+**Views:** 280 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/marketing-tools/reviews/512
 
 ### Content
@@ -127,39 +207,39 @@ I have started using the new Review feature on the invoices. We have already got
 
 #### Reply 1
 
-**Author:** BadgerHauling
-**Posted:** 2025-02-27
-
-TNLM06 You will find this on the customer level when you are in edit mode. julieis this the same?
-
-#### Reply 2
-
 **Author:** julie
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 JOBBER COMMUNITY TEAM Hey! This is definitely possible within Jobber 😄 Review requests can be set to an per invoice basis. I hope this helps but if you have any followup questions, please reach out to our Success Team and they'll be happy to help!
 
-#### Reply 3
+#### Reply 2
 
 **Author:** DanFlashes
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to julie Is this a feature that can be added on mobile? Our team makes invoices in the field and this option is not something you can toggle on the app.
 
-#### Reply 4
+#### Reply 3
 
 **Author:** krista
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 to DanFlashes Hi DanFlashes​ Adding on to what Julie shared, you can also manage this at the client level. You’re able to disable review requests for specific clients so they won’t receive review invitations at all, which works well for excluding commercial or industrial customers. I’ll include a screenshot and a help article here that walk through where to find that setting. At this time, we don’t have the ability to toggle review requests from the mobile app. This is intentional, as having that control in the app could create opportunities for misuse. That said, we absolutely understand why having this option available on mobile could be helpful depending on your workflow. If you’d to share more about how enabling or disabling review requests from the app would work better for your team compared to the current client-level or invoice-level options, we’d be more than happy to pass that feedback along to our product team for consideration.
 
+#### Reply 4
+
+**Author:** BadgerHauling
+**Posted:** 2025-03-09
+
+TNLM06 You will find this on the customer level when you are in edit mode. julieis this the same?
+
 ---
 
-## 5. Does Jobber's AI Receptionist distinguish spam calls from actual customers.
+## 8. Does Jobber's AI Receptionist distinguish spam calls from actual customers.
 
-**Author:** Moss912 (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 80 | **Likes:** 1 | **Comments:** 2
+**Author:** Moss912 (Contributor 3)
+**Posted:** 2026-02-09
+**Views:** 88 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/marketing-tools/does-jobbers-ai-receptionist-distinguish-spam-calls-from-actual-customers-/8310
 
 ### Content
@@ -171,24 +251,24 @@ I’m currently using open phone it’s a Ai receptionist that’s integrated wi
 #### Reply 1
 
 **Author:** Bob_Evans
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
-Here are a few examples of what a spam call would look in logs:
+Hey Moss, Jobber's AI expert here 👋 Yep! Jobber's AI Receptionist can't pre-identify an inbound number as spam (thought we're planning that), but based on the conversation transcript, it'll add "SPAM" tag in the logs. "That impacts the amount of actual calls from customers it can take." That's not a thing for us. We don't apply any sort of limit that. We are eventually going to be introducing a usage billing model (i.e. you get 100 conversations for a monthly fee, any additional conversations are $1 each), but we have zero intention of having spam calls count against their monthly allocation, nor charge them extra.
 
 #### Reply 2
 
 **Author:** Bob_Evans
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
-Hey Moss, Jobber's AI expert here 👋 Yep! Jobber's AI Receptionist can't pre-identify an inbound number as spam (thought we're planning that), but based on the conversation transcript, it'll add "SPAM" tag in the logs. "That impacts the amount of actual calls from customers it can take." That's not a thing for us. We don't apply any sort of limit that. We are eventually going to be introducing a usage billing model (i.e. you get 100 conversations for a monthly fee, any additional conversations are $1 each), but we have zero intention of having spam calls count against their monthly allocation, nor charge them extra.
+Here are a few examples of what a spam call would look in logs:
 
 ---
 
-## 6. What is your favorite feature in Jobber? Why?
+## 9. What is your favorite feature in Jobber? Why?
 
-**Author:** BrandenSewell (Contributor 2)
-**Posted:** 2025-12-27
-**Views:** 80 | **Likes:** 2 | **Comments:** 3
+**Author:** BrandenSewell (Jobber Ambassador)
+**Posted:** 2026-01-09
+**Views:** 90 | **Likes:** 2 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/marketing-tools/what-is-your-favorite-feature-in-jobber-why/7898
 
 ### Content
@@ -200,53 +280,31 @@ I'll go first. My favorite feature in Jobber is probably the new quote templates
 #### Reply 1
 
 **Author:** FredHodgeJr
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 My favorite part of Jobber right now is how the platform is evolving beyond just scheduling and invoicing into a true growth tool. The AI receptionist has been a big win for after-hours and overflow, making sure opportunities aren’t slipping through the cracks. I’m also really liking the direction of the new sales funnel as it continues to mature into something that actually supports how service businesses sell. On top of that, the built-in marketing tools for email, reviews, and referrals are becoming much more practical and usable, especially for staying in front of past customers. It’s been encouraging to see Jobber continue to invest in features that help operators grow, not just manage jobs.
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 to FredHodgeJr Yes, Jobber has become everything I have been hoping for since I started using. They listen to feedback and deliver.
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 I really the Job Forms. It keeps me from forgetting to inspect a certain area, leave a specific notes, attach a photo, or record any pesticide usage. I make it so the questions are mandatory and all the information is stored. I also that they aren't just internal, you can send them to the client when they are completed. I have also started to explore the Insights and Reports section. There is a lot of information in there to look at the health of your business.
 
 ---
 
-## 7. Google Reviews Not Syncing to Website
-
-**Author:** YaakovLewin (Contributor 2)
-**Posted:** 2025-12-27
-**Views:** 54 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-tools/google-reviews-not-syncing-to-website/7890
-
-### Content
-
-Hi. I've set up my website using Jobber's website builder and connected it to my Google Business Profile to display customer reviews as testimonials. The issue: When I first published the site, it pulled in my Google reviews perfectly. However, as new reviews come in on my Google profile, they're not syncing to the website - it's still showing the same number of reviews from when I initially connected it. My questions: Is this a known limitation, or should the reviews sync automatically? If they don't auto-sync, is there a manual refresh button or process I'm missing? Has anyone else experienced this, and if so, how did you resolve it? REVIEWS
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** krista
-**Posted:** 2025-12-27
-
-Hi YaakovLewin​ , At this time, the Google reviews section in Jobber Website Builder is static; it does not automatically refresh as new reviews come in. There is not currently a manual refresh button either. We would be happy to share your feedback that it would be better if this auto refreshed, because staying up to date without extra steps, I can see how that would definitely be ideal. For a workaround, you can refresh the content shown by editing your website, removing the Google Business reviews element, then adding it back and reconnecting it. That will pull in a fresh set of reviews from your Google profile.
-
----
-
-## 8. Up Your Follow-Up Game & Win!
+## 10. Up Your Follow-Up Game & Win!
 
 **Author:** TheRealJIMCLORE (Contributor 2)
-**Posted:** 2025-11-27
-**Views:** 71 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2025-11-09
+**Views:** 79 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/marketing-tools/up-your-follow-up-game--win/7453
 
 ### Content
@@ -257,39 +315,39 @@ I hear a lot of business owners and leaders talking about "getting leads". Don't
 
 #### Reply 1
 
-**Author:** Charles1
-**Posted:** 2025-12-27
-
-Hello. Leads for me come from social media and word of mouth. Things have changed drastically and we have to change with them.
-
-#### Reply 2
-
-**Author:** AllTrades701
-**Posted:** 2025-12-27
-
-Where do you see the most of your leads coming from?
-
-#### Reply 3
-
-**Author:** CMSRepairs
-**Posted:** 2025-12-27
-
-Absolutely agree the worse thing you can do is leave a lead hanging. With jobbers text capabilities and notification the software makes it easy for you to be on top of replies almost instantly. And your correct DO NOT give up until you actually hear a NO.
-
-#### Reply 4
-
 **Author:** julie
-**Posted:** 2025-11-27
+**Posted:** 2025-11-09
 
 JOBBER COMMUNITY TEAM Hey Jim! 👋 Happy to see a familiar name in the community forum! This is such a great reminder, “speed to lead” really can make or break conversions. I how you framed persistence as part of professionalism, not pushiness. Curious to hear how others handle this in the thread
 
+#### Reply 2
+
+**Author:** CMSRepairs
+**Posted:** 2025-12-09
+
+Absolutely agree the worse thing you can do is leave a lead hanging. With jobbers text capabilities and notification the software makes it easy for you to be on top of replies almost instantly. And your correct DO NOT give up until you actually hear a NO.
+
+#### Reply 3
+
+**Author:** AllTrades701
+**Posted:** 2026-01-09
+
+Where do you see the most of your leads coming from?
+
+#### Reply 4
+
+**Author:** Charles1
+**Posted:** 2026-01-09
+
+Hello. Leads for me come from social media and word of mouth. Things have changed drastically and we have to change with them.
+
 ---
 
-## 9. How To Prevent New Client Requests from Being Mixed Into My Campaign List in Jobber?
+## 11. How To Prevent New Client Requests from Being Mixed Into My Campaign List in Jobber?
 
 **Author:** Newbee (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 45 | **Likes:** 1 | **Comments:** 3
+**Posted:** 2025-08-09
+**Views:** 47 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/marketing-tools/how-to-prevent-new-client-requests-from-being-mixed-into-my-campaign-list-in-job/5417
 
 ### Content
@@ -300,32 +358,32 @@ When I build and distribute a campaign all my clients that were on the email lis
 
 #### Reply 1
 
-**Author:** inamkhan934
-**Posted:** 2025-08-27
+**Author:** ryaantuttle
+**Posted:** 2025-08-09
 
-You can run a campaign in Jobber without affecting new clients using tags or filters. Tag new clients (e.g., “new-client”) and exclude them from your campaign using recipient filters. You can filter by job history or completed jobs to target only returning or inactive clients. For automated campaigns, set rules “no jobs in past X days” and exclude new-client tags. Always preview recipients to ensure correct targeting.
+Have you tried segmenting the list with tags?
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 Hi Newbee​ thanks for the question. I think the best way to stay on top of new requests coming in would be from the request page itself, instead of the client page. Could you share a little more about your workflow and why working from the client page and last active data works better for you?
 
 #### Reply 3
 
-**Author:** ryaantuttle
-**Posted:** 2025-08-27
+**Author:** inamkhan934
+**Posted:** 2025-09-09
 
-Have you tried segmenting the list with tags?
+You can run a campaign in Jobber without affecting new clients using tags or filters. Tag new clients (e.g., “new-client”) and exclude them from your campaign using recipient filters. You can filter by job history or completed jobs to target only returning or inactive clients. For automated campaigns, set rules “no jobs in past X days” and exclude new-client tags. Always preview recipients to ensure correct targeting.
 
 ---
 
-## 10. Are you Sleeping on Jobber's Add-Ons?
+## 12. Are you Sleeping on Jobber's Add-Ons?
 
 **Author:** CEOJay (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 185 | **Likes:** 2 | **Comments:** 2
+**Posted:** 2025-08-09
+**Views:** 188 | **Likes:** 2 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/marketing-tools/are-you-sleeping-on-jobbers-add-ons/5408
 
 ### Content
@@ -336,25 +394,25 @@ Guys! i just want to say - DO NOT sleep on all the extras! I've been feeling i w
 
 #### Reply 1
 
-**Author:** FredHodgeJr
-**Posted:** 2025-08-27
-
-I love all the new features! We have AI receptionist turned on for after hours and overflow, its been perfect for that and is superior to voicemail!
-
-#### Reply 2
-
 **Author:** Keito
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 Dont forget about properly utilizing integrations. If you want full visibility into your business KPI's and metrics, check out the Crew Insight integration. It was initially built to help my friend with his landscaping business, now available to all Jobber users!
 
+#### Reply 2
+
+**Author:** FredHodgeJr
+**Posted:** 2025-09-09
+
+I love all the new features! We have AI receptionist turned on for after hours and overflow, its been perfect for that and is superior to voicemail!
+
 ---
 
-## 11. Can I Use My Existing Domain with the Jobber Website Builder?
+## 13. Can I Use My Existing Domain with the Jobber Website Builder?
 
 **Author:** Jhowe (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 129 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-10-09
+**Views:** 141 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-tools/can-i-use-my-existing-domain-with-the-jobber-website-builder/7084
 
 ### Content
@@ -366,17 +424,17 @@ Can I import the web address that we already use into jobber website builder? GE
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-10-27
+**Posted:** 2025-10-09
 
 Hi Jhowe​ Yes absolutely. Thanks for the question. Our help article: Set Up a Custom Domain for Your Website can walk you through the steps. If you have any additional questions please don't hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com
 
 ---
 
-## 12. How Do You Bulk Edit or Consolidate Lead Sources in Jobber?
+## 14. How Do You Bulk Edit or Consolidate Lead Sources in Jobber?
 
 **Author:** Jola (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 64 | **Likes:** 0 | **Comments:** 4
+**Posted:** 2025-11-09
+**Views:** 70 | **Likes:** 0 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/marketing-tools/how-do-you-bulk-edit-or-consolidate-lead-sources-in-jobber/7338
 
 ### Content
@@ -387,39 +445,39 @@ I'm changing the lead source to consolidate door to door leads from per person t
 
 #### Reply 1
 
-**Author:** CMSRepairs
-**Posted:** 2025-12-27
-
-Adding tags to our clients assists us with sorting clients lead status
-
-#### Reply 2
-
 **Author:** krista
-**Posted:** 2025-11-27
-
-Thanks for clarifying, Jola — you’re absolutely right. The Lead Source Report shows totals rather than a list of specific clients by source, so it doesn’t help much if you’re trying to identify and update those individual records. However, the Client Report (listed just above the Lead Source Report) does include every customer along with their Lead Source and any other custom fields you’ve set up. That report should make it much easier to review and manage your client data without having to open each profile individually.
-
-#### Reply 3
-
-**Author:** Jola
-**Posted:** 2025-10-27
-
-That doesn't tell me who's been tracked as which lead; it just gives me the totals, and this doesn't solve my problem.
-
-#### Reply 4
-
-**Author:** krista
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 Hi Jola​ thanks for the question! Jobber has a Lead Source Report that should help you consolidate and track your leads without having to update each client manually. This report gives you an overview of where your leads are coming from, so you can easily see totals for each source. You can check out our step-by-step guide here: Lead Source Report Help Article. This should make it much easier to manage your reporting without needing to edit individual client profiles.
 
+#### Reply 2
+
+**Author:** Jola
+**Posted:** 2025-11-09
+
+That doesn't tell me who's been tracked as which lead; it just gives me the totals, and this doesn't solve my problem.
+
+#### Reply 3
+
+**Author:** krista
+**Posted:** 2025-11-09
+
+Thanks for clarifying, Jola — you’re absolutely right. The Lead Source Report shows totals rather than a list of specific clients by source, so it doesn’t help much if you’re trying to identify and update those individual records. However, the Client Report (listed just above the Lead Source Report) does include every customer along with their Lead Source and any other custom fields you’ve set up. That report should make it much easier to review and manage your client data without having to open each profile individually.
+
+#### Reply 4
+
+**Author:** CMSRepairs
+**Posted:** 2025-12-09
+
+Adding tags to our clients assists us with sorting clients lead status
+
 ---
 
-## 13. Are we using Jobber to the fullest extent?
+## 15. Are we using Jobber to the fullest extent?
 
-**Author:** PestFreeCanada (Contributor 2)
-**Posted:** 2025-11-27
-**Views:** 62 | **Likes:** 0 | **Comments:** 1
+**Author:** PestFreeCanada (Contributor 4)
+**Posted:** 2025-12-09
+**Views:** 68 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-tools/are-we-using-jobber-to-the-fullest-extent/7578
 
 ### Content
@@ -431,17 +489,17 @@ I often wonder if there are features in Jobber that I have no idea about. Are th
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 JOBBER COMMUNITY TEAM If you haven't already, I highly recommend reaching out to Jobber's Success Team! They'd be happy to brainstorm and explore features that would best support your business the best. 🙌
 
 ---
 
-## 14. Jobber AI Receptionist
+## 16. Jobber AI Receptionist
 
-**Author:** FredHodgeJr (Contributor 2)
-**Posted:** 2025-03-27
-**Views:** 15 | **Likes:** 11 | **Comments:** 18
+**Author:** FredHodgeJr (Jobber Ambassador)
+**Posted:** 2025-04-09
+**Views:** 16 | **Likes:** 11 | **Comments:** 18
 **URL:** https://community.getjobber.com/discussions/marketing-tools/jobber-ai-receptionist/2735
 
 ### Content
@@ -452,137 +510,137 @@ Who else is using Jobber's AI Receptionist for overflow and after-hours support?
 
 #### Reply 1
 
-**Author:** Housekept_Tim
-**Posted:** 2025-08-27
+**Author:** SomePlumber
+**Posted:** 2025-06-09
 
-We would love to use this feature, especially after seeing all the awesome ways it is being used. Unfortunately it is still not available in our market; does anybody know of an ETA for AI receptionist and two -way texting in AU?
+I'm using it for my plumbing business and its great but I'm noticing one major flaw. In plumbing, a price cant be given over the phone because of so many variables. So I set up the booking to either be A: On-Site Assessment or B: Callback. The problem is, if a customer calls in and says "I'd to schedule an appointment", the AI will ask all of the personal information but nothing about what's actually going on. So I have a booking with no idea what it's for. There needs to be options for mandatory questions. Even if it's one or two, that will clear up so much confustion.
 
 #### Reply 2
 
-**Author:** BrandenSewell
-**Posted:** 2025-08-27
+**Author:** SomePlumber
+**Posted:** 2025-07-09
 
-I think for me and my business we only use AI or automations that don’t have to do with human communication/conversations. I think overall customers still just want to talk to humans. I know that’s how I feel too. Chat bots and automated voice bots drive me crazy!
+to SomePlumber I figured out a decent workaround for this. What I ended up doing is creating online booking options that all have the basic service charge attached, with a description that says something "this is our service charge to dispatch a plumber to your house and diagnose the issue with your kitchen faucet. An estimate will be provided at the time of service". So customer sees online that there is a "Kitchen Faucet" option, it says $30, explains what that's about, then they book it.
 
 #### Reply 3
 
-**Author:** aarontree
-**Posted:** 2025-08-27
+**Author:** Brad-B
+**Posted:** 2025-10-09
 
-We've tried it a few months and it never seems to help our clients. My two cents: it's much smoother to have them leave a voicemail, instead of try to navigate an AI that can't really do anything or help. It really seems to confuse the older folks too. Aside from that, it regularly wouldn't match incoming numbers with exisiting clients. And the task are not linked to the AI dashaboard that shows items as pending or resolved. We tried it a few months. I can't point to a useful thing it did for us, but I can point to lots of confusing convos, and even a few where our clients were getting frustrated.
+to SomePlumber Great info. We clean windows, gutters and pressure washing. Same problem. Every house or job is different. Too many variables. I will try your strategy.
 
 #### Reply 4
 
-**Author:** BrandenSewell
-**Posted:** 2025-08-27
+**Author:** 
+**Posted:** 2025-06-09
 
-WiringByron​ have you started using this feature again? FredHodgeJr​ is it still working well for your team in New Jersey? I have wanted to try it but I am also hesitant because I know how frustrated I get when I am on the phone with a company's automated system and just want to talk to a real person. 😂😝
+PW to SomePlumber Thank you for sharing that Information
 
 #### Reply 5
 
-**Author:** WiringByron
-**Posted:** 2025-08-27
+**Author:** williamgargan
+**Posted:** 2025-07-09
 
-to BrandenSewell We are... keep in mind I have the chat turned on so when people text the company the ai is responding in chat and I feel it's doing well there. I have an admin answering the phone during the day and then the Jobber receptionist on at night that's it. So in my opinion, it needs to be better than an answering machine. That being said I do still see a lot of hang ups. Most of the time it's taking a message and creating a task for our admin. Which is all an answering machine would do really.
+to SomePlumber I just recently was looking into this, and there is a way to create custom questions with a mandatory ask. Might be a new feature as I just recently looked at the receptionist.
 
 #### Reply 6
 
-**Author:** smpelectric
-**Posted:** 2025-08-27
+**Author:** WiringByron
+**Posted:** 2025-06-09
 
-I've tried it multiple times and just shut it off again. After listening to the frustrations in the customers voice I just can't stand behind it as it is.
+We were using it and now we've put it on hold. I feel it was decent and then started struggling. I would love to know if julie​ or someone could update us on how it's going on the back end. I assuming things are changing and it's always learning? Getting better? Maybe Jobber could keep us in the loop so I could fire it back up at some point.
 
 #### Reply 7
 
-**Author:** lwrestoration
-**Posted:** 2025-06-27
+**Author:** julie
+**Posted:** 2025-06-09
 
-Started it up as soon as I started Jobber within the last 2 weeks it is a 100% game changer. Really works a charm. I have it setup to take all my calls I just use my cell phone as a direct line if someone wants me. Very easy to setup. Love it 100% will never not have it. Even my clients are amazed at how good it works. Ai has come a long way. Thank you Jobber!
+JOBBER COMMUNITY TEAM to WiringByron Hey Cory! Bob, our Jobber AI expert, will reach out to you directly to learn more about your experience with Jobber's AI Receptionist. Keep an eye out for an email!
 
 #### Reply 8
 
 **Author:** WiringByron
-**Posted:** 2025-05-27
-
-We were using it and now we've put it on hold. I feel it was decent and then started struggling. I would love to know if julie​ or someone could update us on how it's going on the back end. I assuming things are changing and it's always learning? Getting better? Maybe Jobber could keep us in the loop so I could fire it back up at some point.
-
-#### Reply 9
-
-**Author:** julie
-**Posted:** 2025-05-27
-
-JOBBER COMMUNITY TEAM to WiringByron Hey Cory! Bob, our Jobber AI expert, will reach out to you directly to learn more about your experience with Jobber's AI Receptionist. Keep an eye out for an email!
-
-#### Reply 10
-
-**Author:** WiringByron
-**Posted:** 2025-05-27
+**Posted:** 2025-06-09
 
 to julie Thanks Julie, saw him reach out!
 
-#### Reply 11
+#### Reply 9
 
-**Author:** SomePlumber
-**Posted:** 2025-05-27
+**Author:** lwrestoration
+**Posted:** 2025-07-09
 
-I'm using it for my plumbing business and its great but I'm noticing one major flaw. In plumbing, a price cant be given over the phone because of so many variables. So I set up the booking to either be A: On-Site Assessment or B: Callback. The problem is, if a customer calls in and says "I'd to schedule an appointment", the AI will ask all of the personal information but nothing about what's actually going on. So I have a booking with no idea what it's for. There needs to be options for mandatory questions. Even if it's one or two, that will clear up so much confusion.
+Started it up as soon as I started Jobber within the last 2 weeks it is a 100% game changer. Really works a charm. I have it setup to take all my calls I just use my cell phone as a direct line if someone wants me. Very easy to setup. Love it 100% will never not have it. Even my clients are amazed at how good it works. Ai has come a long way. Thank you Jobber!
 
-#### Reply 12
-
-**Author:** williamgargan
-**Posted:** 2025-06-27
-
-to SomePlumber I just recently was looking into this, and there is a way to create custom questions with a mandatory ask. Might be a new feature as I just recently looked at the receptionist.
-
-#### Reply 13
-
-**Author:** SomePlumber
-**Posted:** 2025-06-27
-
-to SomePlumber I figured out a decent workaround for this. What I ended up doing is creating online booking options that all have the basic service charge attached, with a description that says something "this is our service charge to dispatch a plumber to your house and diagnose the issue with your kitchen faucet. An estimate will be provided at the time of service". So customer sees online that there is a "Kitchen Faucet" option, it says $30, explains what that's about, then they book it.
-
-#### Reply 14
-
-**Author:** Brad-B
-**Posted:** 2025-09-27
-
-to SomePlumber Great info. We clean windows, gutters and pressure washing. Same problem. Every house or job is different. Too many variables. I will try your strategy.
-
-#### Reply 15
-
-**Author:** 
-**Posted:** 2025-06-27
-
-PW to SomePlumber Thank you for sharing that Information
-
-#### Reply 16
+#### Reply 10
 
 **Author:** Msegovia85
-**Posted:** 2025-04-27
+**Posted:** 2025-05-09
 
 I am currently not but after this post I am interested!! Thanks for bringing this to our attention.
 
-#### Reply 17
+#### Reply 11
 
-**Author:** LoganDitmyer
-**Posted:** 2025-03-27
+**Author:** smpelectric
+**Posted:** 2025-08-09
 
-We use it the same way. Have you found any of the voice options to have better pronunciation than the others?
+I've tried it multiple times and just shut it off again. After listening to the frustrations in the customers voice I just can't stand behind it as it is.
 
-#### Reply 18
+#### Reply 12
 
 **Author:** ryaantuttle
-**Posted:** 2025-03-27
+**Posted:** 2025-04-09
 
 I can't even figure out how to turn it on, so I'm glad to hear you have it up and running. I wish Jobber would make some of the new features a bit more user friendly. Instead, you need to click out to 100 different webpages to read about the specific feature and then go back into the CRM. Doesn't make much sense from the users standpoint.
 
+#### Reply 13
+
+**Author:** LoganDitmyer
+**Posted:** 2025-04-09
+
+We use it the same way. Have you found any of the voice options to have better pronunciation than the others?
+
+#### Reply 14
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-09
+
+WiringByron​ have you started using this feature again? FredHodgeJr​ is it still working well for your team in New Jersey? I have wanted to try it but I am also hesitant because I know how frustrated I get when I am on the phone with a company's automated system and just want to talk to a real person. 😂😝
+
+#### Reply 15
+
+**Author:** WiringByron
+**Posted:** 2025-09-09
+
+to BrandenSewell We are... keep in mind I have the chat turned on so when people text the company the ai is responding in chat and I feel it's doing well there. I have an admin answering the phone during the day and then the Jobber receptionist on at night that's it. So in my opinion, it needs to be better than an answering machine. That being said I do still see a lot of hang ups. Most of the time it's taking a message and creating a task for our admin. Which is all an answering machine would do really.
+
+#### Reply 16
+
+**Author:** aarontree
+**Posted:** 2025-09-09
+
+We've tried it a few months and it never seems to help our clients. My two cents: it's much smoother to have them leave a voicemail, instead of try to navigate an AI that can't really do anything or help. It really seems to confuse the older folks too. Aside from that, it regularly wouldn't match incoming numbers with exisiting clients. And the task are not linked to the AI dashaboard that shows items as pending or resolved. We tried it a few months. I can't point to a useful thing it did for us, but I can point to lots of confusing convos, and even a few where our clients were getting frustrated.
+
+#### Reply 17
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-09
+
+I think for me and my business we only use AI or automations that don’t have to do with human communication/conversations. I think overall customers still just want to talk to humans. I know that’s how I feel too. Chat bots and automated voice bots drive me crazy!
+
+#### Reply 18
+
+**Author:** Housekept_Tim
+**Posted:** 2025-09-09
+
+We would love to use this feature, especially after seeing all the awesome ways it is being used. Unfortunately it is still not available in our market; does anybody know of an ETA for AI receptionist and two -way texting in AU?
+
 ---
 
-## 15. Campaigns
+## 17. Campaigns
 
-**Author:** BlueSkies (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 36 | **Likes:** 1 | **Comments:** 1
+**Author:** BlueSkies (Contributor 3)
+**Posted:** 2025-09-09
+**Views:** 38 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/marketing-tools/campaigns/5682
 
 ### Content
@@ -594,17 +652,17 @@ SO when creating a campain. I am struggling getting the audience correct. I use 
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-08-27
+**Posted:** 2025-09-09
 
 Hey Blueskies, thanks for the question. You can set up your campaigns to include multiple tags to narrow down the results. If there are certain clients you do not wish to send campaigns to, but they fit under the selected tag, you can "unsubscribe" them. For more information and tips on how to create the perfect campaign audience, check out this article.
 
 ---
 
-## 16. MASS TEXT
+## 18. MASS TEXT
 
-**Author:** BlueSkies (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 44 | **Likes:** 1 | **Comments:** 2
+**Author:** BlueSkies (Contributor 3)
+**Posted:** 2025-08-09
+**Views:** 46 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/marketing-tools/mass-text/5432
 
 ### Content
@@ -615,25 +673,25 @@ I know this has been asked before in different formats. I am asking again to pro
 
 #### Reply 1
 
-**Author:** BrandenSewell
-**Posted:** 2025-08-27
-
-Hopefully, you are still using email marketing. We use it and we have an average of about a 45% open rate. We do a monthly newsletter and we do special offers as needed. Staying top of mind with our newsletter is a game changer. The text idea is great and I agree that would be a great feature but meanwhile the email marketing is still a great tool.
-
-#### Reply 2
-
 **Author:** krista
-**Posted:** 2025-08-27
+**Posted:** 2025-09-09
 
 Hi BlueSkies​ Thanks so much for sharing this, and for taking the time to provide such detailed context. It’s clear you’ve put a lot of thought and real-world experience into this, and your feedback around text communication really highlights an important use case. A 95% open rate is no small thing, and we absolutely understand the value that SMS can bring to customer engagement, especially at scale. While Jobber currently supports two-way text messaging with individual clients, we hear you on the need for a more efficient way to reach multiple customers via text—especially for updates and promotions. I’ve made sure your request is shared with our product team as another strong data point for future consideration. You're not alone in this ask, and insights yours help us prioritize what matters most to our community. Thanks again for being part of the conversation, and for continuing to push us to improve!
 
+#### Reply 2
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-09
+
+Hopefully, you are still using email marketing. We use it and we have an average of about a 45% open rate. We do a monthly newsletter and we do special offers as needed. Staying top of mind with our newsletter is a game changer. The text idea is great and I agree that would be a great feature but meanwhile the email marketing is still a great tool.
+
 ---
 
-## 17. Anyone Tried Jobber’s New Get Noticed Score Tool?
+## 19. Anyone Tried Jobber’s New Get Noticed Score Tool?
 
-**Author:** ryaantuttle (Contributor 2)
-**Posted:** 2025-07-27
-**Views:** 75 | **Likes:** 4 | **Comments:** 6
+**Author:** ryaantuttle (Jobber Ambassador)
+**Posted:** 2025-08-09
+**Views:** 76 | **Likes:** 4 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/marketing-tools/anyone-tried-jobber%E2%80%99s-new-get-noticed-score-tool/5207
 
 ### Content
@@ -644,53 +702,53 @@ Hey Jobber community! Jobber just rolled out a new free tool called https://too
 
 #### Reply 1
 
-**Author:** WindowsAndMore
-**Posted:** 2025-07-27
+**Author:** LauraWhalen
+**Posted:** 2025-08-09
 
-Hey great look! I enjoyed seeing my score and getting some data on how i can improve. Very easy to use! Great graphics and it looks nice
+I do not currently have a website or much of an online presence. I need some help with setting up a website. Any suggestions would be greatly appreciated.
 
 #### Reply 2
 
 **Author:** EnergizeUs
-**Posted:** 2025-07-27
+**Posted:** 2025-08-09
 
-Just tried it today and gave great feedback on my blind spots I didn't even think of.
+to LauraWhalen lets get you set up - Marketing Suite will build one for you step by step if you need assistance , we are here to help
 
 #### Reply 3
 
-**Author:** LauraWhalen
-**Posted:** 2025-07-27
+**Author:** ryaantuttle
+**Posted:** 2025-08-09
 
-I do not currently have a website or much of an online presence. I need some help with setting up a website. Any suggestions would be greatly appreciated.
+to LauraWhalen Jobber offers websites directly through their platform. If thats too much cost at the moment, I suggest waiting until you have the funds or can at least put together a landing page.
 
 #### Reply 4
 
-**Author:** ryaantuttle
-**Posted:** 2025-07-27
+**Author:** MavixCleaning
+**Posted:** 2025-08-09
 
-to LauraWhalen Jobber offers websites directly through their platform. If thats too much cost at the moment, I suggest waiting until you have the funds or can at least put together a landing page.
+Awesome! Thanks so much for sharing this.
 
 #### Reply 5
 
 **Author:** EnergizeUs
-**Posted:** 2025-07-27
+**Posted:** 2025-08-09
 
-to LauraWhalen lets get you set up - Marketing Suite will build one for you step by step if you need assistance , we are here to help
+Just tried it today and gave great feedback on my blind spots I didn't even think of.
 
 #### Reply 6
 
-**Author:** MavixCleaning
-**Posted:** 2025-07-27
+**Author:** WindowsAndMore
+**Posted:** 2025-08-09
 
-Awesome! Thanks so much for sharing this.
+Hey great look! I enjoyed seeing my score and getting some data on how i can improve. Very easy to use! Great graphics and it looks nice
 
 ---
 
-## 18. Google Reviews only for marketing suite
+## 20. Google Reviews only for marketing suite
 
 **Author:** PLUMR (Contributor 2)
-**Posted:** 2025-05-27
-**Views:** 40 | **Likes:** 3 | **Comments:** 2
+**Posted:** 2025-06-09
+**Views:** 44 | **Likes:** 3 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/marketing-tools/google-reviews-only-for-marketing-suite/3726
 
 ### Content
@@ -701,21 +759,21 @@ can we please have strictly google reviews from the marketing suite as a seperat
 
 #### Reply 1
 
-**Author:** Harris1948
-**Posted:** 2025-06-27
-
-As another company who has the marketing suite simply for the Google reviews feature, we completely agree with PLUMR​.
-
-#### Reply 2
-
 **Author:** jade
-**Posted:** 2025-05-27
+**Posted:** 2025-06-09
 
 Hello! Thank you for bringing this to the community. Jobber offers the Reviews Marketing Tool add-on as an individual add-on outside of the Suite. If you are interested in just the Review add-on, go to the Gear icon > Account and Billing > Manage add-ons, from there you should be able to select just the Reviews for $39 USD monthly, plus applicable taxes. If you have any questions on how to utilize or add on the feature, please contact our Success Team, 888-721-1115 ext 1 or start a live chat by going to ? top right corner > chat with us.
 
+#### Reply 2
+
+**Author:** Harris1948
+**Posted:** 2025-07-09
+
+As another company who has the marketing suite simply for the Google reviews feature, we completely agree with PLUMR​.
+
 ---
 
-## 19. Let’s build a network
+## 21. Let’s build a network
 
 **Author:** Mdkpresident (Contributor 2)
 **Posted:** 2025-06-27
@@ -737,7 +795,7 @@ Salutations to the trades ........trying to find my footing in this online marke
 
 ---
 
-## 20. Email Templates
+## 22. Email Templates
 
 **Author:** MrElectro (Contributor 2)
 **Posted:** 2025-05-27
@@ -773,7 +831,7 @@ to krista Hi Krista, This isn't my original post but I second MrElectro's idea. 
 
 ---
 
-## 21. Matching Google Reviews to Clients
+## 23. Matching Google Reviews to Clients
 
 **Author:** LukeE (Contributor 2)
 **Posted:** 2025-06-27
@@ -795,7 +853,7 @@ BUILDER 1 I think if the customer uses another google account to do the review t
 
 ---
 
-## 22. Jobber Campaigns Tips and Tricks
+## 24. Jobber Campaigns Tips and Tricks
 
 **Author:** CalebR (Contributor 2)
 **Posted:** 2025-02-27
@@ -880,7 +938,7 @@ to ryaantuttle Thank you! I noticed that Jobber offers a tracker option. Is ther
 
 ---
 
-## 23. Automated Campaigns in HVAC
+## 25. Automated Campaigns in HVAC
 
 **Author:** CrystalW (Contributor 2)
 **Posted:** 2025-02-27
@@ -902,7 +960,7 @@ Hi CrystalW, that is a great question! It ultimately comes down to what works be
 
 ---
 
-## 24. How to use jobber marketing and send to emails not saved or leads
+## 26. How to use jobber marketing and send to emails not saved or leads
 
 **Author:** RSCcass0905 (Contributor 2)
 **Posted:** 2025-02-27
@@ -931,7 +989,7 @@ Tools LinkedIn, local business directories, and real estate listing platforms su
 
 ---
 
-## 25. Tips & tricks for increasing open-rates and click-rates?
+## 27. Tips & tricks for increasing open-rates and click-rates?
 
 **Author:** julie (Contributor 2)
 **Posted:** 2025-02-27
@@ -988,7 +1046,7 @@ Sorry to give a non-answer here, but my mind needs to understand what isn’t wo
 
 ---
 
-## 26. Referral Program/Auto Payments
+## 28. Referral Program/Auto Payments
 
 **Author:** EnovanaRaleigh (Contributor 2)
 **Posted:** 2025-02-27
@@ -1031,7 +1089,7 @@ to jade Jade, I manually marked a few Referrals and associated the referring cli
 
 ---
 
-## 27. Just did our first campaign!
+## 29. Just did our first campaign!
 
 **Author:** JonahAlcalde (Contributor 2)
 **Posted:** 2025-02-27
@@ -1053,7 +1111,7 @@ JOBBER COMMUNITY TEAM Woohoo! That's so great to hear. What were the most signif
 
 ---
 
-## 28. What do people think of the Jobber Websites?
+## 30. What do people think of the Jobber Websites?
 
 **Author:** Hourpeople (Contributor 2)
 **Posted:** 2025-02-27
@@ -1096,7 +1154,7 @@ I created my own website and use it for all advertising, email etc. I did activa
 
 ---
 
-## 29. Referral Feature - Choosing incentive structure
+## 31. Referral Feature - Choosing incentive structure
 
 **Author:** seanroz (Contributor 2)
 **Posted:** 2025-02-27

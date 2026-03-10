@@ -7,8 +7,8 @@ Total Discussions: 33
 ## 1. Pulling a report on different revenue categories
 
 **Author:** Ernie (Contributor 2)
-**Posted:** 2026-01-28
-**Views:** 47 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-02-09
+**Views:** 61 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/insights-reporting/pulling-a-report-on-different-revenue-categories/8413
 
 ### Content
@@ -20,14 +20,14 @@ Hello, My business get revenue from 4 different areas. Sales, installations, Ren
 #### Reply 1
 
 **Author:** HUGEHandyman
-**Posted:** 2026-02-02
+**Posted:** 2026-02-09
 
 I know you for sure can make them in to two seperate categories - Products and Services. You'd need to do that when you are making the line items. I'd imagine the service agreements would be easy to seperate because that would be your reoccuring revenue. The rentals would probably just come down to the specific line items. I'm not sure there. Def hit up support though, they can help you figure out how to go about sorting those.
 
 #### Reply 2
 
 **Author:** WolfpackBrian
-**Posted:** 2026-02-26
+**Posted:** 2026-02-27
 
 I do this manually now, by assigning custom fields for the categories on the one-off job level, exporting a one-off jobs report to excel, adding that data to an existing table, then using the data to populate multiple pivot tables. I have to do it manually now, but am trying to work a method to automate the process.
 
@@ -36,7 +36,7 @@ I do this manually now, by assigning custom fields for the categories on the one
 ## 2. What's the FIRST thing you check in Jobber...
 
 **Author:** rebecca (Jobber Community Team)
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 **Views:** 13 | **Likes:** 4 | **Comments:** 31
 **URL:** https://community.getjobber.com/discussions/insights-reporting/whats-the-first-thing-you-check-in-jobber-/21
 
@@ -49,217 +49,217 @@ JOBBER COMMUNITY TEAM ... when you log on in the morning! ACTIVITY FEED JOBBER A
 #### Reply 1
 
 **Author:** DarrenSteele
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 How much moola is coming into my account today!
 
 #### Reply 2
 
 **Author:** Erica_Krupin
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to DarrenSteele YES!
 
 #### Reply 3
 
 **Author:** rebecca
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 JOBBER COMMUNITY TEAM to DarrenSteele Priorities! Yep, we love this answer! $
 
 #### Reply 4
 
 **Author:** ryaantuttle
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to DarrenSteele YESSSSS!! Same!!! 💯
 
 #### Reply 5
 
 **Author:** Erica_Krupin
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I always look at the daily schedule in Map view to make sure routing looks good for the day.
 
 #### Reply 6
 
 **Author:** julie
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 JOBBER COMMUNITY TEAM to Erica_Krupin definitely, gotta make sure your day is set up for success 🙌
 
 #### Reply 7
 
 **Author:** AdamSylvester
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Anticipated revenue to make sure our technicians are booked for enough jobs and we're setup for success to hit our revenue goals.
 
 #### Reply 8
 
 **Author:** bedellmgmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to AdamSylvester That is a good one and also one of my favorite features 💯
 
 #### Reply 9
 
 **Author:** JanineChambers
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 New Requests, Approved Quotes, Requires Invoicing, Late Visits or Assessments, Anything in Drafts. All get the first attention of the day because these places mean the clock is ticking on customer service or getting paid :)
 
 #### Reply 10
 
 **Author:** Art
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Activity feed, then Schedule and then personal favorite "On the way to your bank" :)
 
 #### Reply 11
 
 **Author:** Erica_Krupin
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to Art This sounds a good flow.
 
 #### Reply 12
 
 **Author:** GrahamPE
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Notifications. I love seeing all the photos my team will have uploaded from the previous day. I love seeing the progress and the funny pictures of horrible work others have done that we are expected to try and fix.
 
 #### Reply 13
 
 **Author:** bedellmgmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Definitely the calendar - first the month view then the map
 
 #### Reply 14
 
 **Author:** Erica_Krupin
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to bedellmgmt I do find the map view easier on my eyes.
 
 #### Reply 15
 
 **Author:** KleinPW
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Leads and Calendar
 
 #### Reply 16
 
 **Author:** rebecca
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 JOBBER COMMUNITY TEAM to KleinPW Nice! Jobs to book 📈and jobs booked 💰
 
 #### Reply 17
 
 **Author:** Landscaper
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Calander
 
 #### Reply 18
 
 **Author:** ryaantuttle
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 How much money I can transfer to Instant Payouts!
 
 #### Reply 19
 
 **Author:** Erica_Krupin
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to ryaantuttle How long does the instant pay out take?
 
 #### Reply 20
 
 **Author:** THS
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to Erica_Krupin It only takes a few hours to see it pending in my account.
 
 #### Reply 21
 
 **Author:** Poo-Picker-Josh
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 If I have any new requests for service, then convert any approved quotes, then check the schedule to see if everything and everyone are all set up for the day, then I check on any outstanding invoices and charge them to their credit card if possible. Then I go to action required jobs and see whats up with them.
 
 #### Reply 22
 
 **Author:** GBPlumbing
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Schedule for us, we to know how our day will be, and if we're missing any supplies needed for the job before heading there.
 
 #### Reply 23
 
 **Author:** joaoservices
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 1st thing I do is see what work that needs to be done and then what money is coming in by credit card
 
 #### Reply 24
 
 **Author:** allenmeringolo
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 No consistent routine but typically one of: Previous day / week timesheets Requests Jobs - ensuring my employees are assigned to the correct jobs. Approved quotes
 
 #### Reply 25
 
 **Author:** wdkljana
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 As Accounts receivable, the first thing I check is the aged receivables report, to see who needs additional follow up for payment that day.
 
 #### Reply 26
 
 **Author:** dmacklawns1
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Hello, I'm new to Jobber. I just trying to learn this CRM.
 
 #### Reply 27
 
 **Author:** A1Tree
-**Posted:** 2025-04-27
+**Posted:** 2025-05-09
 
 Our schedule for the day and then the job details to see what equipment we need. We have the same crew every time but sometimes we don't need every piece of large equipment. We usually have our morning business meeting/job review in the morning over coffee each day. Makes for a nice start to the day, very organized.
 
 #### Reply 28
 
 **Author:** alexa12
-**Posted:** 2025-07-27
+**Posted:** 2025-07-09
 
 Yeah same!
 
 #### Reply 29
 
 **Author:** Fred1
-**Posted:** 2025-07-27
+**Posted:** 2025-07-09
 
 since I have the Ai answering I have to check the tasks, calls, then schedule and make adjustments, sucks i cant check the calls on the app to be honest. and everyone else gota check the money coming in
 
 #### Reply 30
 
 **Author:** D_LHerbier
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 This is a great conversation starter! The first thing I always check is the reviews section. We have started using Jobber's review generation feature, and our reviews have skyrocketed! I check this because I to see customer feedback, and its enjoyable to see how many reviews we received in the past 24 hours. This also gives you the chance to to any negative reviews and get them addressed quickly. The second area that I always check is the "insight" tab for the brief financial overview. Third would be the schedule to make sure everything looks good for the day.
 
 #### Reply 31
 
 **Author:** akschroeder923
-**Posted:** 2026-02-26
+**Posted:** 2026-02-27
 
 Typically, the first thing I do when I log into Jobber is to take a peak at the schedule for the day to see who is going where and if the crews have made it to their first job site.
 
@@ -269,7 +269,7 @@ Typically, the first thing I do when I log into Jobber is to take a peak at the 
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-02-15
-**Views:** 38 | **Likes:** 0 | **Comments:** 2
+**Views:** 45 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/insights-reporting/job-pricing/8726
 
 ### Content
@@ -297,27 +297,27 @@ Hi BlueSkies​, This is a great example of the type of operational insight that
 ## 4. Jobber Roadmap
 
 **Author:** Brandin (Contributor 2)
-**Posted:** 2026-02-05
-**Views:** 61 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-02-09
+**Views:** 65 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/insights-reporting/jobber-roadmap/8567
 
 ### Content
 
-I didn't find a topic that I thought fit to post this so I figured I would try here since I want some Insight. I came here from Housecall Pro. One of the things they had that I loved as a published website roadmap. That way we could see what type of items the Devs had planned and were working on. Not everything had a timeline on release but it at least let us know the devs heard us and would eventually implement it. That helped us know to stop asking for the same features over and over again. It also showed what had already been pushed out. So if you missed the publishing, you could still see the updates and feature releases there. They also had a form for you to submit ideas and then people could upvote it. That let others know if we were having the same problem to collaborate on work arounds and solutions while also letting the developers know what items were most wanted by the most people. We would have the ability to do most of that here easily with a simple Topic of "Feature Requests". I'm sure I'm preaching to the Choir here when I say we are too busy to call the success line every time we wish Jobber had a feature. INSIGHTS DASHBOARD INTEGRATIONS JOBBER AI JOBBER CENTRAL JOBBER HOME LOCKSMITH REPORTING & BUSINESS INSIGHTS REPORTS WIN JOBS WORK SMARTER julie 21 days ago Hey Brandin, really appreciate you taking the time to write this out. You’re definitely not alone in wanting more visibility into what’s coming and a clearer place to share feature ideas. Currently, this community forum is best suited for sharing workflows, workarounds, and how other pros are using Jobber day-to-day. For feature requests and product feedback, the best place to submit them is through our official feedback channels, so they’re shared directly with the Product team and tracked alongside broader customer feedback. That said, convos this are still valuable here! Hearing why a feature matters, how others are solving the same problem today, or whether others are running into the same friction helps surface patterns we can pass along internally. Thanks again, feedback this helps us keep improving how we listen and communicate.
+I didn't find a topic that I thought fit to post this so I figured I would try here since I want some Insight. I came here from Housecall Pro. One of the things they had that I loved as a published website roadmap. That way we could see what type of items the Devs had planned and were working on. Not everything had a timeline on release but it at least let us know the devs heard us and would eventually implement it. That helped us know to stop asking for the same features over and over again. It also showed what had already been pushed out. So if you missed the publishing, you could still see the updates and feature releases there. They also had a form for you to submit ideas and then people could upvote it. That let others know if we were having the same problem to collaborate on work arounds and solutions while also letting the developers know what items were most wanted by the most people. We would have the ability to do most of that here easily with a simple Topic of "Feature Requests". I'm sure I'm preaching to the Choir here when I say we are too busy to call the success line every time we wish Jobber had a feature. INSIGHTS DASHBOARD INTEGRATIONS JOBBER AI JOBBER CENTRAL JOBBER HOME LOCKSMITH REPORTING & BUSINESS INSIGHTS REPORTS WIN JOBS WORK SMARTER julie Hey Brandin, really appreciate you taking the time to write this out. You’re definitely not alone in wanting more visibility into what’s coming and a clearer place to share feature ideas. Currently, this community forum is best suited for sharing workflows, workarounds, and how other pros are using Jobber day-to-day. For feature requests and product feedback, the best place to submit them is through our official feedback channels, so they’re shared directly with the Product team and tracked alongside broader customer feedback. That said, convos this are still valuable here! Hearing why a feature matters, how others are solving the same problem today, or whether others are running into the same friction helps surface patterns we can pass along internally. Thanks again, feedback this helps us keep improving how we listen and communicate.
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM Hey Brandin, really appreciate you taking the time to write this out. You’re definitely not alone in wanting more visibility into what’s coming and a clearer place to share feature ideas. Currently, this community forum is best suited for sharing workflows, workarounds, and how other pros are using Jobber day-to-day. For feature requests and product feedback, the best place to submit them is through our official feedback channels, so they’re shared directly with the Product team and tracked alongside broader customer feedback. That said, convos this are still valuable here! Hearing why a feature matters, how others are solving the same problem today, or whether others are running into the same friction helps surface patterns we can pass along internally. Thanks again, feedback this helps us keep improving how we listen and communicate.
 
 #### Reply 2
 
 **Author:** jade
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 Hey Brandin! That is valuable feedback. I can understand not having the time to call our Success Team every time you have a feature request. Just to touch on what Julie said, if you do have feedback, feel free to send us a quick chat by going to the ? top right corner > chat with us or by going to more (in the mobile app) > support. If your feature request is specific to an integration, you can go to the Apps tab > scroll down > Request an app. Lately, please check out our Product updates page! It will show all of our new features, as well as our Jobber labs and beta features. Gear icon > Product updates. Thanks for bringing this to the community!
 
@@ -326,8 +326,8 @@ Hey Brandin! That is valuable feedback. I can understand not having the time to 
 ## 5. Adding A Column to a Report for Export
 
 **Author:** MandyS (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 36 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 43 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/insights-reporting/adding-a-column-to-a-report-for-export/8180
 
 ### Content
@@ -339,7 +339,7 @@ I'm going through my day to days and running a report on all of our jobs, both o
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 HI MandyS​ Thanks for taking the time to explain this so thoroughly. The context around weekly job reviews and needing a single, reliable indicator in your export is really helpful. I did want to ask one quick clarifying question so we can pass along the most accurate feedback to our development team. When you mention invoicing for a deposit, are you referring to a deposit collected on the quote that later carries over to the final invoice, or are these separate invoices created directly on the job? Since Jobber typically handles deposits at the quote level and then applies them to the invoice, understanding your exact workflow will help us better frame this request. That said, including Job Status as a column in the One Off Jobs export does make a lot of sense, especially when some jobs have multiple invoices and the existing Closed Date or Invoiced columns do not clearly show whether a job still needs attention. I will make sure this feedback, along with your clarification, is shared with our development team.
 
@@ -348,8 +348,8 @@ HI MandyS​ Thanks for taking the time to explain this so thoroughly. The conte
 ## 6. How to back up job photos and files from Jobber?
 
 **Author:** JoshNoC0de (Contributor 2)
-**Posted:** 2025-05-27
-**Views:** 195 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2025-06-09
+**Views:** 207 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/insights-reporting/how-to-back-up-job-photos-and-files-from-jobber/3913
 
 ### Content
@@ -361,14 +361,14 @@ Hey all, just wondering if this is something others have run into. A few of our 
 #### Reply 1
 
 **Author:** JHTS
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 Hi Guys I am an administrator for an Arborist company. Most of our quote/job details/photos stay on Jobber. Things forms - we have to have - ie LOLER, Puwer + Vehicle checks, we download to Dropbox. This is important information should (god forbid) an accident happens then we have proof of the checks that are done weekly/daily over a period of time (saved by date order) As we know this will be investigated.
 
 #### Reply 2
 
 **Author:** PestFreeCanada
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 This is actually a really good question, I am curious if you ever got any answers about this?
 
@@ -377,8 +377,8 @@ This is actually a really good question, I am curious if you ever got any answer
 ## 7. How to Track Google Lead Form Conv. With Jobber Lead Form?
 
 **Author:** afas (Contributor 2)
-**Posted:** 2025-02-27
-**Views:** 479 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2025-03-09
+**Views:** 506 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/insights-reporting/how-to-track-google-lead-form-conv-with-jobber-lead-form/1662
 
 ### Content
@@ -390,28 +390,28 @@ Hey all, I recently had to take off the Jobber Lead form from my site because I 
 #### Reply 1
 
 **Author:** ryaantuttle
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Try looking into using your Google analytics to see if you can use a tracking code in there afas
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Hi afas, it is great to hear you are digging into lead tracking. We would love to help get the lead tracking working with you. When convenient, please reach out to our Success Team at 1-888-721-1115, option 1 or support@getjobber.com
 
 #### Reply 3
 
 **Author:** Sweely
-**Posted:** 2025-10-27
+**Posted:** 2025-10-09
 
 That really stinks you had to revert back to manual entry just to keep your conversion tracking working, but you're spot-on that the Jobber form breaks the easy 'thank you page URL' method. The good news is that what you are describing is a classic case for server-side tracking, which offers a superior, more robust solution, even if it is a bit more complex to set up initially. The combination of tools you mentioned creates an excellent, privacy-resilient tracking pipeline that moves conversion data directly from Jobber back to Google Ads, bypassing the limitations of browser-side tracking. The core problem is that the Jobber lead form either uses an iframe, an AJAX submission, or is on a sub-domain, all of which prevent your site's Google Tag Manager (GTM) from easily detecting the submission and sending the standard Google Ads conversion tag. The solution is to use the Jobber API to capture the lead information on the server-side as soon as it hits their CRM. Crucially, Jobber is very good at capturing UTM parameters (source, medium, etc.) and it also captures the Google Click ID (GCLID) if you've correctly appended those to your ad URLs, which is vital for connecting the lead to the ad click. Once the lead hits Jobber, the Jobber API can be used to pull this new lead data, including the GCLID, email, phone number, and a timestamp. From there, you use a service Stape (which acts as a server-side GTM container) or Google Cloud Platform to process this data. Your server-side container, which is running the Google Tag Manager functionality, takes the GCLID and the Standard Events data and sends an Offline Conversion event directly to the Google Ads API. This server-to-server connection is the most reliable way to attribute the conversion because it doesn't rely on the user's browser or cookies. Finally, the Google Analytics Data API is the piece that lets you pull rich, high-quality session and user data from your Google Analytics 4 property that might also have captured the original lead submission event (e.g., `generate_lead`). This is essential for a holistic view of the customer journey, providing a deeper understanding of the conversion path beyond what Google Ads alone can see. Using all these APIs together creates a "full-funnel" picture, ensuring you get accurate, de-duplicated conversion data into Google Ads for proper reporting and bid optimization, all while keeping your leads flowing automatically into Jobber. You get the benefit of the CRM and accurate ad tracking.
 
 #### Reply 4
 
 **Author:** Zack19
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 I've had this problem with other CRMs or tools Jobber. I would go into Google Tag Manager and create and track an event for whatever shows up after you click on submit. Usually, there's a thank you text or maybe even an image. If you set this up using the Google Tag Assistant and create a trigger for the text or pop up that shows up after the submission then you should be able to track a successful form submission.
 
@@ -420,8 +420,8 @@ I've had this problem with other CRMs or tools Jobber. I would go into Google Ta
 ## 8. Tax collected
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-12-27
-**Views:** 43 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 46 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/insights-reporting/tax-collected/7764
 
 ### Content
@@ -433,7 +433,7 @@ Is there a way to have Jobber run a report of how much tax has been collected on
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Hello! Thank you so much for your question. The best report for this will be the Invoices report. Go to Insights > Reports > under Financial Reports - got to Invoices > edit coloumns > select tax %. For more info on this report, check out this article!
 
@@ -442,8 +442,8 @@ Hello! Thank you so much for your question. The best report for this will be the
 ## 9. Cancellation report
 
 **Author:** CleanbyVivi (Contributor 2)
-**Posted:** 2025-06-27
-**Views:** 91 | **Likes:** 1 | **Comments:** 5
+**Posted:** 2025-07-09
+**Views:** 99 | **Likes:** 1 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/insights-reporting/cancellation-report/4346
 
 ### Content
@@ -455,35 +455,35 @@ So apparently there is no report to run that shows cancelled/unscheduled jobs in
 #### Reply 1
 
 **Author:** aarontree
-**Posted:** 2025-07-27
+**Posted:** 2025-08-09
 
 I know this is old but I just came across it. We have found adding info the beginning of the job title makes it easy to search. An example would be a tree removal job cancels. It was title "Full day ash removal". When i re-title it "CANCELED Full day ash removal", I can either search for that in jobber or filter an exported spreadsheet. It's not elegant but it works really well for us. I also think it's annoying it is not built into the software directly.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 Hi CleanbyVivi​ and aarontree​ Thanks for raising this, and for the workaround suggestion! That’s a great solution, and we really appreciate you sharing it. We’ve also heard from others that tracking canceled or unscheduled jobs is important, and we’d love to better understand how this data is being used. That way, we can share meaningful feedback with our development team around the need for a report or built-in feature.
 
 #### Reply 3
 
 **Author:** aarontree
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 to krista Hi. I don't want this to sound a smartass answer, but I'm not sure what more you need to know if lots of Jobber uses are requesting this. We need to know when work is cancelling and how much! Right now, if I archive a job that cancels is still shows on reports as an approved quote. If there was a simple "Canceled" status and a "Canceled on" date, then we can pull the data and dive in deeper as we need. The solution I shared is a pain in the **bleep** for us to manage, but I do it to get good metrics.
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 JOBBER COMMUNITY TEAM to aarontree No worries, we appreciate your candor! It's important for our Product team to understand the use cases when we look at feature requests to help identify what we're trying to solve for. I can definitely see that a canceled job with an approved quote would be confusing in your reporting. When you're looking at these canceled jobs, are you looking for trends in your data? For example if certain clients, or certain days/times of the week are cancelling more frequently, this would help you make changes in your operations to help reduce the amount of cancellations.
 
 #### Reply 5
 
 **Author:** aarontree
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 to julie Thanks for the response. We are always looking for trends in case there is something glaring that we can adjust. Bascially, if a canceled retained all the original quote data, but had a new status of "canceled" it could be as simple as that. Then companies could pull a report and look at the data they want. Maybe I want to analyze cancellations by zip code, but some other company wants to sort by sales rep. One important things is that the canceled work doesn't show up as approved anymore. I appreciate you seeking more info.
 
@@ -492,8 +492,8 @@ to julie Thanks for the response. We are always looking for trends in case there
 ## 10. Projected revenue
 
 **Author:** Derek1 (Contributor 3)
-**Posted:** 2025-02-27
-**Views:** 322 | **Likes:** 3 | **Comments:** 8
+**Posted:** 2025-03-09
+**Views:** 332 | **Likes:** 3 | **Comments:** 8
 **URL:** https://community.getjobber.com/discussions/insights-reporting/projected-revenue/632
 
 ### Content
@@ -505,56 +505,56 @@ I would to look at my upcoming schedule (by day, by week, or a custom range), an
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 JOBBER COMMUNITY TEAM Hey Derek, thanks for the feedback. I've passed it along to our Success Team. I also recommend that you use the "visits report" filter by the day you're looking at as a workaround for this!
 
 #### Reply 2
 
 **Author:** BeesKnees
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to julie Hi Julie, I just tried this but it doesn't allow me to filter by day and it also blocks me from filtering a day in the future.
 
 #### Reply 3
 
 **Author:** Derek1
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I'm just going to comment on this again, to ask Jobber to add this reporting feature. My goal: easily see a report projected revenue, based on scheduled visits. I'd to customize this. For example: see the projected revenue for the next week, for the rest of the month, for the upcoming month, etc. ..... based on the visits that are on the calendar. Would also to see the total revenue for "unscheduled visits". Thanks!
 
 #### Reply 4
 
 **Author:** Daichi
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 If you're looking to just use Jobber reports, I'll typically export the active visits report in jobber and then calculate it based on active clients. However, you'd have to do this every time you add a new client because your forecasted revenue would change. There's an app in the marketplace called Crew Insight that I helped build. It shows forecasted rev for one off and recurring. That way you always know what your recurring revenue is at a glance. It's been nice to see how that number changes as the business grows and I have more active recurring clients.
 
 #### Reply 5
 
 **Author:** karolibus
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 In Visits report I select the upcoming days in the calendar and uncompleted jobs and it shows me the forecast.
 
 #### Reply 6
 
 **Author:** BeesKnees
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to karolibus It doesn't let you look in to the future. Say today, February 22nd, I want to see the revenue schedule for April 15th. How do we get that? I think this really should be listed on the schedule somewhere. On the dashboard, there is a field called "Upcoming Jobs" but I can't customize that for a particular day or week. Frustrating.
 
 #### Reply 7
 
 **Author:** krista
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 Thanks everyone for this lively discussion and for continuing to share your feedback on this! We understand how valuable it would be to view projected revenue based on scheduled visits—whether by day, week, or over a custom date range. This would make it much easier to forecast income and plan ahead for your business. I’ve shared your comments and examples with our development team so they can consider this as we look at ways to enhance reporting and scheduling insights in Jobber. We really appreciate you taking the time to outline how this feature would help your workflow.
 
 #### Reply 8
 
 **Author:** Ronen
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 JOBBER PRODUCT TEAM Hi everyone! Thanks for the feedback - I'm the product manager of the Business Insights team so wanted to share my thoughts: 1. You can surface the value of visits in the Visits report. If you're having issues with selecting dates, try selecting your end date first, then select the start date. (It's not possible to select a start date after an end date). 2. You can also use the Visits report to return the value of unscheduled visits. Just select the 'Start within' filter, and change it to 'Unscheduled' 3. As BeesKnees mentioned there's an 'Upcoming job value' chart on the Insights dashboard that also returns the value of upcoming jobs. This is slightly different than the Visits report as it includes the value of Recurring, Fixed Price jobs. Currently it only has pre-set date ranges, but we have been adding custom date ranges to several of the Insights charts, and it's great feedback to support a custom range on this chart too!
 

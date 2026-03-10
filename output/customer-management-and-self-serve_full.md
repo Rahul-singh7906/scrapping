@@ -4,11 +4,75 @@ Total Discussions: 35
 
 ---
 
-## 1. How to prevent or merge duplicate client records when syncing with QuickBooks?
+## 1. Bulk Messaging
+
+**Author:** AidenStrehle (Contributor 3)
+**Posted:** 2025-03-09
+**Views:** 331 | **Likes:** 1 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/bulk-messaging/1715
+
+### Content
+
+Hey everyone! I know jobber has a client communications feature with one of the paid plans, but does that feature include bulk email and text messaging to clients? I find myself often using MailChimp to send out emails but I would rather have Jobber create a feature where I can email and text clients all at once or based off of their tag. For example, when it snows we do snow removal. I would to send out a bulk message to all our snow removal clients what time we plan to dispatch. Or another example, when it rains, I would to send out a message to our clients that we will be rescheduling due to the weather. Does anyone have any feedback? Thanks! FredHodgeJr The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** FredHodgeJr
+**Posted:** 2025-03-09
+
+The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
+
+#### Reply 2
+
+**Author:** jade
+**Posted:** 2025-03-09
+
+Hey Aiden, thanks for the question! Our community member Fred is correct. Jobber's marketing tools include the ability to mass-email through our Campaigns add-on, but it does not include SMS at this time. I am more than happy to submit this feature request to our Product Team. If you want to see if the Campaign add-on will work for your business, please contact our Success Team, who are happy to help. Thank you, Fred, for the helpful suggestion!
+
+#### Reply 3
+
+**Author:** Diana
+**Posted:** 2026-02-26
+
+to jade Hi jade​ is there any news on this being rolled out; sms blast ?
+
+#### Reply 4
+
+**Author:** krista
+**Posted:** 2026-03-02
+
+to Diana Hi Diana​, Thanks for checking in. I am not aware of any updates or timeline for an SMS campaign or blast feature at this time. That said, I am happy to pass along your interest to our Product Team so they can see there is continued demand for it. Feedback this definitely helps inform future improvements. If anything changes, we will be sure to share updates in the Community.
+
+#### Reply 5
+
+**Author:** christian1993
+**Posted:** 2025-03-09
+
+to jade I agree, mass texting should be a part of the plan that i pay so much for. I pay for the highest tier everything. In addition to mass texting, attaching photos from phone to a text message should be added. I have been contemplating swithcing from jobber becuase other platforms offer both of these now and for less money.
+
+#### Reply 6
+
+**Author:** wdkljana
+**Posted:** 2025-03-09
+
+We have transitioned to Jobber campaigns from Mailchimp and find it works much in the same way, with one less step, we don't have to import emails & tags from jobber. That one less step makes it more efficient and is most cost effective also.
+
+#### Reply 7
+
+**Author:** IronWorksAI
+**Posted:** 2026-03-08
+
+NEW MEMBER Our bulk SMS marketing app, Notify Customers, is available on the Jobber App store. When you sign up, we sync all your clients and keep them updated over time. Pay-as-you go pricing, no monthly fees. Over 100 Jobber users have signed up.
+
+---
+
+## 2. How to prevent or merge duplicate client records when syncing with QuickBooks?
 
 **Author:** HotTubDave (Contributor 3)
-**Posted:** 2025-05-27
-**Views:** 257 | **Likes:** 3 | **Comments:** 12
+**Posted:** 2025-05-09
+**Views:** 273 | **Likes:** 3 | **Comments:** 12
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-prevent-or-merge-duplicate-client-records-when-syncing-with-quickbooks/3677
 
 ### Content
@@ -20,144 +84,94 @@ I've been asking about this for a while and am hoping that someone has found a s
 #### Reply 1
 
 **Author:** pelicancorey
-**Posted:** 2025-07-27
+**Posted:** 2025-07-09
 
 Just here to also request the ability to merge 2 accounts. - Thank you!
 
 #### Reply 2
 
 **Author:** JHTS
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 to pelicancorey I would to be able to merge clients and/or addresses - we deal with a lot of property managers, who leave, change person etc and trying to keep up as they sometimes call us to arrange a site visit but is a site we already have and now its in twice but under different names. So records of sites are not kept together.
 
 #### Reply 3
 
 **Author:** CandyCain24
-**Posted:** 2025-07-27
+**Posted:** 2025-07-09
 
 I dont think leaving it up to the client is the best solution. We definitely need a merge option for when our employees enter in the same client two or three times. (yes that has happened) i have even had them reissue invoices for the same service at least two different times.
 
 #### Reply 4
 
 **Author:** HotTubDave
-**Posted:** 2025-07-27
+**Posted:** 2025-07-09
 
 If a merge function isn't practical, how about have Jobber just note that the address or phone number is already in another customer record, just to catch the data entry conflict before it becomes a duplicate of an existing record?
 
 #### Reply 5
 
 **Author:** krista
-**Posted:** 2025-05-27
+**Posted:** 2025-05-09
 
 Hi Dave, thanks for reaching out. I appreciate the time you took to share this feedback. One solution to the issue I know works for some of our customers is to have a login for existing customers on your webpage. This will let your customers login to the client hub and submit requests within their client portal. You can get this link from the Gear Icon > Settings > Client Hub > bottom of the page > share login page I think a merge client option would be a great idea, I would be happy to share this use case with the team. There are so many emerging opportunities for us to implement AI to help us improve workflows and we are always looking for more. As for this working with the Quickbooks Online sync, our Success Team would be happy to resolve that with you. Please reach out to 1-888-721-1115 option 1 or support@getjobber.com at your convenient.
 
 #### Reply 6
 
 **Author:** HotTubDave
-**Posted:** 2025-05-27
+**Posted:** 2025-06-09
 
 to krista Thanks Krista. I am really against the idea for my customers having to log into the client hub. I don't know about you, but I must have 150 passwords and half are for sites that really don't need that level of security. I use a password manager but some of my customers are senior citizens that are challenged sending a text message or email. I want to make it easier for them, not harder. Also, we do repairs, so we may only interact with a customer once every 2 or 3 years. They aren't going to remember they have a client hub. If I'm the only customer with the problem, I understand you guys not wanting to put the resources into it. I was just looking to see if it's a common issue or I'm a loner. Thanks, Dave Felder
 
 #### Reply 7
 
 **Author:** DAC
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Our company is currently dealing with this same problem, and we'd to chime in that adding a 'Merge' client function in Jobber is essential for our business management. It's also a standard feature on many CRM platforms with which our office administrator has worked previously. Please make our dreams come true in 2026, Jobber dev team!
 
 #### Reply 8
 
 **Author:** Nantucket
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 Hey Jobber Community. my first post, so this thread is where I’ll jump in to ask for the same feature or ability to migrate client data, or even inside a job you could just change the client, I have a few instances where I had multiple reaching out to me for different projects before I realize they work for the same company so I had two individual clients three properties on one two properties on the other before I got any billing done, luckily there’s one billing email so I was able to just add that billing email to both clients and now the office can log into the client hub and see everything under that email but again for people who are not technically advanced I think the client hub is still a ways out for some of my clients So anyways, requesting job does do some sort of merge function or at least be able to change the client I’m not too far into where I can’t manually move stuff over at this point, but I can imagine having technicians doing this working under me and then getting way behind. It would be a pain to try to get it all fixed.
 
 #### Reply 9
 
 **Author:** HotTubDave
-**Posted:** 2025-10-27
+**Posted:** 2025-11-09
 
 I have noticed lately that Jobber will catch similar information when entering a new customer and let me know the client already exists. So kudos to that! still have the issue with job requests however. I don’t know that I want my customers or prospects getting error messages that “client already exists.” Maybe Jobber could flag it so I see on the back end? or just spend 40 minutes once or twice a month doing it manually when Quickbooks catches the error. But it does raise the question: How come Quickbooks can spot the error and Jobber can’t?
 
 #### Reply 10
 
 **Author:** MrElectro
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Can I also add that I also have this issue but also get customers making a request when they have an existing account but somehow adding there address again so I can have some customers with 7 different addresses which are all under the same account and all ever so slightly different. Because of the way in which requests - quote - job etc can be moved its not often caught unless you delve deep into the customer profile and find out they have multiple properties with the same address. Now we have to either leave these or delete the extra ones which deletes are the history against that particular address. So it would be better to have a way for a customer once they have an existing account to at least need to login maybe to make a new request etc or be able to merge addresses, customers etc. My jobber crm is now a complete mess of duplicate customers and addresses.
 
 #### Reply 11
 
 **Author:** MrElectro
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 I’ve also now got customers making duplicates of properties with identical addresses
 
 #### Reply 12
 
 **Author:** CRHotTubTech
-**Posted:** 2026-02-26
+**Posted:** 2026-02-27
 
-NEW MEMBER +1 for a client merge feature, I was shocked this feature didn't exist when I went looking for it :(
-
----
-
-## 2. Bulk Messaging
-
-**Author:** AidenStrehle (Contributor 3)
-**Posted:** 2025-02-27
-**Views:** 280 | **Likes:** 1 | **Comments:** 5
-**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/bulk-messaging/1715
-
-### Content
-
-Hey everyone! I know jobber has a client communications feature with one of the paid plans, but does that feature include bulk email and text messaging to clients? I find myself often using MailChimp to send out emails but I would rather have Jobber create a feature where I can email and text clients all at once or based off of their tag. For example, when it snows we do snow removal. I would to send out a bulk message to all our snow removal clients what time we plan to dispatch. Or another example, when it rains, I would to send out a message to our clients that we will be rescheduling due to the weather. Does anyone have any feedback? Thanks! FredHodgeJr The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
-
-### Replies (5)
-
-#### Reply 1
-
-**Author:** FredHodgeJr
-**Posted:** 2025-02-27
-
-The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
-
-#### Reply 2
-
-**Author:** jade
-**Posted:** 2025-02-27
-
-Hey Aiden, thanks for the question! Our community member Fred is correct. Jobber's marketing tools include the ability to mass-email through our Campaigns add-on, but it does not include SMS at this time. I am more than happy to submit this feature request to our Product Team. If you want to see if the Campaign add-on will work for your business, please contact our Success Team, who are happy to help. Thank you, Fred, for the helpful suggestion!
-
-#### Reply 3
-
-**Author:** christian1993
-**Posted:** 2025-02-27
-
-to jade I agree, mass texting should be a part of the plan that i pay so much for. I pay for the highest tier everything. In addition to mass texting, attaching photos from phone to a text message should be added. I have been contemplating swithcing from jobber becuase other platforms offer both of these now and for less money.
-
-#### Reply 4
-
-**Author:** Diana
-**Posted:** 2026-02-26
-
-NEW MEMBER to jade Hi jade​ is there any news on this being rolled out; sms blast ?
-
-#### Reply 5
-
-**Author:** wdkljana
-**Posted:** 2025-02-27
-
-We have transitioned to Jobber campaigns from Mailchimp and find it works much in the same way, with one less step, we don't have to import emails & tags from jobber. That one less step makes it more efficient and is most cost effective also.
++1 for a client merge feature, I was shocked this feature didn't exist when I went looking for it :(
 
 ---
 
 ## 3. 💡FEATURE REQUEST: Schedule Send Communications
 
 **Author:** ThatHandymanVan (Contributor 4)
-**Posted:** 2026-02-18
-**Views:** 22 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-02-19
+**Views:** 32 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/%F0%9F%92%A1feature-request-schedule-send-communications/8782
 
 ### Content
@@ -185,8 +199,8 @@ Hi ThatHandymanVan​ I love this idea, I am a big “send later” fan myself. 
 ## 4. Question for Jobber Team: Why Are Filter and Sort Settings Not Persisted?
 
 **Author:** tbarth (Contributor 3)
-**Posted:** 2026-01-31
-**Views:** 81 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-02-09
+**Views:** 86 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/question-for-jobber-team-why-are-filter-and-sort-settings-not-persisted/8508
 
 ### Content
@@ -205,7 +219,7 @@ Thank you for acknowledging my message, but this has been a known design choice 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 Hi tbarth​ Thank you for taking the time to write this up so clearly. I really appreciate the detailed feedback, and I would be happy to share this with the team. I completely understand how disruptive it can be when filters and sorting do not persist and interrupt your workflow. As a small tip in the meantime, if you are on a list page, for example, the Clients page with filters applied, and want to open an individual client without losing your view, you can open the client in a new tab. On Mac, hold Command and click the client name. On PC, hold Control and click. That way your filtered list remains intact in the original tab. Thanks again for calling this out so thoughtfully. Feedback this is incredibly valuable.
 
@@ -229,7 +243,7 @@ Hi tbarth​ , I want to acknowledge the depth and thoughtfulness of your messa
 
 **Author:** tbarth (Contributor 3)
 **Posted:** 2026-02-17
-**Views:** 17 | **Likes:** 0 | **Comments:** 1
+**Views:** 29 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/why-is-property-name-missing-in-addedit-property-its-visible-in-client-edit-view/8744
 
 ### Content
@@ -251,7 +265,7 @@ Hi tbarth​, Thank you for taking the time to lay this out so clearly, and for 
 
 **Author:** dcholding302 (Contributor 2)
 **Posted:** 2026-02-14
-**Views:** 29 | **Likes:** 1 | **Comments:** 1
+**Views:** 41 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-does-jobber%E2%80%99s-texting-system-handle-multiple-contacts-for-one-client-texting/8714
 
 ### Content
@@ -272,8 +286,8 @@ Hi dcholding302​, This is incredibly thoughtful and detailed feedback, thank y
 ## 7. Referral Credit System Is Very Lacking
 
 **Author:** dcholding302 (Contributor 2)
-**Posted:** 2026-02-04
-**Views:** 80 | **Likes:** 1 | **Comments:** 3
+**Posted:** 2026-02-09
+**Views:** 93 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/referral-credit-system-is-very-lacking/8539
 
 ### Content
@@ -285,14 +299,14 @@ This post is feedback, and a place to allow other users to leave feedback, for t
 #### Reply 1
 
 **Author:** HUGEHandyman
-**Posted:** 2026-02-04
+**Posted:** 2026-02-09
 
 I know this is a great place to leave this but I'd also recommend sending to support. They are really good at getting feedback to the right people and getting changes implemented.
 
 #### Reply 2
 
 **Author:** dcholding302
-**Posted:** 2026-02-04
+**Posted:** 2026-02-09
 
 to HUGEHandyman yup, this has been emailed to support also.
 
@@ -308,8 +322,8 @@ Excellent feedack, I would love to see those changes! julie​
 ## 8. Custom fields missing when editing existing properties
 
 **Author:** Kevin_G (Contributor 2)
-**Posted:** 2026-01-30
-**Views:** 39 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 41 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/custom-fields-missing-when-editing-existing-properties/8465
 
 ### Content
@@ -321,7 +335,7 @@ Hi, does anyone know why I don’t have the option to edit custom fields when up
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-03
+**Posted:** 2026-02-09
 
 hi Kevin_G​ Thanks for flagging this.
 
@@ -330,8 +344,8 @@ hi Kevin_G​ Thanks for flagging this.
 ## 9. Duplicates merge
 
 **Author:** Naz (Contributor 2)
-**Posted:** 2025-02-27
-**Views:** 438 | **Likes:** 8 | **Comments:** 9
+**Posted:** 2025-03-09
+**Views:** 463 | **Likes:** 8 | **Comments:** 9
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/duplicates-merge/1141
 
 ### Content
@@ -343,63 +357,63 @@ Hi guys. Its been a while we been asking for a possibility to merge contacts. Si
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Hey Naz! So great to have you as a customer since 2015! We really appreciate your continued feedback to make Jobber a more powerful tool. Client merge is not currently a feature in Jobber, but I’m happy to share your feedback with our Product Team as I understand how this would be valuable. New features are based on trends of requests, so if you’ve shared this feedback before this extra flag will be helpful. Your feature requests are important, so please keep them coming. We are also happy to help with some workarounds so please contact our Success Team!
 
 #### Reply 2
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 to jade jade​ I feel Jobber has blinds on for AI right now. Can you remind them to take a look at the issues that the customers using their software need, and not just the latest trend? Customer retention is at stake!
 
 #### Reply 3
 
 **Author:** HotTubDave
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Definitely a need here. We use Jobber Requests, and I get existing clients who use the "Request Service" button on my website, creating a whole new client record. Happens a couple times a month.
 
 #### Reply 4
 
 **Author:** cami1
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 How has this not made its way to the developers task board yet?
 
 #### Reply 5
 
 **Author:** LuminaryLawns
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Agreed! This would be a big help. We have customers create multiple accounts when they submit requests either from the jobber portal or from the form we have on our website. If there was a way to check the email address and merge the info it would be extremely helpful.
 
 #### Reply 6
 
 **Author:** Naz
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to LuminaryLawns I hope Jobber will listen to this and make it happen.
 
 #### Reply 7
 
 **Author:** wdkljana
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 We've been asking Jobber for this for years now! So frustrating they don't have it others do.
 
 #### Reply 8
 
 **Author:** Naz
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to wdkljana Same thing here, been asking for years.
 
 #### Reply 9
 
 **Author:** JHTS
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 I too would a merge feature. We deal with property managers of large companies and we get asked about a site from one, they leave and someone else asks about same site - a new client is added for new PM. Then we realise we have already done work at this site under a different PM. So to be able to merge the acounts into one so that we can keep a tag on the address and all the works done there would be a very beneficial thing to be able to do. Please bring this in asap
 
@@ -408,8 +422,8 @@ I too would a merge feature. We deal with property managers of large companies a
 ## 10. How to manage duplicate clients, flags, and scheduling visibility in Jobber?
 
 **Author:** CookAppliance (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 80 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 97 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-manage-duplicate-clients-flags-and-scheduling-visibility-in-jobber/8134
 
 ### Content
@@ -421,7 +435,7 @@ Hello, A few things I'd love to see added to jobber, if not already there and I 
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Hi CookAppliance​, thanks so much for taking the time to share this feedback. These are all really common workflow challenges, and you are definitely not alone in running into them. On duplicate clients, at this time Jobber does not support merging client records. The best workaround is prevention, making sure the team searches existing clients carefully before creating new ones. I completely understand how tricky this can be with multiple people answering phones, and I have passed this feedback along, as this is something many teams ask for. For flagging or labeling clients, Jobber does offer custom client tags. Tags can be used to note items such as no service, payment required first, VIP, flexible scheduling, and more. While tags are not colour-coded and do not surface directly on the schedule or booking flow, they can be very helpful internally for identifying clients and filtering lists. You are correct though that they are not visible at a glance in the calendar, and that is valuable feedback. Regarding scheduling visibility and colour highlights, currently colours on the schedule are tied to team members or keywords rather than client attributes. Has your team tried using the keywords to colour-code clients based on flexibility or appointment requirements directly on the calendar? Many teams handle this with internal notes, tags, or naming conventions, but I agree that true visual indicators would make this much easier for CSRs managing cancellations and fill-in opportunities. I really appreciate you laying this out so clearly. Product feedback this is actively reviewed by our team, and posts yours help shape future improvements. Please keep it coming if you think of anything else. Thanks again for sharing.
 

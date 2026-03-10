@@ -1,50 +1,122 @@
 # Jobber Community Forum - Invoicing Getting Paid
 
-Total Discussions: 70
+Total Discussions: 72
 
 ---
 
-## 1. Accounting Problems with Jobber Payments
+## 1. Can I create one invoice for multiple locations?
+
+**Author:** PestFreeCanada (Contributor 4)
+**Posted:** 2026-02-28
+**Views:** 36 | **Likes:** 0 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/can-i-create-one-invoice-for-multiple-locations/8928
+
+### Content
+
+I have a client that has multiple locations but same billing address and CC number. I have the credit card on file but she called to ask if I can just send her one invoice so she just has to print one. Is there a way to send her only one invoice with each location itemized on it? PEST CONTROL
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** krista
+**Posted:** 2026-03-02
+
+Hi PestFreeCanada​ Yes, you can absolutely do this. To create one invoice that includes multiple properties for the same client, go to the client profile, click More Actions, then select Create Invoice. From there, you will see the option to bulk invoice all of that client’s properties onto one invoice. This will generate a single invoice with each location itemized, so your client only needs to receive and print one document, while still clearly showing the breakdown by property.
+
+#### Reply 2
+
+**Author:** DTWCTierra
+**Posted:** 2026-03-04
+
+Oh I love this feature! Thank you!
+
+---
+
+## 2. new invoice numbering system
+
+**Author:** accounts (Contributor 2)
+**Posted:** 2026-02-26
+**Views:** 30 | **Likes:** 0 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/new-invoice-numbering-system/8910
+
+### Content
+
+Hi - I currently use Jobber to issue invoices - however I am looking to move to a different accounts package and wanted to know how I could start the invoice numbering from a different number in order to create a clean break between accounting systems
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-01
+
+I'm not a Jobber expert but I'm 95% certain you can just change the actual number of the invoice and have it start sequentially from there. I do have the most built out package of jobber so I'm not sure if that's something that goes with a certain level but it's definitely possible and very easy to do.
+
+#### Reply 2
+
+**Author:** krista
+**Posted:** 2026-03-02
+
+Hi accounts​ You can create a clean break in your invoice numbering by manually increasing the number on your next invoice. For example, if your invoice numbers start at 1 and you would your new system to start at 100, simply change the next invoice number to 100. After that, Jobber will automatically continue from the highest number used, so the following invoice would be 101 and so on. Jobber always references the largest invoice number on file when generating the next one. To avoid inconvenience later, it is usually best to choose the lowest possible starting number that still creates the gap you are looking for. That way, you preserve flexibility while still clearly separating the two accounting systems.
+
+---
+
+## 3. Accounting Problems with Jobber Payments
 
 **Author:** QHS (Contributor 2)
 **Posted:** 2026-02-21
-**Views:** 32 | **Likes:** 1 | **Comments:** 2
+**Views:** 74 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/accounting-problems-with-jobber-payments/8853
 
 ### Content
 
 I saw a post that was voicing the same frustration that I have and it looks none of the responses were truly helpful… so here’s my version and hoping Jobber will resolve it. (Yes, I have already spoken to Jobber representatives several times about the issue and they couldn’t do anything about it… other than change the program which is what I’m advocating for) We enabled Jobber Payments a while back because we rely pretty heavily on getting down-payments especially for bigger jobs. However, we quickly realized that ANY transaction going through Jobber payments didn’t match the invoice amounts. In short, we figured out that it was because it was taking the fees out BEFORE the money was deposited and it was an absolute NIGHTMARE to fix our books and match numbers. Made reconciling literally impossible. It also was difficult to match the payments to an account. We had to hire a separate accountant to fix it and we ended up shutting it down before it could do more damage. We have been sending payment links with the QuickBooks payment processor because it actually works without messing up the books, but it can be a pain to send the invoice twice. Not to mention once they actually pay we have to manually enter the payment into Jobber since the sync is only one-way. I now know that we aren’t the only ones with this experience. Please this post so Jobber will do something about this. Any tips would also be appreciated in the meantime. CONSTRUCTION GENERAL CONTRACTING INSTALLATION SERVICES
 
-### Replies (2)
+### Replies (4)
 
 #### Reply 1
+
+**Author:** TESVT
+**Posted:** 2026-02-28
+
+I have been using Jobber for less than a month but I am not having an issue with this. The bank transaction does not match the invoice amount, but when Jobber syncs the payment it syncs a split transaction with the invoice amount and the fee. The total of that split transaction matches the bank transaction. Maybe I'm misunderstanding the issue you all are having?
+
+#### Reply 2
 
 **Author:** tbarth
 **Posted:** 2026-02-21
 
 Ugh, that reminds me that I also have a bunch of those to fix. Why did they choose to sync net instead of gross? A handful of conveniences, probably: existing hardcoded references, matching what users see in their bank deposits, and avoiding the extra work to handle partial payments, refunds, and other edge cases. Basically, it was the shortest line between points A and B. If they saved money or reduced friction by going with net instead of gross, that’s an obvious business decision for most companies. This is also why it won’t change; the decision was made deliberately a long time ago. The fact that QuickBooks Sync is a tool specifically designed to send a transaction amount to a system that has expected the gross amount since people started trading beads and bobbles makes this nearly impossible to fathom or accept. Outside of a black and white business expense decision, it simply isn’t understandable. However, there is a solution that eliminates the headache: use something Zapier to deal with it automatically. After working it out just now, I think this is what I will do. Workflow: Send invoice from Jobber Client pays via Jobber Payments Jobber syncs invoice and net payment to QuickBooks Online Zapier monitors QBO for new payments Zapier fetches gross payment from Jobber Zapier updates QBO and the invoice now clears correctly. Optional: handle fees separately. Pros: Invoice in QBO is cleared with the correct gross amount. Jobber remains the operational hub. The net vs gross problem is fixed automatically without manual reconciliation. You stop getting ALL CAPS texts from your bookkeeper. Cons: The time to set it up: all automation, there's effort upfront, but the payoff far outweighs it. The frustration of having to do it in the first place: To borrow a line from the Italian philosopher, Rambo, John J.: "Let it go."
 
-#### Reply 2
+#### Reply 3
 
 **Author:** danjhu
 **Posted:** 2026-02-26
 
 Jobber also has a problem with applying the correct USA tax because it makes the state, county and city taxes on separate lines. This often results in a difference of $0.01 between Jobber and Quickbooks because the rounding is applied per breakdown rather than just as a whole. I don't see any way to work around this. Invoices would look cleaner if there was just a one-line item for sales tax and I think it would solve the rounding issue too.
 
+#### Reply 4
+
+**Author:** jade
+**Posted:** 2026-03-06
+
+Hey QHS! As long as you are on the new QBO integration, the payment should sync over with the full amount, roughly 2 business days later, the "payout" will sync, this will be the deposit amount after the fees are removed, as long as you have this set up to match your checking account used for Jobber payments, no reconciliation is needed. Quickbooks should then match the deposit to the payment and the fee to a separate expense account. It is important that you do not try to match the deposit manually, as it will not reconcile. Here is a Help Center Article that explains how this works.
+
 ---
 
-## 2. Is there a limit how much you can charge using Jobber Payments?
+## 4. Is there a limit how much you can charge using Jobber Payments?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-18
-**Views:** 26 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-02-19
+**Views:** 37 | **Likes:** 0 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/is-there-a-limit-how-much-you-can-charge-using-jobber-payments/8781
 
 ### Content
 
 Has anyone been lucky enough to find out the limit how much Jobber Payments will allow you to charge a credit or debit card?
 
-### Replies (2)
+### Replies (3)
 
 #### Reply 1
 
@@ -56,17 +128,24 @@ Hi PestFreeCanada​ Thanks for the question. At this time we aren’t able to 
 #### Reply 2
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-20
+**Posted:** 2026-02-21
 
 No real world context, I was just wondering. I was talking to a client about redoing her basement insulation and said the job would be upwards of $10-12K. Then I started thinking if I did that job, could I charge her through my Jobber? Would it allow me to process a $10,000 invoice.
 
+#### Reply 3
+
+**Author:** krista
+**Posted:** 2026-03-02
+
+to PestFreeCanada That is awesome, congrats on quoting a project at that size. Yes, you can absolutely process a $10,000 invoice and collect payment through Jobber Payments. There is no issue with invoicing or charging that amount, as long as your account is set up for payments.
+
 ---
 
-## 3. Invoice Frequency
+## 5. Invoice Frequency
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-02-15
-**Views:** 29 | **Likes:** 1 | **Comments:** 3
+**Views:** 30 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/invoice-frequency/8730
 
 ### Content
@@ -78,7 +157,7 @@ Im almost positive im just missing it. Is there any way to change the default in
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-17
+**Posted:** 2026-02-18
 
 Go into Settings, click Work Settings then scroll down to Invoices. There you can change what you need!
 
@@ -98,11 +177,11 @@ Hey BlueSkies! No way to change that default but you are on the right track, tha
 
 ---
 
-## 4. Process payments?
+## 6. Process payments?
 
 **Author:** persistlawns (Contributor 3)
-**Posted:** 2025-06-27
-**Views:** 57 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2025-07-09
+**Views:** 67 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/process-payments/4618
 
 ### Content
@@ -114,7 +193,7 @@ Hello everyone, Does anyone know how long Jobber takes to Process a payment? I c
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-06-27
+**Posted:** 2025-07-09
 
 Hi persistlawns​ Thanks for the question. I want to first thank you for taking the time to reach out about all of this. Putting trust in companies to handle your money can add a lot of stress to business owners, and I want to assure you that I am here to help you out the best way that I can! I hope I can provide some clarity around Jobber Payments: In Canada and the US, banks request the 5 business days to authorize your account, allowing us to send payments directly to your bank account. Until that first payment is authorized and deposited in your bank account, any other payments you collect within that period will also experience a 5-business-day payout window. Once the authorization period has ended, payouts will be made on a 2 business day payout schedule. Jobber Payments refunds take approximately 5-10 business days to process, and the funds are returned to the same card that was originally charged.
 
@@ -127,11 +206,11 @@ In my experience, if the customer pays thru Jobber Payments using credit, debit 
 
 ---
 
-## 5. Changing Properties on Invoices
+## 7. Changing Properties on Invoices
 
 **Author:** Jerry_Kobylt (Contributor 2)
-**Posted:** 2025-09-27
-**Views:** 111 | **Likes:** 2 | **Comments:** 7
+**Posted:** 2025-09-09
+**Views:** 135 | **Likes:** 2 | **Comments:** 7
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/changing-properties-on-invoices/6079
 
 ### Content
@@ -143,42 +222,42 @@ It's very cumbersome and difficult to change the property / address on an invoic
 #### Reply 1
 
 **Author:** CandyCain24
-**Posted:** 2025-09-27
+**Posted:** 2025-09-09
 
 We run into this problem a LOT.
 
 #### Reply 2
 
 **Author:** Jerry_Kobylt
-**Posted:** 2025-09-27
+**Posted:** 2025-09-09
 
 to CandyCain24 Lets see if Jobber is listening.
 
 #### Reply 3
 
 **Author:** LisaC
-**Posted:** 2025-09-27
+**Posted:** 2025-10-09
 
 I agree and I've sent feedback about this as well. Same for quotes.
 
 #### Reply 4
 
 **Author:** jade
-**Posted:** 2025-09-27
+**Posted:** 2025-10-09
 
 Hello Jerry, Candy & Lisa! I understand the frustration here, as I imagine this is a common pain point for some of our users. I have shared your feedback with our Product Development team. Thank you for bringing it to the community. For now, I recommend using the "create similar quote" feature on the quote or the "create similar job" feature on the job to create a new invoice. Our updates and new features are implemented due to our customers' feedback. We really appreciate it every time you provide us with this feedback, and even though the change may or may not be implemented in the future, we take all feedback seriously and strive to improve!
 
 #### Reply 5
 
 **Author:** Jerry_Kobylt
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 Hi Jade, Managing properties on Jobber is getting irritating for me, to the point where I'm starting to look at alternatives to Jobber. I was able to add a property to an invoice before now I cannot. So if I get a job on the fly and respond to it right away, and go straight to invoicing, I cannot add a property address. I'm getting quite frustrated that everything has to be long winded here. I don't understand why such a simple feature cannot be managed.
 
 #### Reply 6
 
 **Author:** jade
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 to Jerry_Kobylt Hey Jerry, I am so sorry to hear that you have been running into issues with Jobber. Are you creating the invoice from the job? If so, you should be able to add the property address on the job > create the invoice. Our team would be happy to have a closer look to see how we can find the best workflow for you. Please give us a call 888-721-1115 ext 1 or email mailto:support@getjobber.com We apologize for any frustration.
 
@@ -191,11 +270,11 @@ Chiming in to agree this is a frustration. I book mobile wheel repair jobs and t
 
 ---
 
-## 6. Advice adding the credit card service fee to invoices
+## 8. Advice adding the credit card service fee to invoices
 
 **Author:** Chloe (Contributor 3)
-**Posted:** 2025-02-27
-**Views:** 17 | **Likes:** 4 | **Comments:** 35
+**Posted:** 2025-03-09
+**Views:** 18 | **Likes:** 4 | **Comments:** 35
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/advice-adding-the-credit-card-service-fee-to-invoices/1228
 
 ### Content
@@ -207,189 +286,189 @@ Hello Jobber Community! I'm an operations contractor for a Denver-based tree car
 #### Reply 1
 
 **Author:** Jj81
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Hi, I’m Joel, and I run a sprinkler company. For example, my friend runs an HVAC company, and their invoicing software automatically adds the credit card fee when customers choose that payment method. I’ll ask for the name of their software as a comparison. Also, businesses in my area, including the city government, charge this fee. I recently paid my property taxes with a credit card and was charged a 3% convenience fee, so I don’t see how this could be illegal here. This feature would really help. This was my first year using Jobber, and managing this manually during our busy fall season was overwhelming. With four technicians doing 10 blowouts a day (40 invoices daily), I couldn’t keep up. Blowout costs vary, so I had to calculate the 3% fee manually. Eventually, I gave up and just absorbed the fee, which hurt our bottom line. We’re already paying Jobber fees for using their payment system, plus the 3% credit card fee. That adds up. Adding this feature would save time and money while making invoicing more efficient. I hope Jobber considers adding it soon!
 
 #### Reply 2
 
 **Author:** ryaantuttle
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 We’ve covered these fees for years in our mark-up on each and every project.
 
 #### Reply 3
 
 **Author:** bedellmgmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to ryaantuttle I do the exact same here. I just assume everyone will pay with a card - and most do!
 
 #### Reply 4
 
 **Author:** eosc
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to bedellmgmt we do the same, the majority of people pay with card so it's built in to the cost for everyone
 
 #### Reply 5
 
 **Author:** Rick25
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Good morning. We ran into this issue immediately after starting Jobber. We are a GC and we Remodel everything for Residential and Commercial. What we do is put all of our quotes as OPTIONAL and make 3 OPTIONS. CASH/CHECK OPTION, CREDIT OPTION, AND FINANCING OPTION. We then Recommend the Cash/Check option so that gets sent out highlighted but also does not get sent with the financing options in the body of the email or text quote. Boom! Your welcome! But I agree, Jobber needs to integrate something where you can put a percentage, and it automatically inputs these options instead of us having to make 3 copies. Rick- El Toro General Contractors Inc.
 
 #### Reply 6
 
 **Author:** Snuggle_Sparky
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 What we do is work a 3% fee in all estimates and hourly and if the client pays with Credit well it’s covered, But if they don’t it’s a bonus 😜
 
 #### Reply 7
 
 **Author:** Lknasel
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to Snuggle_Sparky We treat all jobs as being paid by credit card, but will give cash discount if asked.
 
 #### Reply 8
 
 **Author:** kelliecasmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to Snuggle_Sparky This is smart! I was trying to figure out a way to add in this charge to invoices after the fact....but I will be copying what you did here!
 
 #### Reply 9
 
 **Author:** JulieB
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I'm struggling with this as well. We have been adding it into the cost for the most part, and if it is a really large job, we ask them to mail a check. This can delay work and is problematic. I your idea about a cash discount, that could work.
 
 #### Reply 10
 
 **Author:** cpa1
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 We add a line item to our quotes/invoices for the 2ish% surcharge (manually calculate it then enter it onto that line item). During our quoting process this line item is explained to our customers and sometimes they'll decide up front that they're paying with checks. Otherwise the description explains if they pay online the surcharge is due but it can be avoided by paying with cash/checks. Most of the times our customers will mail a check in for the total less the surcharge, in which case we edit the invoice to remove the surcharge then process their payment. Other times, customers will tell us they'll pay with check and ask us to resend the invoice excluding that charge.
 
 #### Reply 11
 
 **Author:** Chloe
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Thanks, everyone, for your advice! cpa1and Rick25 y'all's strategy is what we ended up implementing. We're adding it as an optional, but pre-selected line item with a description as to what it is and how to avoid it. That way they have to take action in order to remove it, which would give me confidence that they read and understood payment options. I also added a clause in our addendum describing the surcharge process, adding that if they exclude the line item but pay with a credit card anyway upon invoicing, we'll send them an additional invoice for the surcharge. Not that everyone reads their addendum.... So I also added reminders about this in the auto emails for new quotes, quote approvals, booking confirmations, and invoices. Hopefully that does the trick! I’ve used a lot of CRMs and have been really impressed with Jobber so far, but I’d love to see this option added. This work-around meets most of our goals, but I do have to overcommunicate with clients to make sure they understand the surcharge item on their invoices, which can be a bit much. Plus, it makes the upfront cost on their estimate look unnecessarily inflated which can make for an offputting first impression when competing for bids. Again, thanks for the thoughts!
 
 #### Reply 12
 
 **Author:** Essential_RV
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I own a mobile RV repair and maintenance company and have been absorbing the CC fee as part of doing business. At the end of the year, it's a big pill to swallow when you collect all the information for tax purposes and see this figure. Some of my distributors are now charging 3+% when I order parts and supplies. For those of you who currently charge a CC convenience fee, have you had any negative feedback from your clients?
 
 #### Reply 13
 
 **Author:** Katie
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 We have recently started using Jobber and were using Quickbooks online for invoicing before this. We were absorbing the 3% charge on smaller invoices but turning the online payment option off for bigger invoices - usually over $1500. Being able to turn off the ability for customers to pay through the client hub on certain invoices would give us more control over which invoices we are absorbing the cost on. Given how well Jobber works, it being able to add on a 3% charge automatically when customers pay online seems a feasible work around?
 
 #### Reply 14
 
 **Author:** DavidEyerly
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 You’ve touched on an important issue that most us face. Balancing customer convenience, revenue protection, and administrative efficiency can be challenging, but there are strategies to address this. Here are some suggestions for each aspect of your question: 1. General Approach to Credit Card Fees Transparency: It’s great that you’re focused on being upfront with clients. Transparency helps build trust. Always clearly state any potential fees on your estimates, invoices, or contracts so clients are aware of their payment options and associated costs from the start. Legal Compliance: While it’s legal in Colorado and many states to pass on credit card fees, ensure your approach complies with any card network rules (e.g., Visa or Mastercard). These often require explicit disclosure of the fees. 2. Strategies for Handling Fees Option A: Absorb the Cost as Overhead Many businesses choose to absorb credit card fees as a standard operating expense and factor it into their overall pricing. While this may slightly increase your costs, it simplifies transactions for clients and eliminates the risk of administrative hiccups. This is what we do at Griffin Waste Utah. Pros: Simplifies billing, improves customer satisfaction, and makes you more competitive in markets where clients compare bids. Customers never feel you "nickel and dime" them, if it is just $**bleep**.XX dollars. It appears there are no games. Let your competitors offer the more confusing (to the client) options, which complicate the billing. Cons: You bear the costs directly, which can eat into your margins if not carefully managed. With Jobber, it is a known fee, so it easy to manage. Option B: Offer a “Cash Discount” Rather than explicitly charging a fee for credit card payments, you can offer a small discount (e.g., 2-3%) for clients who pay by cash, check, or bank transfer. Frame it as an incentive rather than a penalty for credit card use. You mention this, and it is way to save the fees. But as a company that works mostly for individual clients (you said you were a tree-servicing business) I'd say making it simple is best. One price. Pros: Positive framing can improve client perception and encourage cheaper payment methods. Cons: Discounts may reduce your revenue slightly, though likely less than absorbing all card fees. Option C: Directly Pass on the Fee If you prefer to pass credit card fees to clients, clearly state that a service fee will be added for credit card payments. For example: “A 2.5% processing fee will be applied to all credit card payments.” Implementation Tip: Jobber supports automatic fee calculations to avoid manual adjustments. Pros: Protects your margins. Cons: Risk of pushback from clients who dislike additional fees. Some clients will see this as "being cheap." 3. Streamlining Payment Processes Avoid Administrative Messes: To prevent the refund/reinvoice issue you mentioned, consider including multiple payment options in your invoices with clear terms. For example: “This invoice reflects a 2.5% service fee for credit card payments. Clients paying by debit, check, or ACH transfer are eligible for a fee waiver.” Payment Portals: Jobber let clients select their payment method before completing a transaction, automatically adjusting fees accordingly. Educate Clients: During the initial client onboarding or estimate phase, communicate payment options and associated costs. This reduces surprises and builds understanding. But, I fear it causes misunderstandings when it comes time to collect payment. 4. Practical Tips to Keep in Mind Competitive Positioning: Assess whether your local competitors charge similar fees. If most absorb credit card costs, passing fees to clients could make your bids less competitive. Customer-Centric Options: If a client is unhappy about the fee, consider absorbing it in specific cases to maintain goodwill, especially for high-value or repeat customers. Tracking Fees: Track how much you’re spending annually on credit card fees and compare it to the cost of offering a cash discount or higher pricing overall. Closing Thought: The right approach will depend on your client base and business goals. Whichever strategy you choose, consistency and clear communication are key. It’s also worth testing different approaches (e.g., absorbing fees for a quarter vs. passing them on) to see what works best for your business. Good luck streamlining your process and protecting your margins! My business is different from yours--I rent dumpsters, you manage trees. I don't know how different our customers are, but we've chosen to absorb the fees, and make payment simple, straightforward, and with no surprises. For us, it is the right way. For you, well, you seem to understand these issues, it is just a matter of choosing which works best for your clients (not for you!). Your business, and mine, are both here to help our clients!
 
 #### Reply 15
 
 **Author:** PeterB
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 to DavidEyerly I wanted to ask a clarifying question: what is the automatic fee calculation you mentioned? That sounds what I need Jobber to do that would save the administrative headaches.
 
 #### Reply 16
 
 **Author:** OCGardens
-**Posted:** 2025-04-27
+**Posted:** 2025-04-09
 
 I add up all the fees at the end of the year, and use it as a tax write off. Is this a bad idea?
 
 #### Reply 17
 
 **Author:** HotTubDave
-**Posted:** 2025-04-27
+**Posted:** 2025-04-09
 
 to OCGardens I add up the fees at the end of the year, take it as a tax writ-off, and get pissed about forking over thousands of dollars to a “partner” that provides such little service for such a big piece.
 
 #### Reply 18
 
 **Author:** OCGardens
-**Posted:** 2025-04-27
+**Posted:** 2025-04-09
 
 to HotTubDave Not sure I follow what you're saying
 
 #### Reply 19
 
 **Author:** HotTubDave
-**Posted:** 2025-04-27
+**Posted:** 2025-04-09
 
 to OCGardens If it’s my comment you’re responding to, it’s an angry sarcastic about paying another middleman. Banks charge around 1.5%, depending upon the type of credit card used. Jobber payments (which I believe is privately branded STRIPE) just marks it up for the privilege of running it through the Jobber software I’m already paying for.
 
 #### Reply 20
 
 **Author:** SKAdminServices
-**Posted:** 2025-09-27
+**Posted:** 2025-10-09
 
 I saw this while browsing around and I see it is a bit older. I think this might help quite a few so I'm going to make a new post with the information but I wanted to make sure people who contributed to this thread see it. I provide admin services to Jobber users and I have a client that had this problem a while back. I think I have the solution to everyone's question. Here is how we did it: Go to your tax settings and create a TAX RATE. Name it whatever you want to call your added fee (convience fee, processing fee, whatever but remember customer's will see this name) and put in the percentage. Then go back to tax settings and create a TAX GROUP. Now you can link together your regular tax and the convience fee by putting them in a group. Whatever you name this tax group will not be visible to customers. Now when you are editing the quote/job/invoice you can chose what tax you want added to the subtotal by clicking on the tax name. So you can easily and quickly add CC fees or choose your regular tax fee if they are paying with cash or check. All tax rates and tax groups from your tax settings will be listed here. As you can see, it automatically adds the appropiate percentage to the total so you can charge that through Jobber Pay. I hope this helps! You can make as many groups as you need depending on your situation. This is also how you would charge both state and county tax for those areas that might have that although I'm sure you already figured that out.
 
 #### Reply 21
 
 **Author:** Bcwoodruff07
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 My goal is for Jobber to improve functionality by providing this within the invoicing strategies. It shouldn’t be that hard for the system to automatically apply a percentage increase when a credit card is ran and maybe they can take some of the kickback monies received from Stripe to make it work. Personally, I don’t have time to add 3% individually for the 180 invoices I process per month. Do you think that would be something that would help your organization?
 
 #### Reply 22
 
 **Author:** HotTubDave
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 We increase our prices 3% when quoting repairs. We also tell the customers that we offer a 3% discount for cash or check payment. Not debit cards. When the tech uses the app to close out the job and generate an invoice, he adds the 3% discount using the “DISCOUNT” line in the phone app, which is after subtotal and before sales tax. for a written quote, we add a text line item advising that there is a 3% discount for cash or check. So far, no problems; we started doing this in December. I went with discounts instead of surcharges because it’s easier for the book keeping. At least, it seems it should be.
 
 #### Reply 23
 
 **Author:** HGLandscapeInc
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I was running into to this problem as well. What i do now is turn off the "accept credit card feature" and then turn it back on when the customers agrees to the 4% fee that i charge for credit cards. If they want to save that 4% then they just pay with check or the ACH
 
 #### Reply 24
 
 **Author:** FredHodgeJr
-**Posted:** 2025-04-27
+**Posted:** 2025-04-09
 
 This should defintely be an option. We personally build into our price for our exterior cleaning company but my brother owns a pool repair company using Jobber as well and he finds himself having to eat $400 CC fee on some jobs now as a result.
 
 #### Reply 25
 
 **Author:** GlassLady530
-**Posted:** 2025-06-27
+**Posted:** 2025-06-09
 
 Hi there! I own a glass, window, and door company in California, and after going back and forth on this issue for some time, we decided to build credit card processing fees into our pricing. To provide transparency and flexibility, we include an optional line in our quotes that shows a 3% discount for payments made by cash or check. Clients can select this option to reduce their total estimate. If a client selects the discount but chooses to pay by card (which hasn’t happened yet), we simply remind them that the discount only applies to cash or check payments, and the full amount—including the 3%—will be charged accordingly. We also require deposits on all of our jobs.
 
 #### Reply 26
 
 **Author:** Jhowe
-**Posted:** 2025-09-27
+**Posted:** 2025-10-09
 
 I'd love to see an option to add a line item that auto calculates the 3% fee. This would be incredibly helpful for our guys out in the field. Invoicing & Getting Paid​ can we please make this happen?!
 
 #### Reply 27
 
 **Author:** julie
-**Posted:** 2025-09-27
+**Posted:** 2025-10-09
 
 JOBBER COMMUNITY TEAM to Jhowe Hey there! Our Success Team is the best way to get this idea to our Product Team as they consolidate customer ideas and feedback on a regular basis so we can have a pulse on what would help our customers the most overall. Please contact them by phone at 1-888-721-1115 or through the chat function in your account. Thank you!
 
@@ -410,52 +489,52 @@ to roselvaggio You are a smart cookie! Question, is the 25% off a one time reduc
 #### Reply 30
 
 **Author:** ABest1Electric
-**Posted:** 2025-07-27
+**Posted:** 2025-08-09
 
 I'm new to jobber but have always included all taxes and fees in my so I can be as simple as possible. I just added a CC convenience as a tax line item. When collecting cash or check I can edit and delete the tax line item. This will also insure that I can monitor the amount of fees paid in reports as a tax collected. Is this a bad idea? That's what the client will see.
 
 #### Reply 31
 
 **Author:** EESi
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 We are actually dealing with the same issue... our thought have come down to this... We dont try to recover or surcharge for CC fees... but we do have shop supplies normally added into the cost of an invoice.. so we have calculated the fees into shop supplies formula...now if there was a way for a shop supplies line item to be calculated into the invoice automatically on a template... that would be great...
 
 #### Reply 32
 
 **Author:** GlassLady530
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 to EESi Yes you can create a template in quotes! When you are your quote dashboard, create a template that has this line item automatically populate. It works great for us!
 
 #### Reply 33
 
 **Author:** EESi
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 to GlassLady530 Yes .. creating a template is the easy part. But a line item that is based on the percentage of the total bill. That's the challenging part. I don't see anyway to add a percentage variable for a part or service item.. If you could add a line item as a percentage variable. Problem solved
 
 #### Reply 34
 
 **Author:** BlueSkies
-**Posted:** 2025-08-27
+**Posted:** 2025-09-09
 
 Payment processing fees are all factored into the cost. either i pay a card company or i have to drive the cash to the bank or deposit the checks. so its factored into every single transaction card or cash makes no difference. AND i hate when those fees are added as an add on to the price. and now that im running a business its lazy, there is a stripe calculator https://weareindy.com/stripe-fee-calculator. it will tell you what you need to charge to get what your wanting after the fees. put it in your bottom line price.
 
 #### Reply 35
 
 **Author:** D_LHerbier
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Hello, we were actually in the same exact position a couple of years ago. We were trying to figure out the best way to save this money, knowing that jobber does not have a built in option to apply the fee. Your current idea is exactly what we decided to do. We created a non-taxable line item called "credit card processing fee". In the description we explained what this 3% fee was for, and that it only applied to credit card transactions. We found the based process is to put it on all quotes, and also verbally explain the fee during the sales process. There is not a way for Jobber to automatically calculate the fee, so you do need to manually calculate 3% of the subtotal and type in the value. If it is a job that our technicians are creating the invoice and collecting payment in the field, they simply delete this line item on the final invoice before collecting payment. If the scope of work changes onsite, then the technician would either need to update the fee amount themselves, or call into the office to get it adjusted if they need assistance. This works really well, and we were able to save almost $40,000 the first year we started doing this. What we found is that most people will naturally use a credit card when there is no fee because it is easiest, and maybe they earn credit card points. However, when there is a processing fee, most people will pay with check or cash. We have noticed that we run way less credit card transactions now, and if someone does, it doesn't bother us because our fee is covered. I know other companies will just raise their price to cover this. My opinion on that is if you can raise your price and still make as many sales, then you should be raising your price anyway lol. Why raise the price, make yourselves less competitive, and make the customer pay more, if you are even keeping that additional money? So we choose to lay the option out very clearly, they can choose how they want to pay, it everyone is happy. In our state, you are not allowed to chare a processing fee for debit card transactions to consumers; however there is still a processing fee for us (the company collecting pay) to run the card. So we simply made the decision to not accept debit cards. Hopefully this was helpful. You should 1000% do this. Feel free to ask me any additional questions that you might have.
 
 ---
 
-## 7. Why does Jobber prompt me to add my email when sending invoices from my phone?
+## 9. Why does Jobber prompt me to add my email when sending invoices from my phone?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-05
-**Views:** 34 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 36 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/why-does-jobber-prompt-me-to-add-my-email-when-sending-invoices-from-my-phone/8574
 
 ### Content
@@ -467,17 +546,17 @@ If I am sending an invoice or a job form via email on my phone, and I get to the
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 Hi PestFreeCanada​ That’s not expected behaviour, thanks for flagging it. You shouldn’t be prompted to add your own email address when sending invoices or job forms from the mobile app if your email is already saved in Jobber. Appreciate you bringing this up.
 
 ---
 
-## 8. How can businesses offer prepaid discounts without accepting card payments on specific quotes?
+## 10. How can businesses offer prepaid discounts without accepting card payments on specific quotes?
 
 **Author:** BlueSkies (Contributor 3)
-**Posted:** 2026-01-29
-**Views:** 44 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-09
+**Views:** 49 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/how-can-businesses-offer-prepaid-discounts-without-accepting-card-payments-on-sp/8427
 
 ### Content
@@ -489,17 +568,17 @@ I offer prepayment for the season discounts to customers. as there is already a 
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 Hi BlueSkies​ Thanks for the question! You can control this at the quote level. On each quote, just below the total, you’ll see the deposit and payment options. From there, you can customize how payment is collected for that specific quote, including whether to request a card on file and whether to request online payment at all. This lets you offer prepaid or seasonal discounts without requiring card payments on those quotes, while keeping online payments available for others.
 
 ---
 
-## 9. Credit Card Fees
+## 11. Credit Card Fees
 
 **Author:** FredHodgeJr (Jobber Ambassador)
-**Posted:** 2026-01-27
-**Views:** 88 | **Likes:** 2 | **Comments:** 2
+**Posted:** 2026-02-09
+**Views:** 101 | **Likes:** 2 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/credit-card-fees/8187
 
 ### Content
@@ -511,24 +590,24 @@ Hey everyone, quick question about credit card processing fees in Jobber. Since 
 #### Reply 1
 
 **Author:** judithvirag
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 BUILDER 1 We build it into our pricing. I personally do not to get an invoice and there is all the different charges admin charge, surcharge, credit card charge.
 
 #### Reply 2
 
 **Author:** D_LHerbier
-**Posted:** 2026-01-27
+**Posted:** 2026-02-09
 
 Hello, we were actually in the same exact position a couple of years ago. We were trying to figure out the best way to save this money, knowing that jobber does not have a built in option to apply the fee. Your current idea is exactly what we decided to do. We created a non-taxable line item called "credit card processing fee". In the description we explained what this 3% fee was for, and that it only applied to credit card transactions. We found the based process is to put it on all quotes, and also verbally explain the fee during the sales process. There is not a way for Jobber to automatically calculate the fee, so you do need to manually calculate 3% of the subtotal and type in the value. If it is a job that our technicians are creating the invoice and collecting payment in the field, they simply delete this line item on the final invoice before collecting payment. If the scope of work changes onsite, then the technician would either need to update the fee amount themselves, or call into the office to get it adjusted if they need assistance. This works really well, and we were able to save almost $40,000 the first year we started doing this. What we found is that most people will naturally use a credit card when there is no fee because it is easiest, and maybe they earn credit card points. However, when there is a processing fee, most people will pay with check or cash. We have noticed that we run way less credit card transactions now, and if someone does, it doesn't bother us because our fee is covered. I know other companies will just raise their price to cover this. My opinion on that is if you can raise your price and still make as many sales, then you should be raising your price anyway lol. Why raise the price, make yourselves less competitive, and make the customer pay more, if you are even keeping that additional money? So we choose to lay the option out very clearly, they can choose how they want to pay, it everyone is happy. In our state, you are not allowed to chare a processing fee for debit card transactions to consumers; however there is still a processing fee for us (the company collecting pay) to run the card. So we simply made the decision to not accept debit cards. Hopefully this was helpful. You should 1000% do this. Feel free to ask me any additional questions that you might have.
 
 ---
 
-## 10. Why is invoice email not sending?
+## 12. Why is invoice email not sending?
 
 **Author:** WilliamC (Contributor 2)
-**Posted:** 2026-01-27
-**Views:** 73 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 79 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/why-is-invoice-email-not-sending/8045
 
 ### Content
@@ -540,17 +619,17 @@ I am new here and have been trying to send a couple invoices but the email has n
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 Hey William! Thanks for bringing this to the community. If you account is new or still in trial, there's a chance that your emails are not sending due to a security feature. Our Success Team can help get this removed right away - you can call us 888-721-1115 ext 1, email mailto:support@getjobber.com, or send a live chat, by going to the ? in the top right-hand corner > chat with us. All the best!
 
 ---
 
-## 11. Xero intergration
+## 13. Xero intergration
 
 **Author:** Tailoredcleans (Contributor 2)
-**Posted:** 2025-02-27
-**Views:** 160 | **Likes:** 2 | **Comments:** 4
+**Posted:** 2025-03-09
+**Views:** 166 | **Likes:** 2 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/xero-intergration/1208
 
 ### Content
@@ -562,38 +641,38 @@ When integrating with xero, does the customer recieve the invoice from xero or j
 #### Reply 1
 
 **Author:** bedellmgmt
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 Great question - I'm excited to read what others are doing!!
 
 #### Reply 2
 
 **Author:** RSCcass0905
-**Posted:** 2025-02-27
+**Posted:** 2025-03-09
 
 I am interested in this as well. I currently have QuickBooks and looking to change, however at this time both jobber and QuickBooks were sending invoices. One thing I found helpful was to change my settings to sync the invoices once they are created (not sent). Then QuickBooks automatically sends them out so only to have the invoices sent once. Hopefully that helps some.
 
 #### Reply 3
 
 **Author:** AlwaysSparkling
-**Posted:** 2025-03-27
+**Posted:** 2025-03-09
 
 to RSCcass0905 why are you wanting to change form quickbooks?
 
 #### Reply 4
 
 **Author:** Mikebishop
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 We are just about to integrate Jobber with zero and would love any input that anyone has regarding this we wonder how we would get invoices out of Jobber and into zero and then two other properties.
 
 ---
 
-## 12. Jobber jobs to QBO projects integration
+## 14. Jobber jobs to QBO projects integration
 
 **Author:** RedAlder (Contributor 2)
-**Posted:** 2025-12-27
-**Views:** 136 | **Likes:** 3 | **Comments:** 5
+**Posted:** 2026-01-09
+**Views:** 145 | **Likes:** 3 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/jobber-jobs-to-qbo-projects-integration/7937
 
 ### Content
@@ -605,45 +684,45 @@ Has anyone tried to extend the QBO Jobber integration to link a Jobber Job with 
 #### Reply 1
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 WiringByron​ do you have any insights on this?
 
 #### Reply 2
 
 **Author:** julie
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM to BrandenSewell Good shout, Branden!
 
 #### Reply 3
 
 **Author:** WiringByron
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 My advice is always this (I've had this convo with people 1000 times lol) QUICKBOOKS IS FOR BOOKEEPERS NOT YOU! I don't even have a log in for my own quickbooks... (my biz parter does) Jobber already does job costing / all the info you need is in Jobber Timesheets should be done in Jobber Add your expenses from the wholeslaer to each job every morning - takes 5-10 min or have an admin do this / I would to see some changes around this in the future with jobber or a better sync with quickbooks on this or a better zapier automation (Action needed - "add expense to job") If your crew has credit cards, this is the only time we ask them to add expenses to Jobber Invoices already are in Jobber Remember, you were running your business inside of jobber now. It's best for you to forget about QuickBooks and everything QuickBooks can do. It is for your bookkeeper now. You will add your monthly revenue pre tax to quickbooks in one lump sum You will add your monthly wholesaler receipt to quickbooks as one lump sum Quickbooks doesn't need to know about every little job you do. I hope that helps. Reach out to me anytime.
 
 #### Reply 4
 
 **Author:** RedAlder
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 WiringByron​ Thanks for the detailed . Agreed invoices and time is already in Jobber. I'd be happy to move to Jobber for project (job) profitability reporting if this is a smoother process. I see Jobber does offer an expense tracking solution. Unfortunately it does not appear to sync for QBO which seems a major gap as our expenses do need to make it to QBO. If we move our expense capture to Jobber and away from Dext our current solution we still need these expenses to sync to QBO for accounting categorization. Any advice on how others are syncing expenses captured in Jobber to QBO. The other expense item we need to track is personal vehicle mileage. Jobber does not appear to handle this. What tools are others using to capture, reimburse and allocate the expense to the job. Are their tools that sync to QBO and Jobber? Any insight would be appreciated. Thanks!
 
 #### Reply 5
 
 **Author:** WiringByron
-**Posted:** 2026-01-27
+**Posted:** 2026-01-09
 
 to RedAlder The adding of expenses in Jobber is something that needs to be fixed for sure. It's too manual. I would continue to add all your fixed and variable expenses to quickbooks with Dext. You are only adding one step of adding job expenses to Jobber. There is no way around this / no sync / no zap unfortunately. But if you just do this one manual step you will gain a lot of info from the Jobber. Not only on jobs but you can see your profitability in reports as well over certain time frames.
 
 ---
 
-## 13. Did you know you can adjust the due date for an invoice?
+## 15. Did you know you can adjust the due date for an invoice?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-12-27
-**Views:** 31 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 38 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/did-you-know-you-can-adjust-the-due-date-for-an-invoice/7925
 
 ### Content
@@ -661,11 +740,11 @@ No Replies Be the first to
 
 ---
 
-## 14. Property and Billing Address issues
+## 16. Property and Billing Address issues
 
 **Author:** Jerry_Kobylt (Contributor 2)
-**Posted:** 2025-06-27
-**Views:** 105 | **Likes:** 2 | **Comments:** 5
+**Posted:** 2025-07-09
+**Views:** 119 | **Likes:** 2 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/property-and-billing-address-issues/4238
 
 ### Content
@@ -677,45 +756,45 @@ Hi everyone, I am having issues displaying property and billing addresses proper
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Hey, I had this same issue. What I do is just make every new call a new customer profile. Doesn't matter that all the info is the same, but its the only way that I have found to do this. And yes you have to still unclick that box where the service address and billing address is the same.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Hi Jerry_Kobylt​, thanks for the detailed explanation of your setup. You are very close. In Jobber, the service address will carry over to the invoice as long as there is a Job created in the middle of the flow. The usual path that keeps everything linked is: Request or client created, then Quote with the service address selected, then convert to a Job, then invoice from that Job. If you go straight to Invoice without creating a Job, the invoice will default back to the client’s billing address instead of the specific property address. A couple of quick checks that usually solve this: When you are on the Quote, make sure the service address you want is selected in the job details before you convert it. Convert that Quote to a Job. Create the invoice from the Job, not from the client profile. That ensures the invoice pulls in the Job’s service address while the billing address stays tied to the client. With one customer and many properties, you are doing the right thing by keeping a single billing address on the client and choosing a different service address on each Quote or Job. If you want, share a screenshot of the flow you are using to create the invoice and I can point out exactly where the address is getting dropped.
 
 #### Reply 3
 
 **Author:** Jerry_Kobylt
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Thank you Krista. It's a solution. But its also an extra step when working on the fly. So a negative in my book and a strike against Jobber. The issues are piling up for me. I just found another irritant. Why can I not post my completed job forms to my invoices? I have to first go to the Job Number. Then download the form, store it in an external folder, than attach it to the invoice after. What's even worse is that once the job is complete, I have to re-open the job to look at the job form, because it disappears. My renewal is coming up in March and I might be taking a hike and joining HouseCall is I cannot resolve this. This one bottleneck adds mounds of paperwork for me on every service call. I hate it. Am I doing something wrong?
 
 #### Reply 4
 
 **Author:** Jerry_Kobylt
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 I figured out how to see the job form after closing. But I'm dumbfounded as to why I cannot directly attach the job form to an invoice. Why?
 
 #### Reply 5
 
 **Author:** krista
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 Hi Jerry_Kobylt​ You should not need to reopen a job to view or download a completed job form. Once a form is completed, it should still be accessible from the job record even after the job is closed. You are right that there is not a direct attach link from the invoice to a job form today. There are a couple ways to get the form in front of the client. If you want the client to have it right away, you can send the job form immediately after it is filled out. If you want to include it with the invoice email, you can download the form and save it in the job notes, making it transferable. Then when you email the invoice, that file will show up in the notes panel on the right side of the email screen, and you can attach it from there.
 
 ---
 
-## 15. A real question about cash payments.
+## 17. A real question about cash payments.
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-12-27
-**Views:** 56 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-01-09
+**Views:** 62 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/a-real-question-about-cash-payments-/7763
 
 ### Content
@@ -727,24 +806,24 @@ We have all been there I am sure, a customer asks you if you would accept cash f
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM Omg not dumb at all. I see this question being asked all the time! I know some businesses will provide a receipt to prove they collected money when someone pays cash, then follow up with a paid invoice by email or mail the next day. That way that there is still a transaction trail. But in the end, it's completely up to the business owner on how they want to run their operations
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2025-12-27
+**Posted:** 2026-01-09
 
 BUILDER 1 We do accept cash but we still invoice it and charge taxes. If they want to pay in cash thinking that they can get a discount, we let them know that we are a large business and even if they pay in cash they will be invoiced with taxes. Very rare now but if we do get paid in cash I either deposit it in the account and match it to the invoice or put it in our petty cash and match it to the invoice.
 
 ---
 
-## 16. Getting paid for the job.
+## 18. Getting paid for the job.
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-11-27
-**Views:** 46 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-12-09
+**Views:** 49 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/getting-paid-for-the-job-/7657
 
 ### Content
@@ -756,17 +835,17 @@ Hello all, I was standing in front of a customer today, having a great conversat
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 JOBBER COMMUNITY TEAM This is a question that all business have, at one point, thought of. I believe it depends on your preference, if it's a one time service vs reoccuring, the length of the service/project, and more. If it's hard to bring up in the midst of a great convo, you can send a follow up text or email with all the necessary details! I found a few articles that covers multiple scenarios, I hope it helps: How to Collect Payments from Customers to Get Paid Faster & How to Ask for a Deposit: Politely Request Upfront Payment from Clients
 
 ---
 
-## 17. Unpaid Invoice?
+## 19. Unpaid Invoice?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-11-27
-**Views:** 59 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2025-12-09
+**Views:** 62 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/unpaid-invoice/7568
 
 ### Content
@@ -778,24 +857,24 @@ Hello all, I had a client who prefers to pay me cash for my services and wants a
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 JOBBER COMMUNITY TEAM This question comes up fairly often for folks who collect cash payments. Based on what other home service pros typically do, here are a few options that might work for your workflow: Print or send the invoice before marking it paid If the client specifically wants an “unpaid” invoice to show the amount owed, you can print or download it before recording the payment in your preferred software. Once you mark it paid, the invoice total will show $0, so grabbing that copy beforehand is the cleanest option. Provide a receipt instead of an unpaid invoice Many pros prefer to give a receipt when they receive cash. This helps keep your records accurate and still gives the client written proof of payment. You can do this in Jobber by selecting Receive Payment → Cash → Enter Amount → Save & Send Receipt. Note “Cash” on the invoice If you need the invoice to reflect that cash was used, you can mark the payment as cash when recording it. The invoice or receipt will reflect that. Avoid providing documentation that doesn’t reflect the true transaction Several pros mentioned that if a customer insists on a blank/unpaid invoice after paying in cash, it can lead to messy records or raise flags during tax time. Keeping everything accurate on your end protects you in case you’re ever audited.
 
 #### Reply 2
 
 **Author:** PestFreeCanada
-**Posted:** 2025-11-27
+**Posted:** 2025-12-09
 
 Thanks Julie!
 
 ---
 
-## 18. How to add shop supplies to an invoice as a percentage of the total of the invoice?
+## 20. How to add shop supplies to an invoice as a percentage of the total of the invoice?
 
 **Author:** EESi (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 65 | **Likes:** 0 | **Comments:** 3
+**Posted:** 2025-08-09
+**Views:** 71 | **Likes:** 0 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/invoicing-getting-paid/how-to-add-shop-supplies-to-an-invoice-as-a-percentage-of-the-total-of-the-invoi/5423
 
 ### Content
@@ -807,27 +886,27 @@ Pretty standard invoicing question... trying to add shop supplies to invoicing t
 #### Reply 1
 
 **Author:** inankhan3453
-**Posted:** 2025-08-27
+**Posted:** 2025-08-09
 
 To add shop supplies as a percentage in Jobber, you can: (1) Create a “Shop Supplies” item in Products & Services with markup (e.g. 5%), then add it to invoices; (2) Use the discount tool with a negative value (e.g. -5%) as a surcharge and rename it “Shop Supplies”; or (3) Manually add a line item and calculate 5% of the subtotal. Best practice: Clearly show the charge in estimates to avoid client confusion.
 
 #### Reply 2
 
 **Author:** EESi
-**Posted:** 2025-11-27
+**Posted:** 2025-11-09
 
 i have actually tried that ..and it wont accept a negative discount so you have to calculate it manually every time..
 
 #### Reply 3
 
 **Author:** krista
-**Posted:** 2025-11-27
+**Posted:** 2025-11-09
 
 Hi EESi​ Thanks for the question! Rather than adding a separate “Shop Supplies” line item to every invoice, you might find it easier to use the markup feature in your Products and Services list. You can add a markup percentage to your existing items to help cover overhead costs shop supplies and other small materials that aren’t worth itemizing individually. This way, those costs are automatically built into your pricing without needing to add an extra line to every invoice. Can you tell me a bit more about what you’re trying to achieve? I’m curious why adding a markup to your Products and Services wouldn’t accomplish what you’re looking for.
 
 ---
 
-## 19. Past Due
+## 21. Past Due
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2025-08-27
@@ -856,7 +935,7 @@ Hi BlueSkies​ Thanks for reaching out! You’re right—it would definitely m
 
 ---
 
-## 20. Invoice Automations
+## 22. Invoice Automations
 
 **Author:** josegrados (Contributor 2)
 **Posted:** 2025-10-27
@@ -878,7 +957,7 @@ Is it possible to just change your payment terms to "Due upon receipt" ? josegra
 
 ---
 
-## 21. Job attachments BIGGER
+## 23. Job attachments BIGGER
 
 **Author:** FFcrpntry (Contributor 2)
 **Posted:** 2025-10-27
@@ -900,7 +979,7 @@ Hey There! Thank you so much for your feedback, we have passed this along to our
 
 ---
 
-## 22. Jobber's New Sales Pipeline
+## 24. Jobber's New Sales Pipeline
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-10-27
@@ -936,7 +1015,7 @@ Really looking forward to it's continued improvement. A few features I'd love to
 
 ---
 
-## 23. Easily add processing fees to jobs...
+## 25. Easily add processing fees to jobs...
 
 **Author:** SKAdminServices (Contributor 2)
 **Posted:** 2025-09-27
@@ -979,7 +1058,7 @@ to StaceySmith Hi StaceySmith​ That’s correct — this is still a manual pro
 
 ---
 
-## 24. New Invoice Feature
+## 26. New Invoice Feature
 
 **Author:** Jbryan3942 (Contributor 2)
 **Posted:** 2025-10-27
@@ -1001,7 +1080,7 @@ Hi Jbryan3942​ Thanks so much for taking the time to share this feedback. It�
 
 ---
 
-## 25. Customer Q: Is there a way to create an automated invoice reminder before an invoice is due?
+## 27. Customer Q: Is there a way to create an automated invoice reminder before an invoice is due?
 
 **Author:** Paige (Jobber Product Team)
 **Posted:** 2025-10-27
@@ -1023,7 +1102,7 @@ No Replies Be the first to
 
 ---
 
-## 26. Does Jobber Support Centralized Multi-Unit (Franchise) Financial Reporting & Management?
+## 28. Does Jobber Support Centralized Multi-Unit (Franchise) Financial Reporting & Management?
 
 **Author:** EpicSeptic2025 (Contributor 2)
 **Posted:** 2025-09-27
@@ -1066,7 +1145,7 @@ to PristineClean Yes, Correct!
 
 ---
 
-## 27. Need help with getting your outstanding invoices paid?
+## 29. Need help with getting your outstanding invoices paid?
 
 **Author:** Alice (Contributor 2)
 **Posted:** 2025-08-27
@@ -1088,7 +1167,7 @@ No Replies Be the first to
 
 ---
 
-## 28. Invoice Automation
+## 30. Invoice Automation
 
 **Author:** ReadySetMow--1 (Contributor 2)
 **Posted:** 2025-07-27
@@ -1124,7 +1203,7 @@ Using Jobber payments is great! We have also been utilizing the new ACH payment 
 
 ---
 
-## 29. Collecting multiple/additional deposit payments
+## 31. Collecting multiple/additional deposit payments
 
 **Author:** apexhomeworks (Contributor 2)
 **Posted:** 2025-06-27
@@ -1153,7 +1232,7 @@ The lab may be full at the moment, but we can get you on a waitlist. Alternative
 
 ---
 
-## 30. Setting up a "Recurring Job" with a warranty package in Jobber?
+## 32. Setting up a "Recurring Job" with a warranty package in Jobber?
 
 **Author:** SpotsCC1 (Contributor 3)
 **Posted:** 2025-06-27
@@ -1175,7 +1254,7 @@ No Replies Be the first to
 
 ---
 
-## 31. Invoice/Quote Scheduled Sending
+## 33. Invoice/Quote Scheduled Sending
 
 **Author:** vlang (Contributor 2)
 **Posted:** 2025-05-27
@@ -1218,7 +1297,7 @@ I think this is a great idea, especially when you are notifying the client via t
 
 ---
 
-## 32. Deposit for cancellations
+## 34. Deposit for cancellations
 
 **Author:** LukeE (Contributor 3)
 **Posted:** 2025-03-27
@@ -1275,7 +1354,7 @@ We do something for escrow accounts where we charge a service fee up front and c
 
 ---
 
-## 33. What percentage do you charge upfront
+## 35. What percentage do you charge upfront
 
 **Author:** customtackboxes (Contributor 2)
 **Posted:** 2025-05-27
@@ -1297,7 +1376,7 @@ Depends on TWO factors... 1). State Laws. Check those first. Most states mandate
 
 ---
 
-## 34. Payment on invoice of Total Outstanding Balance
+## 36. Payment on invoice of Total Outstanding Balance
 
 **Author:** Crushr_Jon (Contributor 2)
 **Posted:** 2025-05-27
@@ -1319,7 +1398,7 @@ Hello Crushr Jon! Thank you for the question. There is not currently a way in Jo
 
 ---
 
-## 35. Get Products and services in separate lines on the invoice and get a price book or see our materials
+## 37. Get Products and services in separate lines on the invoice and get a price book or see our materials
 
 **Author:** PLUMR (Contributor 2)
 **Posted:** 2025-05-27
@@ -1341,7 +1420,7 @@ Hi PLUMR​ Is the idea services are in one block and products in another? We'r
 
 ---
 
-## 36. Jobber Bug - Invoice Reminders for Cancelled Jobs
+## 38. Jobber Bug - Invoice Reminders for Cancelled Jobs
 
 **Author:** ActualJeff (Contributor 3)
 **Posted:** 2025-02-27
@@ -1391,7 +1470,7 @@ Realized I didn't answer your first question, tl;dr Jobber is... fine. It's not 
 
 ---
 
-## 37. Reconciling jobber payouts
+## 39. Reconciling jobber payouts
 
 **Author:** NConway (Contributor 3)
 **Posted:** 2025-04-27
@@ -1420,7 +1499,7 @@ to jade Hi Jade, about jobber reconciliation with QBO, Jobber gets the informati
 
 ---
 
-## 38. Let’s Talk Invoice Follow-Ups—Email or Text?
+## 40. Let’s Talk Invoice Follow-Ups—Email or Text?
 
 **Author:** SusanC (Contributor 2)
 **Posted:** 2025-02-27
@@ -1456,7 +1535,7 @@ We utilize the automation feature in Jobber which has been a huge help. We do an
 
 ---
 
-## 39. Using Client's ACH payment portal Vs Jobber Payments
+## 41. Using Client's ACH payment portal Vs Jobber Payments
 
 **Author:** Kyle_Klevjer (Contributor 2)
 **Posted:** 2025-03-27
@@ -1513,7 +1592,7 @@ to Kyle_Klevjer I love it! Nice work, Kyle. Glad to hear you were able to get th
 
 ---
 
-## 40. Payment Method Selection Hassle
+## 42. Payment Method Selection Hassle
 
 **Author:** jay024464 (Contributor 2)
 **Posted:** 2025-03-27
@@ -1549,7 +1628,7 @@ Jay, Have you thought about reverse engineering the issue and having ALL clients
 
 ---
 
-## 41. Stage/Progress Payments
+## 43. Stage/Progress Payments
 
 **Author:** Sunpak_Sean (Contributor 2)
 **Posted:** 2025-02-27
@@ -1592,7 +1671,7 @@ We are testing out progress payments for this same scenario and it’s working A
 
 ---
 
-## 42. Error credited
+## 44. Error credited
 
 **Author:** Sylvia123 (Contributor 2)
 **Posted:** 2025-03-27
@@ -1621,7 +1700,7 @@ Yes, in fact, I had collected deposits on quotes and then invoiced separately so
 
 ---
 
-## 43. Invoice Payment
+## 45. Invoice Payment
 
 **Author:** Gutterz (Contributor 2)
 **Posted:** 2025-03-27
@@ -1643,7 +1722,7 @@ Hey Gutterz! Thanks for the question. I'm sorry to hear that your clients have b
 
 ---
 
-## 44. Jobber Disputes/Chargebacks
+## 46. Jobber Disputes/Chargebacks
 
 **Author:** Danpg1 (Contributor 2)
 **Posted:** 2025-02-27
@@ -1672,7 +1751,7 @@ From what I can tell, there has to be an issue with how Jobber submits the evide
 
 ---
 
-## 45. Jobs and Invoicing
+## 47. Jobs and Invoicing
 
 **Author:** TopMate1 (Contributor 2)
 **Posted:** 2025-02-27
@@ -1701,7 +1780,7 @@ Krista, Thank you for the quick response! I'm just getting into Jobber to see if
 
 ---
 
-## 46. purchase invoices automatically linked to jobs
+## 48. purchase invoices automatically linked to jobs
 
 **Author:** seanr356 (Contributor 2)
 **Posted:** 2025-02-27
@@ -1723,7 +1802,7 @@ Hi seanr356 Jobber has Expense Tracking, where the date, photo, details, amount,
 
 ---
 
-## 47. Invoice and getting paid for two entities LLCs
+## 49. Invoice and getting paid for two entities LLCs
 
 **Author:** LetsDig2020 (Contributor 2)
 **Posted:** 2025-02-27
@@ -1745,7 +1824,7 @@ Hi Emily, thanks for the question. Jobber is optimized for one company per accou
 
 ---
 
-## 48. Adding Company Address to Invoice
+## 50. Adding Company Address to Invoice
 
 **Author:** markiecooks (Contributor 2)
 **Posted:** 2025-02-27
@@ -1767,7 +1846,7 @@ Hello Markiecooks! If you are looking to add your company address to your invoic
 
 ---
 
-## 49. Mixing services and products - package
+## 51. Mixing services and products - package
 
 **Author:** LukeE (Contributor 3)
 **Posted:** 2025-02-27
@@ -1803,7 +1882,7 @@ Great question - I'm not sure you can but perhaps someone else has a solution??
 
 ---
 
-## 50. Purchase Orders, have you found a way to do them in Jobber?
+## 52. Purchase Orders, have you found a way to do them in Jobber?
 
 **Author:** equipitdental (Contributor 2)
 **Posted:** 2025-02-27
@@ -1874,7 +1953,7 @@ Hello Equipitdental! We agree with our fellow community members and suggest usin
 
 ---
 
-## 51. CASH-BASED Companies: Handling "Bad Debt"
+## 53. CASH-BASED Companies: Handling "Bad Debt"
 
 **Author:**  (Contributor 3)
 **Posted:** 2025-02-27
@@ -1931,7 +2010,7 @@ to JL JLthe folks at Jobber Support can walk you through the best way to do this
 
 ---
 
-## 52. Payment Collections
+## 54. Payment Collections
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-02-27
@@ -1974,7 +2053,7 @@ BUILDER 1 We do not go out to any jobs if the customer does not upload their cre
 
 ---
 
-## 53. Payment reversal
+## 55. Payment reversal
 
 **Author:** VickiK (Contributor 2)
 **Posted:** 2025-02-27
@@ -2003,7 +2082,7 @@ Hey Vicki, thanks for your question. Janine is correct! If the payment was made 
 
 ---
 
-## 54. Invoicing title
+## 56. Invoicing title
 
 **Author:** Possums (Contributor 2)
 **Posted:** 2025-02-27
@@ -2081,7 +2160,7 @@ Hey Possums! I am thrilled the community was able to help you out on this one. I
 
 ---
 
-## 55. Jobber Payments w/ Accounting Tools
+## 57. Jobber Payments w/ Accounting Tools
 
 **Author:** BadgerHauling (Contributor 4)
 **Posted:** 2025-02-27
@@ -2145,7 +2224,7 @@ to bedellmgmt After working with my Jobber CSM we figured my concern out. Jobber
 
 ---
 
-## 56. Short Code for Client Hub?
+## 58. Short Code for Client Hub?
 
 **Author:** FreshV1bes (Contributor 2)
 **Posted:** 2025-02-27
@@ -2188,7 +2267,7 @@ Create your own form in Jotform if you're looking to spiff it up a bit and use Z
 
 ---
 
-## 57. Invoice notifications moved to automator
+## 59. Invoice notifications moved to automator
 
 **Author:** DenverStormDoor (Contributor 2)
 **Posted:** 2025-02-27
@@ -2210,7 +2289,7 @@ JOBBER COMMUNITY TEAM Hey DenverStormDoor 👋 Our Success Team is best equipped
 
 ---
 
-## 58. Progress Payments - really only for one off jobs?
+## 60. Progress Payments - really only for one off jobs?
 
 **Author:** NancyD1977 (Contributor 2)
 **Posted:** 2025-02-27
@@ -2232,7 +2311,7 @@ No Replies Be the first to
 
 ---
 
-## 59. Collections
+## 61. Collections
 
 **Author:** melanie (Contributor 3)
 **Posted:** 2025-02-27
@@ -2275,7 +2354,7 @@ It would be great if we could set up an automation to remind the clients to pay 
 
 ---
 
-## 60. System: Check and cash Payments
+## 62. System: Check and cash Payments
 
 **Author:** SET_Brandon (Contributor 3)
 **Posted:** 2025-02-27
@@ -2304,7 +2383,7 @@ We control the payments at the office. Allowing employees and/or subs to take pa
 
 ---
 
-## 61. Creating monthly payments
+## 63. Creating monthly payments
 
 **Author:** ShooFLY (Contributor 2)
 **Posted:** 2025-02-27
@@ -2326,7 +2405,7 @@ Hello! Thanks for your post! You are correct. We do not have a financing integr
 
 ---
 
-## 62. Invoice reminders on Jobs I get paid cash
+## 64. Invoice reminders on Jobs I get paid cash
 
 **Author:** Lucas (Contributor 2)
 **Posted:** 2025-02-27
@@ -2369,7 +2448,7 @@ Hey Lucas! Thanks for the question, it’s awesome to hear you’ve been using J
 
 ---
 
-## 63. How to close a recall invoice
+## 65. How to close a recall invoice
 
 **Author:** DevanS (Contributor 2)
 **Posted:** 2025-02-27
@@ -2426,7 +2505,7 @@ We just close them out again when we are finished. What I would to see though is
 
 ---
 
-## 64. Credit card processing
+## 66. Credit card processing
 
 **Author:** Wes-Tech (Contributor 2)
 **Posted:** 2025-02-27
@@ -2469,7 +2548,7 @@ to FredHodgeJr I have been working on getting in touch with someone who can prov
 
 ---
 
-## 65. Invoicing options
+## 67. Invoicing options
 
 **Author:** brandymm (Contributor 3)
 **Posted:** 2025-02-27
@@ -2491,7 +2570,7 @@ Isn't so amazing to have all of these payment options at our fingertips?!!!!! Gr
 
 ---
 
-## 66. Collecting Deposits By Credit Card
+## 68. Collecting Deposits By Credit Card
 
 **Author:** pelicancorey (Contributor 3)
 **Posted:** 2025-02-27
@@ -2513,7 +2592,7 @@ Update: I received this answer from chat. Currently, there isn't a way for clien
 
 ---
 
-## 67. Suspend a recurring job account for non-payment
+## 69. Suspend a recurring job account for non-payment
 
 **Author:** Derek1 (Contributor 3)
 **Posted:** 2025-02-27
@@ -2535,7 +2614,7 @@ JOBBER COMMUNITY TEAM Hi Derek, thanks for your post! These are great suggestion
 
 ---
 
-## 68. RECURRING VS ONE OFF
+## 70. RECURRING VS ONE OFF
 
 **Author:** GPEBix (Contributor 2)
 **Posted:** 2025-02-27
@@ -2557,7 +2636,7 @@ JOBBER COMMUNITY TEAM Hey GPEBix! What billing cycle would you want to be billin
 
 ---
 
-## 69. Preferred Payment Method 💲
+## 71. Preferred Payment Method 💲
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-27
@@ -2593,7 +2672,7 @@ to julie A note on credit card fees: it is legal in every state to build it into
 
 ---
 
-## 70. Partial Credit Adds to Money Owed
+## 72. Partial Credit Adds to Money Owed
 
 **Author:** jpqbn (Contributor 2)
 **Posted:** 2025-02-27

@@ -1,21 +1,297 @@
 # Jobber Community Forum - Hiring  Team Forum
 
-Total Discussions: 80
+Total Discussions: 82
 
 ---
 
-## 1. What hiring tactic has made the biggest difference in building your team?
+## 1. How do you reduce employee turnover in a cleaning company?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-03-03
+**Views:** 45 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-reduce-employee-turnover-in-a-cleaning-company/9005
+
+### Content
+
+For reference, we have a team of 20 technicians and our average employee lifecycle is just over 1 year. We offer PTO, ETO, and 401k with flexible hours for scheduling. We pay competitive wages and they’re solely through commission. Our culture is protected by the senior techs and leadership team and the feedback we receive is that former employees feel it’s a big family. Thoughts? CLEANING OPERATING PROCEDURES
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** BloomsNBrooms
+**Posted:** 2026-03-05
+
+It sounds you have build a beautiful community!! well done! I do not have an advice for you as this is my question too! im wondering of people simply don’t enjoy cleaning longterm??
+
+#### Reply 2
+
+**Author:** judithvirag
+**Posted:** 2026-03-05
+
+BUILDER 1 roselvaggio​ such a great question. While I am in the same "bucket" as you are I do not have the answers. I see you are in the US and we are in Canada. Still our struggles are very similiar. Some things we have implemented is we became a Fair Wage Provider. We did an employee survey and this seems to move the needle. We use Slack and along with this platform we use Tacos. In short terms we have built our own reward system. Each employee can collect tacos for gas cards, grocery cards, day off or they can work towards their dream (buy a car, house, study, travel - etc). Otherwise we do have all the flexibility and time off you have described about. As a business owner I also think we have to be kind to ourselves. Our industry is high turnover - it is an inbetween job. "I will do this until....". People now days have so many opportunities for work and we are way past of employees sticking with the same company for their entire lives.
+
+#### Reply 3
+
+**Author:** Bnorton23
+**Posted:** 2026-03-07
+
+I’ve been very blessed with a great team. I’ve been in business for 10 years and currently have 9 ladies. We’ve definitely had people come and go over the years, but of the 9 I have now, 7 have been with me between 3-8 years. I pay hourly, plus mileage, holiday pay, sick pay, and vacation. We celebrate birthdays with cake, anniversaries with flowers, and Employee of the Month with a certificate and gift card. They also know they can come to me if they’re struggling or in a bind. I will loan them money and let them make payments through payroll. There aren’t many other companies that do this, but you, we are a big family. This may sound blunt, but in this industry I feel you usually get one of two types of people: those who are struggling and truly need the income, and those who mostly want something to do and to stay active. There often isn’t much in between. It’s hard work, and it takes the right person to handle the physical side of it, the flexibility, and the fact that pay can fluctuate.
+
+---
+
+## 2. What is one task you finally delegated, and wish you did sooner?
+
+**Author:** judithvirag (Builder 1)
+**Posted:** 2026-03-03
+**Views:** 35 | **Likes:** 1 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-is-one-task-you-finally-delegated-and-wish-you-did-sooner/8979
+
+### Content
+
+BUILDER 1 Let's talk about getting help. How did your business evolve? When did you start delegating? Was it a great employee that could do more, or was it just burn out as an enterpreneur? I always want to learn and grow and what I love about this community that there are so many great responses. Let's learn from each other. How did you decide to delegate tasks, work and duties? OPERATING PROCEDURES
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-06
+
+My email - I'm working on this now but having someone that quarterbacks your email inbox would be soooo helpful. Think about how distracting it is, how much time you spend looking at it. You have to ask yourself, what is the thing I'm least excited to do? Then that's what you need to figure out how to delegate. For most of us, it's something administrative. You can EASILY find someone to do it for $7-$9/ hr, and they are stoked on it. There's also firms that help you recruit these people for a little more than that.
+
+#### Reply 2
+
+**Author:** judithvirag
+**Posted:** 2026-03-07
+
+BUILDER 1 to HUGEHandyman This has been the hardest I admit, to trust someone to do it.
+
+#### Reply 3
+
+**Author:** NJones
+**Posted:** 2026-03-06
+
+For me it came down to time. Time is the one thing you can never get back. You can make more money and hire more people, but you can’t create more time. Early on I did everything myself, most entrepreneurs. But eventually I realized the business could only grow as fast as my personal capacity. That’s when I started delegating and building a leadership team. Hiring a COO-type role was one of the best decisions I’ve made. It allows someone to focus on operations while I focus on vision, relationships, and growth.
+
+#### Reply 4
+
+**Author:** judithvirag
+**Posted:** 2026-03-07
+
+BUILDER 1 to NJones Agreed, hiring my supervisor was one of the best decisions. :)
+
+---
+
+## 3. Outside the box Employee Benefits?
+
+**Author:** JessieClean (Contributor 3)
+**Posted:** 2025-03-09
+**Views:** 23 | **Likes:** 6 | **Comments:** 26
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/outside-the-box-employee-benefits/710
+
+### Content
+
+Greetings! What are some outside the box benefits you offer employees? As a small business, insurance is cost prohibitive as is offering PTO. What are some low-cost benefits your employees appreciate? BONUS AND RETENTION PROGRAMS CLEANING
+
+### Replies (26)
+
+#### Reply 1
+
+**Author:** MCLS
+**Posted:** 2025-03-09
+
+Out of the box ideas could be something buying groceries or gas as a "bonus". It will impact their lives to save that tank of gas, or that trip to the grocery store, is a write off, and will show appreciation for your employees
+
+#### Reply 2
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to MCLS I absolutely love this! Thank you for the ideas. I also often forget that these kinds of gifts/benefits are a write off. Thank you for the reminder!
+
+#### Reply 3
+
+**Author:** julie
+**Posted:** 2025-03-09
+
+JOBBER COMMUNITY TEAM Hey JessieClean, it's great that you're looking out for out-of-the-box ideas for employee benefits! What benefits do you currently offer your employees right now?
+
+#### Reply 4
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to julie Hi Julie! We are currently seeking local experts to offer Lunch & Learn opportunities for our employees in the following areas: - Financial Fitness & Credit Repair - Health & Wellness - Mental Health - Self Defense We try and get together quarterly to decompress and just have fun together. We have 13 employees and our work family is very close. It's nice to get together and let loose. In the past, we've treated our employees to breakfast, had craft nights, celebrated divorces/engagements/baby showers etc, and taken our crew out for drinks and bowling.
+
+#### Reply 5
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to julie Hi Julie, We offer quite a few little perks as we're a small business with 2 owners so there's not a huge profit margin to work with. Not yet, at least! Some of our perks are: 1) Free bottled water, coffee, tea, and creamer 2) Free breakfasts and lunches on occasion 3) Quarterly gatherings where we typically cover a couple of drinks and apps 4) No evenings, weekends, or holidays (Saturdays are voluntary if we have work available) 5) This year we are paying our team on Thanksgiving and Christmas. It's the first time we've been able to do this in 5 years and we're very excited! It's a surprise. 6) We keep popsicles in the shop during the summer months 7) I'm currently setting up Lunch & Learns in areas of interest: Financial Fitness, Mental Health & Wellness, Self-Defense, Credit Repair 8) Our employees keep 100% of their tips 9) Recognize and celebrate life events (birthdays, baby showers, divorce parties, Jessie-Versaries, etc) 10) Beer Wednesdays - We have a fresh growler of cold craft beer available for after work 11) We have cold and allergy meds, pain reliever and feminine care products available for use as well Future Goals: As a women owned business, a dream of ours is to partner with an accredited and local childcare provider and/or provide childcare in-house to remove that barrier for working parents. We'd to subsidize childcare costs and keep it close to work to lessen the burden for our employees. We'd also to offer earned and accrued PTO for our team but it's a ways out from happening still.
+
+#### Reply 6
+
+**Author:** CleanSweepInc
+**Posted:** 2025-03-09
+
+to JessieClean this is so similar to what we do I had to double check that I didn't write it. I forgot to mention in a somewhere in the is thread that we also stock person hygiene products, pain relievers, PMS products, etc. Just two on your list that we don't do, the quarterly gathering and the lunch and learn, nice ideas
+
+#### Reply 7
+
+**Author:** Natures1
+**Posted:** 2026-03-08
+
+to JessieClean nice
+
+#### Reply 8
+
+**Author:** ProperGuy
+**Posted:** 2025-03-09
+
+Anytime the value exceeds the cost. For many, doing something that makes the spouse, kids or family happy, is a good bet. Buying a plane ticket back home so they can be with their family during the holidays, picking up the tab on a swimming class membership for the kiddos, giving the employee a spa certificate to give to his wife or sports tickets to give to the husband... etc, etc.
+
+#### Reply 9
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to ProperGuy Love those ideas! Thank you for sharing.
+
+#### Reply 10
+
+**Author:** CherylS
+**Posted:** 2025-03-09
+
+We hand out gift cards to Amazon when a crew has done an over the top job or came under budget on a job. We will sometimes buy the crew lunch. During hot mid western summers we will deliver popsicles or ice cream to the crews on their job sites.
+
+#### Reply 11
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to CherylS Love that! We have popsicles and water in our shop for our team, as well. We bought them as a one off because it was so hot out but they loved it so much we kept getting them! I love that you deliver it. As a fellow mid-westerner, I'm sure it's much appreciated.
+
+#### Reply 12
+
+**Author:** CleanSweepInc
+**Posted:** 2025-03-09
+
+Good question. Generous mileage reimbursement, careful tallying of tips and putting the tip function in front of clients point of sale, employee birthdays celebrated, drinks and snacks in office which evolved into breakfast foods. Gift cards for car washes. Coffee gift cards. Candy dish or other goodies in office. Turkeys or grocery gift cards for Thanksgiving, small bonus at Christmas with card and gift. Take manager to lunch/brunch. Flexible days off, no evening/weekends/holidays or if we do work them is is voluntary, and paid at over time pay. Health care coverage is still out of our reach but would be the biggest thing.
+
+#### Reply 13
+
+**Author:** CleanSweepInc
+**Posted:** 2025-03-09
+
+to CleanSweepInc We also **bleep** off steam by sharing a cocktail often on Fridays!
+
+#### Reply 14
+
+**Author:** julie
+**Posted:** 2025-03-09
+
+JOBBER COMMUNITY TEAM to CleanSweepInc Ooo, what a nice idea! I love a good cocktail 🍹 (also, it looks the word 'blow' was one of our moderated words! I took off the filter so it shouldn't be filtered in the future 👍)
+
+#### Reply 15
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to CleanSweepInc After a week of hard work, I'm sure that's much appreciated!!! We have Beer Wednesdays! We're across the street from a woman-owned restaurant / micro brewery and she's freaking fabulous. They have $7 growler fills on Weds so we try and have a cold growler of craft beer available when they get back to the shop. Quarterly, we try and treat everyone out and get together. It's great seeing everyone all gussied up and gabbin'. We try to cover their first couple cocktails / apps when we go out. We have barbequed for them, hosted a craft night, bonfire party, etc.
+
+#### Reply 16
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to CleanSweepInc These a great benefits! Thank you for sharing. We do quite a few of these as well, aside from the turkey and grocery cards at Thanksgiving. That is a great idea!!! How many employees do you have and how long have you been in business? Our crew is also off on evenings, weekends, and holidays - and also voluntary if we do have extra work available. We do not pay OT pay for weekend work but that's a great perk!!! Health coverage is sadly too far out of our reach as well. At some point in the not so distant future, we'd to partner with a child care provider or provide in-house childcare to remove that barrier for working parents with young children. We wouldn't cover the whole cost but at least help offset it. Having childcare close to work would help (we believe) with overall attendance and job satisfaction, in addition to helping make our people's lives a bit easier. It's a dream of ours, as a women-owned business. Goals, amirite?
+
+#### Reply 17
+
+**Author:** FredHodgeJr
+**Posted:** 2025-03-09
+
+Employee Appreciation events go a really long way. We have 3 per year, our annual kick off the season, Clearview Day in August and then a Holiday apprecition in December. Here's a video. https://www.youtube.com/shorts/M29FC3E1Jgw
+
+#### Reply 18
+
+**Author:** JessieClean
+**Posted:** 2025-03-09
+
+to FredHodgeJr WOW! I just watched the video. Thank you for sharing! That actually made me tear up a bit. They were so surprised and happy! What a great perk. Bravo! I aspire to be able to do something that for my people in the future. That was beautiful. Thank you. May I ask how many employees you have and how long have you been in business?
+
+#### Reply 19
+
+**Author:** FredHodgeJr
+**Posted:** 2025-03-09
+
+to JessieClean Thank you!! This is our 20th year and we have 26 employees! We started small with these events and have grown and evolved. Our first one was simply a BBQ in our backyard. We have 3 main events, Kickoff party early March, Clearview Day in August and then a Holiday Party in December. If you have too many they get watered down and the team comes to expect it and not appreciate it as much.
+
+#### Reply 20
+
+**Author:** jacurri1
+**Posted:** 2025-03-09
+
+Retirement Plan - Simple IRA, we match up to 3%, you can save up to $16k/yr, bit more if you are over 50. The administration is straightforward. Can also be a big tax savings for the owner if you are drawing a salary
+
+#### Reply 21
+
+**Author:** CleanSweepInc
+**Posted:** 2025-03-09
+
+Test comment
+
+#### Reply 22
+
+**Author:** kbeaty
+**Posted:** 2025-03-09
+
+For this specific time of year we are purchasing Thanksgiving meals for all employees.
+
+#### Reply 23
+
+**Author:** NKilburg
+**Posted:** 2025-03-09
+
+I was thinking about this exact thing today and came up withs discounted prices on monthly massages at a local massage therapist, fitness center/gym membership, monthly food truck if you have an office or workshop, clothes/footwear at a local store. Being able to get employees special pricing would be a nice perk that doesn’t cost the business. Money is definitely the main motivation to a point so I don’t want to spend money on perks that could be used to increase pay.
+
+#### Reply 24
+
+**Author:** fmaksad
+**Posted:** 2025-03-09
+
+Gym memberships, spotify for technicians who listen to music all the time, I got audible for people who wanted to listed to development books (or fun ones)
+
+#### Reply 25
+
+**Author:** Garrett
+**Posted:** 2025-03-09
+
+Hi JessieClean, Great thread & ideas for us all to glean from, love it! For us, as we have grown, we have taken one cleaner a year and have helped them start their own cleaning business. Sometimes it works out great and other times they come back under our company as a W-2 employee, but with a whole lot more appreciation and respect. Either way we have seen this as a positive benefit for the whole team and community and has only positively impacted us all. Teach a person how to manage their own business and they can impact their community!
+
+#### Reply 26
+
+**Author:** NicktheArborist
+**Posted:** 2025-04-09
+
+Do you have an ice machine? You need one.
+
+---
+
+## 4. What hiring tactic has made the biggest difference in building your team?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2026-02-13
-**Views:** 96 | **Likes:** 2 | **Comments:** 7
+**Views:** 120 | **Likes:** 2 | **Comments:** 8
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-hiring-tactic-has-made-the-biggest-difference-in-building-your-team/8689
 
 ### Content
 
 BUILDER 1 Here I am 17 years in and still working on my hiring strategy, process etc. I am often reminded that you need "the one thing/idea/process/strategy" to be successful at something. What is your one thing with regards to hiring that really worked for you? CLEANING FINDING EMPLOYEES GENERAL HIRING TIPS INTERVIEW TIPS & QUESTIONS
 
-### Replies (7)
+### Replies (8)
 
 #### Reply 1
 
@@ -34,7 +310,7 @@ BUILDER 1 to HUGEHandyman HUGEHandyman​ love the suggestion on the test. Defin
 #### Reply 3
 
 **Author:** Kirsta
-**Posted:** 2026-02-16
+**Posted:** 2026-02-15
 
 to HUGEHandyman Love this!
 
@@ -48,9 +324,9 @@ to HUGEHandyman I love this! We have a score-based interview for each position/l
 #### Reply 5
 
 **Author:** Bnorton23
-**Posted:** 2026-02-27
+**Posted:** 2026-02-26
 
-NEW MEMBER to roselvaggio I’d love to hear more about your process!
+to roselvaggio I’d love to hear more about your process!
 
 #### Reply 6
 
@@ -66,13 +342,133 @@ Having a system in place and allowing the entire team be a part of the hiring pr
 
 Hire slow, fire fast. Have a constant warm bench for anything that can go wrong on the team. Interview questions aligned with our core values.
 
+#### Reply 8
+
+**Author:** INEX
+**Posted:** 2026-03-05
+
+I'm not 17 years in, less than 2, about to start trying to hire my first employee, obviously it would be amazing if the first person I hired was a rockstar lifer... but that is probably harder than winning the lottery so I am going into it with patience and understanding it will take time and turnover to build out the proper team in time. Company culture is going to be big on this. Would love to hear any more advice people may have.
+
 ---
 
-## 2. How to make sure you don't let the right people walk away?
+## 5. Seeking Shared VA
+
+**Author:** Shan2024 (Contributor 2)
+**Posted:** 2025-03-09
+**Views:** 987 | **Likes:** 2 | **Comments:** 14
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/seeking-shared-va/558
+
+### Content
+
+Looking for shared VA contacts to help me grow my cleaning company... scheduling, sales, customer service - my first office/VA help, so new at this! Any help or tips would be most appreciated!! TIA CLEANING
+
+### Replies (14)
+
+#### Reply 1
+
+**Author:** JenMcBurney
+**Posted:** 2025-03-09
+
+Check Upwork! You can post a job and interview people. I did this about 5 years ago, I went with someone without experience and trained them.
+
+#### Reply 2
+
+**Author:** Malikhc10
+**Posted:** 2025-03-09
+
+Hey, I also used Upwork to hire a VA and I do strongly recommend these people. They are very committed to their work. I will share you their link. https://www.upwork.com/freelancers/~0136bd2e5bd1422b3c
+
+#### Reply 3
+
+**Author:** Shan2024
+**Posted:** 2025-03-09
+
+to Malikhc10 Good to know. Thank you.
+
+#### Reply 4
+
+**Author:** vlad
+**Posted:** 2025-03-09
+
+A few lessons I learned using VAs: - Timezone is important. For customer service, it's best to have someone in a similar timezone. If you're in the US, anyone in North or South America would be fine. - Take into consideration cultural differences. Training will be important. Clear guidelines on what needs to be done and how will really help. - Make sure you start with some small tasks that can be done without giving access to everything. Test them out so you can see if you can work with them. If they have every skill listed on their profile and only charge $5/h, it's probably too good to be true. - You can find ones that work with other clients and can charge you only while they are actively working on your tasks. - If you want someone based in the US and with experience working with cleaning companies, you can go with a company TaskAwayVA. I use them. Let me know if you'd an introduction.
+
+#### Reply 5
+
+**Author:** Shan2024
+**Posted:** 2025-03-09
+
+Hey, thanks for your ! I will consider
+
+#### Reply 6
+
+**Author:** EpicCleans87401
+**Posted:** 2025-03-09
+
+UpWork is a great place to hire a great professional VA who works while your sleeping cause they have different daylight hours 👍
+
+#### Reply 7
+
+**Author:** ryaantuttle
+**Posted:** 2025-03-09
+
+I would suggest taking your time before hopping into this right away. Although, it sounds great and inexpensive, it can turn into a nightmare very quickly! You'll want to make sure you set up a Google folder with all of your information, along with log-ins, passwords and anything else you think is pertinent to their position. You'll also need to figure out timezones, holidays and their work schedule and how you can onboard them. From there you'll need an emergency "escape" plan. Also, keep in mind this is NOT an employee and you'll want to make sure there's some type of agreement with them in place, so they can train the next VA in case they decide to quit or leave. If this person suddenly vanishes, how will you get your info back, and make sure you're not locked out of any accounts. I only speak from deep experience with this exact topic and can pass along some of those nightmare stories if you'd to hear them.
+
+#### Reply 8
+
+**Author:** Shan2024
+**Posted:** 2025-03-09
+
+to ryaantuttle Thank you for this valuable insight. I will be sure to make time to prepare.
+
+#### Reply 9
+
+**Author:** JanineChambers
+**Posted:** 2025-03-09
+
+I worked as a VA for three years and know a few great VA's that I can refer. I recommend finding a freelancer over hiring an agency because most of the money goes to the agency and they provide very little support to the person working in your business. Hiring internationally is a popular choice but can be very exploitative so if possible try to hire someone that sets their own rates. If you have any questions I am happy to answer if I can I am also sharing a link to a guide I created in regards to hiring freelancers if you want to check it out. Freelancer Hiring Guide
+
+#### Reply 10
+
+**Author:** Jessica
+**Posted:** 2025-03-09
+
+Hello! I’ve had virtual assistants for years, and I love it. I’ve tried the shared model before, but I don’t recommend it. One tip I can give you is to align everything before the assistant starts. Personally, I working with a larger team because each person has different skills. I hired a company to recruit a virtual assistant, and my experience was great. Since the virtual assistant is based in Brazil, the cost is lower, and you can hire someone for around $5/hour, which is a good salary there. Plus, you can find highly skilled professionals who are fluent in English and available to work within U.S. business hours. I hope this helps! If you’d , send me a message—I’d be happy to share more of my experience with you. 9017790739
+
+#### Reply 11
+
+**Author:** Aandh
+**Posted:** 2026-03-04
+
+to Jessica Hi I just saw your post I am currently looking for 2 VA and the idea of the same time zone sounds good to me, can you tell me which platform you use to hire people in Brazil? thank you I appreciate your help Holmes
+
+#### Reply 12
+
+**Author:** Jessica
+**Posted:** 2026-03-05
+
+to Aandh Besides the cleaning company, I am also a partner and client in a recruitment company. We do recruitment according to your needs. Send me your phone number and we can talk more about it. The cost-benefit ratio is really worthwhile, plus it's possible to find people who speak Spanish well.
+
+#### Reply 13
+
+**Author:** BHS
+**Posted:** 2025-03-09
+
+My longest VA relationship is going on 16 years. That is to say, you can absolutely find great talent abroad. Currently, I use onlinejobs.ph to find VAs. The starting pay I offer is usually $800 USD/mo for a full-time VA. I just searched the site, and I see that 28 individuals list Jobber as an experience/software they previously used
+
+#### Reply 14
+
+**Author:** INEX
+**Posted:** 2026-03-05
+
+You can use sites upwork and fiverr to try and find people to do VA work for you. You can also look for agencies too. I use an agency for my social media and they do well enough (i am kind of picky), I get compliments on my socials often, so that is social proof for me. Haha. Send them a message on whatsapp: +1 240 916 2178
+
+---
+
+## 6. How to make sure you don't let the right people walk away?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-14
-**Views:** 27 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-13
+**Views:** 34 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-to-make-sure-you-dont-let-the-right-people-walk-away/8705
 
 ### Content
@@ -90,11 +486,11 @@ No one solid is going to leave where they’re at to come work part-time, even i
 
 ---
 
-## 3. Are YOU a good employee, would you hire YOURESELF?
+## 7. Are YOU a good employee, would you hire YOURESELF?
 
 **Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2025-11-28
-**Views:** 122 | **Likes:** 3 | **Comments:** 6
+**Posted:** 2025-12-09
+**Views:** 127 | **Likes:** 3 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/are-you-a-good-employee-would-you-hire-youreself/7664
 
 ### Content
@@ -106,52 +502,52 @@ Someone tole me when I started out on my own "You need to be your best employee.
 #### Reply 1
 
 **Author:** katebrownell86
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 It really comes down to being honest with yourself. If you expect your team to show up on time, work hard even when things are slow, and treat customers well, then you need to hold yourself to those same standards. The strongest leaders are the ones who set the example.
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 BUILDER 1 Great question. I think just our employees I do have my ups and downs. I do get up each day and try to do the very best I can. My company has been growing stadily for 16 years so just for dedication I would hire myself LOL
 
 #### Reply 3
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 You need to be your best employee. Would you hire yourself? Interesting question, with a few ways to look at it. When I was in my 20's I was a physically hard worker who listened to instructions well. I would run circles around the other employees. And I could repeat that output daily. I would hire a team of what I 'used to be' of me back then. When I was in my 30's I honed my quoting and customer service skills. My follow-up and landing rates were great! I could use a strong quoting team now that follows through as I used to. Now that I am in my late 40's, I wouldn't want another whole one of me around. But I could use multiple task-oriented staff to take some of the pressure off me.
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 JOBBER COMMUNITY TEAM wow, this is a great thought provoking question
 
 #### Reply 5
 
 **Author:** DannyM
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 Tbh this question was always at the back of my mind. Yes I did want the best team, but the best team would require a leader they can look up to and learn from. It's quite the thing because I had to constantly improve myself to be able to cater for their needs and put them through when they got stuck. Now I've got an amazing team, and I believe it's all thanks to my being able to be helpful to not just the biz but to them. I'll definitely hire myself if I found another me.
 
 #### Reply 6
 
 **Author:** Kirsta
-**Posted:** 2026-02-16
+**Posted:** 2026-02-15
 
 As a Boss/Owner/Leader, you must lead by example. You should not and cannot expect something from someone else if you are not able or willing to do it yourself.
 
 ---
 
-## 4. Jobber Research: Break Tracking, Timesheet Labels, Commission Tracking
+## 8. Jobber Research: Break Tracking, Timesheet Labels, Commission Tracking
 
 **Author:** Ronen (Jobber Product Team)
 **Posted:** 2026-02-11
-**Views:** 39 | **Likes:** 4 | **Comments:** 1
+**Views:** 41 | **Likes:** 4 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/jobber-research-break-tracking-timesheet-labels-commission-tracking/8653
 
 ### Content
@@ -169,11 +565,11 @@ have been turned off for this discussion
 
 ---
 
-## 5. How do service businesses build accountability with field teams without constant oversight?
+## 9. How do service businesses build accountability with field teams without constant oversight?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
-**Posted:** 2026-01-28
-**Views:** 63 | **Likes:** 0 | **Comments:** 3
+**Posted:** 2026-02-09
+**Views:** 69 | **Likes:** 0 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-service-businesses-build-accountability-with-field-teams-without-constant/8128
 
 ### Content
@@ -185,7 +581,7 @@ What systems have you put in place to ensure your field team follows process con
 #### Reply 1
 
 **Author:** lawn_kingsUS
-**Posted:** 2026-01-29
+**Posted:** 2026-02-09
 
 That's something I've spent this off-season working on. What I've come up with for my business for this upcoming year is a 4-layered approach. Layer 1, the memory layer, Layer 2, the clarity layer, layer 3, the execution layer, and layer 4, the reality layer. How that looks for me, is Layer 1, each role follows what I call The 3F Framework, Flow->Finish->Feedback(different for each role, but follows the same format, short, to the point, essentially how to do the job, what a finished job looks , and what data/friction/opportunities need to be passed up), layer 2 "what good looks " a longer form work flow that expands on the 3F, layer 3 sops tied to each item from "what good looks ", and finally layer 4 FAQ's, the top 10 questions that I know I'm going to get asked from that role. I think that builds accountability by clearly defining what the expectations are, as well as setting them up for success "Do this and you will do a good job". The final phase to that would be establishing KPI's for each role to allow follow up.
 
@@ -205,44 +601,44 @@ BUILDER 1 I myself struggle with this and would love to hear some other solution
 
 ---
 
-## 6. What challenges do business owners face when hiring family members?
+## 10. What challenges do business owners face when hiring family members?
 
 **Author:** Moss912 (Contributor 3)
-**Posted:** 2026-02-03
-**Views:** 142 | **Likes:** 2 | **Comments:** 9
+**Posted:** 2026-02-09
+**Views:** 144 | **Likes:** 2 | **Comments:** 9
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-challenges-do-business-owners-face-when-hiring-family-members/8531
 
 ### Content
 
-Thinking of bringing my father onboard to help complete estimates and small task to free up some time. Curious who has done this and if there were issues. ryaantuttle 22 days ago Ive done this and watched a lot of other contractors do this and my honest take is its usually a bad idea Not because your father cant do the work but because the relationship dynamics make everything harder than it needs to be Heres what typically goes wrong First the accountability problem. When a regular employee messes up an estimate or drops the ball on a task you can have a direct conversation or let them go if needed. When its your dad that conversation gets loaded with decades of family history and power dynamics. Are you the boss or are you the kid. That ambiguity creates problems Second the expectations mismatch. Family members often expect more flexibility more input on decisions and more grace when things dont go well. Meanwhile you might expect more loyalty more effort and less pushback because its family. Neither of you is wrong but those unspoken expectations collide Third the exit strategy. What happens when it doesnt work out. Firing your father or having him quit can damage the relationship permanently. Ive seen families stop talking over business disagreements that wouldve been a simple termination with a regular employee Fourth the rest of your team. If you have or plan to have other employees they will notice if your father gets different treatment. That creates resentment and culture problems If youre going to do it anyway heres what I would recommend Put everything in writing including role responsibilities pay performance expectations and what happens if it doesnt work out. Treat it a real hire not a family favor. Have a trial period of 60 to 90 days with a clear check in. And agree upfront that the business relationship and the family relationship are separate
+Thinking of bringing my father onboard to help complete estimates and small task to free up some time. Curious who has done this and if there were issues. ryaantuttle Ive done this and watched a lot of other contractors do this and my honest take is its usually a bad idea Not because your father cant do the work but because the relationship dynamics make everything harder than it needs to be Heres what typically goes wrong First the accountability problem. When a regular employee messes up an estimate or drops the ball on a task you can have a direct conversation or let them go if needed. When its your dad that conversation gets loaded with decades of family history and power dynamics. Are you the boss or are you the kid. That ambiguity creates problems Second the expectations mismatch. Family members often expect more flexibility more input on decisions and more grace when things dont go well. Meanwhile you might expect more loyalty more effort and less pushback because its family. Neither of you is wrong but those unspoken expectations collide Third the exit strategy. What happens when it doesnt work out. Firing your father or having him quit can damage the relationship permanently. Ive seen families stop talking over business disagreements that wouldve been a simple termination with a regular employee Fourth the rest of your team. If you have or plan to have other employees they will notice if your father gets different treatment. That creates resentment and culture problems If youre going to do it anyway heres what I would recommend Put everything in writing including role responsibilities pay performance expectations and what happens if it doesnt work out. Treat it a real hire not a family favor. Have a trial period of 60 to 90 days with a clear check in. And agree upfront that the business relationship and the family relationship are separate
 
 ### Replies (9)
 
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-05
+**Posted:** 2026-02-09
 
 My dream is to have family members join my team. My uncle is a retired CRA business auditor, my father has years of sales experience and a business degree, and my wife and mother are both very organized and detail oriented. Those are all qualities that a good business needs and I drive myself everyday to get to the point where I can offer them the opportunity to grow with me and build a true family business. I think the challenges would be anyone else in your life, spending too much time together and making family gatherings a business get together. Setting clear "on and off" times would be very important. No talking about the business at the dinner table, No talking about family at the conference table. Making sure your relationships stay strong and wear two different hats when you are working or gathering together as family. I would also make sure your relationship is strong to begin with, any underlying issues should be resolved before work starts so you avoid the blow ups and things become personal.
 
 #### Reply 2
 
 **Author:** Moss912
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 to PestFreeCanada Totally agree with having a good relationship before working together!
 
 #### Reply 3
 
 **Author:** julie
-**Posted:** 2026-02-04
+**Posted:** 2026-02-09
 
 JOBBER COMMUNITY TEAM Ooo lawn_kingsUS​ might be able to jump in here. Lawn Kings is a veteran-owned and family-operated lawn care business!
 
 #### Reply 4
 
 **Author:** ryaantuttle
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 Ive done this and watched a lot of other contractors do this and my honest take is its usually a bad idea Not because your father cant do the work but because the relationship dynamics make everything harder than it needs to be Heres what typically goes wrong First the accountability problem. When a regular employee messes up an estimate or drops the ball on a task you can have a direct conversation or let them go if needed. When its your dad that conversation gets loaded with decades of family history and power dynamics. Are you the boss or are you the kid. That ambiguity creates problems Second the expectations mismatch. Family members often expect more flexibility more input on decisions and more grace when things dont go well. Meanwhile you might expect more loyalty more effort and less pushback because its family. Neither of you is wrong but those unspoken expectations collide Third the exit strategy. What happens when it doesnt work out. Firing your father or having him quit can damage the relationship permanently. Ive seen families stop talking over business disagreements that wouldve been a simple termination with a regular employee Fourth the rest of your team. If you have or plan to have other employees they will notice if your father gets different treatment. That creates resentment and culture problems If youre going to do it anyway heres what I would recommend Put everything in writing including role responsibilities pay performance expectations and what happens if it doesnt work out. Treat it a real hire not a family favor. Have a trial period of 60 to 90 days with a clear check in. And agree upfront that the business relationship and the family relationship are separate
 
@@ -263,14 +659,14 @@ to judithvirag Thanks for sharing this judithvirag​ ! I had very similar expe
 #### Reply 7
 
 **Author:** roselvaggio
-**Posted:** 2026-02-04
+**Posted:** 2026-02-09
 
 In our early years, my little sister was on our roster a total of four times in four years. She didn’t expect rules and policy to apply to her, and felt the bare minimum was good enough because she was related to me. This is absolutely not the case with everyone, but I’ve had a multitude of friends hired where this was also the case- at this stage I don’t really entertain the option. acquaintances, however, have worked out really well and they respect the company and our policies. I would ensure professional boundaries up front with clear tasks and KPIs that measure the assets this position brings you (even if it is time freedom for yourself). Best of luck with whatever you decide!
 
 #### Reply 8
 
 **Author:** Moss912
-**Posted:** 2026-02-06
+**Posted:** 2026-02-09
 
 to roselvaggio Thanks for sharing your experience with this! Appreciate the insight!
 
@@ -283,11 +679,11 @@ I'd say in general - I would not recommend it. You want to be able to shut off w
 
 ---
 
-## 7. How do you keep your crew motivated and paid when work slows down?
+## 11. How do you keep your crew motivated and paid when work slows down?
 
 **Author:** ryaantuttle (Jobber Ambassador)
-**Posted:** 2025-11-28
-**Views:** 160 | **Likes:** 1 | **Comments:** 5
+**Posted:** 2025-12-09
+**Views:** 165 | **Likes:** 1 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-keep-your-crew-motivated-and-paid-when-work-slows-down/7551
 
 ### Content
@@ -299,74 +695,74 @@ Every year, that slow season creeps up on us. One minute the phones are blowing 
 #### Reply 1
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 We offer year-round property maintenance contracts that roll from one season to the next. So for us, our staff wages are always covered, even if there is no work to be done on site. Not to say that our staff stay idle. There is always something to do. To note, we have two shoulder seasons. Winter to Spring transition: There is no snow to move, but we cannot start the spring cleanups yet. Fall to Winter transition: Fall cleanups are complete, and it's not snowing. We offer seasoned firewood and waste bin rentals. During our shoulder seasons, these two services ramp right up. We also use this time to get the growing-season equipment ready and, likewise, the winter equipment in the late fall. I've seen lots of service companies venture into holiday lighting. If you are good at it, you can make some mad money. People love their Christmas lights!
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 BUILDER 1 We do residential house cleaning. We also have our slow seasons. Usually in January. We ask our team to take vacation during this time. In the summer time (we are in Calgary, Alberta, Canada with about 5-6 months winter) we get our team to distribute doorknockers.
 
 #### Reply 3
 
 **Author:** Karly
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 Preventative maintenance contracts, cleaning/organizing vehicles and taking inventory
 
 #### Reply 4
 
 **Author:** katebrownell86
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 That’s a challenge a lot of us face during slower seasons. One thing that’s worked for me is being upfront with the crew about the situation and involving them in finding solutions. Transparency builds trust, and people appreciate knowing what’s going on rather than being left guessing. On the motivation side, I try to keep them engaged with smaller projects — things equipment maintenance, training, or even community service jobs that don’t bring in big revenue but keep everyone active and learning. It helps morale and builds skills for when business picks back up. As for pay, some owners set aside a “slow season fund” during busy months to cover reduced hours later. Another option is offering flexible schedules or partial shifts so everyone gets something rather than laying people off completely. Even small gestures, bonuses tied to training completion or loyalty, can go a long way in showing you value them. I think combine transparency with creative ways to keep people busy, and plan financially during peak times so you can support the team when things slow down. It’s not easy, but keeping morale high now pays off when the busy season returns.
 
 #### Reply 5
 
 **Author:** kasyallen
-**Posted:** 2026-02-05
+**Posted:** 2026-02-09
 
 Great question. Slow season used to stress me out, because when the schedule dries up, morale drops fast and paychecks shrink. That’s a hard combo. What changed everything for us was realizing we can’t “hype” our way out of a slow month. We had to build a business model that doesn’t rely on peak season chaos. Over the last year, we intentionally stopped taking on more seasonal clients ( short-term rentals) and focused on onboarding second homeowners who need consistent, year-round support. We shifted toward a subscription-style model with recurring visits throughout the month, : Monthly cleaning (even light cleans when they haven’t been up) House watch / property walks Hot tub cleaning Snow plowing Then in the shoulder seasons we stack in the “seasonal add-ons” : Dryer vent cleaning Window cleaning Other preventative home care services Even if we only had one core service ( cleaning), we’d still sell the same thing: consistency. Because what our second homeowners really want isn’t just a clean house. They want peace of mind. Yes, they may have cameras, alarms, temp sensors, and leak detectors. But nothing replaces the comfort of knowing a real person walked their home, checked it, and would catch issues before they become expensive problems. So instead of being reactive, we became steady. Not rushed. Not random. Not seasonal. Just dependable support from a local team. That shift has helped us keep our techs busy year-round with minimal downtime, and we also keep marketing year-round so we stay top-of-mind. You don’t fix a slow month by yelling louder. You fix it by being more relevant to the right people.
 
 ---
 
-## 8. How do you determine when your team can take PTO when you have a large team?
+## 12. How do you determine when your team can take PTO when you have a large team?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-12-28
-**Views:** 76 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-01-09
+**Views:** 83 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-determine-when-your-team-can-take-pto-when-you-have-a-large-team/7971
 
 ### Content
 
-Current policy: Submit PTO 6-8 weeks in advance for approval. Those with seniority get first pick for their PTO. Use your 2 weeks PTO for the year, or you lose it. What would you add or take away from this policy? BONUS AND RETENTION PROGRAMS COACHING CONSTRUCTION FINDING EMPLOYEES FIRING GENERAL HIRING TIPS HEALTH AND SAFETY INTERVIEW TIPS & QUESTIONS JOB DESCRIPTIONS PAINTING
+Current policy: Submit PTO 6-8 weeks in advance for approval. Those with seniority get first pick for their PTO. Use your 2 weeks PTO for the year, or you lose it. What would you add or take away from this policy? BONUS AND RETENTION PROGRAMS COACHING CONSTRUCTION FINDING EMPLOYEES FIRING GENERAL HIRING TIPS HEALTH AND SAFETY INTERVIEW TIPS & QUESTIONS JOB DESCRIPTIONS PAINTING REPORTING & BUSINESS INSIGHTS SALARIES
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** FredHodgeJr
-**Posted:** 2026-01-28
+**Posted:** 2026-01-09
 
 The framework you have is solid, but it needs a few guardrails to avoid resentment and operational gaps. The 6–8 week notice and seniority-based approval make sense, especially in a seasonal service business, but I’d add hard caps on how many people can be out per role or crew at one time so production doesn’t suffer. I’d also separate PTO types. Planned PTO still follows seniority, but true emergencies or life events shouldn’t be penalized by the calendar. On the use-it-or-lose-it policy, I’ve found it works operationally, but only if leadership actively reminds people to schedule time off early so it doesn’t pile up at the end of the year. The biggest lever is clarity. Publish blackout periods, minimum staffing requirements, and approval deadlines so decisions feel objective, not personal. When PTO rules are clear and enforced consistently, most of the drama disappears. We give our team the option to roll over left over PTO or get paid out for the days they have remaining.
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2026-01-28
+**Posted:** 2026-02-09
 
 to FredHodgeJr Thanks for that feedback. Really solid advice on creating more structure/guardrails around it. How do you do the payouts for remaining PTO? Does the employee get it when they ask, or is there a payout schedule?
 
 ---
 
-## 9. When to hire a project manager?
+## 13. When to hire a project manager?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-12-28
-**Views:** 136 | **Likes:** 1 | **Comments:** 6
+**Posted:** 2026-01-09
+**Views:** 148 | **Likes:** 1 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/when-to-hire-a-project-manager/7791
 
 ### Content
@@ -378,52 +774,52 @@ When did you hire a project manager for your business? What are some metrics to 
 #### Reply 1
 
 **Author:** katebrownell86
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 Hiring a project manager makes the most sense when have to handle multiple projects or many team members at the same time and communication starts slipping through the cracks. A project manager's job isn’t just about scheduling the regular or monthly tasks but also help team with standardize processes, track KPIs job completion times and customer satisfaction, and free up the owner to focus on growth instead of daily logistics.
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 to katebrownell86 Do you think there is a revenue metric for this? An amount of team members? Is there a direct correlation to growth when you hire a project manager?
 
 #### Reply 3
 
 **Author:** katebrownell86
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 to BrandenSewell For your first question - there is no strict revenue number that indicates it’s time to hire a project manager, because every business’s complexity grows differently. Instead, most companies hit this need when the operational load becomes bigger than the owner or lead can realistically manage. Then, team size is mostly proportional to the revenue. Once you’re managing 5–10 people across multiple jobs, a project manager can make a difference. As for growth, hiring a project manager doesn’t directly create revenue, but it enables growth. When a project manager standardizes processes, tracks KPIs, jobs finish on time, communication improves, repeat work increases, and the owner regains time to focus on sales, strategy, and scaling. So while a project manager isn’t a guaranteed growth lever on day one, they remove the bottlenecks that often prevent growth and that’s usually where the return shows up.
 
 #### Reply 4
 
 **Author:** BrandenSewell
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 to katebrownell86 We are at 12 employees currently. I'm terrified to hire a project manager because I'm afraid I won't be able to afford them. 😂
 
 #### Reply 5
 
 **Author:** katebrownell86
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 to BrandenSewell Now, what can I say! :) Best of luck.
 
 #### Reply 6
 
 **Author:** 
-**Posted:** 2026-01-28
+**Posted:** 2026-01-09
 
 EnergizeUs
 
 ---
 
-## 10. How do you determine when your team can take PTO when you have a large team?
+## 14. How do you determine when your team can take PTO when you have a large team?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-12-28
-**Views:** 19 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 21 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-determine-when-your-team-can-take-pto-when-you-have-a-large-team/7970
 
 ### Content
@@ -441,11 +837,11 @@ No Replies Be the first to
 
 ---
 
-## 11. How do you help employees collect tips?
+## 15. How do you help employees collect tips?
 
 **Author:** Cloud9JC (Contributor 3)
-**Posted:** 2025-03-28
-**Views:** 984 | **Likes:** 5 | **Comments:** 19
+**Posted:** 2025-04-09
+**Views:** 1 | **Likes:** 5 | **Comments:** 19
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-help-employees-collect-tips/2776
 
 ### Content
@@ -457,143 +853,143 @@ We run a cleaning company, and in our industry, tips are a regular occurrence. H
 #### Reply 1
 
 **Author:** Bjorn
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 There is an outstanding platform that integrates with Jobber in the Marketplace call "Applause". We are in the process of implementing it and if you are located in US you are lucky enough to have that integration with a 3rd party Venmo deposit or something (not sure which one because the tip feature isn't available in Canada yet. It's also a review generation tool and a customer tip option also. It allows the business owner to bonus out $5,10,15 or whatever you want if the customer posts a review which is what drives that customer to post as they don't have to directly pay for the tip (but once they post they are prompted to tip on top of that). It has leaderboards for top performers and also a tech facing app so they can see their tips and bonuses.
 
 #### Reply 2
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Bjorn Thanks Bjorn! I'll check it out, for sure!
 
 #### Reply 3
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Bjorn I just did a demo with Applause, and although it has some cool features, it doesn't give the tech an opportunity to collect a tip at the time of payment of the invoice. We already have a review aggregator and already pay bonuses for reviews, but with Applause, we'd have to choose between tips or bonuses on their app....Also, it cost nearly as much as Jobber monthly and a $1000 set-up fee! Expensive! I wish Jobber would just add a tip line to the signature line screen. It's silly that we can't have that!
 
 #### Reply 4
 
 **Author:** ryaantuttle
-**Posted:** 2025-03-28
+**Posted:** 2025-04-09
 
 Each time the customer receives an invoice from Jobber, they have an option to leave a tip.
 
 #### Reply 5
 
 **Author:** Cloud9JC
-**Posted:** 2025-03-28
+**Posted:** 2025-04-09
 
 to ryaantuttle The Jobber app where our techs take payments doesn't allow for tips. The only way an employee can get a tip is if the customer receives an emailed unpaid invoice and leaves a tip throu an online payment. It doesn't result in many tips, if any, since our business collects payments at the time of service. I realize tios aren't customary for some industries that use Jobber, but cleaning service providers can routinely get tips. We know because they sometimes get cash tips and I talk to other companies that use other platforms who's technicians routinely get tips through their apps. Tips are critically important for employee motivation and ultimately employee retention.
 
 #### Reply 6
 
 **Author:** judithvirag
-**Posted:** 2025-04-28
+**Posted:** 2025-04-09
 
 BUILDER 1 to Cloud9JC I would contact support to see if this is on their improvement radar. I think it should be implemented as employee retention for a cleaning company hughely depends on tips. We do not collect payments on the job and email every invoice out so we give a chance to the customer to provide tips. I understand this would not be a good solution for you because of cash flow.
 
 #### Reply 7
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-04-09
 
 to judithvirag Thanks for chiming in! I've contacted support, and so far, the responses I've heard is that there is nothing on the roadmap to change this. Our cleaning company keeps cards on file for our routine cleaning services so we don't have to track down payments for weekly and bi-weekly clients. Most of those customers don't want to receive invoices and can see their invoices in the client hub, if needed. Then we have our 1-time clients where techs collect payment upon completion and there is no way for our techs to get tipped this way either. It's frustrating and may eventually lead to us moving platforms for the sake of our technicians, but I'm starting this thread to see if others have figured out a better way to collect tips while using Jobber.
 
 #### Reply 8
 
 **Author:** Bjorn
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Cloud9JC Check my comment above. Applause is what you need. Book a demo through the Jobber Marketplace.
 
 #### Reply 9
 
 **Author:** Leonard
-**Posted:** 2025-05-28
+**Posted:** 2025-06-09
 
 Tips should never be expected but always appreciated as you are well aware of. And this is what we tell our cleaning techs. We used to use our software to ask for tips and stopped that and changed the message to tell the client how much we appreciate them for allowing us to serve them and the tips are still coming in. we let our people know that those clients are "theirs" to care for and they (Cleaning Techs) are our clients to care for.
 
 #### Reply 10
 
 **Author:** Cloud9JC
-**Posted:** 2025-05-28
+**Posted:** 2025-06-09
 
 to Leonard Hi Leonard. Thank you for your input. Since we started using a different payment processing system that simply has a tip option on the signature screen, our technicians have received over $1000 per month each in credit card tips alone! They get cash tips too! This is an invaluable tool for employee recruitment and retention and has already allowed us to hire better technicians that require higher pay. I wish Jobber would get the picture and make this simple update to their mobile app and client hub.
 
 #### Reply 11
 
 **Author:** Cloud9JC
-**Posted:** 2025-09-28
+**Posted:** 2025-10-09
 
 With the new features rolled out today, I was hoping that we would see the capability for employees to collect tips from their mobile payment app while collecting payments. I still do not see that this is available on Jobber. Does anyone use other payment processors that allow tips? How do they integrate with Jobber, if at all? Thanks for your help!
 
 #### Reply 12
 
 **Author:** krista
-**Posted:** 2025-09-28
+**Posted:** 2025-10-09
 
 Hi Cloud9JC​ Thanks so much for bringing this up. We know tipping can be an important part of home service workflows, and I appreciate you sharing how valuable it would be for your team to have this built right into mobile payments. At this time, Jobber doesn’t yet support collecting tips through the mobile app, but we’d love to better understand your use case and how this would help your business. I encourage you to reach out to our Success Team at 1-888-721-1115 (option 1) they’ll be happy to talk it through with you and make sure your feedback is captured directly for our product team. Jobber is built by the voice of our customers, and insights yours are what help us prioritize the features that matter most. Thank you again for taking the time to share your experience.
 
 #### Reply 13
 
 **Author:** Msegovia85
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 yes zelle, cash app, Venmo or cash tips directly to the employee
 
 #### Reply 14
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 THank you for chiming in ! I understand using Zelle, Venmo, or Cash App, but jobber doesn't integrate with those payments. So what would need to happen is the customer would have to make a separate payment directly to the tech personally. I'm sure that's a possibility, but that is out of our control and isn't a way for us to support our people, in my estimation. I just wish Jobber would fix this issue!
 
 #### Reply 15
 
 **Author:** Bjorn
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Cloud9JC While Jobber's wheelhouse doesn't cover every solution in-house, they excel by allowing seamless integration with third-party apps. One standout solution is Applause, which not only fills in the gaps but also adds tremendous value by boosting customer reviews—leading to increased sales and accelerated growth. I highly recommend it. Don’t wait around—the solution is already available; you just need to invest in it.
 
 #### Reply 16
 
 **Author:** Bjorn
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 I see. There must be a way to change the system in which you send the invoice so the tip function is available. Have you considered this? What service is it you're offering?
 
 #### Reply 17
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Bjorn Our technicians collect payment from the customer at the time of service. We don't send invoices waiting for payment very often. Even on maid service jobs, where we keep a credit card on file, there is no option to collect tips there either. We do carpet cleaning, duct cleaning, window washing and maid services. We rarely send out unpaid invoices to wait for payment which is the ONLY way to collect a tip in Jobber, that I know of.
 
 #### Reply 18
 
 **Author:** Bjorn
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Cloud9JC I really think you should try the free trial with Applause. We paid 249 to get a free trial. Mention my name and perhaps they can work with you on trying it for a lower upfront cost, they have been super flexible for us. I see it as an employee and customer retention tool. In this day and age employees need these incentives and when they know that these reviews and tips have a direct impact on their bank account that day, don't be surprised how happy your customers are with the level of service they will receive based on a new found incentivization platform.
 
 #### Reply 19
 
 **Author:** Cloud9JC
-**Posted:** 2025-04-28
+**Posted:** 2025-05-09
 
 to Bjorn Hi Bjorn. Thanks again for the suggestion. I did a demo and they did offer to reduce the onboarding cost, but the price of the platform is nearly as much as Jobber for a system that doesn't still allow for traditional tipping. I can appreciate it's other features, but Applause still doesn't solve this pretty big issue for us. I appreciate the suggestion Bjorn. I wish Jobber payments would just make a tipping feature available on the mobile app everybody else does.
 
 ---
 
-## 12. Why do home service businesses need SOPs, employee handbooks, and contracts?
+## 16. Why do home service businesses need SOPs, employee handbooks, and contracts?
 
 **Author:** ryaantuttle (Jobber Ambassador)
-**Posted:** 2025-02-28
-**Views:** 467 | **Likes:** 6 | **Comments:** 5
+**Posted:** 2025-03-09
+**Views:** 482 | **Likes:** 6 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/why-do-home-service-businesses-need-sops-employee-handbooks-and-contracts/1129
 
 ### Content
@@ -605,45 +1001,45 @@ Why Every Home Improvement Professional Needs SOPs, Handbooks, and Employee Cont
 #### Reply 1
 
 **Author:** FredHodgeJr
-**Posted:** 2025-02-28
+**Posted:** 2025-03-09
 
 🎯🎯🎯 You cannot grow your company without doing this, otherwise you just own your job.
 
 #### Reply 2
 
 **Author:** Chloe
-**Posted:** 2025-02-28
+**Posted:** 2025-03-09
 
 As an operations contractor specializing in supporting skilled trade businesses, I couldn’t agree more with your points. I transitioned from a career in tech team leadership to working with home improvement companies for exactly this reason—helping businesses implement essential back-end structures that drive growth and success. Developing SOPs, handbooks, and contracts may feel overwhelming at first, but they are game-changers. They not only boost employee confidence and retention but also enable business owners to deliver consistent, high-quality service. These tools lay the foundation for scaling operations and building a professional reputation. I especially appreciate your suggestion to involve team members in the creation process—it’s a powerful way to foster buy-in and create a stronger, more collaborative team culture. Great post!
 
 #### Reply 3
 
 **Author:** hshoosier
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 Is there someplace to get basic templates for these and then tweak them to fit our specific company? I don't see the benefit of totally recreating the wheel if the bulk of the information is available somewhere.
 
 #### Reply 4
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 to hshoosier hshoosier​ This is what I have used over the years. I have copied and pasted and written parts of it. You would need to edit it to suit your company. You can download using the link below (uploaded using Filebin.net) Employee_Handbook.BLANK.docx NOTE: I do not warrant that this information is correct or that it meets your current rules/regulations/laws. This is for informational and educational purposes only.
 
 #### Reply 5
 
 **Author:** DannyM
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 to RichardM RichardM​ thanks for this
 
 ---
 
-## 13. What's one small thing you do that REALLY helps team morale?
+## 17. What's one small thing you do that REALLY helps team morale?
 
 **Author:** berrycleanusa (Contributor 2)
-**Posted:** 2025-12-28
-**Views:** 62 | **Likes:** 2 | **Comments:** 3
+**Posted:** 2026-01-09
+**Views:** 65 | **Likes:** 2 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/whats-one-small-thing-you-do-that-really-helps-team-morale/7840
 
 ### Content
@@ -655,31 +1051,31 @@ Not sure if this helps anyone, but we started doing quick “Friday shoutouts”
 #### Reply 1
 
 **Author:** Moly
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM A couple things I notice that get my team's energy up: Time to share personal stuff: It's so important to connect as humans and can easily be missed but I see the impact on team relationships being huge! We do a monthly 'hang meeting' where we talk about non-work stuff for 30-45 minutes which isn't possible for everyone... This also looks asking questions in our team chat music or audiobook recommendations, ideas for gift exchanges, soup recipes, etc. Asking people to share a win with the team or larger business when they share it 1-on-1 with me: People need that encouragement that 'this is worth sharing/talking about' and the sense of ownership and excitement is always great to see!
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 BUILDER 1 We do a lot of little things: Golden plunger award quarterly Share positive customer reviews and google reviews for all the staff to see Reward each other with tacos and the tacos can be redeemed in gas cards, day off or contribute to their dream
 
 #### Reply 3
 
 **Author:** julie
-**Posted:** 2025-12-28
+**Posted:** 2026-01-09
 
 JOBBER COMMUNITY TEAM to judithvirag "Golden Plunger Award" what!! How does one win this award 👀
 
 ---
 
-## 14. How do you balance kindness and strict standards as a business owner?
+## 18. How do you balance kindness and strict standards as a business owner?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-12-28
-**Views:** 29 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 31 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-balance-kindness-and-strict-standards-as-a-business-owner/7793
 
 ### Content
@@ -697,11 +1093,11 @@ No Replies Be the first to
 
 ---
 
-## 15. When to hire a General Manager?
+## 19. When to hire a General Manager?
 
 **Author:** BrandenSewell (Jobber Ambassador)
-**Posted:** 2025-12-28
-**Views:** 22 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-01-09
+**Views:** 24 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/when-to-hire-a-general-manager/7790
 
 ### Content
@@ -719,11 +1115,11 @@ No Replies Be the first to
 
 ---
 
-## 16. How did you know it was time to hire your first salesperson?
+## 20. How did you know it was time to hire your first salesperson?
 
 **Author:** Lisa (Jobber Community Team)
-**Posted:** 2025-11-28
-**Views:** 127 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2025-12-09
+**Views:** 134 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-did-you-know-it-was-time-to-hire-your-first-salesperson/7620
 
 ### Content
@@ -735,20 +1131,20 @@ JOBBER COMMUNITY TEAM When did you realize you needed your first sales hire? And
 #### Reply 1
 
 **Author:** RichardM
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 This was a good watch! I really Don, she's a firecracker.
 
 #### Reply 2
 
 **Author:** Lisa
-**Posted:** 2025-11-28
+**Posted:** 2025-12-09
 
 JOBBER COMMUNITY TEAM to RichardM Right! Doni's fantastic. 🙌 Thanks for tuning in to the episode.
 
 ---
 
-## 17. How do you pay your staff?
+## 21. How do you pay your staff?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-11-28
@@ -770,7 +1166,7 @@ For my business, it depends on who they are and their circumstances. I have had 
 
 ---
 
-## 18. The Jobber Team is looking to chat with customers managing larger teams!
+## 22. The Jobber Team is looking to chat with customers managing larger teams!
 
 **Author:** Ronen (Jobber Product Team)
 **Posted:** 2025-10-28
@@ -783,7 +1179,7 @@ JOBBER PRODUCT TEAM Hey everyone! Our Product Team is doing research to better u
 
 ---
 
-## 19. Anyone using an ESOP?
+## 23. Anyone using an ESOP?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -805,7 +1201,7 @@ No Replies Be the first to
 
 ---
 
-## 20. How do you handle employees complaining about one another?
+## 24. How do you handle employees complaining about one another?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -855,7 +1251,7 @@ JOBBER COMMUNITY TEAM to BrandenSewell Haha yeah I actually had a chat with a pe
 
 ---
 
-## 21. How to spot and hire top talent before your competitors do
+## 25. How to spot and hire top talent before your competitors do
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-10-28
@@ -877,7 +1273,7 @@ No Replies Be the first to
 
 ---
 
-## 22. Weekend Work
+## 26. Weekend Work
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-10-28
@@ -920,7 +1316,7 @@ BUILDER 1 to BrandenSewell Yes we do this as well. I the missed work replacement
 
 ---
 
-## 23. Who Was Your First Hire?
+## 27. Who Was Your First Hire?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -949,7 +1345,7 @@ BUILDER 1 Well, my first hire was family. It was a struggle, and if I could do i
 
 ---
 
-## 24. What Features Would Be Helpful for Dealing with Subcontractors on Your Team?
+## 28. What Features Would Be Helpful for Dealing with Subcontractors on Your Team?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-04-28
@@ -992,7 +1388,7 @@ The ability to have better scheduling for longer-term remodel jobs that can be a
 
 ---
 
-## 25. What’s one red flag you always watch for during an interview?
+## 29. What’s one red flag you always watch for during an interview?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -1014,7 +1410,7 @@ JOBBER COMMUNITY TEAM Can't wait to tune into this episode! 🙌
 
 ---
 
-## 26. How do you retain great people?
+## 30. How do you retain great people?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-09-28
@@ -1064,7 +1460,7 @@ to 24C-C-G Hey 24C-C-G​, I recommend looking into Ryan Englin with Core Matter
 
 ---
 
-## 27. Podcast discussion: Stop Using Org Charts. Use This to Grow Faster.
+## 31. Podcast discussion: Stop Using Org Charts. Use This to Grow Faster.
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -1086,7 +1482,7 @@ No Replies Be the first to
 
 ---
 
-## 28. Subcontractors vs Direct Labor
+## 32. Subcontractors vs Direct Labor
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -1213,7 +1609,7 @@ I used to think it was hard to find great employees until I stopped blaming ever
 
 ---
 
-## 29. Feeling Stuck in the Busy-But-Broke Zone – How Did You Break Through?
+## 33. Feeling Stuck in the Busy-But-Broke Zone – How Did You Break Through?
 
 **Author:** MrBackflow (Contributor 3)
 **Posted:** 2025-07-28
@@ -1263,7 +1659,7 @@ I have an entire podcast addressing this. It is called the "Off the Ladder" podc
 
 ---
 
-## 30. Seeking Advice on Hiring – Best Practices?
+## 34. Seeking Advice on Hiring – Best Practices?
 
 **Author:** MrBackflow (Contributor 3)
 **Posted:** 2025-08-28
@@ -1285,7 +1681,7 @@ BUILDER 1 MrBackflow​ this is an amazing time when your business starts to gro
 
 ---
 
-## 31. Time Clock / Employee Time Tracking
+## 35. Time Clock / Employee Time Tracking
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-02-28
@@ -1342,7 +1738,7 @@ I would recommend implementing a system for accountability and discipline. For e
 
 ---
 
-## 32. Paid Time Off
+## 36. Paid Time Off
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-08-28
@@ -1378,7 +1774,7 @@ We do two weeks of PTO which is earned after 90 days. We give the two weeks and 
 
 ---
 
-## 33. Do You Train Your Team to Think or Just Work?
+## 37. Do You Train Your Team to Think or Just Work?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -1421,7 +1817,7 @@ to judithvirag I love the example that you are leaving. Especially leaving yours
 
 ---
 
-## 34. Hiring Your First Employee – What Held You Back or Pushed You Forward?
+## 38. Hiring Your First Employee – What Held You Back or Pushed You Forward?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-07-28
@@ -1457,7 +1853,7 @@ BUILDER 1 to LauraWhalen Thank you Laura. We have our own job descirptions now. 
 
 ---
 
-## 35. Children as employees or contractors?
+## 39. Children as employees or contractors?
 
 **Author:** Aosei9822 (Contributor 2)
 **Posted:** 2025-06-28
@@ -1521,7 +1917,7 @@ This is real advice. Their work does not need to be hourly. Having them in a vid
 
 ---
 
-## 36. Hiring the Right People!
+## 40. Hiring the Right People!
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -1592,7 +1988,7 @@ to Leonard That's a very good idea, I'll definitely implement that Google review
 
 ---
 
-## 37. My biggest challenge finding reliable candidates.
+## 41. My biggest challenge finding reliable candidates.
 
 **Author:** hhhandyman760 (Contributor 2)
 **Posted:** 2025-05-28
@@ -1656,7 +2052,7 @@ I was in the same boat. I used to think the key to a great hire was simple: Work
 
 ---
 
-## 38. First Key Employee
+## 42. First Key Employee
 
 **Author:** Baylor1 (Contributor 2)
 **Posted:** 2025-06-28
@@ -1762,7 +2158,7 @@ This is what I would do. I would have the interview in 2 parts the first would b
 
 ---
 
-## 39. Most of Your Problems Are Communication Problems
+## 43. Most of Your Problems Are Communication Problems
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -1784,7 +2180,7 @@ No Replies Be the first to
 
 ---
 
-## 40. We Hired for Skill & We Got Burnt.
+## 44. We Hired for Skill & We Got Burnt.
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -1806,7 +2202,7 @@ No Replies Be the first to
 
 ---
 
-## 41. Everyone Wants to HIRE the “3–5 Year Guy” — But Why?
+## 45. Everyone Wants to HIRE the “3–5 Year Guy” — But Why?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -1828,7 +2224,7 @@ No Replies Be the first to
 
 ---
 
-## 42. Thanking Our Employees Who Help Make the Company On The Daily
+## 46. Thanking Our Employees Who Help Make the Company On The Daily
 
 **Author:** AllLawns (Contributor 3)
 **Posted:** 2025-06-28
@@ -1976,7 +2372,7 @@ Does anyone use Applause or any other app? I am researching apps for team engage
 
 ---
 
-## 43. How to hire and set up payroll
+## 47. How to hire and set up payroll
 
 **Author:** laricus_a (Contributor 2)
 **Posted:** 2025-06-28
@@ -2061,7 +2457,7 @@ Gusto has been great for us! Easy to use, intuitive and simple. We can set up de
 
 ---
 
-## 44. Hiring employees
+## 48. Hiring employees
 
 **Author:** asllc (Contributor 3)
 **Posted:** 2025-06-28
@@ -2160,7 +2556,7 @@ to 419lawns We're are you located
 
 ---
 
-## 45. How do you get top employees in a rural community?
+## 49. How do you get top employees in a rural community?
 
 **Author:** ConfluenceHVAC (Contributor 2)
 **Posted:** 2025-06-28
@@ -2189,7 +2585,7 @@ to Rufusoregon Yes. I turn down work daily because I don't have the mechanical h
 
 ---
 
-## 46. Hiring Strategies – What’s Working for You?
+## 50. Hiring Strategies – What’s Working for You?
 
 **Author:** AbigayleJones (Contributor 2)
 **Posted:** 2025-06-28
@@ -2211,7 +2607,7 @@ No Replies Be the first to
 
 ---
 
-## 47. Finding clients
+## 51. Finding clients
 
 **Author:** BigandTall (Contributor 2)
 **Posted:** 2025-06-28
@@ -2233,7 +2629,7 @@ BUILDER 1 There already a lot of info here maybe: How to grow business | The Hom
 
 ---
 
-## 48. Poll: Safety Training
+## 52. Poll: Safety Training
 
 **Author:** SafetyCityLLC (Contributor 2)
 **Posted:** 2025-06-28
@@ -2255,7 +2651,7 @@ No Replies Be the first to
 
 ---
 
-## 49. Time sheets reporting
+## 53. Time sheets reporting
 
 **Author:** Derek1 (Contributor 3)
 **Posted:** 2025-06-28
@@ -2277,7 +2673,7 @@ No Replies Be the first to
 
 ---
 
-## 50. Onboarding Software for new hires
+## 54. Onboarding Software for new hires
 
 **Author:** totalkare (Contributor 2)
 **Posted:** 2025-02-28
@@ -2341,7 +2737,7 @@ We use CORFIX - it is in-vaulable to our business. They have custom forms etc, y
 
 ---
 
-## 51. Hiring the right person for growth
+## 55. Hiring the right person for growth
 
 **Author:** mcurley2 (Contributor 2)
 **Posted:** 2025-06-28
@@ -2412,7 +2808,7 @@ What about opening up some volunteer positions for people who may need community
 
 ---
 
-## 52. Staying in Business
+## 56. Staying in Business
 
 **Author:** TruRefreshers (Contributor 2)
 **Posted:** 2025-05-28
@@ -2434,7 +2830,7 @@ No Replies Be the first to
 
 ---
 
-## 53. Need advice on scaling
+## 57. Need advice on scaling
 
 **Author:** NewLandscaper (Contributor 2)
 **Posted:** 2025-04-28
@@ -2519,7 +2915,7 @@ Hi there, 2 suggestions that could be very helpful, is one, to implement one of 
 
 ---
 
-## 54. You Don’t Need More Hours — You Need the Right People
+## 58. You Don’t Need More Hours — You Need the Right People
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-05-28
@@ -2548,7 +2944,7 @@ Give me a shout CPP209​ https://calendly.com/ryaan-besthandymancompany/15min
 
 ---
 
-## 55. Hiring & Team
+## 59. Hiring & Team
 
 **Author:** Evan (Contributor 2)
 **Posted:** 2025-05-28
@@ -2619,7 +3015,7 @@ Hello my name is James me and my partner has a cleaning company in Jacksonville 
 
 ---
 
-## 56. What else? What is your secret sauce in hiring and retaining talent?
+## 60. What else? What is your secret sauce in hiring and retaining talent?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-05-28
@@ -2683,7 +3079,7 @@ to judithvirag So we and a few other companies did a soft survey with our people
 
 ---
 
-## 57. Building a Strong Team for Long-Term Growth”
+## 61. Building a Strong Team for Long-Term Growth”
 
 **Author:** Hwbdelivery (Contributor 4)
 **Posted:** 2025-04-28
@@ -2705,7 +3101,7 @@ No Replies Be the first to
 
 ---
 
-## 58. Commission Based Pay?
+## 62. Commission Based Pay?
 
 **Author:** HomeServicePro (Contributor 2)
 **Posted:** 2025-04-28
@@ -2804,7 +3200,7 @@ Check the new IRS changes to self employment. Last year they was making changes 
 
 ---
 
-## 59. How much do you currently pay for a virtual assistant?
+## 63. How much do you currently pay for a virtual assistant?
 
 **Author:** Jessica (Contributor 2)
 **Posted:** 2025-02-28
@@ -2854,7 +3250,7 @@ BUILDER 1 to Misscuai I advertised on Indeed specifically in Manila the capital 
 
 ---
 
-## 60. Employee Pay Rate
+## 64. Employee Pay Rate
 
 **Author:** markiecooks (Contributor 2)
 **Posted:** 2025-03-28
@@ -2883,197 +3279,7 @@ How about tracking how much they are owed for a certain time period?
 
 ---
 
-## 61. Outside the box Employee Benefits?
-
-**Author:** JessieClean (Contributor 3)
-**Posted:** 2025-02-28
-**Views:** 23 | **Likes:** 6 | **Comments:** 25
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/outside-the-box-employee-benefits/710
-
-### Content
-
-Greetings! What are some outside the box benefits you offer employees? As a small business, insurance is cost prohibitive as is offering PTO. What are some low-cost benefits your employees appreciate? BONUS AND RETENTION PROGRAMS CLEANING
-
-### Replies (25)
-
-#### Reply 1
-
-**Author:** MCLS
-**Posted:** 2025-02-28
-
-Out of the box ideas could be something buying groceries or gas as a "bonus". It will impact their lives to save that tank of gas, or that trip to the grocery store, is a write off, and will show appreciation for your employees
-
-#### Reply 2
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to MCLS I absolutely love this! Thank you for the ideas. I also often forget that these kinds of gifts/benefits are a write off. Thank you for the reminder!
-
-#### Reply 3
-
-**Author:** julie
-**Posted:** 2025-02-28
-
-JOBBER COMMUNITY TEAM Hey JessieClean, it's great that you're looking out for out-of-the-box ideas for employee benefits! What benefits do you currently offer your employees right now?
-
-#### Reply 4
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to julie Hi Julie! We are currently seeking local experts to offer Lunch & Learn opportunities for our employees in the following areas: - Financial Fitness & Credit Repair - Health & Wellness - Mental Health - Self Defense We try and get together quarterly to decompress and just have fun together. We have 13 employees and our work family is very close. It's nice to get together and let loose. In the past, we've treated our employees to breakfast, had craft nights, celebrated divorces/engagements/baby showers etc, and taken our crew out for drinks and bowling.
-
-#### Reply 5
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to julie Hi Julie, We offer quite a few little perks as we're a small business with 2 owners so there's not a huge profit margin to work with. Not yet, at least! Some of our perks are: 1) Free bottled water, coffee, tea, and creamer 2) Free breakfasts and lunches on occasion 3) Quarterly gatherings where we typically cover a couple of drinks and apps 4) No evenings, weekends, or holidays (Saturdays are voluntary if we have work available) 5) This year we are paying our team on Thanksgiving and Christmas. It's the first time we've been able to do this in 5 years and we're very excited! It's a surprise. 6) We keep popsicles in the shop during the summer months 7) I'm currently setting up Lunch & Learns in areas of interest: Financial Fitness, Mental Health & Wellness, Self-Defense, Credit Repair 8) Our employees keep 100% of their tips 9) Recognize and celebrate life events (birthdays, baby showers, divorce parties, Jessie-Versaries, etc) 10) Beer Wednesdays - We have a fresh growler of cold craft beer available for after work 11) We have cold and allergy meds, pain reliever and feminine care products available for use as well Future Goals: As a women owned business, a dream of ours is to partner with an accredited and local childcare provider and/or provide childcare in-house to remove that barrier for working parents. We'd to subsidize childcare costs and keep it close to work to lessen the burden for our employees. We'd also to offer earned and accrued PTO for our team but it's a ways out from happening still.
-
-#### Reply 6
-
-**Author:** CleanSweepInc
-**Posted:** 2025-02-28
-
-to JessieClean this is so similar to what we do I had to double check that I didn't write it. I forgot to mention in a somewhere in the is thread that we also stock person hygiene products, pain relievers, PMS products, etc. Just two on your list that we don't do, the quarterly gathering and the lunch and learn, nice ideas
-
-#### Reply 7
-
-**Author:** ProperGuy
-**Posted:** 2025-02-28
-
-Anytime the value exceeds the cost. For many, doing something that makes the spouse, kids or family happy, is a good bet. Buying a plane ticket back home so they can be with their family during the holidays, picking up the tab on a swimming class membership for the kiddos, giving the employee a spa certificate to give to his wife or sports tickets to give to the husband... etc, etc.
-
-#### Reply 8
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to ProperGuy Love those ideas! Thank you for sharing.
-
-#### Reply 9
-
-**Author:** CherylS
-**Posted:** 2025-02-28
-
-We hand out gift cards to Amazon when a crew has done an over the top job or came under budget on a job. We will sometimes buy the crew lunch. During hot mid western summers we will deliver popsicles or ice cream to the crews on their job sites.
-
-#### Reply 10
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to CherylS Love that! We have popsicles and water in our shop for our team, as well. We bought them as a one off because it was so hot out but they loved it so much we kept getting them! I love that you deliver it. As a fellow mid-westerner, I'm sure it's much appreciated.
-
-#### Reply 11
-
-**Author:** CleanSweepInc
-**Posted:** 2025-02-28
-
-Good question. Generous mileage reimbursement, careful tallying of tips and putting the tip function in front of clients point of sale, employee birthdays celebrated, drinks and snacks in office which evolved into breakfast foods. Gift cards for car washes. Coffee gift cards. Candy dish or other goodies in office. Turkeys or grocery gift cards for Thanksgiving, small bonus at Christmas with card and gift. Take manager to lunch/brunch. Flexible days off, no evening/weekends/holidays or if we do work them is is voluntary, and paid at over time pay. Health care coverage is still out of our reach but would be the biggest thing.
-
-#### Reply 12
-
-**Author:** CleanSweepInc
-**Posted:** 2025-02-28
-
-to CleanSweepInc We also **bleep** off steam by sharing a cocktail often on Fridays!
-
-#### Reply 13
-
-**Author:** julie
-**Posted:** 2025-02-28
-
-JOBBER COMMUNITY TEAM to CleanSweepInc Ooo, what a nice idea! I love a good cocktail 🍹 (also, it looks the word 'blow' was one of our moderated words! I took off the filter so it shouldn't be filtered in the future 👍)
-
-#### Reply 14
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to CleanSweepInc After a week of hard work, I'm sure that's much appreciated!!! We have Beer Wednesdays! We're across the street from a woman-owned restaurant / micro brewery and she's freaking fabulous. They have $7 growler fills on Weds so we try and have a cold growler of craft beer available when they get back to the shop. Quarterly, we try and treat everyone out and get together. It's great seeing everyone all gussied up and gabbin'. We try to cover their first couple cocktails / apps when we go out. We have barbequed for them, hosted a craft night, bonfire party, etc.
-
-#### Reply 15
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to CleanSweepInc These a great benefits! Thank you for sharing. We do quite a few of these as well, aside from the turkey and grocery cards at Thanksgiving. That is a great idea!!! How many employees do you have and how long have you been in business? Our crew is also off on evenings, weekends, and holidays - and also voluntary if we do have extra work available. We do not pay OT pay for weekend work but that's a great perk!!! Health coverage is sadly too far out of our reach as well. At some point in the not so distant future, we'd to partner with a child care provider or provide in-house childcare to remove that barrier for working parents with young children. We wouldn't cover the whole cost but at least help offset it. Having childcare close to work would help (we believe) with overall attendance and job satisfaction, in addition to helping make our people's lives a bit easier. It's a dream of ours, as a women-owned business. Goals, amirite?
-
-#### Reply 16
-
-**Author:** FredHodgeJr
-**Posted:** 2025-02-28
-
-Employee Appreciation events go a really long way. We have 3 per year, our annual kick off the season, Clearview Day in August and then a Holiday apprecition in December. Here's a video. https://www.youtube.com/shorts/M29FC3E1Jgw
-
-#### Reply 17
-
-**Author:** JessieClean
-**Posted:** 2025-02-28
-
-to FredHodgeJr WOW! I just watched the video. Thank you for sharing! That actually made me tear up a bit. They were so surprised and happy! What a great perk. Bravo! I aspire to be able to do something that for my people in the future. That was beautiful. Thank you. May I ask how many employees you have and how long have you been in business?
-
-#### Reply 18
-
-**Author:** FredHodgeJr
-**Posted:** 2025-02-28
-
-to JessieClean Thank you!! This is our 20th year and we have 26 employees! We started small with these events and have grown and evolved. Our first one was simply a BBQ in our backyard. We have 3 main events, Kickoff party early March, Clearview Day in August and then a Holiday Party in December. If you have too many they get watered down and the team comes to expect it and not appreciate it as much.
-
-#### Reply 19
-
-**Author:** jacurri1
-**Posted:** 2025-02-28
-
-Retirement Plan - Simple IRA, we match up to 3%, you can save up to $16k/yr, bit more if you are over 50. The administration is straightforward. Can also be a big tax savings for the owner if you are drawing a salary
-
-#### Reply 20
-
-**Author:** CleanSweepInc
-**Posted:** 2025-02-28
-
-Test comment
-
-#### Reply 21
-
-**Author:** kbeaty
-**Posted:** 2025-02-28
-
-For this specific time of year we are purchasing Thanksgiving meals for all employees.
-
-#### Reply 22
-
-**Author:** NKilburg
-**Posted:** 2025-02-28
-
-I was thinking about this exact thing today and came up withs discounted prices on monthly massages at a local massage therapist, fitness center/gym membership, monthly food truck if you have an office or workshop, clothes/footwear at a local store. Being able to get employees special pricing would be a nice perk that doesn’t cost the business. Money is definitely the main motivation to a point so I don’t want to spend money on perks that could be used to increase pay.
-
-#### Reply 23
-
-**Author:** fmaksad
-**Posted:** 2025-02-28
-
-Gym memberships, spotify for technicians who listen to music all the time, I got audible for people who wanted to listed to development books (or fun ones)
-
-#### Reply 24
-
-**Author:** Garrett
-**Posted:** 2025-02-28
-
-Hi JessieClean, Great thread & ideas for us all to glean from, love it! For us, as we have grown, we have taken one cleaner a year and have helped them start their own cleaning business. Sometimes it works out great and other times they come back under our company as a W-2 employee, but with a whole lot more appreciation and respect. Either way we have seen this as a positive benefit for the whole team and community and has only positively impacted us all. Teach a person how to manage their own business and they can impact their community!
-
-#### Reply 25
-
-**Author:** NicktheArborist
-**Posted:** 2025-04-28
-
-Do you have an ice machine? You need one.
-
----
-
-## 62. Workers Comp.
+## 65. Workers Comp.
 
 **Author:** MERTSPRODUCTS (Contributor 2)
 **Posted:** 2025-03-28
@@ -3109,7 +3315,7 @@ We had to make the jump much sooner then anticipated into being an W2 employer v
 
 ---
 
-## 63. Partial PTO Tracking?
+## 66. Partial PTO Tracking?
 
 **Author:** apexhomeworks (Contributor 2)
 **Posted:** 2025-02-28
@@ -3138,99 +3344,7 @@ to CleanbyVivi That's good to know! Thank you for your !
 
 ---
 
-## 64. Seeking Shared VA
-
-**Author:** Shan2024 (Contributor 2)
-**Posted:** 2025-02-28
-**Views:** 971 | **Likes:** 1 | **Comments:** 11
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/seeking-shared-va/558
-
-### Content
-
-Looking for shared VA contacts to help me grow my cleaning company... scheduling, sales, customer service - my first office/VA help, so new at this! Any help or tips would be most appreciated!! TIA CLEANING
-
-### Replies (11)
-
-#### Reply 1
-
-**Author:** JenMcBurney
-**Posted:** 2025-02-28
-
-Check Upwork! You can post a job and interview people. I did this about 5 years ago, I went with someone without experience and trained them.
-
-#### Reply 2
-
-**Author:** Malikhc10
-**Posted:** 2025-02-28
-
-Hey, I also used Upwork to hire a VA and I do strongly recommend these people. They are very committed to their work. I will share you their link. https://www.upwork.com/freelancers/~0136bd2e5bd1422b3c
-
-#### Reply 3
-
-**Author:** Shan2024
-**Posted:** 2025-02-28
-
-to Malikhc10 Good to know. Thank you.
-
-#### Reply 4
-
-**Author:** vlad
-**Posted:** 2025-02-28
-
-A few lessons I learned using VAs: - Timezone is important. For customer service, it's best to have someone in a similar timezone. If you're in the US, anyone in North or South America would be fine. - Take into consideration cultural differences. Training will be important. Clear guidelines on what needs to be done and how will really help. - Make sure you start with some small tasks that can be done without giving access to everything. Test them out so you can see if you can work with them. If they have every skill listed on their profile and only charge $5/h, it's probably too good to be true. - You can find ones that work with other clients and can charge you only while they are actively working on your tasks. - If you want someone based in the US and with experience working with cleaning companies, you can go with a company TaskAwayVA. I use them. Let me know if you'd an introduction.
-
-#### Reply 5
-
-**Author:** Shan2024
-**Posted:** 2025-02-28
-
-Hey, thanks for your ! I will consider
-
-#### Reply 6
-
-**Author:** EpicCleans87401
-**Posted:** 2025-02-28
-
-UpWork is a great place to hire a great professional VA who works while your sleeping cause they have different daylight hours 👍
-
-#### Reply 7
-
-**Author:** ryaantuttle
-**Posted:** 2025-02-28
-
-I would suggest taking your time before hopping into this right away. Although, it sounds great and inexpensive, it can turn into a nightmare very quickly! You'll want to make sure you set up a Google folder with all of your information, along with log-ins, passwords and anything else you think is pertinent to their position. You'll also need to figure out timezones, holidays and their work schedule and how you can onboard them. From there you'll need an emergency "escape" plan. Also, keep in mind this is NOT an employee and you'll want to make sure there's some type of agreement with them in place, so they can train the next VA in case they decide to quit or leave. If this person suddenly vanishes, how will you get your info back, and make sure you're not locked out of any accounts. I only speak from deep experience with this exact topic and can pass along some of those nightmare stories if you'd to hear them.
-
-#### Reply 8
-
-**Author:** Shan2024
-**Posted:** 2025-02-28
-
-to ryaantuttle Thank you for this valuable insight. I will be sure to make time to prepare.
-
-#### Reply 9
-
-**Author:** JanineChambers
-**Posted:** 2025-02-28
-
-I worked as a VA for three years and know a few great VA's that I can refer. I recommend finding a freelancer over hiring an agency because most of the money goes to the agency and they provide very little support to the person working in your business. Hiring internationally is a popular choice but can be very exploitative so if possible try to hire someone that sets their own rates. If you have any questions I am happy to answer if I can I am also sharing a link to a guide I created in regards to hiring freelancers if you want to check it out. Freelancer Hiring Guide
-
-#### Reply 10
-
-**Author:** Jessica
-**Posted:** 2025-02-28
-
-Hello! I’ve had virtual assistants for years, and I love it. I’ve tried the shared model before, but I don’t recommend it. One tip I can give you is to align everything before the assistant starts. Personally, I working with a larger team because each person has different skills. I hired a company to recruit a virtual assistant, and my experience was great. Since the virtual assistant is based in Brazil, the cost is lower, and you can hire someone for around $5/hour, which is a good salary there. Plus, you can find highly skilled professionals who are fluent in English and available to work within U.S. business hours. I hope this helps! If you’d , send me a message—I’d be happy to share more of my experience with you. 9017790739
-
-#### Reply 11
-
-**Author:** BHS
-**Posted:** 2025-03-28
-
-My longest VA relationship is going on 16 years. That is to say, you can absolutely find great talent abroad. Currently, I use onlinejobs.ph to find VAs. The starting pay I offer is usually $800 USD/mo for a full-time VA. I just searched the site, and I see that 28 individuals list Jobber as an experience/software they previously used
-
----
-
-## 65. Best job perks?
+## 67. Best job perks?
 
 **Author:** SummerHouseCC (Contributor 2)
 **Posted:** 2025-02-28
@@ -3315,7 +3429,7 @@ I have found that every employee has their own version of a love language. Not a
 
 ---
 
-## 66. Building and Keeping a Team Engaged
+## 68. Building and Keeping a Team Engaged
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-02-28
@@ -3365,7 +3479,7 @@ BUILDER 1 Love it
 
 ---
 
-## 67. How to recruit to a rural location
+## 69. How to recruit to a rural location
 
 **Author:** ConfluenceHVAC (Contributor 2)
 **Posted:** 2025-02-28
@@ -3408,7 +3522,7 @@ to ryaantuttle An Red Seal Refrigeration Mechanic and Gas Fitter with a good und
 
 ---
 
-## 68. Notifying Crew How Much To Be Paid Per Job
+## 70. Notifying Crew How Much To Be Paid Per Job
 
 **Author:** barktreeandland (Contributor 2)
 **Posted:** 2025-02-28
@@ -3444,7 +3558,7 @@ Hi barktreeandland, thanks for the question. Jobber is setup primarily to record
 
 ---
 
-## 69. Paying Subs
+## 71. Paying Subs
 
 **Author:** jsiandre (Contributor 2)
 **Posted:** 2025-02-28
@@ -3494,7 +3608,7 @@ to jsiandre Any time! Have the subcontractor set their rate for you and go from 
 
 ---
 
-## 70. Creating/Implementing Crew Compensation Program
+## 72. Creating/Implementing Crew Compensation Program
 
 **Author:** KeysTrees (Contributor 2)
 **Posted:** 2025-02-28
@@ -3544,7 +3658,7 @@ I'm eager to hear further ideas about tracking KPI's and compensating accordingl
 
 ---
 
-## 71. Seasonal Work
+## 73. Seasonal Work
 
 **Author:** Valerie (Contributor 2)
 **Posted:** 2025-02-28
@@ -3594,7 +3708,7 @@ Building a company culture that encourages employees to return for seasonal work
 
 ---
 
-## 72. System to handle subcontractors payments
+## 74. System to handle subcontractors payments
 
 **Author:** brandym (Contributor 2)
 **Posted:** 2025-02-28
@@ -3630,7 +3744,7 @@ Hey Brandy, thanks for the question. I suggest adding a transferable custom fiel
 
 ---
 
-## 73. Performance Reviews for your Employees?
+## 75. Performance Reviews for your Employees?
 
 **Author:** JoelGreiner1979 (Contributor 2)
 **Posted:** 2025-02-28
@@ -3666,7 +3780,7 @@ Our performance reviews are built around five key pillars, each designed to fost
 
 ---
 
-## 74. When do you know when to start hiring?
+## 76. When do you know when to start hiring?
 
 **Author:** GBPlumbing (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -3793,7 +3907,7 @@ When your schedule is at 80% capacity. That still gives you time to properly hir
 
 ---
 
-## 75. Hiring early? Benefit or hinderance?
+## 77. Hiring early? Benefit or hinderance?
 
 **Author:** peterz3g (Contributor 3)
 **Posted:** 2025-02-28
@@ -3836,7 +3950,7 @@ I find that I approach hiring with an all the time mentality now. I am always on
 
 ---
 
-## 76. Do you have a formula/method you use to calculate Christmas bonuses for your staff?
+## 78. Do you have a formula/method you use to calculate Christmas bonuses for your staff?
 
 **Author:** mowtownedmonton (Contributor 4)
 **Posted:** 2025-02-28
@@ -3858,7 +3972,7 @@ BUILDER 1 We have implemented a performance based Christmas bonus. We reward bas
 
 ---
 
-## 77. Subcontractor agreements
+## 79. Subcontractor agreements
 
 **Author:** wizards1 (Contributor 2)
 **Posted:** 2025-02-28
@@ -3915,7 +4029,7 @@ to bedellmgmt Correct! Legal team for everything lol
 
 ---
 
-## 78. Improving Internal Communication with Your Team
+## 80. Improving Internal Communication with Your Team
 
 **Author:** Erica_Krupin (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -3958,7 +4072,7 @@ Its also important to follow your org chart and chain of command. Highly recomme
 
 ---
 
-## 79. What perks or benefits do you offer your employees?
+## 81. What perks or benefits do you offer your employees?
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -4036,7 +4150,7 @@ to Kelsey_LBP They also provide a tool/clothing allowance.
 
 ---
 
-## 80. Employee Training Software
+## 82. Employee Training Software
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-02-28
