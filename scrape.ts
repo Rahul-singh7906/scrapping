@@ -273,10 +273,10 @@ function parseRelativeDate(relativeText: string, referenceDate?: Date): string {
 
 // ✅ Scrape replies and main content from an open discussion page
 async function scrapeDiscussionDetail(page: Page, url: string): Promise<DiscussionDetail> {
-  await page.goto(url, { waitUntil: "domcontentloaded" });
+  await page.goto(url, { waitUntil: "networkidle", timeout: 60000 });
   // Random delay to avoid pattern detection
   await delay(Math.random() * 2000 + 1000);
-  await page.waitForSelector("article, [data-testid='MessageSubject']", { timeout: 15000 });
+  await page.waitForSelector("article, [data-testid='MessageSubject']", { timeout: 30000 });
 
   // Count current leaf articles on page
   async function countArticles(): Promise<number> {
@@ -312,9 +312,11 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
       for (let i = 0; i < count; i++) {
         const el = loc.nth(i);
         if (await el.isVisible().catch(() => false)) {
-          await el.click({ timeout: 3000 }).catch(() => {});
+          await el.click({ timeout: 5000 }).catch(() => {});
           clickedAny = true;
-          await delay(2000); // wait for new content to load
+          // Wait for network to settle after clicking (replies load via AJAX)
+          await page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {});
+          await delay(3000); // extra buffer for DOM rendering
         }
       }
     }
@@ -328,14 +330,14 @@ async function scrapeDiscussionDetail(page: Page, url: string): Promise<Discussi
 
     // Scroll to bottom
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-    await delay(1000);
+    await delay(2000);
 
     // Click any expand buttons
     const clicked = await clickExpandButtons();
 
     // Scroll again after clicking (new buttons may appear below)
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-    await delay(1000);
+    await delay(2000);
 
     const afterCount = await countArticles();
 
