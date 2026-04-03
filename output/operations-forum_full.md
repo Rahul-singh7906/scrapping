@@ -1,14 +1,846 @@
 # Jobber Community Forum - Operations Forum
 
-Total Discussions: 112
+Total Discussions: 125
 
 ---
 
-## 1. What pay-for-performance apps integrate well with Jobber?
+## 1. What tech tool actually made your team more productive?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-04-01
+**Views:** 30 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-tech-tool-actually-made-your-team-more-productive/9855
+
+### Content
+
+JOBBER COMMUNITY TEAM What’s something that genuinely saved time or made your team better? Did it help with quoting? Payments? Share your take below. In this episode of Masters of Home Service, ryaantuttle​ and Rob Soper get into: Why many owners are still stuck with manual processes How tech can act extra admin (without hiring) Simple ways to start using tech without overhauling everything Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. AI CLIENT COMMUNICATIONS CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE INVOICING QUOTING REPORTING & BUSINESS INSIGHTS SCHEDULING SOFTWARE VISIT REMINDERS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 2. AI for Contractors: How Home Service Pros Are Using AI in 2026
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2026-03-13
+**Views:** 97 | **Likes:** 1 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/operations-forum/ai-for-contractors-how-home-service-pros-are-using-ai-in-2026/9398
+
+### Content
+
+JOBBER COMMUNITY TEAM We just surveyed over 1,000 home service business owners across the U.S. and gathered real-time stats about how they're using AI in their day-to-day operations. The gap between businesses using AI and those that aren’t is starting to show: 88% of businesses who are fully-booked use AI vs 27% of businesses who are still filling their calendars Here's what 52% of the 1,050 home service business owners surveyed say they use AI for: 54% for quoting 52% for invoicing 51% for writing emails and proposals Younger owners are adopting it fastest --> 64% of business owners under 30 already use AI. Curious how this compares to what you're seeing in your own business. Are you currently using AI for quoting, scheduling, or customer communication? Or is it something you're still exploring? AI CLIENT COMMUNICATIONS CONTRACTS & CONTRACTING GENERAL CONTRACTING INVOICING QUOTING REPORTING & BUSINESS INSIGHTS SCHEDULING SOFTWARE
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 2026-03-13
+
+Hk What AI systems are being used in this industry?
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-03-18
+
+JOBBER COMMUNITY TEAM to Hk Hey Hk, I don't have a list of specific tools to share, but we have a few solid resources I can point you to: This on-demand webinar is probably the most directly helpful: it walks through real use cases and tools (ChatGPT, Jobber AI, Jobber Receptionist, Gemini, Grok, etc.) https://www.getjobber.com/events/work-smarter-with-ai/ This podcast episode is great for showing how pros are using ChatGPT as more of a “business copilot” (sales, training, building systems): https://www.getjobber.com/podcast/s6e2-phil-risher-ryaan-tuttle/ And this one’s a nice roundup of AI tools for productivity: https://www.getjobber.com/academy/ai-productivity-tools/ Curious to hear from other members in the community on the AI tools they use for their business!
+
+#### Reply 3
+
+**Author:** OrdoniaB
+**Posted:** 2026-03-18
+
+We currently use AI to answer/ transfer calls, in receptionsit capacity, as well as to make cold calls. We also use AI for marketing.
+
+#### Reply 4
+
+**Author:** julie
+**Posted:** 2026-03-18
+
+JOBBER COMMUNITY TEAM to OrdoniaB Amazing! Thanks for sharing. Which AI tools are you using for those tasks?
+
+#### Reply 5
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-26
+
+That 88% vs 27% stat is the one worth sitting with. The gap isn't really about AI adoption, it's about capacity management. Fully booked businesses use AI because they have to. They're not adding it to experiment, they're adding it because missing a call or slow-walking a quote actually costs them a job. The businesses still filling their calendars are in a different mindset. They think they have time to handle things manually, so the urgency to systematize isn't there yet. What tends to shift that is when an operator realizes how much revenue walked out the door quietly. A missed call at 7pm that went to voicemail and never got returned. A quote that took four days and the client already booked someone else. Those losses don't show up anywhere obvious. The AI tools that stick in this industry are the ones solving that specific problem, response speed and follow-through, not the ones trying to replace the operator's judgment.
+
+#### Reply 6
+
+**Author:** TurfT
+**Posted:** 2026-03-31
+
+I've been using AI mainly to simplify operations and reduce admin work in my lawn care business. For example, I recently built a workflow that allows clients to enroll, add a card on file, and go through most of the onboarding process automatically without back-and-forth. I've also been using AI to learn and build systems faster - things improving my website, setting up workflows, and figuring out tools Zapier. Still experimenting, but the biggest value so far has been saving time and making processes more consistent.
+
+#### Reply 7
+
+**Author:** judithvirag
+**Posted:** 2026-03-31
+
+BUILDER 1 We have been using it for marketing, communications and in our hiring process.
+
+---
+
+## 3. AI in Home Services — What’s Actually Working for You?
+
+**Author:** Roger (Contributor 4)
+**Posted:** 2026-03-21
+**Views:** 78 | **Likes:** 4 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/operations-forum/ai-in-home-services-%E2%80%94-what%E2%80%99s-actually-working-for-you/9635
+
+### Content
+
+I’ve been testing a few tools in my tree care business and wanted to get real feedback from others in the field. Recently switched from Ooma Office to Quo (formerly OpenPhone), and one feature that’s been working well is automatic text follow-up when a call is missed. Instead of voicemail, it asks for the address and service needed. It’s helped keep leads engaged and reduced missed opportunities. Also using different call flows based on business hours, which has improved response consistency. That said, AI voice receptionists still don’t feel fully there yet. Most customers can tell, and in this industry people usually expect to speak with a real person—especially for larger or safety-related jobs. Curious to hear from others: What AI tools are you actually using in your business? What have you stopped using? What are the top 3 reasons you’ve kept a tool long-term? Looking for real-world experience, not hype. AI ARBORIST CLIENT COMMUNICATIONS LAWN CARE
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-03-25
+
+Roger "in this industry people usually expect to speak with a real person" I agree, and this is why I have not picked up an AI receptionist yet. I'm hoping to hear from people who have been using it. Here in rural America, people just don't want to pick up the phone and talk to an AI.
+
+#### Reply 2
+
+**Author:** jrselectric
+**Posted:** 2026-03-27
+
+We haven't used any AI tools yet and/or AI receptionist. We've learned from a lot of other people and people want to hear a live person on the phone. I personally, hate when an AI receptionist answers the phone. I want to speak to a real person.
+
+#### Reply 3
+
+**Author:** Roger
+**Posted:** 2026-03-27
+
+to jrselectric We feel the same, which is why we’re using additional options texting after unanswered calls. It doesn’t happen often, but it does help keep new clients engaged and in communication. Plus, having the transcript available to add to the customer notes in Jobber is a great benefit!
+
+#### Reply 4
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+Roger, if you'd to talk, I'd love to tell you about my voice system that I tailor directly to you and your business. hilltopados.com 1.541.945.3698
+
+#### Reply 5
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+to HilltopAdOS The missed call text-to-SMS flow is genuinely one of the highest ROI moves in home services right now. Simple, fast, works with how people already behave. Good call on that one. On AI voice receptionists, I'd push back slightly on the framing. The problem usually isn't that people can tell it's AI. It's that most voice agents are built generic and can't handle the back-and-forth that tree work actually requires: lot size questions, proximity to structures, whether it's storm damage or a planned removal. When the agent can't navigate that, it feels off and trust drops fast. The ones that hold up are verticalized tight. Trained on the actual decision tree for that service category, not a general "how can I help you" loop. What I've seen keep tools long term: they reduce a specific friction point without creating a new one, they don't require the owner to babysit them after setup, and the output is something the team actually trusts and uses. What are you using for job tracking on the backend? That's usually where the real integration question lives.
+
+#### Reply 6
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-27
+
+jrselectric​ The "people want a live person" instinct makes sense and isn't wrong. The real question is what's actually happening when no live person is available. Most electrical and trades businesses miss 30 to 40 percent of inbound calls during job hours. Those calls don't leave voicemails. They just call the next company on the list. The cost of that isn't visible day to day, which is why it's easy to underestimate. The math changes when you put a number on it. If your average job is worth $400 and you're missing four calls a week, that's a real number walking out the door every month, and none of it shows up as a loss anywhere in your books. The goal isn't to replace the live conversation. It's to make sure the lead is still there when you're ready to have it.
+
+---
+
+## 4. Starting a New Hardscape Division While Busy with Landscape Maintenance Team
+
+**Author:** CHY (Contributor 2)
+**Posted:** 2026-03-26
+**Views:** 15 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/starting-a-new-hardscape-division-while-busy-with-landscape-maintenance-team/9744
+
+### Content
+
+How do you actually start a new division of your business while still managing day-to-day operations? Between quoting, scheduling, and running jobs, it’s hard to carve out time to build something new. Curious how others have handled this without things falling through the cracks. What worked for you? Context: our "bread and butter" as a landscaping company has been in residential maintenance (lawn cutting, care, property clean-ups, trimming, garden care, softscape / small hardscape installs, etc.). My business partner and I are near max capacity with taking on more residential maintenance clients and would to get into higher earning, longer term, larger projects on the install / design side of landscaping. CLIENT COMMUNICATIONS CONSTRUCTION CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE GENERAL CONTRACTING INSTALLATION SERVICES LANDSCAPING LAWN CARE POLICIES PROPERTY MAINTENANCE QUOTING REPORTING & BUSINESS INSIGHTS SCHEDULING SERVICES LISTS SOFTWARE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-26
+
+The hardest part of this transition isn't time, it's that maintenance and install projects run on completely different operational logic. Maintenance is recurring, predictable, route-based. Install is project-scoped, estimate-heavy, material-dependent, and client communication intensive. Mixing them in the same workflow before you have the install side systematized is usually where things start slipping. What tends to work is treating the new division as a separate operating lane from day one, even if it's just you and your partner running both. Separate quote templates, separate job tracking, separate check-in cadence. That way you can see where each side actually stands without them bleeding into each other. On the capacity side, the maintenance business is your funding engine right now. Protect it by documenting the repeatable parts well enough that your existing team can run more of it without you in the middle of every decision. That's what buys you the mental bandwidth to build the install side properly. What does your current quoting and client communication process look for the maintenance side? That's usually the first thing worth tightening before you layer in a whole new division.
+
+---
+
+## 5. AI Integration w/ Jobber! 
+What's Working for Your Stack?
+
+**Author:** Rafa (Contributor 2)
+**Posted:** 2026-03-17
+**Views:** 51 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/operations-forum/ai-integration-w-jobber-whats-working-for-your-stack/9484
+
+### Content
+
+AI Integration w/ Jobber! What's Working for Your Stack? Hey everyone, first post here, excited to be part of the community. I run a residential cleaning operation in McKinney, TX, and I've been building an AI-assisted ops stack around Jobber. Claude is my primary AI layer for things client communications, scheduling logic, and business analysis, but Jobber doesn't have a native Claude integration, which creates friction. I'm currently evaluating two paths: 1. Build a custom integration via Make, Zapier, or N8N (I have experience with all three) 2. Use an existing AI app that already connects with Jobber natively Before I invest time in a custom build, I wanted to ask the community: has anyone found a solid AI tool that connects directly with Jobber and handles tasks drafting client messages, analyzing job data, or automating follow-ups? Open to any direction, : native apps, workflow tools, or APIs you've had success with. Thanks in advance. Rafael Andrade AI CLEANING SOFTWARE
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-20
+
+I would check out Go High Level. There is a ton of functionality in that for client comms, and ways to drop people in to funnels. Only thing is to integrate with Jobber, you need a lot of zaps to make it happen. There's a go High Level mod called snipey lead that mostly built out but you need to spend time customizing or hire someone else to do it. Hit me up if you want those contacts. I'd be curious how people are using AI to make a digital version of their brain. All you AI wizards, jump in here please!
+
+#### Reply 2
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+to HUGEHandyman The "digital brain" framing is actually pretty close to what works in practice. The way I've seen it hold up operationally is building a structured context file around how your business makes decisions, not just preferences, but the actual logic. What triggers a follow-up, how you handle exceptions, what a good job looks vs a problem job. Then that file becomes the system prompt layer that runs across every AI touchpoint consistently. The difference between AI that feels generic and AI that actually sounds your business is usually whether that context layer exists or not
+
+#### Reply 3
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+Since you're already running Claude and have Make experience, the custom build is the right call. Here's why: there's no native Claude integration for Jobber that handles scheduling logic and business analysis at the same time, and any app that claims to do it all natively is going to hit a ceiling fast when your logic gets specific to your operation. The pattern that works is using Jobber's webhook triggers to push job and client data into Make, then passing that payload to Claude via API with a prompt that includes the relevant context. Claude handles the reasoning layer, Make handles the routing, and Jobber stays your source of truth. For client communications specifically, the key is building the prompt around the job data fields Jobber sends in the webhook, things service type, client history, job status, so Claude's output is actually personalized and not generic. GHL is worth having for the CRM and follow-up funnel side, but I'd keep it downstream of Jobber rather than trying to make it the integration hub. The Jobber to Make to Claude path is cleaner for the ops logic you're describing. What triggers are you planning to build around first?
+
+---
+
+## 6. What do customers think about Jobber's AI receptionist?
+
+**Author:** SibiFirewood (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 45 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-do-customers-think-about-jobbers-ai-receptionist/9584
+
+### Content
+
+We are considering jobbers AI Receptionist for our busy firewood sales & Service business. My husband is hesitant to use it because our main customer base is rural, conservative minded individuals that are more likely to be distrustful of AI. I also take a lot of time to connect with my customers & explain why we are different or better than other options. Part of what customers love about us is that we are a family business and we work hard to build connections and relationships. I feel ai is everywhere now and people are used to it but I do have people tell me often how nice it is to talk to a person. On the other hand I do miss a lot of calls and don’t want to miss opportunities. Has anyone heard feedback from customers on whether they it or not? AI CUSTOMER SERVICE & EXPERIENCE
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-20
+
+It can be good but only for certain people. For someone me who is very tech forward, it would be good for me. I look at it as basically a better voicemail. It gets their message, logs the info in jobber. I don't need it to be a subject matter expert. If you have straight forward pricing and a built out price book, it'd probably be amazing (we don't have those things). We just use it for answering calls in the off hours. It's hit and miss with people. I do have it telling them that it's AI, I may turn that off. Right now hardly anyone stays in the call longer than hearing it's AI (even though I have it tell them it's off hours). Jobber did put a lot of work in to it and it is very programmable so I'd definitely recommend trying it and seeing how you it.
+
+#### Reply 2
+
+**Author:** roselvaggio
+**Posted:** 2026-03-24
+
+This is a mix! We have a few clients who tell the receptionist to let us know to stop using ai (because we’re wasting energy and water) 🤦🏼‍♀️ It shows turned off or on for certain clients, but we can’t find a rhyme or reason as to how whomever wound up on either list. Another glitch is it offers rescheduling on days we don’t have availability! I want to love it so badly, especially outside of office hours!
+
+#### Reply 3
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+The drop-off HUGEHandyman is describing is almost always a framing issue, not an AI issue. When the first thing someone hears is "I'm an AI," they're being asked to make a decision before they've gotten any value. Most people opt out. The setups that actually retain callers lead with the task, not the identity. Something "Thanks for calling, I can get you taken care of, what's the address for the service?" gets people talking before they've decided whether they care what's answering. For your specific situation, the relationship concern is valid but the missed call problem is real too. The middle ground a lot of family businesses use is letting the AI handle after-hours and overflow only, with a clear handoff path to you for anything that needs a real conversation. That way you're not replacing the connection, you're just not losing leads at 9pm. The rescheduling on unavailable days issue roselvaggio mentioned is a real gap worth flagging to Jobber directly. That's a calendar sync configuration problem and it should be fixable.
+
+---
+
+## 7. What’s one system or process you’ve put in place that actually made your business more efficient?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-03-20
+**Views:** 72 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/operations-forum/what%E2%80%99s-one-system-or-process-you%E2%80%99ve-put-in-place-that-actually-made-your-busines/9614
+
+### Content
+
+Scheduling, estimating, CRM, inventory—what’s made the biggest difference? I have been using jobber more which has definitely helped the flow of things. It is hard to sometimes get into the habit of scheduling everything via jobber because we still love to use a paper calendar and write.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** JHTS
+**Posted:** 2026-03-21
+
+Our most efficient thing is both Jobber and an Administrator (me)! We joined the company about the same time, and together we have worked by putting processes in place - job forms has made this even better and easier. Until I came onboard, the Director was on the tools, quoting, scheduling and doing everything in between missing some of the more important jobs that keep the company running and expanding. Early morning, late nights and a partner who only saw him working. He is a grafter! Jobber and myself came on board, (I have experience running smaller companies admin) we streamlined a lot of processes, took some of the pressure away from him, became the voice behind all calls. We started expanding, we now have a manager to help with the teams and quoting, I am still at the admin helm. Our Director is now gaining more business and building a better and bigger company. Us 3 all have the same vision, to take the company to greater things. We all work well together and we have great teams of guys on the tools. It has all come together and now our Directors partner does get to spend time with him....and he has taken a few holidays! Onwards and Upwards for our great company.
+
+#### Reply 2
+
+**Author:** jrselectric
+**Posted:** 2026-03-21
+
+What kind of company do you run and what are some systems and processes you put in place?
+
+#### Reply 3
+
+**Author:** JHTS
+**Posted:** 2026-03-23
+
+to jrselectric Good Morning We are a Tree services company in the UK. The systems and processes we have include adding forms to jobs for site specific risk assessments, wildlife statements, accidents, incidents and near miss forms. So everything can be reported on the job. Not wait for the guys to get back to the office to report - where they may have forgotten a small detail. We also have forms on vehicle checks, set up as a job daily and weekly jobs for Loler and Puwer checks. On Jobber we have, in notes, notes for the surveyor for when he quotes so he can add important info for the office and then we have a second note for details for the teams. The surveyor notes only go to quote stage but the team notes are all the way through. We also use WhatsApp to message either a group chat or one to one for things holiday requests, details of training, schedule (in case Jobber did go down!) All policies and HR are run from the office, including yearly forms for HAVS, hearing, medical and driver checks. The office is the one who calls customers, books site meetings and is basically the voice behind the company. We find many people prefer talking to a human rather than a machine. This is only some of the processes we have put in place. Basically, I do everything office based, while the teams earn the money! I enjoy the variety and working for a small company means we are one big family team. I hope this helps you all. Please message me if you have further questions.
+
+---
+
+## 8. Jobber Notes Automations
+
+**Author:** HauerPower (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 38 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/jobber-notes-automations/9575
+
+### Content
+
+What triggers or Automations do you use to populate notes in Jobber? Does anything work to automate the notes for that client relationship management? AI CUSTOMER SERVICE & EXPERIENCE SOFTWARE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** JHTS
+**Posted:** 2026-03-21
+
+We use Jobber Notes on all jobs. I copy and paste the Form for our Surveyor to use and then another note for the Team notes - again copy and paste. Its tedious but it keeps everything uniform. I just wish they would allow Forms to be added to notes - it would make our lives a lot easier and cleaner.
+
+---
+
+## 9. AI Renderings- Which is the best to work with?
+
+**Author:** HUGEHandyman (Jobber Ambassador)
+**Posted:** 2026-03-14
+**Views:** 25 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/ai-renderings--which-is-the-best-to-work-with/9431
+
+### Content
+
+I started attaching renderings in jobber on their line item picture to give them an idea of what the thing I'm bidding will look . I feel Chat GPT you have to fight to keep it looking somewhat their place. Gemini - I feel once it gets an idea in it's head, it just won't change it. I can't tell you how many times I've repeatedly told it to stop putting a window in the shower then it will just keep it in the same place. How do you guys go about doing these? Any free or inexpensive platforms? Or is it just my prompts. Maybe share prompts that are working for you :) AI CONTRACTS & CONTRACTING QUOTING REMODELING
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 10. Which business metrics do you actually use from Jobber reports?
+
+**Author:** ShaneKetterman (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 15 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/which-business-metrics-do-you-actually-use-from-jobber-reports/9577
+
+### Content
+
+For those of you who've hacked together Excel or Power BI or any other tool to get better reporting from Jobber — what metrics do you actually care about the most? There's a ton of metrics I've used but find that just a handful are actually beneficial. I'm building something and want to make sure I'm solving the right problems. REPORTING & BUSINESS INSIGHTS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 11. AI usage in your business?
+
+**Author:** BrookeZing (Contributor 2)
+**Posted:** 2026-03-14
+**Views:** 23 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/ai-usage-in-your-business/9445
+
+### Content
+
+We use AI for reviewing contracts and to help identify areas that favor the other party and leave us at risk. What other ways are people currently using AI in their businesses? We also used it to create our Employee Handbook and specific work policies. What other ways are people currently using AI in their businesses? AI
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-03-17
+
+JOBBER COMMUNITY TEAM Hey Brook, great post! I actually just finished reading another member's post on how they built custom AI agents to automate tasks in Jobber (in case you might find that interesting as well). A few other ways I've heard businesses using AI is creating marketing content (e.g., social posts, blog articles, website content), summarizing meeting/job notes, and even organizing SOPs and internal documentation. Curious to hear from others in the community on how they are also utilizing AI
+
+---
+
+## 12. Building custom AI agents to automate tasks in Jobber
+
+**Author:** Nantucket (Contributor 2)
+**Posted:** 2026-03-15
+**Views:** 37 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/building-custom-ai-agents-to-automate-tasks-in-jobber/9461
+
+### Content
+
+Everyone is talking about agents. I will skip the noise; you have to do your own research to get caught up. This is what i just hooked up with my agents. ask ChatGPT: (or any for that matter) can you somehow look at my jobber info and give me a report? (The Jobber AI beta does this kind of it will spit out a few hundred words for a report. maybe, still cool because it's your numbers, clients, insights.) but it doesn't really do anything, or it's never been really useful enough to use as a mainstream. Same with the chat bots. I had my agent build the custom app that doesn't exist in Jobber's marketplace yet, now i have my own ai agent, inside jobber, and cand read and write.... and it's my well-trained agent that knows all my context so it's smart... has the connection to send emails. find receipts in the emails, create the jobs, it literally has given me the freedom to have the chatbot window, but this is a pro, hooked up to my business.... I imagine Jobber's beta is not far behind.... right? my app is literally custom code from scratch... works awesome!!! AI
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-03-17
+
+JOBBER COMMUNITY TEAM Hey! Thanks so much for sharing. That’s a really interesting setup. It sounds you’ve gone pretty deep into customizing your workflow with AI and connecting it directly to your business ops. Out of curiosity, how much technical work did it take to build your custom agent and connect it to Jobber?
+
+---
+
+## 13. Customers still want to feel heard — not processed.
+
+**Author:** MrBackflow (Contributor 3)
+**Posted:** 2026-03-10
+**Views:** 23 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/customers-still-want-to-feel-heard-%E2%80%94-not-processed-/9269
+
+### Content
+
+AI & Operations: The Side Nobody Wants to Talk About We’re definitely in a new era, and AI is showing up in every corner of business — scheduling, customer service, quoting, follow‑ups, even phone trees. And while AI can absolutely help a one‑man operation run smoother, there’s a real conversation to be had about what we lose when everything becomes automated. 1️⃣ Customers still want to feel heard — not processed. There’s a big difference between responding and connecting. AI can fire off a message instantly, but it can’t replace the feeling a customer gets when a real human listens, understands the nuance, and responds with genuine care. People can tell when they’re talking to a script. They can tell when the “personalized message” is anything but personal. And when customers feel brushed off or handled by a robot, trust erodes — fast. 2️⃣ Automation can quietly damage your brand. A lot of businesses think AI is saving them time, but they don’t realize it’s costing them something more valuable: relationship equity. Missed context Robotic replies No emotional intelligence No ability to read tone No accountability AI can accidentally make a business feel cold, distant, or careless — even if the owner has the best intentions. 3️⃣ “One‑man show with AI” sounds great… until it isn’t. Sure, AI can help a small business owner stay organized and efficient. But when AI replaces too many human touchpoints, you risk: Losing the personal brand that made customers choose you Creating a wall between you and the people you serve Making your business feel every other automated company out there People don’t hire small businesses because they want a corporate experience. They hire us because they want human service with human accountability. 4️⃣ And yes — jobs matter. There are people who need the work that AI is now doing. Receptionists, schedulers, customer service reps, dispatchers — these roles used to be entry points into the workforce. Now they’re disappearing. Cheaper? Absolutely. Better long‑term? That’s still up for debate. A business is more than a machine that outputs profit. It’s part of a community. And communities rely on people having meaningful work. 5️⃣ AI is a tool — not a replacement for humanity. AI can help with efficiency, reminders, organization, and repetitive tasks. But the moment it replaces the human heartbeat of a business, the business starts losing what made it special. The companies that will win long‑term are the ones that use AI strategically, not blindly — keeping the human connection front and center.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** ShellseaPNWC
+**Posted:** 2026-03-10
+
+Yeah I agree with this. Our company was using AI feature for answering calls for a bit but I think a lot of us are turned off by that. Just for reference we are a concrete contracting business. www.pacificnwconcretellc.com It didn't really work for us but what our customers do is the automatic follow ups, the ability to txt us through Jobber regarding there quote. We have also tried blogging and social posts through AI but they are subpar and kind of junk when generated.
+
+---
+
+## 14. How do you deal with damage to your client's property?
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2025-04-02
+**Views:** 15 | **Likes:** 6 | **Comments:** 22
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-you-deal-with-damage-to-your-clients-property/4
+
+### Content
+
+JOBBER COMMUNITY TEAM Business owners try their best to avoid it but it happens and that's okay! Most importantly, it's how you respond and resolve these situations. CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE
+
+### Replies (22)
+
+#### Reply 1
+
+**Author:** mowtownedmonton
+**Posted:** 2025-04-02
+
+Ideally, if you tell the customer, it's better than them telling you. Get pictures, measurements and try to understand the full scope of the damage. Let them know what did get done according to plan Then what damage did occur Then the concession/apology. " Mr Smith, our incident rate is very low but it's not zero. It's never our intention to cause damage to your property, and can understand how you would be upset. There's a process we follow to ensure these situations are correctly and thoroughly handled..." Let them get the anger out. When I started, getting yelled at, off hand remarks and sarcasm all rattled my cage a bit. Now I nod as they lay it on, knowing that the steam they **bleep** off will make fixing the problem easier. If the anger is winding up instead of down "I'd be upset too. Maybe this afternoon isn't the best time to talk about fixing it; I'll give you a shout on Monday next week and we can discuss remediating this" If they want to talk about repair/replacement: the first two questions I ask are "is this something I routinely fix to a professional standard?" and "is this going to be something I want to make an insurance claim for, or try to handle myself?". As a lawn pro, our most common damage is rocks being thrown into windows. I have 2 glass firms I work with in my city that do free quote visits and usually replace glass within 2 days. The $100-500 claims are easy enough to handle on my own. I run the customer through my solution process. "The odd time this does happen, we work with XYZ Glass to get the glass replaced as soon as possible. I can arrange for them to quote and fix this right away. We'll handle the cost of repairs, of course, and I'd also to discount next month's service by 20% for the inconvenience. How does that sound?" Finally, after it's all done, make sure they are pleased with the conclusion. If you've done everything you can and they want more, you may want to practice this line or something it: "As a business owner, these kinds of situations are nightmares. I am sincerely trying my best to make it right, but I can't reasonably afford to give you a 100% discount forever, or replace all of the glass on one side of your house. I've done everything I can to ensure we're looking after you, but the message I'm receiving from your side is that it simply isn't enough. At this point, I'm going to have to defer this to my insurance as a claim. I'm sorry we couldn't work this out, and I understand if you do not want to continue with our services at this point. Perhaps I can point you in the direction of other service providers with strong reputations in this area to continue for you." Tone is everything. You may be freaking out a bit about the cost, extent or source of the damage. If you approach the problem confidently but not cocky, you'll inspire the same response for your staff and the customer. It's not just about doing what's right, but that is important too. I have found that a customer that didn't love their window broken might still be impressed with the way the problem was handled. Navigating a difficult situation a pro can increase their loyalty to you. If you sweep it under the rug, or decide that now's a good time to be stingy with their repairs - you may find yourself on the receiving end of the dreaded 1-star Google review. It's probably less expensive in the long run to be thorough. Also, **bleep** happens. You're going to be fine.
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to mowtownedmonton Wow wow woww. It sounds you have an amazing process in place for situations these. I completely agree: Tone is everything!! Being emphatic and understand how the customer is feeling is a crucial trait to have. Thanks so much for sharing!
+
+#### Reply 3
+
+**Author:** BadgerHauling
+**Posted:** 2025-04-02
+
+Be honest and admit the fault if you or your team member damaged something. Lying won’t do you any good and most likely more damaging to the business and brand. Fix it, suck it up and pay for it etc. Learn from the mistake and do your best to avoid the same mistake. Mistakes will happen.
+
+#### Reply 4
+
+**Author:** bedellmgmt
+**Posted:** 2025-04-02
+
+We typically rely on our contract language for how we navigate those situations. mowtownedmonton your ideas are great!! Thanks for sharing!
+
+#### Reply 5
+
+**Author:** Dhoegl
+**Posted:** 2025-04-02
+
+I just had this happen to me. The first step I took was to assess the damage and cost to repair, and immediately (because it was totally my fault) said I would get the damage repaired. Client said 'Thank you' and was appreciative of the honesty. I just finished the repair (concrete curb damaged due to unexpected radius causing me to drive over and damage the curb), it took less than 30 minutes + $15 worth of 'quikcrete'-style concrete repair mix, and voila! All is well!
+
+#### Reply 6
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to Dhoegl You handled that with integrity and professionalism! Owning up and taking responsibility right away goes a long way in maintaining client trust. It’s great that you were able to address the issue quickly and find an affordable solution—it’s always a relief when a repair is straightforward! Thanks for sharing—it's a good reminder of the value of honesty and quick action.
+
+#### Reply 7
+
+**Author:** FlawlessOC
+**Posted:** 2025-07-02
+
+I can totally understand going through a situation this. Mistakes and accidents happen but its all about how you handle it in the moment. Last year, one of my cleaners was filling a mop bucket and walked away, completely forgetting about it. She called me in a panic once she realized what had happened. The damage was extensive and she felt absolutely terrible. I reassured her, told her to start doing what she could to manage the mess and I headed there right away. On the way, I called the client to let them know what had happened and that id give them a proper update once I arrived. When I got there, I took detailed photos and notes and immediately filed an insurance claim. I took full responsibility and kept communication open with the client throughout the process. They were understandably upset, but because of the way it was handled - with honesty, fast action, and accountability - they were surprisingly understanding. We still clean for them to this day. This is exactly why we carry insurance, and why staying calm and problem solving right away is key. Things can and will go wrong but how you show up in those moments is what really builds trust
+
+#### Reply 8
+
+**Author:** WashPros2017
+**Posted:** 2025-07-02
+
+You own it. Face adversity head on. Communicate the solution, collaborate with the homeowner and pertinent vendor...then, get it done! It's that easy. Accountability is the catalyst behind integrity and the teacher behind every learning experience.
+
+#### Reply 9
+
+**Author:** Tadams
+**Posted:** 2025-07-02
+
+Solar Eclipse Window Coverings would approach any damage to a client's property with a commitment to professionalism and customer satisfaction. Here’s how we might handle the situation: **Immediate Response**: Upon being informed of the damage, the company would respond promptly to acknowledge the issue and express concern for the client’s property. **Assessment of Damage**: A qualified team member would visit the site to assess the extent of the damage. This assessment would help in understanding the cause and determining the best course of action. **Communication**: The company would maintain open lines of communication with the client throughout the process. We would explain what happened, the steps we plan to take, and any relevant timelines for resolving the issue. **Liability and Responsibility**: If the damage is determined to be due to installation or products, Solar Eclipse Window Coverings would take responsibility. They would discuss coverage options, whether through insurance or company warranty, to ensure proper repairs are made. **Repair and Resolution**: The company would coordinate repairs or remediation of the damage. This may involve working with repair professionals or handling the repairs directly, depending on the situation. **Follow-Up**: After the issue has been resolved, we would follow up with the client to ensure satisfaction with the resolution and to rebuild trust. This could include checking in to see if any further assistance is needed. **Preventive Measures**: Finally, we would take the opportunity to review our procedures to prevent similar incidents in the future, which may involve additional training for staff or updates to installation practices. Through this methodical and considerate approach, Solar Eclipse Window Coverings would aim to uphold our reputation while ensuring that clients feel valued and supported.
+
+#### Reply 10
+
+**Author:** MichaelC
+**Posted:** 2025-04-02
+
+If it’s a replaceable item (window, mailbox, etc) - “You break it, you bought it” is how I handle it. If my crew damaged it, I pay for it. If it’s damages within the scope of work (removing a tree and get a few ruts in the yard), we fix anything that isn’t reasonable. You just about can’t take down a 65’ tree and leave some trace behind. If it’s an heirloom or something that I can’t replace, I knock off a sizable chunk of the invoice as a “I’m sorry…but I also can’t replace this specific item in question.” That has served us well.
+
+#### Reply 11
+
+**Author:** KatherineW
+**Posted:** 2025-04-02
+
+to MichaelC I completely agree with you. We had a situation this summer where we broke a grill that was special to the customer as it was a gift from his deceased mother. There is no way to replace what our customer lost. We did give him a large discount as well as a free tree trim. Conversing with your customer right away is key.
+
+#### Reply 12
+
+**Author:** roselvaggio
+**Posted:** 2026-03-05
+
+to MichaelC Agreed with this! Although we have gone as far as finding the heirloom or something super similar on eBay to show we understand the weight of the loss and our ability to go above and beyond for the client!
+
+#### Reply 13
+
+**Author:** ccntcntrctng
+**Posted:** 2025-07-02
+
+Completely agree with "mowtownedmonton". Honesty is the best policy in those situations. Be upfront, apologize, and resolve the issue swiftly. Customers always appreciate that more than finding out about it later on their own.
+
+#### Reply 14
+
+**Author:** groovecleaning
+**Posted:** 2025-07-02
+
+Speak with your customer immediately, preferably in person. Offer to have professional come out to fix whatever damage was caused. Give them some service for free for their inconvenience.
+
+#### Reply 15
+
+**Author:** OasisWC
+**Posted:** 2025-07-02
+
+Just be honest and own to whatever it is!!!
+
+#### Reply 16
+
+**Author:** KJobi
+**Posted:** 2025-07-02
+
+We handle any damage to a client's property with clear communication, accountability, and integrity guide throughout the process. For more extensive issues, we partner with our business insurer to ensure any damage is addressed properly and professionally.
+
+#### Reply 17
+
+**Author:** LauraWhalen
+**Posted:** 2025-07-02
+
+Acknowledge and apologize for the damage. Fix the damage or offer to pay for the damage. Hopefully it is not too expensive, and you will not have to submit it to your insurance company for a claim.
+
+#### Reply 18
+
+**Author:** terrbrown
+**Posted:** 2025-07-02
+
+At Rell’s Lawn and Landscaping Service, we take property care seriously and aim to prevent any damage through careful planning, proper equipment use, and clear communication. However, if damage does occur, we take full responsibility for it. We immediately inform the client, assess the issue, and take steps to repair or replace the damaged item as quickly as possible. The goal is to resolve concerns professionally and maintain trust. We also use this as a learning opportunity to review what went wrong and adjust our practices to prevent it from happening again. Respect, accountability, and customer satisfaction guide our approach to handling any issue on a client’s property.
+
+#### Reply 19
+
+**Author:** Onetime1962
+**Posted:** 2025-08-02
+
+The first thing is to be calm and respectful at all times and stay in contact with customer and assure them that you are doing everything to fix the problem.
+
+#### Reply 20
+
+**Author:** TonyaHVAC
+**Posted:** 2026-03-05
+
+We take before and after photos. If for some reason we damage something we would make the repair. Its the only fair way to do business!
+
+#### Reply 21
+
+**Author:** julie
+**Posted:** 2026-03-05
+
+JOBBER COMMUNITY TEAM to TonyaHVAC Hey Tonya! 👋 You're here!
+
+#### Reply 22
+
+**Author:** Ryan1
+**Posted:** 2026-03-22
+
+Just be honest about what happened and share the plan how and when it will get fixed
+
+---
+
+## 15. I love the AI Receptionist, even though it isn't quite what I really need yet.
+
+**Author:** TheRealJIMCLORE (Contributor 2)
+**Posted:** 2025-12-02
+**Views:** 271 | **Likes:** 3 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/operations-forum/i-love-the-ai-receptionist-even-though-it-isnt-quite-what-i-really-need-yet-/7720
+
+### Content
+
+AI is becoming a bigger part of the home service world, and Jobber’s AI receptionist has been one of the most surprisingly valuable tools I have added to my business. It is not perfect, but it has changed the way we handle calls, especially during the busy season when every minute matters. Here is what I love. The AI receptionist makes sure no call goes to voicemail. That alone is worth its weight in gold. Missed calls used to mean missed opportunities. Now someone always answers. The system collects basic information, gathers the details for a new request, and takes clean, general messages when needed. It keeps customers engaged long enough for us to circle back and turn that call into booked business. Those minutes matter. But since this is the AI category, here is the honest side of things too. The AI receptionist is sharp, but it is not very flexible. The line of questioning feels locked in. It seems designed around filling out the connected request form step by step, instead of listening to the customer and adapting the way a human would. Sometimes it asks questions that do not make sense because they appear on the form, not because they fit the flow of the conversation. I wish there was more free text space or deeper customization in the AI trainer to teach the system how my business actually works. Every home service business has its quirks, its personality, its way of handling certain kinds of clients. If we could train the AI with more nuance, it would feel more a human receptionist and less a form with a voice. Even with those limitations, the tool is still a win for us. It has saved time. It has kept customers from hanging up. It has bought us breathing room and captured leads we probably would have missed. That is real value. AI is only going to get better from here. And if Jobber continues building flexibility into this system, I think it is going to become one of the most powerful parts of the entire platform. For now, it does its job. It keeps the phone alive, keeps the customer talking, and keeps me from drowning in missed calls. And in the world of home services, that is a big deal.
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-01-02
+
+I had a thought to look into this before but got distracted as I always do and didn't ever circle back to it. I was thinking that the AI voice should introduce itself as such, just so the customer knows what to expect on the call and speak in a way they think it would understand. Or in the call mention that it is an AI call and if they have a more specific issue, to send an email with the important information...
+
+#### Reply 2
+
+**Author:** sarconllc
+**Posted:** 2026-01-02
+
+Really well said. This is one of the most balanced takes I have seen on AI receptionists in home services. I agree 100%. AI has come a long way, but rigid, form driven logic is still the biggest gap. We ran into the same issue. It is great at preventing missed calls, but not always great at handling how customers actually talk. What helped us was moving to a more vertical, service specific AI. We use Supportiyo. It is built specifically for home services, so it adapts better to real conversations and industry terminology. It is still not perfect, but it is the closest we have seen so far. Flexibility is really the key, and it sounds Jobber is moving in the right direction. Appreciate you sharing such an honest breakdown. These tools are only going to keep getting better.
+
+#### Reply 3
+
+**Author:** Dwabi
+**Posted:** 2026-03-19
+
+Great write-up — you nailed the tension between what AI receptionists do well today and what we all wish they could do. The rigid questioning flow is the biggest complaint I hear, too. It's built to fill a form, not have a conversation. There's a solid breakdown of where voice AI is heading on this front over at Dwabi AI's blog (dwabi.ai/blog/voice-ai-agents-transforming-businesses) — worth a read if you're tracking how this space is evolving. Hopefully, Jobber is paying attention to feedback yours. The businesses using these tools day-to-day are the ones who know where the gaps actually are.
+
+#### Reply 4
+
+**Author:** ShaneKetterman
+**Posted:** 2026-03-19
+
+I love this. Being someone that actually built an AI "Receptionist" and used it with several trade businesses, I can say without at doubt that the flexibility can be there, but, there are tradeoffs. With mine, I made it super flexible based on your own business rules and priorities. It could literally have full conversations, but the tradeoff was that there could be some slight latency...meaning....the voice AI would take a second to answer back. I had it dialed in pretty good but some people just are not tolerant of that. I think we are close with this, but it's still about a year away from being "perfect". The space is evolving rapidly and so I moved to creating far more useful AI powered products but for a small trade business, these receptionists are going to be HUGE.
+
+---
+
+## 16. How do you keep it fun AND professional?
+
+**Author:** HUGEHandyman (Jobber Ambassador)
+**Posted:** 2026-03-07
+**Views:** 62 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-you-keep-it-fun-and-professional/9221
+
+### Content
+
+I am curious how other owners handle the line between being friendly with their crew and staying professional as the boss. In this kind of work we spend a lot of time with technicians driving to jobs working side by side and solving problems together so naturally there is a lot of joking around and a relaxed environment. At the same time there are moments where you need to switch gears stay focused and have direct conversations about expectations. One situation that came up recently made me think about this more. We have someone on our team in more of a management role. He is a good guy and very capable but sometimes he jokes around in situations where we are trying to stay focused and move the job forward. We also had a situation where instead of having the technician communicate with the client he jumped into a group text and started messaging the client directly which broke the chain of communication we try to maintain. It got me thinking about what kind of guardrails other companies put in place both for themselves and for people in leadership roles. Do you hang out with your crew outside of work or do you keep a clear boundary between work and personal life. And if you have lead techs or managers do you have specific expectations for how they communicate with clients and interact with the rest of the crew. I am curious what has worked well for others. CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** NJones
+**Posted:** 2026-03-13
+
+I think it comes down to respect and clarity of roles. You can absolutely have a relaxed environment and joke around. That is part of working side by side in the field. At the same time everyone must understand when it is time to focus and move the job forward. For leadership roles I believe in keeping clear lanes. Managers should not jump into client conversations unless that is their responsibility. When that happens, it breaks communication and creates confusion. The chain needs to stay consistent. As far as the crew goes, I am friendly with everyone, but I keep a professional line. I want the team to know I am approachable, but also that it is my job to set expectations and keep the company moving forward.
+
+#### Reply 2
+
+**Author:** roselvaggio
+**Posted:** 2026-03-14
+
+When I still worked in the field, we had jokes for days- but the lines were always blurred. I noticed when I felt a lack of respect from the techs- this was years ago. We do have quarterly team events and there are a few projects during the summer that require us to sleep out of our area. This humanizes the workplace and it is a ton of fun, but boundaries are there. Our internal communications app has a channel for light-hearted conversations about whatever topics they feel sharing (challenges of online dating, pets, skincare recommendations, etc.) I do have a relationship with my leadership team where we sometimes hang outside of work or head to happy hour together on a Friday. I no longer accept friend requests from our techs on social media, but I do have the leadership team. They are also urged to be mindful of socials as well. The lines can get blurred easily online!
+
+#### Reply 3
+
+**Author:** Aatrades719
+**Posted:** 2026-03-18
+
+At A&A Trades & Acquisitions, LLC, keeping work fun yet professional comes down to balance and culture. We maintain professionalism through discipline, reliability, and high standards—showing up on time, delivering quality work, and communicating clearly with clients. That’s the foundation: trust and respect are non-negotiable. Fun comes from fostering a positive, hands-on work environment. We encourage problem-solving, creativity, and camaraderie on every project. Celebrating milestones, sharing successes, and finding pride in craftsmanship keeps the team motivated and engaged. Even tough jobs become satisfying when everyone feels they’re contributing to something meaningful. By combining structure with energy, we make sure the work gets done right—but with a sense of enjoyment and purpose. Clients notice the difference too: a confident, upbeat team delivers not just results, but a positive experience from start to finish. In short, we work hard, stay accountable, and don’t forget to enjoy the process. That’s how professionalism and fun coexist at A&A Trades & Acquisitions, LLC.
+
+---
+
+## 17. How can I automatically send an SMS to customers when their ordered part arrives?
+
+**Author:** marcsappliance (Contributor 2)
+**Posted:** 2026-03-05
+**Views:** 113 | **Likes:** 0 | **Comments:** 8
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-can-i-automatically-send-an-sms-to-customers-when-their-ordered-part-arrives/9161
+
+### Content
+
+I have been trying to use some automation to help with a workflow related to parts. We are an appliance company, and often need to order parts. What I am looking to do is when parts arrive, we generally put a note in the job saying parts in. I would to try automation that when we say part is in, we send an SMS to the customer saying the part is in and to go to our booking link to setup a return visit. I have tried using integrations Zapier to Twilio, but cant seem to get it to work based on notes in the job being updated. Anyone else get a workflow this working? APPLIANCE REPAIR
+
+### Replies (8)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-06
+
+You would need to utilize job tags and another texting platform. I know with Chiirp, you can do something that. Pretty sure you can do it with go high level also. Jobber does so much, but those job specific automations need to be done by another program. As far as I know, Jobber's automatic texts are mostly for sales and appointments. You may be able to mess around with a certain type of appointment and a tag, but that's the only thing I can think of.
+
+#### Reply 2
+
+**Author:** Farmer1
+**Posted:** 2026-03-10
+
+Hi friend, hope you’re well. Contact Helen: 661-607-8337 She was able to build me a system that solved similar issue in my company saving my employees time and money in my pocket.
+
+#### Reply 3
+
+**Author:** TurfT
+**Posted:** 2026-03-11
+
+Nice, I think you're heading in the right direction. Once you connect Jobber in Zapier and start building a Zap, it becomes much clearer what triggers are available and what you can build around them. Hopefully the tag or field update works for your setup.
+
+#### Reply 4
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-05
+
+Maybe a work around would be an "after the fact" automation. Once you have changed a status to "part in" then it sends a message to the client? Or maybe add it as a note and when a note is added, then its a conversation thread with a client that tells them they have a new message?
+
+#### Reply 5
+
+**Author:** marcsappliance
+**Posted:** 2026-03-06
+
+to PestFreeCanada Are these options within jobber itself or with external integrations? I think I follow that its within jobber, so where would status change, at the job level? And for notes would that be visit notes that are viewable by customer?
+
+#### Reply 6
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-06
+
+to marcsappliance Hey! Sorry for the late . I am not sure this an option in Jobber I was just kind of thinking out loud. I am sure if you speak to someone in the support department, there has to be some sort of communication with a customer section? Again, thinking out loud!
+
+#### Reply 7
+
+**Author:** TurfT
+**Posted:** 2026-03-10
+
+You might be able to solve this with Zapier by using a tag or custom field in Jobber as the trigger instead of relying on a note. For example, when the parts arrive you could either add a tag “Parts Received” or update a custom field from something “Parts Ordered” to “Parts Received.” Zapier can watch for that change and then automatically send an SMS notification to the client. In my experience tags and field updates tend to work more reliably as triggers than notes. If you’re not sure what Jobber events Zapier can trigger from, one trick is to start creating a Zap and connect your Jobber account. Zapier will show you the available triggers, and then you can build your workflow around those.
+
+#### Reply 8
+
+**Author:** marcsappliance
+**Posted:** 2026-03-11
+
+to TurfT Yes, that’s where I am right now. Have a zapper zap setup that’s looking at notes and texting the customer but would love to trigger based on a tag type of update. I am seeing what field options come with the zappier to jobber integration
+
+---
+
+## 18. What Should Home Service Businesses Automate First to Save Time?
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2026-03-02
+**Views:** 115 | **Likes:** 0 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-should-home-service-businesses-automate-first-to-save-time/8693
+
+### Content
+
+JOBBER COMMUNITY TEAM Small manual tasks start stacking up, catching up on follow-ups, re-adjusting scheduling, invoicing, review requests, the list goes on and on. Sound familiar? What’s one task you’re still doing manually that you know could be automated? What’s stopping you from setting it up? AI ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-03-02
+
+The "people" side of things- quote approvals, job confirmations, review requests, feedback forms. On the flip side, invoicing and scheduling was the last thing we automated because of the room for error!
+
+#### Reply 2
+
+**Author:** Rafa
+**Posted:** 2026-03-06
+
+to roselvaggio I your perspective about "room for error" and I'll consider it in my Ai Action plan, but I'd add some perspective here. I think the best way to deploy a AI feature that that allow us to scheduling is in the first stage put the human in the loop to check and approve until we trust in the model 100%. By the way, nice to see different points. Thank you for sharing... have a good one...
+
+#### Reply 3
+
+**Author:** sam-s
+**Posted:** 2026-03-02
+
+Quote follow-ups, 100%! It's super easy with Jobber's Automations. I did change the generic language though (inspired by Never Split the Difference ) which recommends using questions to illicit an emotional response. Day 2 - Did I totally miss the mark? Day 5 - Should I cancel your Proposal? I also write the messages so they look handwritten, not automated. I've found if someone is destined to convert, they will . If they aren't, they don't. It works wonders. Still learning though. Interested to hear others' thoughts.
+
+#### Reply 4
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+All your different leads should be coming to one place - Jobber haha but you can usually use zapier to automate that work flow. The other thing is your KPIs. There's a couple schools of thought on those - you should calculate them manually so you feel the pain of having to look at them. I don't that at all because then I won't do it and run my business based off the fell. I love Jobbers KPI dashboard and you can pull reports to cover the other bases. Maybe AI can't do all of it but you can sure pull the jobber reports, throw it in Chat GPT then ask it for the KPI. Problem solved.
+
+#### Reply 5
+
+**Author:** DavidVititow
+**Posted:** 2026-03-02
+
+to HUGEHandyman I completely agree with this, and this is how I generally do things
+
+#### Reply 6
+
+**Author:** Rafa
+**Posted:** 2026-03-06
+
+From my perspective, two areas should be prioritized: 1) Lead first contact, because it's extremely time-sensitive and directly impacts conversion raters in the sales pipeline. 2) Scheduling process: because it's a very time-consuming task for our operations team.
+
+#### Reply 7
+
+**Author:** roselvaggio
+**Posted:** 2026-03-10
+
+to Rafa Fully agree with scheduling process! It takes our scheduler 3+ hours per week to ensure everything is streamlined. For reference, we complete approximately 150 appointments per week!
+
+---
+
+## 19. How I Finally Delegated Estimating (Without Hiring Another Person)
+
+**Author:** ryaantuttle (Jobber Ambassador)
+**Posted:** 2025-07-02
+**Views:** 381 | **Likes:** 8 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-i-finally-delegated-estimating-without-hiring-another-person/4143
+
+### Content
+
+For years, estimating was the one thing I couldn’t take off my plate. We changed the org chart. We hired roles. Delegated everything we could. But estimating? That was always me. Even if I wasn’t doing anything else in the business... I was still stuck quoting jobs. It was the bottleneck I couldn’t fix—until now. I built a ChatGPT-powered estimator trained with my systems, my pricing, and my language. It asks the right questions, runs the math, and delivers estimates I would—without me being involved. Now I’m no longer the bottleneck. Customers get quick answers. I get my evenings and weekends back. Want to build your own? Map out your estimating logic. Plug it into ChatGPT. Test and refine. If you're stuck working all day and doing estimates at night and on Saturdays anddddd, sometimes even Sunday mornings when everyone's sleeping—this might be your way out. Heres my direct Zoom link if you'd to learn more: https://calendly.com/ryaan-besthandymancompany/bh-plan-phone-consultation AI CONSTRUCTION CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE GENERAL CONTRACTING HANDYMAN QUOTING REPORTING & BUSINESS INSIGHTS
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** marihoho
+**Posted:** 2025-07-02
+
+Hello I would to learn how you did that.
+
+#### Reply 2
+
+**Author:** ryaantuttle
+**Posted:** 2025-07-02
+
+to marihoho My pleasure! Thats why I included a link to set up a call. Happy to answer any questions you might have.
+
+#### Reply 3
+
+**Author:** eddiepuckett
+**Posted:** 2025-07-02
+
+I seem to have problems giving the right estimates myself
+
+#### Reply 4
+
+**Author:** AswathVeersoft
+**Posted:** 2026-03-10
+
+ryaantuttle​ Its great you were able to do a custom GPT. The DIY ChatGPT route works for the technically inclined, but I have the feeling that lot of folks struggle with setting it up and keeping it consistent. I thought building a proper AI SaaS tool around this — structured estimating logic that integrates with platforms Jobber, so it fits the workflow instead of sitting outside it. Still early days, happy to share updates if anyone's curious or wants to give feedback as a potential early user
+
+---
+
+## 20. What pay-for-performance apps integrate well with Jobber?
 
 **Author:** sorin (Contributor 2)
-**Posted:** 2025-03-09
-**Views:** 39 | **Likes:** 6 | **Comments:** 45
+**Posted:** 2025-04-02
+**Views:** 42 | **Likes:** 6 | **Comments:** 45
 **URL:** https://community.getjobber.com/discussions/operations-forum/what-pay-for-performance-apps-integrate-well-with-jobber/214
 
 ### Content
@@ -20,210 +852,210 @@ I would to see if anybody can recommend a good app for "Pay For Performance" tha
 #### Reply 1
 
 **Author:** ProServe-DreGo
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 This is my number one ask of Jobber. To build killer small business KPIs directly allowing me to smartly incentivize employees based on speed, minimized breakage, most positive reviews, most requested employee, and the .
 
 #### Reply 2
 
 **Author:** Mark
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to ProServe-DreGo I would love to see this too.
 
 #### Reply 3
 
 **Author:** AdamSylvester
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 The closest thing to Pay for Performance I know of that integrates with Jobber is Protiv and BonusUp. In a very brief summary, Protiv seems better for large average ticket (large painting jobs that span several days) and Bonus Up is better for high volume low average ticket (window cleaning, for example). We've used Bonus Up the majority of this whole year and it's GREAT. I tried Protiv first and switched. KellyGuerrero
 
 #### Reply 4
 
 **Author:** brandymm
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to AdamSylvester Good conversation and very informative. Looking into these apps today, as we have been tryin to implement PFP for awhile, with last season high turn over, it was harder.
 
 #### Reply 5
 
 **Author:** LoganDitmyer
-**Posted:** 2025-04-09
+**Posted:** 2025-04-02
 
 to AdamSylvester Have you heard of anyone using the new Team Productivity Report for this?
 
 #### Reply 6
 
 **Author:** Neil
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Quality Driven https://www.qualitydrivensoftware.com/
 
 #### Reply 7
 
 **Author:** ProServe-DreGo
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Neil I this concept, yet not 100% inline with what I need.
 
 #### Reply 8
 
 **Author:** Mark
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I would love to hear any info too. Been researching the one that Mike Andes has, but pretty sure it does not integrate with Jobber.
 
 #### Reply 9
 
 **Author:** rebecca
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 JOBBER COMMUNITY TEAM Interested to follow along here!
 
 #### Reply 10
 
 **Author:** Warrior_Boss
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Me too!
 
 #### Reply 11
 
 **Author:** phillipsenter
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Thank you Neil. I would be interested if anyone else has any other input.
 
 #### Reply 12
 
 **Author:** ryaantuttle
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Whats a "Pay for Performance" app?
 
 #### Reply 13
 
 **Author:** bedellmgmt
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to ryaantuttle Your team members would get paid by the project completed instead of an hourly wage (assuming they actually work efficiently enough to earn more than your state minimum wage - if not, you pay them that so you don't get in trouble) This hopefully incentivizes team members to work more efficiently for everyone's mutual monetary gain.
 
 #### Reply 14
 
 **Author:** Hillfamcleaning
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to bedellmgmt Mine average well above minimum wage paying them commission rather than hourly.
 
 #### Reply 15
 
 **Author:** RachelSmith
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Hillfamcleaning Same. More than double the average hourly rate typically paid.
 
 #### Reply 16
 
 **Author:** ryaantuttle
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to bedellmgmt Thank you! Sounds a scam to pay less, but what do I know.
 
 #### Reply 17
 
 **Author:** FredHodgeJr
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to ryaantuttle A bonus system to reward employees based on their performance.
 
 #### Reply 18
 
 **Author:** CoDuctDoctors
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to ryaantuttle Example would be Bonusly. Employer can provide awards, incentives for performance..We use Bonusly. Basically you can create any type of award or incentive for customers completing a job quicker, or cross-selling other services while at the jobsite to an existing client.. For example, we incentive our technicians for speed and accuracy, positive customer-feedback (google reviews) that mention the techs name, cross-selling other services, and attendance record quarterly. With Bonusly, you create a point system and what those points are worth. We have our techs keep track of the what they cross-sell in order to get incentive and recognized for it, they log into Bonusly at the end of the day and enter the recognition name #cross-sell and required to upload the workorder and the system dumps the points into their wallet for the specific amount of points they earn for cross-selling. For every 10 points can equal $ 1, 3, or 5 dollars. We get to decide how much 10 points is worth. So 500 points is $50 they can deem this is set up initially when you set up the account. You can set up one off or quarterly performance bonuses which is why we this software. They add up, techs can save up and redeem Visa debit gift cards, cards to over 100 stores. We don't pay until the employee redeems the reward. If the technician has $50-$500 dollars worth of points they turn them into cash redeeming virtual or physical gift cards, then we get charged once they redeem. Our accountant says this considered a "fringe benefit".
 
 #### Reply 19
 
 **Author:** KellyGuerrero
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Has anyone looked at Protiv? I see that one does integrate with Jobber. It looks it would work great for companies whose techs work in teams.
 
 #### Reply 20
 
 **Author:** Mark
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to KellyGuerrero Checking that out now. Looks it may be something that works for paying the team for performance.
 
 #### Reply 21
 
 **Author:** ProServe-DreGo
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to KellyGuerrero i the brief explainer video. I'll check it out. $99 a month? WOW!! for only 6 employees? This is pretty costly for a business of that size. Something jobber has always impressed me with is the cost for the amount of employees you can have on the software. Greatly appreciated JOBBER!!
 
 #### Reply 22
 
 **Author:** RachelSmith
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 We hired a developer to build a reporting tool that accepts specific reports from Jobber (Visits, Invoices, & Timesheets) and combines them into one spreadsheet which calculates the individual cleaner's pay based on metrics we decide, job ticket hours (duration sold), actual time worked, if it was a team splits accordingly, etc. Tried to attach an image here for reference but cannot.
 
 #### Reply 23
 
 **Author:** TheMarshall
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to RachelSmith ANy chance you can share who your developer is?
 
 #### Reply 24
 
 **Author:** RachelSmith
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to TheMarshall His name is Isa Aguilar and can be reached at isa@aguilarstory.com. Hope you find the help you need!
 
 #### Reply 25
 
 **Author:** DarrenSteele
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I was going through this exact question back in January. I'm a big fan of Mike Andes' book/method but was getting swamped with the record keeping. I couldn't find anything already made, but Jobber has a pretty comprehensively documented API, and I was able to automate P4P calculations with Zapier very much in line with Mike Andes' method and have summaries drafted into spreadsheets. Job budgets are automatically calculated (with exceptions thrown for line items that I know are too complicated for the math to be done automatically), and when technicians finish them, the budget is shared between the technicians on site. I can probably share some of the d33ts sometime if people want them.
 
 #### Reply 26
 
 **Author:** Mark
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to DarrenSteele I would love to see what you have set up. Have to find something that will help us give more ownership to the crew and set budgets for the jobs they are doing. Labor about killed us this year so we have to do something different for sure.
 
 #### Reply 27
 
 **Author:** DarrenSteele
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Mark I'd love to do show and tell. Probably have to wait until after Christmas. I'm pressed with our lighting season now. Sent DM
 
 #### Reply 28
 
 **Author:** Mark
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to DarrenSteele Happy to hear this. Let me know when you have some time this winter as that is when we will be starting our switch to some sort of different program. I look forward to hearing from you.
 
 #### Reply 29
 
 **Author:** DominicVella
-**Posted:** 2025-04-09
+**Posted:** 2025-04-02
 
 to DarrenSteele Hi Darren-- We are new to Jobber and I am also a huge fan of Pay for Performance -- and Mike Andes--- We are trying desperately to move over to this but been burried in paperwork-- How did your Zapier or API integration working for you? Any ideas you have since this post 6 months ago... i really appreciate any direction you can send me here or vella_dominic@yahoo.com
 
 #### Reply 30
 
 **Author:** brandymm
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I am interested in more info, hoping Jobber does this as well!
 
@@ -244,84 +1076,84 @@ to NickZem Thank you!!
 #### Reply 33
 
 **Author:** brandymm
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I noticed yesterday on JOBBER a new function for clients to mention a team members name for the team member to get a bonus! I am trying that and checking out more details also!
 
 #### Reply 34
 
 **Author:** RachelSmith
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to brandymm Where did you see this team name feature? In referrals?
 
 #### Reply 35
 
 **Author:** PinkPlumbing
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I am looking to go fully commission at some point. I am hoping that jobber can get a report showing each tech and what we billed out for them. The sales report only shows won jobs.. but we want billed/ paid jobs.
 
 #### Reply 36
 
 **Author:** julie
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 JOBBER COMMUNITY TEAM to PinkPlumbing Hey PinkPlumbing, you can pull salesperson performance reports within Jobber!
 
 #### Reply 37
 
 **Author:** vlad
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 This is pretty common in the cleaning industry. I've had to make google sheet that combines the different reports jobber provides and generates a sheet for each employee with their jobs and percentages. That sound similar to what Rachel has. I'm currently working on doing the same thing through the jobber api so it doesn't depend on having to export the reports. I'll share once it's done. Depending on what rules you use to determine the shares, it's not too hard to make a custom solution.
 
 #### Reply 38
 
 **Author:** CleanWindows4Me
-**Posted:** 2025-04-09
+**Posted:** 2025-04-02
 
 to vlad Vlad...Were you able to get this setup? I would love it if your still sharing. Appreciate the trial and error that had to go into this to make it work.
 
 #### Reply 39
 
 **Author:** vlad
-**Posted:** 2025-04-09
+**Posted:** 2025-04-02
 
 to CleanWindows4Me We got it close but then got distracted by a couple of other projects. I need to restart this. Thanks for reminding me.
 
 #### Reply 40
 
 **Author:** FredHodgeJr
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Bonus Up has been great for our exterior cleaning company.
 
 #### Reply 41
 
 **Author:** ProServe-DreGo
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 For your type of business, what are the top Key Performance Indicators (KPIs) you would hope to see for your particular industry? For cleaning and maintenance, I need to manage a few key factors: quantity of visits completed per month breakage reviews received new requests for specific employee average ticket value I specifically want these KPIs to reward and incentivize my employees for retention and relationship. Specifically, what KPIs would other companies value over these?
 
 #### Reply 42
 
 **Author:** CoDuctDoctors
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 We just started using Bonusly.. It doesn't integrate with Jobber but it does with Quickbooks. You can control awards, incentives.. Its $3/ per employee per month and we select the pay-as-redeemed- option. Basically you can create any type of award or incentive. We incentive our technicians for speed and accuracy, positive customer-feedback (google reviews) that mention the techs name, cross-selling other services, and attendance record quarterly. With Bonusly, you create a point system and what those points are worth. We have our techs keep track of the what they cross-sell in order to get incentive and recognized for it, they log into Bonusly at the end of the day and enter the recognition name #cross-sell and required to upload the workorder and the system dumps the points into their wallet for the specific amount of points they earn for cross-selling. For every 10 points can equal $ 1, 3, or 5 dollars. We get to decide how much 10 points is worth. So 500 points is $50 they can deem this is set up initially when you set up the account. You can set up one off or quarterly performance bonuses which is why we this software. They add up, techs can save up and redeem Visa debit gift cards, cards to over 100 stores. We don't pay until the employee redeems the reward. If the technician has $50-$500 dollars worth of points they turn them into cash redeeming virtual or physical gift cards, then we get charged once they redeem. Our accountant says this is a "fringe benefit". Meaning we can reward the employee in cash value without having to pay payroll taxes and neither does the employee. It's a true 1 for 1 payout, and it's a standard operating expense under an employee benefit/perk. If you go to Bonuslys website, they push their middle tier option which includes peer-to peer appreciation at $5/month and $60 per subscriber per year, which is more expensive and as a service provider nothing our team cares to use. So you have to specifically ask for the "pay as redeemed option" and no peer-to peer feature to eliminate the $60 year per subscriber, and also lowers the employee cost monthly from $5 to $3.
 
 #### Reply 43
 
 **Author:** TurnerPainting
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 There are a few options out there but depending on what you're trying to achieve, a simple spread sheet might be best. OH and it's also FREE!! We offer our team a bonus if the labor and material are below a certain margin (labor <31% and Materials<15%). We pull this data from the job costing card and input it into the spreadsheet. Note: We are about to add this to our forms page that will allow our techs (painters) the responsibility to fill them out. If data is not filled out then they will not qualify for bonus. Once recorded to the jobber forms, Jobber automatically sends that over and through zaps, we have it automatically read the data and fill out our internal tracker. Since starting we have been able to increase pays by 67% through our guys initiative to keep productivity efficient and materials tight. We bonus out once a month and our guys love it. If you would to know more about what we do I would be happy to share or show you!
 
 #### Reply 44
 
 **Author:** Greenempire
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Inside the market place there is a P4P style app called bonus up. I don’t use it but it does look intriguing
 
@@ -334,16 +1166,16 @@ Not QuickBooks
 
 ---
 
-## 2. How do you keep it fun AND professional?
+## 21. What fleet management apps integrate well with Jobber?
 
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-03-07
-**Views:** 4 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-you-keep-it-fun-and-professional/9221
+**Author:** NormaF (Contributor 2)
+**Posted:** 2026-03-06
+**Views:** 17 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-fleet-management-apps-integrate-well-with-jobber/9174
 
 ### Content
 
-I am curious how other owners handle the line between being friendly with their crew and staying professional as the boss. In this kind of work we spend a lot of time with technicians driving to jobs working side by side and solving problems together so naturally there is a lot of joking around and a relaxed environment. At the same time there are moments where you need to switch gears stay focused and have direct conversations about expectations. One situation that came up recently made me think about this more. We have someone on our team in more of a management role. He is a good guy and very capable but sometimes he jokes around in situations where we are trying to stay focused and move the job forward. We also had a situation where instead of having the technician communicate with the client he jumped into a group text and started messaging the client directly which broke the chain of communication we try to maintain. It got me thinking about what kind of guardrails other companies put in place both for themselves and for people in leadership roles. Do you hang out with your crew outside of work or do you keep a clear boundary between work and personal life. And if you have lead techs or managers do you have specific expectations for how they communicate with clients and interact with the rest of the crew. I am curious what has worked well for others. CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE
+I'm looking for recommendations on a fleet management app that integrates with Jobber and will help us manage things vehicle inspections, maintenance schedules, repair logs, etc. Thanks in advance!
 
 ### Replies (1)
 
@@ -356,7 +1188,380 @@ No Replies Be the first to
 
 ---
 
-## 3. Do you have a Instagram Business account? How are you utilizing tools built within it?
+## 22. What Supplementary PM Software Are you using with Jobber?
+
+**Author:** HUGEHandyman (Jobber Ambassador)
+**Posted:** 2026-03-02
+**Views:** 39 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-supplementary-pm-software-are-you-using-with-jobber/8917
+
+### Content
+
+Jobber has that sales pipeline which is still in beta but is limited to the info on jobs. Especially for you GCs out there, what other PM software are you using and HOW are you using it? I've been using a trello board but I feel most my time is just "cleaning up" the trello board instead of it actually benefitting the business. I'm looking in to a solution that can be more automated with zaps, can help disseminate information from sales to production, and that can help make us more efficient. GENERAL CONTRACTING SOFTWARE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-03-05
+
+Go high level has a multitude of options, and we’ve been utilizing it as a lead funnel to generate stages of the client lifecycle. We were hoping to eventually build out another pipeline through the platform for hiring as well
+
+---
+
+## 23. Technician Performance Report
+
+**Author:** PinkPlumbing (Contributor 2)
+**Posted:** 2025-04-02
+**Views:** 666 | **Likes:** 1 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/operations-forum/technician-performance-report/608
+
+### Content
+
+I am just coming over from service titan.. One report that is really important to me is technician performance report we had. We could see their avg ticket, their daily avg, month to date sales ect... a report that I can see how much a tech has invoiced for is imperative. Any chance this is coming? How are you other business owners tracking how your tech's are doing? I don't want to pay the guy who is doing bare min. the same as the guys who are taking their job seriously well organised and hustling. PLUMBING REPORTING & BUSINESS INSIGHTS
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** bedellmgmt
+**Posted:** 2025-04-02
+
+This is some really great insight and feedback - did you end up figuring this out?
+
+#### Reply 2
+
+**Author:** PinkPlumbing
+**Posted:** 2025-04-02
+
+to bedellmgmt I see that in invoices I can email a CSV file that has the technician and the paid invoices... I'm not good at excel but im sure I can add functionality on Excel to seperation each tech and total their invoices for a time frame. I'll figure it out. I hope 👍
+
+#### Reply 3
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM Hey PinkPlumbing! Our new product updates released last week will do some of the things you're looking for! The new team productivity report allows you to track your fieldworkers’ productive output and get insight into how each employee contributes to your business.
+
+#### Reply 4
+
+**Author:** Daichi
+**Posted:** 2025-04-02
+
+PinkPlumbingYou should check out Crew Insight in the app marketplace. There is a technician performance table in there. Breaks out sales, conversion, avg ticket. If two plumbers are scheduled on a job, it splits the revenue based on assigned employees. Disclaimer: I did help build the app, so if you figured it out with excel and it's working fine - continue that. But if you are looking for something a little more automated and real-time, might be worth checking out.
+
+#### Reply 5
+
+**Author:** cor-win
+**Posted:** 2025-04-02
+
+PinkPlumbingwhat did you do about getting contracts signed on site? Trying to navigate that now.
+
+#### Reply 6
+
+**Author:** NickZem
+**Posted:** 2026-03-05
+
+PinkPlumbing​ Not necessarily a report, but I just launched JobSplit in the Jobber Marketplace. This is focused on calculating performance pay based on the amount of revenue generated per employee. You set your revenue share percentage, enter your pay period dates, and it pulls in completed job data from Jobber to calculate performance pay automatically. This would be useful if you were ever looking to move to a performance based pay model rather than just a report. Feel free to reach out with any questions: https://jobsplit.app/
+
+---
+
+## 24. How do home service businesses fill their calendar before busy season?
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2026-03-02
+**Views:** 136 | **Likes:** 0 | **Comments:** 8
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-home-service-businesses-fill-their-calendar-before-busy-season/8661
+
+### Content
+
+JOBBER COMMUNITY TEAM When work slows down, most service businesses feel it fast: stress, cash flow pressure, and last-minute scrambling. Sound familiar? What’s the one thing you rely on most before busy season to keep your calendar full? New leads Repeat customers Referrals Deposits or upfront payments Booking weeks in advance Something else? (do tell!) Bonus: What used to stress you out about slow periods that doesn’t anymore? ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CLIENT COMMUNICATIONS CONSTRUCTION CONTRACTS & CONTRACTING DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES SCHEDULING SNOW REMOVAL
+
+### Replies (8)
+
+#### Reply 1
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-03-02
+
+Did you ever notice that Walmart is selling (not just advertising) Christmas before Halloween? I sell indoor painting Jobs for January and February when I am cleaning gutters in the fall. I'm not just advertising, but actually booking them. Just as I would book a faucet changeout next Wednesday. To make it happen, just remember your close ratio and adjust your marketing to fill the calendar. Build a machine so you don't have to wonder about the off-season. Your past data doesn't lie, and it will help you.
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-03-02
+
+JOBBER COMMUNITY TEAM to ThatHandymanVan Whoa, that Walmart analogy is spot on. Booking January work while you're still busy in the fall is such a shift in thinking.
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2026-03-02
+
+BUILDER 1 We had a promotion in December trying to fill our schedule for January and February and worked well. We sold discounted hours in packages up to 20 hours. We sold over 10K on this promotion trying to book work when we are slow in January and February.
+
+#### Reply 4
+
+**Author:** julie
+**Posted:** 2026-03-02
+
+JOBBER COMMUNITY TEAM to judithvirag Selling discounted hours in advance is so smart. Pre-selling hours gives you cash flow and predictable work. Double win! Did most of those packages come from repeat customers or new leads?
+
+#### Reply 5
+
+**Author:** judithvirag
+**Posted:** 2026-03-02
+
+BUILDER 1 to julie Bag of mix. Some from new customers some from our lead list - our mailing list.
+
+#### Reply 6
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-03-02
+
+to judithvirag My concern is whether people would commit now and then cancel later in the season. For example, if we open booking from October through December and fill the schedule, we could then contact the January and February clients to confirm or release their spot. Another option would be taking a deposit at the time of booking to reduce cancellations. I am trying to figure out the best way to structure it so our schedule stays full without creating a lot of last minute drop offs.
+
+#### Reply 7
+
+**Author:** judithvirag
+**Posted:** 2026-03-02
+
+BUILDER 1 to ThatHandymanVan ThatHandymanVan​ it is hours they bought so they can book these hours after December. We do have a cancellation policy in place as well.
+
+#### Reply 8
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+You have to be marketing during the times you're busiest to set up your pipeline. If you start taking your foot off the gas you're going to hurt yourself.
+
+---
+
+## 25. What SOP have you created that saved you the most time or sanity this year?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-03-02
+**Views:** 45 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/what-sop-have-you-created-that-saved-you-the-most-time-or-sanity-this-year/8764
+
+### Content
+
+My coach and I are currently auditing and modifying our SOP library (including organizing it so things are easy to find!) For 2026, what SOP has taken the mental load off of you?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** tbarth
+**Posted:** 2026-03-02
+
+If you’re not a tech person, it’s worth having someone who is take a look at your entire job flow. They may be able to spot opportunities to streamline things and help you build and implement simple systems. I’m a tech guy, and I’ve created several basic tools we use every day that save a huge amount of time. They’re specific to our business, but as an example, we can now generate most bids from a few client photos and a handful of measurements. Before, we were doing site visits, taking tons of measurements, writing everything down by hand, and manually entering it into a spreadsheet. It was easily 2–6 hours of actual work per bid, including travel. Now it’s 10–20 minutes, with no travel. Not sure if that's the type of SOP you mean, but it's how we produce most bids now, compared to how we used to do all of them. If you don’t know enough about tech to see where it could apply, including in operations, you might be missing some significant time and cost-saving opportunities.
+
+---
+
+## 26. Jobber Media Opportunity! Using Jobber AI and seeing real results? 👀 We want to feature you.
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2026-03-02
+**Views:** 45 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/jobber-media-opportunity-using-jobber-ai-and-seeing-real-results-%F0%9F%91%80-we-want-to-f/8791
+
+### Content
+
+JOBBER COMMUNITY TEAM Jobber's marketing team is looking to connect with a few pros who are using Jobber’s AI tools. We’d love to chat if you: Have noticed measurable wins (more booked jobs, revenue growth, faster replies, fewer missed calls, etc.) Can speak to operational efficiency gains (e.g., handling more inquiries without hiring, delaying headcount, saving meaningful time each week) Feel AI is giving you a competitive edge in your market Are comfortable sharing high-level numbers (percent growth, hours saved, call volume handled, etc.) Would be open to speaking with media if selected If that sounds you, send me a DM, and I’ll connect you with our PR team. We’d love to help amplify your story! AI REPORTING & BUSINESS INSIGHTS SOFTWARE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 27. Hire slow - Fire fast - How do you know you made a hiring mistake?
+
+**Author:** HUGEHandyman (Jobber Ambassador)
+**Posted:** 2026-03-02
+**Views:** 60 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/operations-forum/hire-slow---fire-fast---how-do-you-know-you-made-a-hiring-mistake/8701
+
+### Content
+
+I've previously hired an Ops manager (key role in the company, we're pretty small) and had to fire him after one week. The guy wasn't vibing with the team and was trying to do side jobs during the week while having a large salary with us. Do you have any good stories here? I want to hear them. What triggered the alarms in your head that it was time to go?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-02
+
+You 100% made the right choice getting rid of that guy. Sounds a nightmare.
+
+#### Reply 2
+
+**Author:** ryaantuttle
+**Posted:** 2026-03-02
+
+Our team is a part of the process with any new hires. And we do with any of the businesses we own. It not only empowers the team, it also helps weed out the bad energy vibes new hires can bring. We also set expectations from the start with a clearly defined process.
+
+#### Reply 3
+
+**Author:** tbarth
+**Posted:** 2026-03-02
+
+Random list. Some is preventative. Depending on your industry, substance abuse can be common. Learn to spot the signs if issues could affect your business, have a testing policy, and make note of it in the job postings. The earliest sign of that is lots of missed / late days, always with plausible reasons. The implausibility being that there were reasons several times a month. If you have a service where employee safety is critical, fire people if they repeatedly don't follow safety rules. If safety is critical and they simply don't understand how to do things safely. There are times when someone doesn't have the ability to take what you are telling and showing them, and adapt it to different situations they'll need to be able to do. Some people just don't have the mechanical aptitude where it counts. Not a bad worker, just a bad fit for the job. Background check. Do your own too... google for things the employee name and L&I claim. The last company I worked for had someone fake a couple injuries and their L&I claims lasted for three years. When it all started, they googled the guy and found court records of him doing the same thing to his last employer. Situational compliance with anything important. The person who will learn all the things that need to be done and then asks a coworker, "So how much of that do we really need to do?" Fudging timecards will usually start early if it's going to happen at all. Keep an eye on that at first for sure. Don't be afraid to secretly check in on new workers from time to time. Seeing how they perform when unsupervised is important and an early indicator.
+
+---
+
+## 28. What’s the #1 task you’re still doing that your software should be handling?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-03-02
+**Views:** 132 | **Likes:** 1 | **Comments:** 8
+**URL:** https://community.getjobber.com/discussions/operations-forum/what%E2%80%99s-the-1-task-you%E2%80%99re-still-doing-that-your-software-should-be-handling/8642
+
+### Content
+
+For us, we’re attempting to automate our LEAD funnel further and I’m unsure if there’s a way to zap our online estimate into online booking for clients (currently we go back and forth to set a date). I didn’t list this in the jobber specific forum because our online estimate form is built through Go High Level. Thoughts? SOFTWARE
+
+### Replies (8)
+
+#### Reply 1
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+Following this because I may change from Chiirp to go high level! One thing we've been using is priceguide.io - It's a really nice price estimator and you can use zaps to get it in a jobber request - then there are a lot of automations from there.
+
+#### Reply 2
+
+**Author:** roselvaggio
+**Posted:** 2026-03-02
+
+to HUGEHandyman I can appreciate that! Our GHL form doesn't zap the lead into our Jobber funnel and that's been frustrating due to email campaigns being sent through there. I'm sure I could build out a pipeline on GHL, but it honestly feels rocket science!
+
+#### Reply 3
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-02
+
+I know I should have an app that snaps pictures of my receipts and tracks them for me. I have been so busy and really need to focus on finding one of there!
+
+#### Reply 4
+
+**Author:** roselvaggio
+**Posted:** 2026-03-02
+
+to PestFreeCanada I do believe Jobber has some feature similar to this, no?
+
+#### Reply 5
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+You don't need an app for that. Jobber has that capability! It's super easy.
+
+#### Reply 6
+
+**Author:** ProGrade1
+**Posted:** 2026-03-02
+
+I am still receiving emails from property managers for work requests and inputting them manually. I believe Zapier will input to jobber from an email but have not figured it out.
+
+#### Reply 7
+
+**Author:** roselvaggio
+**Posted:** 2026-03-02
+
+to ProGrade1 I do LOVE Zapier, I'm not sure how we lived before we subscribed!
+
+#### Reply 8
+
+**Author:** tbarth
+**Posted:** 2026-03-02
+
+As my business is simple, I only use the basic features so far, but I do have an answer to your question, and I assume it affects all of us: The constant workflow disruption of having to reapply filters and sort orders to the lists of Clients, Requests, Quotes, Jobs, Invoices, and Payments every time I return to one of those pages. For example, when you click on a menu item "Invoices," it loads the Invoices page with default settings of their choosing; in this case, every invoice you've ever created, sorted by status, which is an overwhelming amount of info to have to search through for what you want. When you add filters or sorting to improve your workflow, Jobber nukes nukes them whenever you leave the page. The good news is that fixing this problem would be very straightforward, and the software Jobber runs on has the functionality built right into it. The app just needs to remember your last-used settings in the browser, and update the six menu buttons so they load the saved settings instead of a forced default view. That’s it, no complicated changes needed. It's been the standard way to save things UI preferences for well over a decade. If Jobber has around 300,000 users, fixing this would save around a million unnecessary clicks every day! The not so good news is that users have been asking about this since the product launched in 2011, so it doesn't seem likely that they are going to modernize the lists. I’ve gotten to the point where I regularly fall behind on desk work because I’m avoiding the constant irritation of this issue. Workarounds keeping multiple tabs open just add more complexity to the workflow, and are themselves more repetitive clicks. It’s driving a car with power seats that reset to an uncomfortable position every single time you get out, when a one-time, relatively easy fix could save every driver of the 300,000 cars already sold and every car sold in the future from having to fiddle with the buttons or sit in an uncomfortable position every time they drive.
+
+---
+
+## 29. How can Jobber support time-and-materials businesses as they scale?
+
+**Author:**  (Contributor 2)
+**Posted:** 2026-03-02
+**Views:** 135 | **Likes:** 2 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/operations-forum/how-can-jobber-support-time-and-materials-businesses-as-they-scale/8579
+
+### Content
+
+21Handyman I have been considering Jobber for a few years, along with other systems. I have only pulled the trigger with QuickBooks, which I hate every day. But I digress. I am diving in this year with the goal of finding out the best way to use Jobber, as a time and material business that relies on creating customer trust prior to signing a customer for the first time. I cannot just rely on a system whereby my customer says, i have a broken pipe and I need someone asap. As a handyman, my customers have many jobs of all sorts from day one. Most people are used to estimates, but are amenable to time and material. How can Jobber, and possibly other tools in connection too (suggestions welcome), help me with my goal of going from a soloprenuer to a multi-city organization that is run in this manner? CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE HANDYMAN INVOICING REPORTING & BUSINESS INSIGHTS SCHEDULING HUGEHandyman Hey I spoke this in to chat GPT and had it organize my thoughts: 1) MODIFY How you think of T&M - thing I would suggest is not overcomplicating your time and materials strategy as you grow. We bill in half-day and full-day blocks instead of hourly. A half day is one block of time. Anything over four hours becomes a full day. If a job runs six hours, it’s still a full day because realistically you can’t schedule another job after that. I think of it seats on an airplane. Every seat is a half day. Once that time is taken, it’s taken. This keeps scheduling simple and predictable as you scale. 2) TEMPLATES Brotha - create one master “Handyman Time & Materials” estimate template inside Jobber. Instead of building custom estimates every time, your template should already include: Standard scope language Cancellation policy No warranty language on repairs Store run policy Add-on work policy Client-supplied material notes Clear terms and conditions When a client sends me a list, I copy their wording directly into the quote and add any necessary notes. That estimate should take five minutes to build, not thirty. 3) Use Jobber automated messages to prime them as to what to expect We send a short pre-job message (or video) explaining: Secure pets Clear work areas Adding work adds time and cost We bill in half-day and full-day blocks Store runs are billable When clients understand this upfront, there are fewer on-site negotiations. 4) Get thick skin when talking to people. Every client hears the same thing: “I don’t know exactly how long this will take. If it goes over four hours, it becomes a full day because we can’t schedule another job after that.” If they ask, “What if it only takes six hours?” The answer is simple: “It’s still a full day because that time was reserved for you.” Jobber supports scaling by: Saving estimate templates Automating communication Storing standard terms and conditions Making repeatable proposals fast Keeping everything consistent across staff Time and materials businesses don’t scale by making bigger, more complex estimates. They scale by simplifying pricing, standardizing communication, using templates, and improving sales delivery. We’re moving into remodeling now, so we do more custom bids. But for handyman time and materials work, the goal is speed and clarity. That’s how Jobber supports scaling.
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** ryaantuttle
+**Posted:** 2026-03-02
+
+Great question and I feel you on the QuickBooks thing. Been running Best Handyman Boston since 2018 and have seen a lot of handymen struggle with this exact problem of how to scale a trust first time and materials business without losing what makes it work Jobber is solid for the basics but it wont magically solve your scaling problem What Jobber does well is scheduling crm invoicing client communication and the mobile app for your techs. For a solopreneur moving to a small team it handles the blocking and tackling stuff that QuickBooks makes painful What it doesnt do is build customer trust for you. Thats your sales process your communication and your reputation and thats where T and M businesses live or die Heres how Id approach this: First get your workflows tight before you scale. Use Jobber to document every step of your customer journey from lead to assessment call to site visit to proposal to job execution to follow up to reviews. Most guys try to scale before they have a repeatable process and that kills them Second build a trust system not just an estimating system. For T and M to work customers need to trust that your hourly rate is fair and your techs arent padding time. That means transparent communication through Jobbers client hub photos and notes from every job clear explanations of why T and M makes sense for their situation and reviews doing the heavy lifting on credibility Third when you add people systematize the trust building. You built trust through your personality and expertise but your second or third tech needs scripts training and a process to do what you do naturally. Jobber wont give you that you have to build it yourself Tools that help alongside Jobber include Loom for sending quick video explanations to customers before you arrive which is a huge trust builder plus obsessive attention to your Google Business Profile because reviews are everything Real talk on the multi city dream. Going from solopreneur to multi city is a 3 to 5 year journey if you do it right. The system matters more than the software. Ive seen guys with great software and broken processes fail and guys with basic tools and tight systems scale beautifully
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-03-02
+
+JOBBER COMMUNITY TEAM Great question! This is a really common challenge, glad you asked it in the community forum. Looping in HUGEHandyman​ ryaantuttle​ ThatHandymanVan​ here. They have shared solid insights on scaling and managing workflows and operations as things get more complex.
+
+#### Reply 3
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+Hey I spoke this in to chat GPT and had it organize my thoughts: 1) MODIFY How you think of T&M - thing I would suggest is not overcomplicating your time and materials strategy as you grow. We bill in half-day and full-day blocks instead of hourly. A half day is one block of time. Anything over four hours becomes a full day. If a job runs six hours, it’s still a full day because realistically you can’t schedule another job after that. I think of it seats on an airplane. Every seat is a half day. Once that time is taken, it’s taken. This keeps scheduling simple and predictable as you scale. 2) TEMPLATES Brotha - create one master “Handyman Time & Materials” estimate template inside Jobber. Instead of building custom estimates every time, your template should already include: Standard scope language Cancellation policy No warranty language on repairs Store run policy Add-on work policy Client-supplied material notes Clear terms and conditions When a client sends me a list, I copy their wording directly into the quote and add any necessary notes. That estimate should take five minutes to build, not thirty. 3) Use Jobber automated messages to prime them as to what to expect We send a short pre-job message (or video) explaining: Secure pets Clear work areas Adding work adds time and cost We bill in half-day and full-day blocks Store runs are billable When clients understand this upfront, there are fewer on-site negotiations. 4) Get thick skin when talking to people. Every client hears the same thing: “I don’t know exactly how long this will take. If it goes over four hours, it becomes a full day because we can’t schedule another job after that.” If they ask, “What if it only takes six hours?” The answer is simple: “It’s still a full day because that time was reserved for you.” Jobber supports scaling by: Saving estimate templates Automating communication Storing standard terms and conditions Making repeatable proposals fast Keeping everything consistent across staff Time and materials businesses don’t scale by making bigger, more complex estimates. They scale by simplifying pricing, standardizing communication, using templates, and improving sales delivery. We’re moving into remodeling now, so we do more custom bids. But for handyman time and materials work, the goal is speed and clarity. That’s how Jobber supports scaling.
+
+#### Reply 4
+
+**Author:** 
+**Posted:** 2026-03-02
+
+21Handyman Quick follow up question: When you say, "Use Jobber to document every step of your customer journey from lead to assessment call to site visit to proposal to job execution to follow up to reviews", what exactly do you mean to "Use Jobber" to do these things? Does jobber have a document or other type of repository for this type of documentation?
+
+#### Reply 5
+
+**Author:** 
+**Posted:** 2026-03-02
+
+HUGEHandyman
+
+---
+
+## 30. Can AI create accurate inventories from photos or walkthroughs for estimates?
+
+**Author:** DanFlashes (Contributor 2)
+**Posted:** 2026-03-02
+**Views:** 75 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/operations-forum/can-ai-create-accurate-inventories-from-photos-or-walkthroughs-for-estimates/8569
+
+### Content
+
+Anyone here using AI to build inventories from photos or on‑site for moving quotes? We’re a moving company looking to automate as much of the quote process as possible. Right now, we’re still doing a lot of manual inventory collection and data entry, and it’s slowing us down and leaving room for mistakes. I’m specifically interested in: AI tools that can take phone photos or short videos (or an on‑site walkthrough) and automatically create an itemized inventory we can use for estimates. Anything that can recognize furniture/boxes from images and turn that into quantities, cube/weight, or at least a structured checklist. Workflows where the customer does a virtual survey themselves and we just review and price it. Bonus points if it can be integrated within jobber If you’re doing this today, which software are you using, how accurate is it, and what does your workflow look from first contact to approved quote? Any “don’t waste your time on this tool” stories are welcome too. CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE JUNK REMOVAL REPORTING & BUSINESS INSIGHTS SERVICE LISTS SERVICES LISTS SOFTWARE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** WiringByron
+**Posted:** 2026-03-02
+
+Hey Dan..... boy I got a good one for you. Book some time with me here: https://tr.ee/L0JVS-Domd I actually use something called LiveSwitch for my Electrical company but it's used more widely in the moving industry. It's also got a full integration with Jobber. It does all four points you mentioned.
+
+---
+
+## 31. Do you have a Instagram Business account? How are you utilizing tools built within it?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-03-06
@@ -378,664 +1583,7 @@ No Replies Be the first to
 
 ---
 
-## 4. How can I automatically send an SMS to customers when their ordered part arrives?
-
-**Author:** marcsappliance (Contributor 2)
-**Posted:** 2026-03-05
-**Views:** 38 | **Likes:** 0 | **Comments:** 4
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-can-i-automatically-send-an-sms-to-customers-when-their-ordered-part-arrives/9161
-
-### Content
-
-I have been trying to use some automation to help with a workflow related to parts. We are an appliance company, and often need to order parts. What I am looking to do is when parts arrive, we generally put a note in the job saying parts in. I would to try automation that when we say part is in, we send an SMS to the customer saying the part is in and to go to our booking link to setup a return visit. I have tried using integrations Zapier to Twilio, but cant seem to get it to work based on notes in the job being updated. Anyone else get a workflow this working? APPLIANCE REPAIR
-
-### Replies (4)
-
-#### Reply 1
-
-**Author:** PestFreeCanada
-**Posted:** 2026-03-05
-
-Maybe a work around would be an "after the fact" automation. Once you have changed a status to "part in" then it sends a message to the client? Or maybe add it as a note and when a note is added, then its a conversation thread with a client that tells them they have a new message?
-
-#### Reply 2
-
-**Author:** marcsappliance
-**Posted:** 2026-03-06
-
-to PestFreeCanada Are these options within jobber itself or with external integrations? I think I follow that its within jobber, so where would status change, at the job level? And for notes would that be visit notes that are viewable by customer?
-
-#### Reply 3
-
-**Author:** PestFreeCanada
-**Posted:** 2026-03-06
-
-to marcsappliance Hey! Sorry for the late . I am not sure this an option in Jobber I was just kind of thinking out loud. I am sure if you speak to someone in the support department, there has to be some sort of communication with a customer section? Again, thinking out loud!
-
-#### Reply 4
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-06
-
-You would need to utilize job tags and another texting platform. I know with Chiirp, you can do something that. Pretty sure you can do it with go high level also. Jobber does so much, but those job specific automations need to be done by another program. As far as I know, Jobber's automatic texts are mostly for sales and appointments. You may be able to mess around with a certain type of appointment and a tag, but that's the only thing I can think of.
-
----
-
-## 5. What fleet management apps integrate well with Jobber?
-
-**Author:** NormaF (Contributor 2)
-**Posted:** 2026-03-06
-**Views:** 9 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/what-fleet-management-apps-integrate-well-with-jobber/9174
-
-### Content
-
-I'm looking for recommendations on a fleet management app that integrates with Jobber and will help us manage things vehicle inspections, maintenance schedules, repair logs, etc. Thanks in advance!
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 6. What Should Home Service Businesses Automate First to Save Time?
-
-**Author:** julie (Jobber Community Team)
-**Posted:** 2026-02-13
-**Views:** 72 | **Likes:** 0 | **Comments:** 6
-**URL:** https://community.getjobber.com/discussions/operations-forum/what-should-home-service-businesses-automate-first-to-save-time/8693
-
-### Content
-
-JOBBER COMMUNITY TEAM Small manual tasks start stacking up, catching up on follow-ups, re-adjusting scheduling, invoicing, review requests, the list goes on and on. Sound familiar? What’s one task you’re still doing manually that you know could be automated? What’s stopping you from setting it up? AI ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA
-
-### Replies (6)
-
-#### Reply 1
-
-**Author:** roselvaggio
-**Posted:** 2026-02-18
-
-The "people" side of things- quote approvals, job confirmations, review requests, feedback forms. On the flip side, invoicing and scheduling was the last thing we automated because of the room for error!
-
-#### Reply 2
-
-**Author:** Rafa
-**Posted:** 2026-03-06
-
-to roselvaggio I your perspective about "room for error" and I'll consider it in my Ai Action plan, but I'd add some perspective here. I think the best way to deploy a AI feature that that allow us to scheduling is in the first stage put the human in the loop to check and approve until we trust in the model 100%. By the way, nice to see different points. Thank you for sharing... have a good one...
-
-#### Reply 3
-
-**Author:** sam-s
-**Posted:** 2026-02-20
-
-Quote follow-ups, 100%! It's super easy with Jobber's Automations. I did change the generic language though (inspired by Never Split the Difference ) which recommends using questions to illicit an emotional response. Day 2 - Did I totally miss the mark? Day 5 - Should I cancel your Proposal? I also write the messages so they look handwritten, not automated. I've found if someone is destined to convert, they will . If they aren't, they don't. It works wonders. Still learning though. Interested to hear others' thoughts.
-
-#### Reply 4
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-20
-
-All your different leads should be coming to one place - Jobber haha but you can usually use zapier to automate that work flow. The other thing is your KPIs. There's a couple schools of thought on those - you should calculate them manually so you feel the pain of having to look at them. I don't that at all because then I won't do it and run my business based off the fell. I love Jobbers KPI dashboard and you can pull reports to cover the other bases. Maybe AI can't do all of it but you can sure pull the jobber reports, throw it in Chat GPT then ask it for the KPI. Problem solved.
-
-#### Reply 5
-
-**Author:** DavidVititow
-**Posted:** 2026-03-02
-
-to HUGEHandyman I completely agree with this, and this is how I generally do things
-
-#### Reply 6
-
-**Author:** Rafa
-**Posted:** 2026-03-06
-
-From my perspective, two areas should be prioritized: 1) Lead first contact, because it's extremely time-sensitive and directly impacts conversion raters in the sales pipeline. 2) Scheduling process: because it's a very time-consuming task for our operations team.
-
----
-
-## 7. How do you deal with damage to your client's property?
-
-**Author:** julie (Jobber Community Team)
-**Posted:** 2025-03-09
-**Views:** 14 | **Likes:** 6 | **Comments:** 21
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-you-deal-with-damage-to-your-clients-property/4
-
-### Content
-
-JOBBER COMMUNITY TEAM Business owners try their best to avoid it but it happens and that's okay! Most importantly, it's how you respond and resolve these situations. CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE
-
-### Replies (21)
-
-#### Reply 1
-
-**Author:** mowtownedmonton
-**Posted:** 2025-03-09
-
-Ideally, if you tell the customer, it's better than them telling you. Get pictures, measurements and try to understand the full scope of the damage. Let them know what did get done according to plan Then what damage did occur Then the concession/apology. " Mr Smith, our incident rate is very low but it's not zero. It's never our intention to cause damage to your property, and can understand how you would be upset. There's a process we follow to ensure these situations are correctly and thoroughly handled..." Let them get the anger out. When I started, getting yelled at, off hand remarks and sarcasm all rattled my cage a bit. Now I nod as they lay it on, knowing that the steam they **bleep** off will make fixing the problem easier. If the anger is winding up instead of down "I'd be upset too. Maybe this afternoon isn't the best time to talk about fixing it; I'll give you a shout on Monday next week and we can discuss remediating this" If they want to talk about repair/replacement: the first two questions I ask are "is this something I routinely fix to a professional standard?" and "is this going to be something I want to make an insurance claim for, or try to handle myself?". As a lawn pro, our most common damage is rocks being thrown into windows. I have 2 glass firms I work with in my city that do free quote visits and usually replace glass within 2 days. The $100-500 claims are easy enough to handle on my own. I run the customer through my solution process. "The odd time this does happen, we work with XYZ Glass to get the glass replaced as soon as possible. I can arrange for them to quote and fix this right away. We'll handle the cost of repairs, of course, and I'd also to discount next month's service by 20% for the inconvenience. How does that sound?" Finally, after it's all done, make sure they are pleased with the conclusion. If you've done everything you can and they want more, you may want to practice this line or something it: "As a business owner, these kinds of situations are nightmares. I am sincerely trying my best to make it right, but I can't reasonably afford to give you a 100% discount forever, or replace all of the glass on one side of your house. I've done everything I can to ensure we're looking after you, but the message I'm receiving from your side is that it simply isn't enough. At this point, I'm going to have to defer this to my insurance as a claim. I'm sorry we couldn't work this out, and I understand if you do not want to continue with our services at this point. Perhaps I can point you in the direction of other service providers with strong reputations in this area to continue for you." Tone is everything. You may be freaking out a bit about the cost, extent or source of the damage. If you approach the problem confidently but not cocky, you'll inspire the same response for your staff and the customer. It's not just about doing what's right, but that is important too. I have found that a customer that didn't love their window broken might still be impressed with the way the problem was handled. Navigating a difficult situation a pro can increase their loyalty to you. If you sweep it under the rug, or decide that now's a good time to be stingy with their repairs - you may find yourself on the receiving end of the dreaded 1-star Google review. It's probably less expensive in the long run to be thorough. Also, **bleep** happens. You're going to be fine.
-
-#### Reply 2
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to mowtownedmonton Wow wow woww. It sounds you have an amazing process in place for situations these. I completely agree: Tone is everything!! Being emphatic and understand how the customer is feeling is a crucial trait to have. Thanks so much for sharing!
-
-#### Reply 3
-
-**Author:** BadgerHauling
-**Posted:** 2025-03-09
-
-Be honest and admit the fault if you or your team member damaged something. Lying won’t do you any good and most likely more damaging to the business and brand. Fix it, suck it up and pay for it etc. Learn from the mistake and do your best to avoid the same mistake. Mistakes will happen.
-
-#### Reply 4
-
-**Author:** bedellmgmt
-**Posted:** 2025-03-09
-
-We typically rely on our contract language for how we navigate those situations. mowtownedmonton your ideas are great!! Thanks for sharing!
-
-#### Reply 5
-
-**Author:** Dhoegl
-**Posted:** 2025-03-09
-
-I just had this happen to me. The first step I took was to assess the damage and cost to repair, and immediately (because it was totally my fault) said I would get the damage repaired. Client said 'Thank you' and was appreciative of the honesty. I just finished the repair (concrete curb damaged due to unexpected radius causing me to drive over and damage the curb), it took less than 30 minutes + $15 worth of 'quikcrete'-style concrete repair mix, and voila! All is well!
-
-#### Reply 6
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to Dhoegl You handled that with integrity and professionalism! Owning up and taking responsibility right away goes a long way in maintaining client trust. It’s great that you were able to address the issue quickly and find an affordable solution—it’s always a relief when a repair is straightforward! Thanks for sharing—it's a good reminder of the value of honesty and quick action.
-
-#### Reply 7
-
-**Author:** FlawlessOC
-**Posted:** 2025-07-09
-
-I can totally understand going through a situation this. Mistakes and accidents happen but its all about how you handle it in the moment. Last year, one of my cleaners was filling a mop bucket and walked away, completely forgetting about it. She called me in a panic once she realized what had happened. The damage was extensive and she felt absolutely terrible. I reassured her, told her to start doing what she could to manage the mess and I headed there right away. On the way, I called the client to let them know what had happened and that id give them a proper update once I arrived. When I got there, I took detailed photos and notes and immediately filed an insurance claim. I took full responsibility and kept communication open with the client throughout the process. They were understandably upset, but because of the way it was handled - with honesty, fast action, and accountability - they were surprisingly understanding. We still clean for them to this day. This is exactly why we carry insurance, and why staying calm and problem solving right away is key. Things can and will go wrong but how you show up in those moments is what really builds trust
-
-#### Reply 8
-
-**Author:** WashPros2017
-**Posted:** 2025-07-09
-
-You own it. Face adversity head on. Communicate the solution, collaborate with the homeowner and pertinent vendor...then, get it done! It's that easy. Accountability is the catalyst behind integrity and the teacher behind every learning experience.
-
-#### Reply 9
-
-**Author:** Tadams
-**Posted:** 2025-07-09
-
-Solar Eclipse Window Coverings would approach any damage to a client's property with a commitment to professionalism and customer satisfaction. Here’s how we might handle the situation: **Immediate Response**: Upon being informed of the damage, the company would respond promptly to acknowledge the issue and express concern for the client’s property. **Assessment of Damage**: A qualified team member would visit the site to assess the extent of the damage. This assessment would help in understanding the cause and determining the best course of action. **Communication**: The company would maintain open lines of communication with the client throughout the process. We would explain what happened, the steps we plan to take, and any relevant timelines for resolving the issue. **Liability and Responsibility**: If the damage is determined to be due to installation or products, Solar Eclipse Window Coverings would take responsibility. They would discuss coverage options, whether through insurance or company warranty, to ensure proper repairs are made. **Repair and Resolution**: The company would coordinate repairs or remediation of the damage. This may involve working with repair professionals or handling the repairs directly, depending on the situation. **Follow-Up**: After the issue has been resolved, we would follow up with the client to ensure satisfaction with the resolution and to rebuild trust. This could include checking in to see if any further assistance is needed. **Preventive Measures**: Finally, we would take the opportunity to review our procedures to prevent similar incidents in the future, which may involve additional training for staff or updates to installation practices. Through this methodical and considerate approach, Solar Eclipse Window Coverings would aim to uphold our reputation while ensuring that clients feel valued and supported.
-
-#### Reply 10
-
-**Author:** MichaelC
-**Posted:** 2025-03-09
-
-If it’s a replaceable item (window, mailbox, etc) - “You break it, you bought it” is how I handle it. If my crew damaged it, I pay for it. If it’s damages within the scope of work (removing a tree and get a few ruts in the yard), we fix anything that isn’t reasonable. You just about can’t take down a 65’ tree and leave some trace behind. If it’s an heirloom or something that I can’t replace, I knock off a sizable chunk of the invoice as a “I’m sorry…but I also can’t replace this specific item in question.” That has served us well.
-
-#### Reply 11
-
-**Author:** KatherineW
-**Posted:** 2025-03-09
-
-to MichaelC I completely agree with you. We had a situation this summer where we broke a grill that was special to the customer as it was a gift from his deceased mother. There is no way to replace what our customer lost. We did give him a large discount as well as a free tree trim. Conversing with your customer right away is key.
-
-#### Reply 12
-
-**Author:** roselvaggio
-**Posted:** 2026-03-05
-
-to MichaelC Agreed with this! Although we have gone as far as finding the heirloom or something super similar on eBay to show we understand the weight of the loss and our ability to go above and beyond for the client!
-
-#### Reply 13
-
-**Author:** ccntcntrctng
-**Posted:** 2025-07-09
-
-Completely agree with "mowtownedmonton". Honesty is the best policy in those situations. Be upfront, apologize, and resolve the issue swiftly. Customers always appreciate that more than finding out about it later on their own.
-
-#### Reply 14
-
-**Author:** groovecleaning
-**Posted:** 2025-07-09
-
-Speak with your customer immediately, preferably in person. Offer to have professional come out to fix whatever damage was caused. Give them some service for free for their inconvenience.
-
-#### Reply 15
-
-**Author:** OasisWC
-**Posted:** 2025-07-09
-
-Just be honest and own to whatever it is!!!
-
-#### Reply 16
-
-**Author:** KJobi
-**Posted:** 2025-07-09
-
-We handle any damage to a client's property with clear communication, accountability, and integrity guide throughout the process. For more extensive issues, we partner with our business insurer to ensure any damage is addressed properly and professionally.
-
-#### Reply 17
-
-**Author:** LauraWhalen
-**Posted:** 2025-07-09
-
-Acknowledge and apologize for the damage. Fix the damage or offer to pay for the damage. Hopefully it is not too expensive, and you will not have to submit it to your insurance company for a claim.
-
-#### Reply 18
-
-**Author:** terrbrown
-**Posted:** 2025-07-09
-
-At Rell’s Lawn and Landscaping Service, we take property care seriously and aim to prevent any damage through careful planning, proper equipment use, and clear communication. However, if damage does occur, we take full responsibility for it. We immediately inform the client, assess the issue, and take steps to repair or replace the damaged item as quickly as possible. The goal is to resolve concerns professionally and maintain trust. We also use this as a learning opportunity to review what went wrong and adjust our practices to prevent it from happening again. Respect, accountability, and customer satisfaction guide our approach to handling any issue on a client’s property.
-
-#### Reply 19
-
-**Author:** Onetime1962
-**Posted:** 2025-07-09
-
-The first thing is to be calm and respectful at all times and stay in contact with customer and assure them that you are doing everything to fix the problem.
-
-#### Reply 20
-
-**Author:** TonyaHVAC
-**Posted:** 2026-03-05
-
-We take before and after photos. If for some reason we damage something we would make the repair. Its the only fair way to do business!
-
-#### Reply 21
-
-**Author:** julie
-**Posted:** 2026-03-05
-
-JOBBER COMMUNITY TEAM to TonyaHVAC Hey Tonya! 👋 You're here!
-
----
-
-## 8. What Supplementary PM Software Are you using with Jobber?
-
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-02-27
-**Views:** 18 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/what-supplementary-pm-software-are-you-using-with-jobber/8917
-
-### Content
-
-Jobber has that sales pipeline which is still in beta but is limited to the info on jobs. Especially for you GCs out there, what other PM software are you using and HOW are you using it? I've been using a trello board but I feel most my time is just "cleaning up" the trello board instead of it actually benefitting the business. I'm looking in to a solution that can be more automated with zaps, can help disseminate information from sales to production, and that can help make us more efficient. GENERAL CONTRACTING SOFTWARE
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** roselvaggio
-**Posted:** 2026-03-05
-
-Go high level has a multitude of options, and we’ve been utilizing it as a lead funnel to generate stages of the client lifecycle. We were hoping to eventually build out another pipeline through the platform for hiring as well
-
----
-
-## 9. Technician Performance Report
-
-**Author:** PinkPlumbing (Contributor 2)
-**Posted:** 2025-03-09
-**Views:** 640 | **Likes:** 1 | **Comments:** 6
-**URL:** https://community.getjobber.com/discussions/operations-forum/technician-performance-report/608
-
-### Content
-
-I am just coming over from service titan.. One report that is really important to me is technician performance report we had. We could see their avg ticket, their daily avg, month to date sales ect... a report that I can see how much a tech has invoiced for is imperative. Any chance this is coming? How are you other business owners tracking how your tech's are doing? I don't want to pay the guy who is doing bare min. the same as the guys who are taking their job seriously well organised and hustling. PLUMBING REPORTING & BUSINESS INSIGHTS
-
-### Replies (6)
-
-#### Reply 1
-
-**Author:** bedellmgmt
-**Posted:** 2025-03-09
-
-This is some really great insight and feedback - did you end up figuring this out?
-
-#### Reply 2
-
-**Author:** PinkPlumbing
-**Posted:** 2025-03-09
-
-to bedellmgmt I see that in invoices I can email a CSV file that has the technician and the paid invoices... I'm not good at excel but im sure I can add functionality on Excel to seperation each tech and total their invoices for a time frame. I'll figure it out. I hope 👍
-
-#### Reply 3
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM Hey PinkPlumbing! Our new product updates released last week will do some of the things you're looking for! The new team productivity report allows you to track your fieldworkers’ productive output and get insight into how each employee contributes to your business.
-
-#### Reply 4
-
-**Author:** Daichi
-**Posted:** 2025-03-09
-
-PinkPlumbingYou should check out Crew Insight in the app marketplace. There is a technician performance table in there. Breaks out sales, conversion, avg ticket. If two plumbers are scheduled on a job, it splits the revenue based on assigned employees. Disclaimer: I did help build the app, so if you figured it out with excel and it's working fine - continue that. But if you are looking for something a little more automated and real-time, might be worth checking out.
-
-#### Reply 5
-
-**Author:** cor-win
-**Posted:** 2025-04-09
-
-PinkPlumbingwhat did you do about getting contracts signed on site? Trying to navigate that now.
-
-#### Reply 6
-
-**Author:** NickZem
-**Posted:** 2026-03-05
-
-PinkPlumbing​ Not necessarily a report, but I just launched JobSplit in the Jobber Marketplace. This is focused on calculating performance pay based on the amount of revenue generated per employee. You set your revenue share percentage, enter your pay period dates, and it pulls in completed job data from Jobber to calculate performance pay automatically. This would be useful if you were ever looking to move to a performance based pay model rather than just a report. Feel free to reach out with any questions: https://jobsplit.app/
-
----
-
-## 10. How do home service businesses fill their calendar before busy season?
-
-**Author:** julie (Jobber Community Team)
-**Posted:** 2026-02-11
-**Views:** 107 | **Likes:** 0 | **Comments:** 8
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-do-home-service-businesses-fill-their-calendar-before-busy-season/8661
-
-### Content
-
-JOBBER COMMUNITY TEAM When work slows down, most service businesses feel it fast: stress, cash flow pressure, and last-minute scrambling. Sound familiar? What’s the one thing you rely on most before busy season to keep your calendar full? New leads Repeat customers Referrals Deposits or upfront payments Booking weeks in advance Something else? (do tell!) Bonus: What used to stress you out about slow periods that doesn’t anymore? ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CLIENT COMMUNICATIONS CONSTRUCTION CONTRACTS & CONTRACTING DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES SCHEDULING SNOW REMOVAL
-
-### Replies (8)
-
-#### Reply 1
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-11
-
-Did you ever notice that Walmart is selling (not just advertising) Christmas before Halloween? I sell indoor painting Jobs for January and February when I am cleaning gutters in the fall. I'm not just advertising, but actually booking them. Just as I would book a faucet changeout next Wednesday. To make it happen, just remember your close ratio and adjust your marketing to fill the calendar. Build a machine so you don't have to wonder about the off-season. Your past data doesn't lie, and it will help you.
-
-#### Reply 2
-
-**Author:** julie
-**Posted:** 2026-02-12
-
-JOBBER COMMUNITY TEAM to ThatHandymanVan Whoa, that Walmart analogy is spot on. Booking January work while you're still busy in the fall is such a shift in thinking.
-
-#### Reply 3
-
-**Author:** judithvirag
-**Posted:** 2026-02-12
-
-BUILDER 1 We had a promotion in December trying to fill our schedule for January and February and worked well. We sold discounted hours in packages up to 20 hours. We sold over 10K on this promotion trying to book work when we are slow in January and February.
-
-#### Reply 4
-
-**Author:** julie
-**Posted:** 2026-02-12
-
-JOBBER COMMUNITY TEAM to judithvirag Selling discounted hours in advance is so smart. Pre-selling hours gives you cash flow and predictable work. Double win! Did most of those packages come from repeat customers or new leads?
-
-#### Reply 5
-
-**Author:** judithvirag
-**Posted:** 2026-02-12
-
-BUILDER 1 to julie Bag of mix. Some from new customers some from our lead list - our mailing list.
-
-#### Reply 6
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-12
-
-to judithvirag My concern is whether people would commit now and then cancel later in the season. For example, if we open booking from October through December and fill the schedule, we could then contact the January and February clients to confirm or release their spot. Another option would be taking a deposit at the time of booking to reduce cancellations. I am trying to figure out the best way to structure it so our schedule stays full without creating a lot of last minute drop offs.
-
-#### Reply 7
-
-**Author:** judithvirag
-**Posted:** 2026-02-14
-
-BUILDER 1 to ThatHandymanVan ThatHandymanVan​ it is hours they bought so they can book these hours after December. We do have a cancellation policy in place as well.
-
-#### Reply 8
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-20
-
-You have to be marketing during the times you're busiest to set up your pipeline. If you start taking your foot off the gas you're going to hurt yourself.
-
----
-
-## 11. What SOP have you created that saved you the most time or sanity this year?
-
-**Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-02-18
-**Views:** 37 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/what-sop-have-you-created-that-saved-you-the-most-time-or-sanity-this-year/8764
-
-### Content
-
-My coach and I are currently auditing and modifying our SOP library (including organizing it so things are easy to find!) For 2026, what SOP has taken the mental load off of you?
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** tbarth
-**Posted:** 2026-02-20
-
-If you’re not a tech person, it’s worth having someone who is take a look at your entire job flow. They may be able to spot opportunities to streamline things and help you build and implement simple systems. I’m a tech guy, and I’ve created several basic tools we use every day that save a huge amount of time. They’re specific to our business, but as an example, we can now generate most bids from a few client photos and a handful of measurements. Before, we were doing site visits, taking tons of measurements, writing everything down by hand, and manually entering it into a spreadsheet. It was easily 2–6 hours of actual work per bid, including travel. Now it’s 10–20 minutes, with no travel. Not sure if that's the type of SOP you mean, but it's how we produce most bids now, compared to how we used to do all of them. If you don’t know enough about tech to see where it could apply, including in operations, you might be missing some significant time and cost-saving opportunities.
-
----
-
-## 12. Jobber Media Opportunity! Using Jobber AI and seeing real results? 👀 We want to feature you.
-
-**Author:** julie (Jobber Community Team)
-**Posted:** 2026-02-19
-**Views:** 38 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/jobber-media-opportunity-using-jobber-ai-and-seeing-real-results-%F0%9F%91%80-we-want-to-f/8791
-
-### Content
-
-JOBBER COMMUNITY TEAM Jobber's marketing team is looking to connect with a few pros who are using Jobber’s AI tools. We’d love to chat if you: Have noticed measurable wins (more booked jobs, revenue growth, faster replies, fewer missed calls, etc.) Can speak to operational efficiency gains (e.g., handling more inquiries without hiring, delaying headcount, saving meaningful time each week) Feel AI is giving you a competitive edge in your market Are comfortable sharing high-level numbers (percent growth, hours saved, call volume handled, etc.) Would be open to speaking with media if selected If that sounds you, send me a DM, and I’ll connect you with our PR team. We’d love to help amplify your story! AI REPORTING & BUSINESS INSIGHTS SOFTWARE
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 13. Hire slow - Fire fast - How do you know you made a hiring mistake?
-
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-02-13
-**Views:** 44 | **Likes:** 2 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/operations-forum/hire-slow---fire-fast---how-do-you-know-you-made-a-hiring-mistake/8701
-
-### Content
-
-I've previously hired an Ops manager (key role in the company, we're pretty small) and had to fire him after one week. The guy wasn't vibing with the team and was trying to do side jobs during the week while having a large salary with us. Do you have any good stories here? I want to hear them. What triggered the alarms in your head that it was time to go?
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** PestFreeCanada
-**Posted:** 2026-02-13
-
-You 100% made the right choice getting rid of that guy. Sounds a nightmare.
-
-#### Reply 2
-
-**Author:** ryaantuttle
-**Posted:** 2026-02-14
-
-Our team is a part of the process with any new hires. And we do with any of the businesses we own. It not only empowers the team, it also helps weed out the bad energy vibes new hires can bring. We also set expectations from the start with a clearly defined process.
-
-#### Reply 3
-
-**Author:** tbarth
-**Posted:** 2026-02-18
-
-Random list. Some is preventative. Depending on your industry, substance abuse can be common. Learn to spot the signs if issues could affect your business, have a testing policy, and make note of it in the job postings. The earliest sign of that is lots of missed / late days, always with plausible reasons. The implausibility being that there were reasons several times a month. If you have a service where employee safety is critical, fire people if they repeatedly don't follow safety rules. If safety is critical and they simply don't understand how to do things safely. There are times when someone doesn't have the ability to take what you are telling and showing them, and adapt it to different situations they'll need to be able to do. Some people just don't have the mechanical aptitude where it counts. Not a bad worker, just a bad fit for the job. Background check. Do your own too... google for things the employee name and L&I claim. The last company I worked for had someone fake a couple injuries and their L&I claims lasted for three years. When it all started, they googled the guy and found court records of him doing the same thing to his last employer. Situational compliance with anything important. The person who will learn all the things that need to be done and then asks a coworker, "So how much of that do we really need to do?" Fudging timecards will usually start early if it's going to happen at all. Keep an eye on that at first for sure. Don't be afraid to secretly check in on new workers from time to time. Seeing how they perform when unsupervised is important and an early indicator.
-
----
-
-## 14. What’s the #1 task you’re still doing that your software should be handling?
-
-**Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-02-10
-**Views:** 91 | **Likes:** 1 | **Comments:** 8
-**URL:** https://community.getjobber.com/discussions/operations-forum/what%E2%80%99s-the-1-task-you%E2%80%99re-still-doing-that-your-software-should-be-handling/8642
-
-### Content
-
-For us, we’re attempting to automate our LEAD funnel further and I’m unsure if there’s a way to zap our online estimate into online booking for clients (currently we go back and forth to set a date). I didn’t list this in the jobber specific forum because our online estimate form is built through Go High Level. Thoughts? SOFTWARE
-
-### Replies (8)
-
-#### Reply 1
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-13
-
-Following this because I may change from Chiirp to go high level! One thing we've been using is priceguide.io - It's a really nice price estimator and you can use zaps to get it in a jobber request - then there are a lot of automations from there.
-
-#### Reply 2
-
-**Author:** roselvaggio
-**Posted:** 2026-02-18
-
-to HUGEHandyman I can appreciate that! Our GHL form doesn't zap the lead into our Jobber funnel and that's been frustrating due to email campaigns being sent through there. I'm sure I could build out a pipeline on GHL, but it honestly feels rocket science!
-
-#### Reply 3
-
-**Author:** PestFreeCanada
-**Posted:** 2026-02-13
-
-I know I should have an app that snaps pictures of my receipts and tracks them for me. I have been so busy and really need to focus on finding one of there!
-
-#### Reply 4
-
-**Author:** roselvaggio
-**Posted:** 2026-02-18
-
-to PestFreeCanada I do believe Jobber has some feature similar to this, no?
-
-#### Reply 5
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-14
-
-You don't need an app for that. Jobber has that capability! It's super easy.
-
-#### Reply 6
-
-**Author:** ProGrade1
-**Posted:** 2026-02-14
-
-I am still receiving emails from property managers for work requests and inputting them manually. I believe Zapier will input to jobber from an email but have not figured it out.
-
-#### Reply 7
-
-**Author:** roselvaggio
-**Posted:** 2026-02-18
-
-to ProGrade1 I do LOVE Zapier, I'm not sure how we lived before we subscribed!
-
-#### Reply 8
-
-**Author:** tbarth
-**Posted:** 2026-02-18
-
-As my business is simple, I only use the basic features so far, but I do have an answer to your question, and I assume it affects all of us: The constant workflow disruption of having to reapply filters and sort orders to the lists of Clients, Requests, Quotes, Jobs, Invoices, and Payments every time I return to one of those pages. For example, when you click on a menu item "Invoices," it loads the Invoices page with default settings of their choosing; in this case, every invoice you've ever created, sorted by status, which is an overwhelming amount of info to have to search through for what you want. When you add filters or sorting to improve your workflow, Jobber nukes nukes them whenever you leave the page. The good news is that fixing this problem would be very straightforward, and the software Jobber runs on has the functionality built right into it. The app just needs to remember your last-used settings in the browser, and update the six menu buttons so they load the saved settings instead of a forced default view. That’s it, no complicated changes needed. It's been the standard way to save things UI preferences for well over a decade. If Jobber has around 300,000 users, fixing this would save around a million unnecessary clicks every day! The not so good news is that users have been asking about this since the product launched in 2011, so it doesn't seem likely that they are going to modernize the lists. I’ve gotten to the point where I regularly fall behind on desk work because I’m avoiding the constant irritation of this issue. Workarounds keeping multiple tabs open just add more complexity to the workflow, and are themselves more repetitive clicks. It’s driving a car with power seats that reset to an uncomfortable position every single time you get out, when a one-time, relatively easy fix could save every driver of the 300,000 cars already sold and every car sold in the future from having to fiddle with the buttons or sit in an uncomfortable position every time they drive.
-
----
-
-## 15. How can Jobber support time-and-materials businesses as they scale?
-
-**Author:**  (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 111 | **Likes:** 2 | **Comments:** 5
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-can-jobber-support-time-and-materials-businesses-as-they-scale/8579
-
-### Content
-
-21Handyman I have been considering Jobber for a few years, along with other systems. I have only pulled the trigger with QuickBooks, which I hate every day. But I digress. I am diving in this year with the goal of finding out the best way to use Jobber, as a time and material business that relies on creating customer trust prior to signing a customer for the first time. I cannot just rely on a system whereby my customer says, i have a broken pipe and I need someone asap. As a handyman, my customers have many jobs of all sorts from day one. Most people are used to estimates, but are amenable to time and material. How can Jobber, and possibly other tools in connection too (suggestions welcome), help me with my goal of going from a soloprenuer to a multi-city organization that is run in this manner? CLIENT COMMUNICATIONS CUSTOMER SERVICE & EXPERIENCE HANDYMAN INVOICING REPORTING & BUSINESS INSIGHTS SCHEDULING HUGEHandyman 24 days ago Hey I spoke this in to chat GPT and had it organize my thoughts: 1) MODIFY How you think of T&M - thing I would suggest is not overcomplicating your time and materials strategy as you grow. We bill in half-day and full-day blocks instead of hourly. A half day is one block of time. Anything over four hours becomes a full day. If a job runs six hours, it’s still a full day because realistically you can’t schedule another job after that. I think of it seats on an airplane. Every seat is a half day. Once that time is taken, it’s taken. This keeps scheduling simple and predictable as you scale. 2) TEMPLATES Brotha - create one master “Handyman Time & Materials” estimate template inside Jobber. Instead of building custom estimates every time, your template should already include: Standard scope language Cancellation policy No warranty language on repairs Store run policy Add-on work policy Client-supplied material notes Clear terms and conditions When a client sends me a list, I copy their wording directly into the quote and add any necessary notes. That estimate should take five minutes to build, not thirty. 3) Use Jobber automated messages to prime them as to what to expect We send a short pre-job message (or video) explaining: Secure pets Clear work areas Adding work adds time and cost We bill in half-day and full-day blocks Store runs are billable When clients understand this upfront, there are fewer on-site negotiations. 4) Get thick skin when talking to people. Every client hears the same thing: “I don’t know exactly how long this will take. If it goes over four hours, it becomes a full day because we can’t schedule another job after that.” If they ask, “What if it only takes six hours?” The answer is simple: “It’s still a full day because that time was reserved for you.” Jobber supports scaling by: Saving estimate templates Automating communication Storing standard terms and conditions Making repeatable proposals fast Keeping everything consistent across staff Time and materials businesses don’t scale by making bigger, more complex estimates. They scale by simplifying pricing, standardizing communication, using templates, and improving sales delivery. We’re moving into remodeling now, so we do more custom bids. But for handyman time and materials work, the goal is speed and clarity. That’s how Jobber supports scaling.
-
-### Replies (5)
-
-#### Reply 1
-
-**Author:** ryaantuttle
-**Posted:** 2026-02-09
-
-Great question and I feel you on the QuickBooks thing. Been running Best Handyman Boston since 2018 and have seen a lot of handymen struggle with this exact problem of how to scale a trust first time and materials business without losing what makes it work Jobber is solid for the basics but it wont magically solve your scaling problem What Jobber does well is scheduling crm invoicing client communication and the mobile app for your techs. For a solopreneur moving to a small team it handles the blocking and tackling stuff that QuickBooks makes painful What it doesnt do is build customer trust for you. Thats your sales process your communication and your reputation and thats where T and M businesses live or die Heres how Id approach this: First get your workflows tight before you scale. Use Jobber to document every step of your customer journey from lead to assessment call to site visit to proposal to job execution to follow up to reviews. Most guys try to scale before they have a repeatable process and that kills them Second build a trust system not just an estimating system. For T and M to work customers need to trust that your hourly rate is fair and your techs arent padding time. That means transparent communication through Jobbers client hub photos and notes from every job clear explanations of why T and M makes sense for their situation and reviews doing the heavy lifting on credibility Third when you add people systematize the trust building. You built trust through your personality and expertise but your second or third tech needs scripts training and a process to do what you do naturally. Jobber wont give you that you have to build it yourself Tools that help alongside Jobber include Loom for sending quick video explanations to customers before you arrive which is a huge trust builder plus obsessive attention to your Google Business Profile because reviews are everything Real talk on the multi city dream. Going from solopreneur to multi city is a 3 to 5 year journey if you do it right. The system matters more than the software. Ive seen guys with great software and broken processes fail and guys with basic tools and tight systems scale beautifully
-
-#### Reply 2
-
-**Author:** julie
-**Posted:** 2026-02-09
-
-JOBBER COMMUNITY TEAM Great question! This is a really common challenge, glad you asked it in the community forum. Looping in HUGEHandyman​ ryaantuttle​ ThatHandymanVan​ here. They have shared solid insights on scaling and managing workflows and operations as things get more complex.
-
-#### Reply 3
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-13
-
-Hey I spoke this in to chat GPT and had it organize my thoughts: 1) MODIFY How you think of T&M - thing I would suggest is not overcomplicating your time and materials strategy as you grow. We bill in half-day and full-day blocks instead of hourly. A half day is one block of time. Anything over four hours becomes a full day. If a job runs six hours, it’s still a full day because realistically you can’t schedule another job after that. I think of it seats on an airplane. Every seat is a half day. Once that time is taken, it’s taken. This keeps scheduling simple and predictable as you scale. 2) TEMPLATES Brotha - create one master “Handyman Time & Materials” estimate template inside Jobber. Instead of building custom estimates every time, your template should already include: Standard scope language Cancellation policy No warranty language on repairs Store run policy Add-on work policy Client-supplied material notes Clear terms and conditions When a client sends me a list, I copy their wording directly into the quote and add any necessary notes. That estimate should take five minutes to build, not thirty. 3) Use Jobber automated messages to prime them as to what to expect We send a short pre-job message (or video) explaining: Secure pets Clear work areas Adding work adds time and cost We bill in half-day and full-day blocks Store runs are billable When clients understand this upfront, there are fewer on-site negotiations. 4) Get thick skin when talking to people. Every client hears the same thing: “I don’t know exactly how long this will take. If it goes over four hours, it becomes a full day because we can’t schedule another job after that.” If they ask, “What if it only takes six hours?” The answer is simple: “It’s still a full day because that time was reserved for you.” Jobber supports scaling by: Saving estimate templates Automating communication Storing standard terms and conditions Making repeatable proposals fast Keeping everything consistent across staff Time and materials businesses don’t scale by making bigger, more complex estimates. They scale by simplifying pricing, standardizing communication, using templates, and improving sales delivery. We’re moving into remodeling now, so we do more custom bids. But for handyman time and materials work, the goal is speed and clarity. That’s how Jobber supports scaling.
-
-#### Reply 4
-
-**Author:** 
-**Posted:** 2026-02-12
-
-21Handyman Quick follow up question: When you say, "Use Jobber to document every step of your customer journey from lead to assessment call to site visit to proposal to job execution to follow up to reviews", what exactly do you mean to "Use Jobber" to do these things? Does jobber have a document or other type of repository for this type of documentation?
-
-#### Reply 5
-
-**Author:** 
-**Posted:** 2026-02-13
-
-HUGEHandyman
-
----
-
-## 16. Can AI create accurate inventories from photos or walkthroughs for estimates?
-
-**Author:** DanFlashes (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 57 | **Likes:** 2 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/operations-forum/can-ai-create-accurate-inventories-from-photos-or-walkthroughs-for-estimates/8569
-
-### Content
-
-Anyone here using AI to build inventories from photos or on‑site for moving quotes? We’re a moving company looking to automate as much of the quote process as possible. Right now, we’re still doing a lot of manual inventory collection and data entry, and it’s slowing us down and leaving room for mistakes. I’m specifically interested in: AI tools that can take phone photos or short videos (or an on‑site walkthrough) and automatically create an itemized inventory we can use for estimates. Anything that can recognize furniture/boxes from images and turn that into quantities, cube/weight, or at least a structured checklist. Workflows where the customer does a virtual survey themselves and we just review and price it. Bonus points if it can be integrated within jobber If you’re doing this today, which software are you using, how accurate is it, and what does your workflow look from first contact to approved quote? Any “don’t waste your time on this tool” stories are welcome too. CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE JUNK REMOVAL REPORTING & BUSINESS INSIGHTS SERVICE LISTS SERVICES LISTS SOFTWARE
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** WiringByron
-**Posted:** 2026-02-10
-
-Hey Dan..... boy I got a good one for you. Book some time with me here: https://tr.ee/L0JVS-Domd I actually use something called LiveSwitch for my Electrical company but it's used more widely in the moving industry. It's also got a full integration with Jobber. It does all four points you mentioned.
-
----
-
-## 17. Will AI replace jobs in home service and skilled trades?
+## 32. Will AI replace jobs in home service and skilled trades?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-02-09
@@ -1078,7 +1626,7 @@ BUILDER 1 It is a great question and in my opinion not yet, but it will eventual
 
 ---
 
-## 18. How Are Home Service Businesses Preparing for AI Search Visibility?
+## 33. How Are Home Service Businesses Preparing for AI Search Visibility?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2026-02-07
@@ -1107,7 +1655,7 @@ BUILDER 1 Definitely good SEO. We have already added it to our lead sources and 
 
 ---
 
-## 19. Have you ever had to place a lien on someone for not paying?
+## 34. Have you ever had to place a lien on someone for not paying?
 
 **Author:** HUGEHandyman (Jobber Ambassador)
 **Posted:** 2026-02-09
@@ -1136,7 +1684,7 @@ BUILDER 1 I have not put a lien but I have chased people and showed up at 8 am a
 
 ---
 
-## 20. How Do You Manage Sales to Production Hand Offs?
+## 35. How Do You Manage Sales to Production Hand Offs?
 
 **Author:** HUGEHandyman (Jobber Ambassador)
 **Posted:** 2026-02-09
@@ -1158,7 +1706,7 @@ BUILDER 1 You could use Companycam integrated with your Jobber account. Companyc
 
 ---
 
-## 21. Best Jobber Automations
+## 36. Best Jobber Automations
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -2041,7 +2589,7 @@ to WiringByron Thanks for the shout out WiringByron​ !
 
 ---
 
-## 22. New Google Search Features: Online Estimates Filter and “Have AI Check Prices” — what does this mean for service pros?
+## 37. New Google Search Features: Online Estimates Filter and “Have AI Check Prices” — what does this mean for service pros?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -2154,7 +2702,7 @@ I listened to a talk with Marcus Sheridan and it inspired me to use a price esti
 
 ---
 
-## 23. How do you deliver a great customer experience?
+## 38. How do you deliver a great customer experience?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -2176,7 +2724,7 @@ No Replies Be the first to
 
 ---
 
-## 24. Using AI in your in person quoting?
+## 39. Using AI in your in person quoting?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2026-01-28
@@ -2219,7 +2767,7 @@ BUILDER 1 to Moss912 Yes it is an app and also website
 
 ---
 
-## 25. Are you using AI in your business yet or still “just curious”?
+## 40. Are you using AI in your business yet or still “just curious”?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -2248,7 +2796,7 @@ JOBBER COMMUNITY TEAM to PestFreeCanada Those are great ways to leverage AI! And
 
 ---
 
-## 26. What’s your go-to move when a customer doesn’t pay on time?
+## 41. What’s your go-to move when a customer doesn’t pay on time?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -2312,7 +2860,7 @@ to Lisa It was such a fun experience and cant wait for more.
 
 ---
 
-## 27. Using AI and Voice to Capture Job Notes and Follow-Ups in Real Time
+## 42. Using AI and Voice to Capture Job Notes and Follow-Ups in Real Time
 
 **Author:** David-Flintoff (Contributor 2)
 **Posted:** 2026-01-28
@@ -2348,7 +2896,7 @@ BUILDER 1 We use Fireflies.ai. It is on our phone and as we step in to do a quot
 
 ---
 
-## 28. Switching from Spreadsheets to Fleet Management Software: What Changed for You?
+## 43. Switching from Spreadsheets to Fleet Management Software: What Changed for You?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2026-01-28
@@ -2370,7 +2918,7 @@ No Replies Be the first to
 
 ---
 
-## 29. You've got the time tracking data, now what?
+## 44. You've got the time tracking data, now what?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -2392,7 +2940,7 @@ No Replies Be the first to
 
 ---
 
-## 30. Call recording
+## 45. Call recording
 
 **Author:** DWPGINC (Contributor 3)
 **Posted:** 2025-07-28
@@ -2421,7 +2969,7 @@ Can you tell me your experience with Quo(OpenPhone)? I am currently considering 
 
 ---
 
-## 31. How do you hold techs accountable for accurate time tracking in Jobber?
+## 46. How do you hold techs accountable for accurate time tracking in Jobber?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2443,7 +2991,7 @@ It's a little bit harsh, but, "Do you want to get paid for the day or the job? T
 
 ---
 
-## 32. AI Receptionist vs Outsourced vs Owners
+## 47. AI Receptionist vs Outsourced vs Owners
 
 **Author:** abbahvac (Contributor 2)
 **Posted:** 2025-12-28
@@ -2507,7 +3055,7 @@ AI works fine for after-hours, basic routing, and spam filtering, but it struggl
 
 ---
 
-## 33. Have you used AI to create a logo for your business, and did it work?
+## 48. Have you used AI to create a logo for your business, and did it work?
 
 **Author:** Anonymous (Jobber Community Team)
 **Posted:** 2025-11-28
@@ -2543,7 +3091,7 @@ First time HA you have jokes huh? Let’s go with about 4 hours. I had to be ver
 
 ---
 
-## 34. How do service businesses track service contracts and manage multi-day or multi-visit jobs?
+## 49. How do service businesses track service contracts and manage multi-day or multi-visit jobs?
 
 **Author:** AlexT (Contributor 2)
 **Posted:** 2025-10-28
@@ -2572,7 +3120,7 @@ I would love to have a chat with you about this if possible. Want to avoid mista
 
 ---
 
-## 35. How do you politely dismiss delinquent clients?
+## 50. How do you politely dismiss delinquent clients?
 
 **Author:** NConway (Contributor 3)
 **Posted:** 2025-10-28
@@ -2692,36 +3240,7 @@ I pay for monthly lawn service and I pay in advance for the whole month. I would
 
 ---
 
-## 36. I love the AI Receptionist, even though it isn't quite what I really need yet.
-
-**Author:** TheRealJIMCLORE (Contributor 2)
-**Posted:** 2025-12-28
-**Views:** 183 | **Likes:** 1 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/operations-forum/i-love-the-ai-receptionist-even-though-it-isnt-quite-what-i-really-need-yet-/7720
-
-### Content
-
-AI is becoming a bigger part of the home service world, and Jobber’s AI receptionist has been one of the most surprisingly valuable tools I have added to my business. It is not perfect, but it has changed the way we handle calls, especially during the busy season when every minute matters. Here is what I love. The AI receptionist makes sure no call goes to voicemail. That alone is worth its weight in gold. Missed calls used to mean missed opportunities. Now someone always answers. The system collects basic information, gathers the details for a new request, and takes clean, general messages when needed. It keeps customers engaged long enough for us to circle back and turn that call into booked business. Those minutes matter. But since this is the AI category, here is the honest side of things too. The AI receptionist is sharp, but it is not very flexible. The line of questioning feels locked in. It seems designed around filling out the connected request form step by step, instead of listening to the customer and adapting the way a human would. Sometimes it asks questions that do not make sense because they appear on the form, not because they fit the flow of the conversation. I wish there was more free text space or deeper customization in the AI trainer to teach the system how my business actually works. Every home service business has its quirks, its personality, its way of handling certain kinds of clients. If we could train the AI with more nuance, it would feel more a human receptionist and less a form with a voice. Even with those limitations, the tool is still a win for us. It has saved time. It has kept customers from hanging up. It has bought us breathing room and captured leads we probably would have missed. That is real value. AI is only going to get better from here. And if Jobber continues building flexibility into this system, I think it is going to become one of the most powerful parts of the entire platform. For now, it does its job. It keeps the phone alive, keeps the customer talking, and keeps me from drowning in missed calls. And in the world of home services, that is a big deal.
-
-### Replies (2)
-
-#### Reply 1
-
-**Author:** PestFreeCanada
-**Posted:** 2025-12-28
-
-I had a thought to look into this before but got distracted as I always do and didn't ever circle back to it. I was thinking that the AI voice should introduce itself as such, just so the customer knows what to expect on the call and speak in a way they think it would understand. Or in the call mention that it is an AI call and if they have a more specific issue, to send an email with the important information...
-
-#### Reply 2
-
-**Author:** sarconllc
-**Posted:** 2025-12-28
-
-Really well said. This is one of the most balanced takes I have seen on AI receptionists in home services. I agree 100%. AI has come a long way, but rigid, form driven logic is still the biggest gap. We ran into the same issue. It is great at preventing missed calls, but not always great at handling how customers actually talk. What helped us was moving to a more vertical, service specific AI. We use Supportiyo. It is built specifically for home services, so it adapts better to real conversations and industry terminology. It is still not perfect, but it is the closest we have seen so far. Flexibility is really the key, and it sounds Jobber is moving in the right direction. Appreciate you sharing such an honest breakdown. These tools are only going to keep getting better.
-
----
-
-## 37. How do you manage different level Service Contracts in Jobber?
+## 51. How do you manage different level Service Contracts in Jobber?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2750,7 +3269,7 @@ to Anonymous This all make sense I was just hoping there was more of an automate
 
 ---
 
-## 38. How to start an in house training center for painting?
+## 52. How to start an in house training center for painting?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2772,7 +3291,7 @@ JOBBER COMMUNITY TEAM Branden, this is such an inspiring vision! Creating a dedi
 
 ---
 
-## 39. How do you train your team so they can run the business without you being everywhere?
+## 53. How do you train your team so they can run the business without you being everywhere?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-12-28
@@ -2794,7 +3313,7 @@ No Replies Be the first to
 
 ---
 
-## 40. How to implement safety meetings? Certs?
+## 54. How to implement safety meetings? Certs?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2816,7 +3335,7 @@ No Replies Be the first to
 
 ---
 
-## 41. Third Party Payment Platform Integration
+## 55. Third Party Payment Platform Integration
 
 **Author:** Conrad (Contributor 4)
 **Posted:** 2025-11-28
@@ -2852,7 +3371,7 @@ JOBBER COMMUNITY TEAM Hi Conrad, thanks for posting about this and really apprec
 
 ---
 
-## 42. 4 wheel drive and winter tires.
+## 56. 4 wheel drive and winter tires.
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-28
@@ -2874,7 +3393,7 @@ JOBBER COMMUNITY TEAM This is such a great point, thanks for bringing it up! Shi
 
 ---
 
-## 43. Has 2025 Turned Your Busy Season Upside Down?
+## 57. Has 2025 Turned Your Busy Season Upside Down?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-11-28
@@ -2896,7 +3415,7 @@ Definitely seems in our Industry of home repair services that people as doing sm
 
 ---
 
-## 44. Automated Task Creation?
+## 58. Automated Task Creation?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-11-28
@@ -2932,7 +3451,7 @@ to PestFreeCanada We use the follow up feature via email and text; however, I th
 
 ---
 
-## 45. Building an AI online bid?
+## 59. Building an AI online bid?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-11-28
@@ -2961,7 +3480,7 @@ to PestFreeCanada My thought is that the AI will get advanced enough to detect t
 
 ---
 
-## 46. Video x AI with LiveSwitch
+## 60. Video x AI with LiveSwitch
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-11-28
@@ -2990,7 +3509,7 @@ to PestFreeCanada I really is, I feel I discovered gold or something lol - https
 
 ---
 
-## 47. I want to integrate Jobber with ____________?
+## 61. I want to integrate Jobber with ____________?
 
 **Author:** Randy_Warner (Contributor 4)
 **Posted:** 2025-06-28
@@ -3152,7 +3671,7 @@ I want to better integrate Jobber with my business, to use your formatting which
 
 ---
 
-## 48. Has sending photos after a job ever saved you from a complaint?
+## 62. Has sending photos after a job ever saved you from a complaint?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-11-28
@@ -3174,7 +3693,7 @@ No Replies Be the first to
 
 ---
 
-## 49. 🚨FEATURE REQUEST: Tiered Pricing on Products & Services 🚨
+## 63. 🚨FEATURE REQUEST: Tiered Pricing on Products & Services 🚨
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-07-28
@@ -3245,7 +3764,7 @@ Hey yall! I think my feature request goes hand in hand with this one! Trying to 
 
 ---
 
-## 50. What kind of Notifications you setup
+## 64. What kind of Notifications you setup
 
 **Author:** Aswath (Contributor 3)
 **Posted:** 2025-08-28
@@ -3295,7 +3814,7 @@ The Problem We're Solving (hopefully, I am correct with your help) Current GetJo
 
 ---
 
-## 51. Why I Stopped Chasing Jobs and Started Building Systems
+## 65. Why I Stopped Chasing Jobs and Started Building Systems
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -3317,7 +3836,7 @@ JOBBER COMMUNITY TEAM Hey Ryan, love how you framed the difference between bein
 
 ---
 
-## 52. What is one task that you have automated?
+## 66. What is one task that you have automated?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-10-28
@@ -3339,7 +3858,7 @@ No Replies Be the first to
 
 ---
 
-## 53. Is everyone calculating commission in a spreadsheet?
+## 67. Is everyone calculating commission in a spreadsheet?
 
 **Author:** Daichi (Contributor 4)
 **Posted:** 2025-09-28
@@ -3403,7 +3922,7 @@ to seanroz I would check out Crew Insight. Currently developing commission rules
 
 ---
 
-## 54. AI Rep
+## 68. AI Rep
 
 **Author:** GloriousAir (Contributor 3)
 **Posted:** 2025-10-28
@@ -3432,7 +3951,7 @@ to julie Thanks for guiding
 
 ---
 
-## 55. AI Reception
+## 69. AI Reception
 
 **Author:** Jaco (Contributor 3)
 **Posted:** 2025-10-28
@@ -3454,7 +3973,7 @@ Hi Jaco​ We’re so happy to hear you’re excited about AI Reception — tha
 
 ---
 
-## 56. Translating Feature Using AI
+## 70. Translating Feature Using AI
 
 **Author:** bromarsantiago (Contributor 2)
 **Posted:** 2025-09-28
@@ -3476,7 +3995,7 @@ Hi bromarsantiago​ Thanks so much for sharing this idea, it’s a really valu
 
 ---
 
-## 57. Automatic Yearly Reminders
+## 71. Automatic Yearly Reminders
 
 **Author:** Ernie (Contributor 2)
 **Posted:** 2025-03-28
@@ -3533,7 +4052,7 @@ I have been BEGGING Jobber to implement a maintenance reminder automation into t
 
 ---
 
-## 58. What’s your best “DIY hack” you’ve used to run your business?
+## 72. What’s your best “DIY hack” you’ve used to run your business?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-08-28
@@ -3555,7 +4074,7 @@ BUILDER 1 Adding reoccurring tasks in Jobber and consistently completing them. S
 
 ---
 
-## 59. How Are You Hiring? Anyone Using AI in the Process?
+## 73. How Are You Hiring? Anyone Using AI in the Process?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-08-28
@@ -3584,7 +4103,7 @@ BUILDER 1 We also have a one week training period and this is a great time to de
 
 ---
 
-## 60. AI in Service Businesses
+## 74. AI in Service Businesses
 
 **Author:** sanCrew (Contributor 2)
 **Posted:** 2025-02-28
@@ -3991,7 +4510,7 @@ My favorite go-to tool for daily research and document polishing writing startin
 
 ---
 
-## 61. How do you measure crew productivity?
+## 75. How do you measure crew productivity?
 
 **Author:** Daichi (Contributor 4)
 **Posted:** 2025-08-28
@@ -4041,7 +4560,7 @@ to judithvirag Similar to how I check efficiency using a budgeted hours model! A
 
 ---
 
-## 62. GetJobber in Gmail
+## 76. GetJobber in Gmail
 
 **Author:** Aswath (Contributor 3)
 **Posted:** 2025-05-28
@@ -4091,7 +4610,7 @@ Hello Community, I have to stop this after developing the addon for 2-3 months. 
 
 ---
 
-## 63. Email with clients
+## 77. Email with clients
 
 **Author:** Jorge_newimage (Contributor 3)
 **Posted:** 2025-07-28
@@ -4113,7 +4632,7 @@ No Replies Be the first to
 
 ---
 
-## 64. Popular communication tools
+## 78. Popular communication tools
 
 **Author:** Aswath (Contributor 3)
 **Posted:** 2025-07-28
@@ -4149,7 +4668,7 @@ BUILDER 1 We use Slack and it is our communication tool. Also there are a lot of
 
 ---
 
-## 65. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
+## 79. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
 
 **Author:** MountainMarine (Contributor 3)
 **Posted:** 2025-07-28
@@ -4171,7 +4690,7 @@ YESSSS!! Try Typeset.. It's amazing!! https://typeset.com/tech
 
 ---
 
-## 66. Has Anyone Here Built Their Own GPT Yet? Or Just Using ChatGPT Like Google?
+## 80. Has Anyone Here Built Their Own GPT Yet? Or Just Using ChatGPT Like Google?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4228,7 +4747,7 @@ ryaantuttle​ Has done some interesting things with ChatGPT and job quoting. Pe
 
 ---
 
-## 67. Custom KPI dashboard
+## 81. Custom KPI dashboard
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4257,7 +4776,7 @@ to ryaantuttle I've been learning about gross margin per hour... so now I'm look
 
 ---
 
-## 68. What is your favorite time-saving app?
+## 82. What is your favorite time-saving app?
 
 **Author:** RobsonGrant (Contributor 2)
 **Posted:** 2025-07-28
@@ -4279,7 +4798,7 @@ Jobber
 
 ---
 
-## 69. How do you handle scheduling conflicts or last-minute changes in your business?
+## 83. How do you handle scheduling conflicts or last-minute changes in your business?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -4413,7 +4932,7 @@ to julie I just act as if I am the client. How I would to be treated if somethin
 
 ---
 
-## 70. Virtual assistant
+## 84. Virtual assistant
 
 **Author:** Joeltricitypool (Contributor 2)
 **Posted:** 2025-02-28
@@ -4526,7 +5045,7 @@ to RonnieMarketing What AI Receptionist platform does your agency currently use?
 
 ---
 
-## 71. What are your biggest questions you have about using AI in your business?
+## 85. What are your biggest questions you have about using AI in your business?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-06-28
@@ -4646,7 +5165,7 @@ to ZachDeMarais It can draft emails workflows and send them to potential clients
 
 ---
 
-## 72. Jobber AI's confusion with businesses
+## 86. Jobber AI's confusion with businesses
 
 **Author:** SomePlumber (Contributor 3)
 **Posted:** 2025-06-28
@@ -4675,7 +5194,7 @@ this happened to me as well, jobber called me but somehow i recognized that mayb
 
 ---
 
-## 73. Best way to handle inbound calls to company line?
+## 87. Best way to handle inbound calls to company line?
 
 **Author:** Tdog1212 (Contributor 2)
 **Posted:** 2025-02-28
@@ -4788,7 +5307,7 @@ Over the past 4–5 years, our nonprofit has fielded over 15000 phone calls usin
 
 ---
 
-## 74. ChatGPT with Jobber
+## 88. ChatGPT with Jobber
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -4943,7 +5462,7 @@ I think one thing that's cool with Jack GPT is you can take a picture. Tell it t
 
 ---
 
-## 75. What's Your Thoughts On This New, Unbelievable Ai Software?
+## 89. What's Your Thoughts On This New, Unbelievable Ai Software?
 
 **Author:** CourtneeEzra (Contributor 2)
 **Posted:** 2025-06-28
@@ -4972,43 +5491,7 @@ to Van Sure! http://handyservices.app/ Your feedback will be greatly appreciated
 
 ---
 
-## 76. How I Finally Delegated Estimating (Without Hiring Another Person)
-
-**Author:** ryaantuttle (Jobber Ambassador)
-**Posted:** 2025-06-28
-**Views:** 325 | **Likes:** 8 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/operations-forum/how-i-finally-delegated-estimating-without-hiring-another-person/4143
-
-### Content
-
-For years, estimating was the one thing I couldn’t take off my plate. We changed the org chart. We hired roles. Delegated everything we could. But estimating? That was always me. Even if I wasn’t doing anything else in the business... I was still stuck quoting jobs. It was the bottleneck I couldn’t fix—until now. I built a ChatGPT-powered estimator trained with my systems, my pricing, and my language. It asks the right questions, runs the math, and delivers estimates I would—without me being involved. Now I’m no longer the bottleneck. Customers get quick answers. I get my evenings and weekends back. Want to build your own? Map out your estimating logic. Plug it into ChatGPT. Test and refine. If you're stuck working all day and doing estimates at night and on Saturdays anddddd, sometimes even Sunday mornings when everyone's sleeping—this might be your way out. Heres my direct Zoom link if you'd to learn more: https://calendly.com/ryaan-besthandymancompany/bh-plan-phone-consultation AI CONSTRUCTION CONTRACTS & CONTRACTING CUSTOMER SERVICE & EXPERIENCE GENERAL CONTRACTING HANDYMAN QUOTING REPORTING & BUSINESS INSIGHTS
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** marihoho
-**Posted:** 2025-06-28
-
-Hello I would to learn how you did that.
-
-#### Reply 2
-
-**Author:** ryaantuttle
-**Posted:** 2025-06-28
-
-to marihoho My pleasure! Thats why I included a link to set up a call. Happy to answer any questions you might have.
-
-#### Reply 3
-
-**Author:** eddiepuckett
-**Posted:** 2025-06-28
-
-I seem to have problems giving the right estimates myself
-
----
-
-## 77. Inventory Management Apps w/ Integration?
+## 90. Inventory Management Apps w/ Integration?
 
 **Author:** kyle-rottman (Contributor 2)
 **Posted:** 2025-02-28
@@ -5086,7 +5569,7 @@ What did you end up going with kyle-rottman​ ? I've had this very conversation
 
 ---
 
-## 78. GPT Actions - Zapier -  Jobber
+## 91. GPT Actions - Zapier -  Jobber
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5206,7 +5689,7 @@ We created a custom GPT to handle all of our estimating and scopes of work.
 
 ---
 
-## 79. Anyone using automation to save time and money?
+## 92. Anyone using automation to save time and money?
 
 **Author:** Ernie-G23 (Contributor 2)
 **Posted:** 2025-05-28
@@ -5228,7 +5711,7 @@ Hi Ernie, I'm using the automated follow up systems in place. They work. Sometim
 
 ---
 
-## 80. veterans connect
+## 93. veterans connect
 
 **Author:** HHCS (Contributor 2)
 **Posted:** 2025-04-28
@@ -5264,7 +5747,7 @@ I started a small excavation business last yr and have not been able to find loc
 
 ---
 
-## 81. AI Prompt Engineering
+## 94. AI Prompt Engineering
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-04-28
@@ -5293,7 +5776,7 @@ How does this apply to other ai search bots. Bots that have the capability of dr
 
 ---
 
-## 82. pay for performance app
+## 95. pay for performance app
 
 **Author:** sorin (Contributor 2)
 **Posted:** 2025-02-28
@@ -5602,7 +6085,7 @@ Inside the market place there is a P4P style app called bonus up. I don’t use 
 
 ---
 
-## 83. API Access
+## 96. API Access
 
 **Author:** MrTP (Contributor 2)
 **Posted:** 2025-03-28
@@ -5624,7 +6107,7 @@ Hi there, thanks for the question. Our API team would be happy to work with you!
 
 ---
 
-## 84. Clocking in/out
+## 97. Clocking in/out
 
 **Author:** NatalieG81 (Contributor 2)
 **Posted:** 2025-02-28
@@ -5688,7 +6171,7 @@ Depending on your Jobber plan, you can create individual logins for your technic
 
 ---
 
-## 85. AI & automation
+## 98. AI & automation
 
 **Author:** Ohiosupreme (Contributor 2)
 **Posted:** 2025-03-28
@@ -5710,7 +6193,7 @@ BUILDER 1 Hi Ahmendoor, Congrats on growing and expanding. Here are my comments 
 
 ---
 
-## 86. Best Work Flow for Ordering
+## 99. Best Work Flow for Ordering
 
 **Author:** Maria_TechSavvy (Contributor 2)
 **Posted:** 2025-03-28
@@ -5732,7 +6215,7 @@ Hey Maria, thanks for the question! A typical workflow would be to add an intern
 
 ---
 
-## 87. How Are You Building Your Systems & Processes?
+## 100. How Are You Building Your Systems & Processes?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5803,7 +6286,7 @@ BUILDER 1 Wow amazing
 
 ---
 
-## 88. Chat GPT Operator
+## 101. Chat GPT Operator
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5825,7 +6308,7 @@ No Replies Be the first to
 
 ---
 
-## 89. Virtual phone numbers
+## 102. Virtual phone numbers
 
 **Author:** HotTubDave (Contributor 3)
 **Posted:** 2025-02-28
@@ -5889,7 +6372,7 @@ We have used twilio for years and it's amazing. You can either port your number 
 
 ---
 
-## 90. What are your favorite features?
+## 103. What are your favorite features?
 
 **Author:** joaoservices (Contributor 3)
 **Posted:** 2025-02-28
@@ -5925,7 +6408,7 @@ The best part of jobber is that it acts as a home base for us. We utilize the no
 
 ---
 
-## 91. For anyone doing it on the side
+## 104. For anyone doing it on the side
 
 **Author:** Dreadist (Contributor 3)
 **Posted:** 2025-02-28
@@ -5947,7 +6430,7 @@ Loaded question with a lot of possible good answers. I am personally running my 
 
 ---
 
-## 92. What is the best way to start investigating how to use AI in a business.
+## 105. What is the best way to start investigating how to use AI in a business.
 
 **Author:** jeffx (Contributor 2)
 **Posted:** 2025-02-28
@@ -5969,7 +6452,7 @@ Jobber has implanted AI into there features, now, so maybe play around with that
 
 ---
 
-## 93. Recommendations For the Best AI Tool to Analize My Jobber Data
+## 106. Recommendations For the Best AI Tool to Analize My Jobber Data
 
 **Author:** ProServe-DreGo (Contributor 3)
 **Posted:** 2025-02-28
@@ -6005,7 +6488,7 @@ Can CoPilot do any of this for you?
 
 ---
 
-## 94. The Importance of Proper Planning in New Construction and Home Improvement Projects
+## 107. The Importance of Proper Planning in New Construction and Home Improvement Projects
 
 **Author:** NewcombLand (Contributor 2)
 **Posted:** 2025-02-28
@@ -6027,7 +6510,7 @@ No Replies Be the first to
 
 ---
 
-## 95. What would you like to see added/changed in Jobber to make your life easier?
+## 108. What would you like to see added/changed in Jobber to make your life easier?
 
 **Author:** Essential_RV (Contributor 2)
 **Posted:** 2025-02-28
@@ -6070,7 +6553,7 @@ That sounds a bit fancy. As you know, ALL softwares have limitations, although t
 
 ---
 
-## 96. Is AI available to users in the United Kingdom
+## 109. Is AI available to users in the United Kingdom
 
 **Author:** IMGRemovals (Contributor 2)
 **Posted:** 2025-02-28
@@ -6120,7 +6603,7 @@ JOBBER COMMUNITY TEAM to Burke Hey Burke! Jobber AI Receptionist takes customer 
 
 ---
 
-## 97. Handling Miscommunication with Clients
+## 110. Handling Miscommunication with Clients
 
 **Author:** Erica_Krupin (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6163,7 +6646,7 @@ I agree withbedellmgmt ! Always best to have these policies in writing, so its u
 
 ---
 
-## 98. Quote Disclaimers - General Contracting
+## 111. Quote Disclaimers - General Contracting
 
 **Author:** mioh (Contributor 2)
 **Posted:** 2025-02-28
@@ -6199,7 +6682,7 @@ If you are a contractor I’m assuming you work on large projects, hopefully you
 
 ---
 
-## 99. Tags
+## 112. Tags
 
 **Author:** Excavating19 (Contributor 2)
 **Posted:** 2025-02-28
@@ -6235,7 +6718,7 @@ Depends on your business. For us we are a pool company. So it helps that we tag 
 
 ---
 
-## 100. Business Insurance
+## 113. Business Insurance
 
 **Author:** TheMarshall (Contributor 2)
 **Posted:** 2025-02-28
@@ -6264,7 +6747,7 @@ I've always dealt with someone I know who can advocate our needs for me. Otherwi
 
 ---
 
-## 101. Kits/Pricing Templates 2 part question
+## 114. Kits/Pricing Templates 2 part question
 
 **Author:** NJHMS (Contributor 3)
 **Posted:** 2025-02-28
@@ -6328,7 +6811,7 @@ to NJHMS You can edit your Products & Services in Settings. From there just crea
 
 ---
 
-## 102. Track Employee Mileage
+## 115. Track Employee Mileage
 
 **Author:** Canadiana (Contributor 3)
 **Posted:** 2025-02-28
@@ -6378,7 +6861,7 @@ FB PlanetGPS trackers off Amazon. Just plugs into the vehicles OBD. You could ha
 
 ---
 
-## 103. Spreadsheets
+## 116. Spreadsheets
 
 **Author:**  (Contributor 2)
 **Posted:** 2025-02-28
@@ -6435,7 +6918,7 @@ Have you looked into Smartsheets? I love it!
 
 ---
 
-## 104. Building Trust Through Transparency
+## 117. Building Trust Through Transparency
 
 **Author:** Erica_Krupin (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6499,7 +6982,7 @@ to NewCreationsSea It's up to you. Making sure people don't feel you forgot abou
 
 ---
 
-## 105. Do You Use Follow-Up Emails to Keep Customers Engaged?
+## 118. Do You Use Follow-Up Emails to Keep Customers Engaged?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -6584,7 +7067,7 @@ to Chris I freeken love it, I've been thinking about doing this for a long time.
 
 ---
 
-## 106. 🌟 Ask An Expert: Practical Uses for AI with Bob Evans 🌟
+## 119. 🌟 Ask An Expert: Practical Uses for AI with Bob Evans 🌟
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -6641,7 +7124,7 @@ to sandiashineco Hey sandiashineco, Just to call this out, since you’re alread
 
 ---
 
-## 107. What's your method for flagging important client notes?
+## 120. What's your method for flagging important client notes?
 
 **Author:** wesleyparker (Contributor 3)
 **Posted:** 2025-02-28
@@ -6663,7 +7146,7 @@ Great topic! Here is what we currently do to communicate important notes on recu
 
 ---
 
-## 108. Cursor in the Search Box
+## 121. Cursor in the Search Box
 
 **Author:** Office_Lady1 (Contributor 2)
 **Posted:** 2025-02-28
@@ -6685,7 +7168,7 @@ JOBBER COMMUNITY TEAM Hi there! We recommend reaching out to our Success Team ab
 
 ---
 
-## 109. Running a Tight Ship: How to Save Time and Cut Hassle
+## 122. Running a Tight Ship: How to Save Time and Cut Hassle
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6721,7 +7204,7 @@ Can you tell us a little bit more of what you do? I would love to do more of thi
 
 ---
 
-## 110. Tips to label 'Products & Services' and 'line items' so AI can identify
+## 123. Tips to label 'Products & Services' and 'line items' so AI can identify
 
 **Author:** VanessaH (Contributor 3)
 **Posted:** 2025-02-28
@@ -6743,7 +7226,7 @@ I would love to learn more about this as well.
 
 ---
 
-## 111. Navigating Customer Expectations:
+## 124. Navigating Customer Expectations:
 Setting the Right Expectations with Clients from Day
 One
 
@@ -6767,7 +7250,7 @@ Can you start with how you do this? And then it will give me the examples I need
 
 ---
 
-## 112. What would you like to be doing that you just don’t have the resources to tackle right now?
+## 125. What would you like to be doing that you just don’t have the resources to tackle right now?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-28

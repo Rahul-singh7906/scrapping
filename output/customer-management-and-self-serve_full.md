@@ -1,78 +1,151 @@
 # Jobber Community Forum - Customer Management And Self Serve
 
-Total Discussions: 35
+Total Discussions: 37
 
 ---
 
-## 1. Bulk Messaging
+## 1. How to manage and optimize leads before they become paying customers?
+
+**Author:** djyohn (Contributor 2)
+**Posted:** 2026-03-31
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-manage-and-optimize-leads-before-they-become-paying-customers/9843
+
+### Content
+
+I am looking to optimize leads, plan routes for the sales departments and optimize so staff is not zigzagging all over town. These are not visits as no jobs are created yet, these are leads. I want staff to hand out flyers, business cards, etc. Is there a way to manage and optimize routes from the client list, specifically for clients who have not converted from a lead to an actual yet? How are others managing this? My prospects are typically other businesses as we are a B2B operation. CLIENT HUB CLIENT MANAGER INTEGRATIONS WIN JOBS WORK SMARTER
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 2. Workaround: click-to-call from ANY phone field in Jobber (works with Quo, OpenPhone)
+
+**Author:** Roger (Contributor 4)
+**Posted:** 2026-03-26
+**Views:** 12 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/workaround-click-to-call-from-any-phone-field-in-jobber-works-with-quo-openphone/9750
+
+### Content
+
+Hey everyone — ran into a frustrating issue after switching to Quo: not all phone number fields in Jobber are wrapped in a clickable tel: link. Clicking them does nothing, even when you have a desktop phone app set as your Windows default dialer. This is a Jobber limitation — only some fields output a proper tel: link. The good news is there's a dead-simple browser bookmarklet workaround. No extensions, no installs, nothing running in the background slowing Jobber down. And it works with any VoIP desktop app, not just Quo. Step 1 — Set your phone app as the default tel: handler on Windows This tells Windows which app to open when a phone link is clicked. Do this once and you're set. Start menu → search Default Apps Scroll down → Choose default apps by protocol Find TEL in the list → click it → select your phone app (Quo, RingCentral, etc.) Restart Chrome after saving Step 2 — Add the bookmarklet to Chrome Right-click your Chrome bookmarks bar → Add page → name it 📞 Click to Call → paste this exactly into the URL field: javascript:void(window.open('tel:'+window.getSelection().toString().replace(/[^0-9+]/g,''))) Click Save. It will now appear in your bookmarks bar. Step 3 — Use it in Jobber Highlight any phone number in Jobber with your mouse Click the 📞 Click to Call bookmark in your toolbar Your phone app opens and dials automatically The bookmarklet automatically strips out spaces, dashes, and parentheses so the number always formats correctly. Works on any phone number in Jobber — client profiles, requests, quotes, anywhere on the page. I did try a few Chrome extensions that auto-scan pages and convert all numbers to links, but they noticeably slowed Jobber down. This bookmarklet runs only when you click it, so zero performance impact. The only requirement is that your phone app has a Windows desktop client installed and is set as the tel: default in Step 1. Most major VoIP services support this. Would love to see Jobber eventually add proper tel: links across all phone fields natively — but until then this does the trick. Let me know which phone service you're using and if it works for you! CLIENT HUB CLIENT MANAGER INTEGRATIONS OPENPHONE
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 3. Needed Feature: Add Before & After Photos for Individual Visits
+
+**Author:** TLC707 (Contributor 2)
+**Posted:** 2025-11-02
+**Views:** 91 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/needed-feature-add-before--after-photos-for-individual-visits/7153
+
+### Content
+
+One of the most valuable ways to showcase our work is through before-and-after photos tied to individual visits. This feature is standard in other platforms CoPilotCRM and LMN, but Jobber currently doesn’t provide a way to easily attach both sets of photos directly to a visit record. Having this ability would: Give clients a clear visual of the value we deliver. Help build trust and professionalism by keeping photos organized within the client’s visit history. Support communication with clients who don’t live at their property full-time and rely on visuals to see what’s being done while they’re away in real time, not just adding photos to invoices. An important note: the appropriate fix should NOT be integrating yet another third-party software that will just increase your overhead. We need great core features within Jobber itself so businesses can keep everything streamlined and professional. This seems a basic yet powerful feature that would benefit many service-based businesses using Jobber. It would also reduce the need to manage photos manually outside the platform. Would love to see Jobber consider adding this to the roadmap if it’s not already. jade Hey TLC! Thank you for the wonderful feature request. We recently made some changes to our Job Forms, and part of this update was to include the ability to upload photos! If you are not familiar with our Job Form feature, these are customizable checklists that can be used on each visit for your technicians to fill out while in the field. They are also easy to email to the client afterward. For more information on how you can make Job Forms work for you, check out this help article. If you have any questions on incorporating these to your workflow, please contact our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2025-11-02
+
+Hey TLC! Thank you for the wonderful feature request. We recently made some changes to our Job Forms, and part of this update was to include the ability to upload photos! If you are not familiar with our Job Form feature, these are customizable checklists that can be used on each visit for your technicians to fill out while in the field. They are also easy to email to the client afterward. For more information on how you can make Job Forms work for you, check out this help article. If you have any questions on incorporating these to your workflow, please contact our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com.
+
+#### Reply 2
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-03-18
+
+I’m attaching the link below because Jobber already has this capability through its web service. It would be really helpful to have that same feature built into the app so we can use photos already taken in Notes or attached to the visit. Right now, techs have to keep extra photos on their phones or download, screenshot, and re-upload images just to create before-and-after visuals. It would make things much smoother if we could simply tag existing visit photos as before and after and generate it right in the app. https://www.getjobber.com/academy/before-and-after-image-maker/
+
+#### Reply 3
+
+**Author:** krista
+**Posted:** 2026-03-24
+
+to ThatHandymanVan Hi ThatHandymanVan​, Thanks so much for taking the time to share this. I really appreciate the feedback. I’ll make sure to pass this along to our team. Insights this are incredibly helpful as we continue to improve the product and better support your workflows. Thanks again for sharing.
+
+---
+
+## 4. Bulk Messaging
 
 **Author:** AidenStrehle (Contributor 3)
-**Posted:** 2025-03-09
-**Views:** 331 | **Likes:** 1 | **Comments:** 7
+**Posted:** 2025-04-02
+**Views:** 384 | **Likes:** 1 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/bulk-messaging/1715
 
 ### Content
 
 Hey everyone! I know jobber has a client communications feature with one of the paid plans, but does that feature include bulk email and text messaging to clients? I find myself often using MailChimp to send out emails but I would rather have Jobber create a feature where I can email and text clients all at once or based off of their tag. For example, when it snows we do snow removal. I would to send out a bulk message to all our snow removal clients what time we plan to dispatch. Or another example, when it rains, I would to send out a message to our clients that we will be rescheduling due to the weather. Does anyone have any feedback? Thanks! FredHodgeJr The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
 
-### Replies (7)
+### Replies (6)
 
 #### Reply 1
 
-**Author:** FredHodgeJr
-**Posted:** 2025-03-09
+**Author:** wdkljana
+**Posted:** 2025-04-02
 
-The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
+We have transitioned to Jobber campaigns from Mailchimp and find it works much in the same way, with one less step, we don't have to import emails & tags from jobber. That one less step makes it more efficient and is most cost effective also.
 
 #### Reply 2
 
-**Author:** jade
-**Posted:** 2025-03-09
+**Author:** FredHodgeJr
+**Posted:** 2025-04-02
 
-Hey Aiden, thanks for the question! Our community member Fred is correct. Jobber's marketing tools include the ability to mass-email through our Campaigns add-on, but it does not include SMS at this time. I am more than happy to submit this feature request to our Product Team. If you want to see if the Campaign add-on will work for your business, please contact our Success Team, who are happy to help. Thank you, Fred, for the helpful suggestion!
+The Jobber Marketing tab and its campaigns feature is a game-changer for targeted email communication. It allows you to set precise parameters reaching past clients who haven’t worked with you in over 12 months, all clients, or clients with upcoming visits. The ability to track metrics open rates, click rates, and—most importantly—revenue generated from these campaigns makes it a powerful tool for nurturing leads and boosting sales. While Jobber doesn’t currently offer a bulk text feature, there are excellent alternatives for that functionality. Tools Text Magic, Constant Contact, or Call Multiplier can help you manage bulk text messaging effectively and complement your email campaigns, ensuring you stay connected with your clients across multiple platforms.
 
 #### Reply 3
 
+**Author:** jade
+**Posted:** 2025-04-02
+
+Hey Aiden, thanks for the question! Our community member Fred is correct. Jobber's marketing tools include the ability to mass-email through our Campaigns add-on, but it does not include SMS at this time. I am more than happy to submit this feature request to our Product Team. If you want to see if the Campaign add-on will work for your business, please contact our Success Team, who are happy to help. Thank you, Fred, for the helpful suggestion!
+
+#### Reply 4
+
 **Author:** Diana
-**Posted:** 2026-02-26
+**Posted:** 2026-03-02
 
 to jade Hi jade​ is there any news on this being rolled out; sms blast ?
 
-#### Reply 4
+#### Reply 5
 
 **Author:** krista
 **Posted:** 2026-03-02
 
 to Diana Hi Diana​, Thanks for checking in. I am not aware of any updates or timeline for an SMS campaign or blast feature at this time. That said, I am happy to pass along your interest to our Product Team so they can see there is continued demand for it. Feedback this definitely helps inform future improvements. If anything changes, we will be sure to share updates in the Community.
 
-#### Reply 5
+#### Reply 6
 
 **Author:** christian1993
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to jade I agree, mass texting should be a part of the plan that i pay so much for. I pay for the highest tier everything. In addition to mass texting, attaching photos from phone to a text message should be added. I have been contemplating swithcing from jobber becuase other platforms offer both of these now and for less money.
 
-#### Reply 6
-
-**Author:** wdkljana
-**Posted:** 2025-03-09
-
-We have transitioned to Jobber campaigns from Mailchimp and find it works much in the same way, with one less step, we don't have to import emails & tags from jobber. That one less step makes it more efficient and is most cost effective also.
-
-#### Reply 7
-
-**Author:** IronWorksAI
-**Posted:** 2026-03-08
-
-NEW MEMBER Our bulk SMS marketing app, Notify Customers, is available on the Jobber App store. When you sign up, we sync all your clients and keep them updated over time. Pay-as-you go pricing, no monthly fees. Over 100 Jobber users have signed up.
-
 ---
 
-## 2. How to prevent or merge duplicate client records when syncing with QuickBooks?
+## 5. How to prevent or merge duplicate client records when syncing with QuickBooks?
 
 **Author:** HotTubDave (Contributor 3)
-**Posted:** 2025-05-09
-**Views:** 273 | **Likes:** 3 | **Comments:** 12
+**Posted:** 2025-06-02
+**Views:** 322 | **Likes:** 3 | **Comments:** 12
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-prevent-or-merge-duplicate-client-records-when-syncing-with-quickbooks/3677
 
 ### Content
@@ -84,94 +157,94 @@ I've been asking about this for a while and am hoping that someone has found a s
 #### Reply 1
 
 **Author:** pelicancorey
-**Posted:** 2025-07-09
+**Posted:** 2025-07-02
 
 Just here to also request the ability to merge 2 accounts. - Thank you!
 
 #### Reply 2
 
 **Author:** JHTS
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 to pelicancorey I would to be able to merge clients and/or addresses - we deal with a lot of property managers, who leave, change person etc and trying to keep up as they sometimes call us to arrange a site visit but is a site we already have and now its in twice but under different names. So records of sites are not kept together.
 
 #### Reply 3
 
 **Author:** CandyCain24
-**Posted:** 2025-07-09
+**Posted:** 2025-08-02
 
 I dont think leaving it up to the client is the best solution. We definitely need a merge option for when our employees enter in the same client two or three times. (yes that has happened) i have even had them reissue invoices for the same service at least two different times.
 
 #### Reply 4
 
 **Author:** HotTubDave
-**Posted:** 2025-07-09
+**Posted:** 2025-08-02
 
 If a merge function isn't practical, how about have Jobber just note that the address or phone number is already in another customer record, just to catch the data entry conflict before it becomes a duplicate of an existing record?
 
 #### Reply 5
 
 **Author:** krista
-**Posted:** 2025-05-09
+**Posted:** 2025-06-02
 
 Hi Dave, thanks for reaching out. I appreciate the time you took to share this feedback. One solution to the issue I know works for some of our customers is to have a login for existing customers on your webpage. This will let your customers login to the client hub and submit requests within their client portal. You can get this link from the Gear Icon > Settings > Client Hub > bottom of the page > share login page I think a merge client option would be a great idea, I would be happy to share this use case with the team. There are so many emerging opportunities for us to implement AI to help us improve workflows and we are always looking for more. As for this working with the Quickbooks Online sync, our Success Team would be happy to resolve that with you. Please reach out to 1-888-721-1115 option 1 or support@getjobber.com at your convenient.
 
 #### Reply 6
 
 **Author:** HotTubDave
-**Posted:** 2025-06-09
+**Posted:** 2025-06-02
 
 to krista Thanks Krista. I am really against the idea for my customers having to log into the client hub. I don't know about you, but I must have 150 passwords and half are for sites that really don't need that level of security. I use a password manager but some of my customers are senior citizens that are challenged sending a text message or email. I want to make it easier for them, not harder. Also, we do repairs, so we may only interact with a customer once every 2 or 3 years. They aren't going to remember they have a client hub. If I'm the only customer with the problem, I understand you guys not wanting to put the resources into it. I was just looking to see if it's a common issue or I'm a loner. Thanks, Dave Felder
 
 #### Reply 7
 
 **Author:** DAC
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Our company is currently dealing with this same problem, and we'd to chime in that adding a 'Merge' client function in Jobber is essential for our business management. It's also a standard feature on many CRM platforms with which our office administrator has worked previously. Please make our dreams come true in 2026, Jobber dev team!
 
 #### Reply 8
 
 **Author:** Nantucket
-**Posted:** 2025-11-09
+**Posted:** 2025-11-02
 
 Hey Jobber Community. my first post, so this thread is where I’ll jump in to ask for the same feature or ability to migrate client data, or even inside a job you could just change the client, I have a few instances where I had multiple reaching out to me for different projects before I realize they work for the same company so I had two individual clients three properties on one two properties on the other before I got any billing done, luckily there’s one billing email so I was able to just add that billing email to both clients and now the office can log into the client hub and see everything under that email but again for people who are not technically advanced I think the client hub is still a ways out for some of my clients So anyways, requesting job does do some sort of merge function or at least be able to change the client I’m not too far into where I can’t manually move stuff over at this point, but I can imagine having technicians doing this working under me and then getting way behind. It would be a pain to try to get it all fixed.
 
 #### Reply 9
 
 **Author:** HotTubDave
-**Posted:** 2025-11-09
+**Posted:** 2025-11-02
 
 I have noticed lately that Jobber will catch similar information when entering a new customer and let me know the client already exists. So kudos to that! still have the issue with job requests however. I don’t know that I want my customers or prospects getting error messages that “client already exists.” Maybe Jobber could flag it so I see on the back end? or just spend 40 minutes once or twice a month doing it manually when Quickbooks catches the error. But it does raise the question: How come Quickbooks can spot the error and Jobber can’t?
 
 #### Reply 10
 
 **Author:** MrElectro
-**Posted:** 2026-01-09
+**Posted:** 2026-01-02
 
 Can I also add that I also have this issue but also get customers making a request when they have an existing account but somehow adding there address again so I can have some customers with 7 different addresses which are all under the same account and all ever so slightly different. Because of the way in which requests - quote - job etc can be moved its not often caught unless you delve deep into the customer profile and find out they have multiple properties with the same address. Now we have to either leave these or delete the extra ones which deletes are the history against that particular address. So it would be better to have a way for a customer once they have an existing account to at least need to login maybe to make a new request etc or be able to merge addresses, customers etc. My jobber crm is now a complete mess of duplicate customers and addresses.
 
 #### Reply 11
 
 **Author:** MrElectro
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 I’ve also now got customers making duplicates of properties with identical addresses
 
 #### Reply 12
 
 **Author:** CRHotTubTech
-**Posted:** 2026-02-27
+**Posted:** 2026-03-02
 
 +1 for a client merge feature, I was shocked this feature didn't exist when I went looking for it :(
 
 ---
 
-## 3. 💡FEATURE REQUEST: Schedule Send Communications
+## 6. 💡FEATURE REQUEST: Schedule Send Communications
 
 **Author:** ThatHandymanVan (Contributor 4)
-**Posted:** 2026-02-19
-**Views:** 32 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 48 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/%F0%9F%92%A1feature-request-schedule-send-communications/8782
 
 ### Content
@@ -183,24 +256,24 @@ When I’m ready to send an estimate or invoice, Jobber makes it easy to send di
 #### Reply 1
 
 **Author:** tbarth
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 That would be a cool feature for sure. I think it would be hard to add though, as it would probably require a lot of back-end work to add the required pieces. Automations might easier if they can do a trigger > delay > send message flow, that might be a way to do something at least similar without rebuilding the whole messaging system. The only workaround I can think of is pushing it to a third party, which adds more complexity than your current workflow has. For what it's worth, if someone replied at an odd hour, I don't think they'd expect a from you outside of normal hours. Not trying to invalidate the concern; it's just not something I'd thought about before now. You make a good point.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi ThatHandymanVan​ I love this idea, I am a big “send later” fan myself. Finishing admin work after hours is such a real scenario for field-based businesses, and your workaround makes total sense, but you are right, it adds unnecessary steps. Being able to choose Send now or Schedule send directly from the estimate or invoice flow would feel much cleaner and more professional. I especially that you called out: • Date and time selection with proper time zone handling • Clear Scheduled / Sent / Failed status • Ability to edit or cancel before it goes out That is exactly the kind of practical detail that helps our Product team evaluate feasibility and impact. I will absolutely share this with the team. Thank you for laying it out so clearly.
 
 ---
 
-## 4. Question for Jobber Team: Why Are Filter and Sort Settings Not Persisted?
+## 7. Question for Jobber Team: Why Are Filter and Sort Settings Not Persisted?
 
 **Author:** tbarth (Contributor 3)
-**Posted:** 2026-02-09
-**Views:** 86 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-03-02
+**Views:** 102 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/question-for-jobber-team-why-are-filter-and-sort-settings-not-persisted/8508
 
 ### Content
@@ -212,38 +285,38 @@ Across every core page, Jobber relies on sortable and filterable lists. Filter a
 #### Reply 1
 
 **Author:** tbarth
-**Posted:** 2026-02-08
+**Posted:** 2026-03-02
 
 Thank you for acknowledging my message, but this has been a known design choice since the start, so it is not feedback so much as a direct question. The team has been aware of this and receiving feedback about it since the product launched 15 years ago. The lack of persistence for list views, specifically saved sorting and filtering, is not a new or niche expectation. Professional software has preserved such state for decades, from spreadsheets and databases in the late 1980s and 1990s to ERP and CRM systems in the early 2000s. Users internalized this expectation early. By the mid-1990s, any professional tool that failed to remember view state would have been considered broken. Even when web-based SaaS tools initially reintroduced stateless interfaces in the late 1990s and early 2000s, persistent, stateful lists were quickly restored by the mid-2000s, setting the standard for workflow-focused applications. Early web-based SaaS tools Salesforce Classic were widely criticized for stateless list views, which forced users to repeatedly reapply filters and sorting. This became a well-known cautionary example in professional software design well before Jobber launched. If technical or resource limitations explain why persistence was not included at launch, the fact that it remains absent is striking, especially given Jobber’s stated emphasis on saving users time and eliminating repetitive tasks. Every day, users must incessantly reapply filters and sorting across the pages central to their workflows, creating repetitive and error-prone work that runs directly counter to the “work smarter” messaging on the box. Considering that Jobber’s current stack, a React and TypeScript frontend with a Ruby on Rails backend accessed via GraphQL, has supported persistent list state for well over a decade, it becomes clear that ignoring this product-contrary UX pain point, affecting virtually all users, is an ongoing design choice. Institutional investment shifting resource allocation to growth-oriented spending only is just reality, but thanking users for the same feedback that has been ignored for 15 years can be perceived as disingenuous. I understand that, any product in any industry, if an issue does not slow growth and the pain of leaving the product is greater than enduring it, then it will not be fixed. Yet the Jobber homepage leads with “Take back your time and speed up your success,” lists one of the four core benefits as “Work Smarter,” which links to “Automate repetitive tasks,” which links to “Let Jobber handle repetitive tasks.” I hope this disparity between the label and the ongoing decision to disregard this major UX issue prompts action. On behalf of all current and future users, I am asking if implementing persistence is currently on the roadmap, and if so, what the tentative timeline for implementation is.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Hi tbarth​ Thank you for taking the time to write this up so clearly. I really appreciate the detailed feedback, and I would be happy to share this with the team. I completely understand how disruptive it can be when filters and sorting do not persist and interrupt your workflow. As a small tip in the meantime, if you are on a list page, for example, the Clients page with filters applied, and want to open an individual client without losing your view, you can open the client in a new tab. On Mac, hold Command and click the client name. On PC, hold Control and click. That way your filtered list remains intact in the original tab. Thanks again for calling this out so thoughtfully. Feedback this is incredibly valuable.
 
 #### Reply 3
 
 **Author:** tbarth
-**Posted:** 2026-02-17
+**Posted:** 2026-03-02
 
 to krista Re-posting this as it didn't end up as a to your . Thank you for acknowledging my message krista​, but this has been a known design choice since the start, so it is not feedback so much as a direct question. The team has been aware of this and receiving feedback about it since the product launched 15 years ago. The lack of persistence for list views, specifically saved sorting and filtering, is not a new or niche expectation. Professional software has preserved such state for decades, from spreadsheets and databases in the late 1980s and 1990s to ERP and CRM systems in the early 2000s. Users internalized this expectation early. By the mid-1990s, any professional tool that failed to remember view state would have been considered broken. Even when web-based SaaS tools initially reintroduced stateless interfaces in the late 1990s and early 2000s, persistent, stateful lists were quickly restored by the mid-2000s, setting the standard for workflow-focused applications. Early web-based SaaS tools Salesforce Classic were widely criticized for stateless list views, which forced users to repeatedly reapply filters and sorting. This became a well-known cautionary example in professional software design well before Jobber launched. If technical or resource limitations explain why persistence was not included at launch, the fact that it remains absent is striking, especially given Jobber’s stated emphasis on saving users time and eliminating repetitive tasks. Every day, users must incessantly reapply filters and sorting across the pages central to their workflows, creating repetitive and error-prone work that runs directly counter to the “work smarter” messaging on the box. Considering that Jobber’s current stack, a React and TypeScript frontend with a Ruby on Rails backend accessed via GraphQL, has supported persistent list state for well over a decade, it becomes clear that ignoring this product-contrary UX pain point, affecting virtually all users, is an ongoing design choice. Institutional investment shifting resource allocation to growth-oriented spending only is just reality, but thanking users for the same feedback that has been ignored for 15 years can be perceived as disingenuous. I understand that, any product in any industry, if an issue does not slow growth and the pain of leaving the product is greater than enduring it, then it will not be fixed. Yet the Jobber homepage leads with “Take back your time and speed up your success,” lists one of the four core benefits as “Work Smarter,” which links to “Automate repetitive tasks,” which links to “Let Jobber handle repetitive tasks.” I hope this disparity between the label and the ongoing decision to disregard this major UX issue prompts action. On behalf of all current and future users, I am asking if implementing persistence is currently on the roadmap, and if so, what the tentative timeline for implementation is.
 
 #### Reply 4
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi tbarth​ , I want to acknowledge the depth and thoughtfulness of your message. I understand this is not casual feedback for you, it is a foundational workflow concern. I have passed this along again internally, not simply as feature feedback, but framed around workflow efficiency, expectation alignment, and the gap you articulated between product messaging and lived experience. I also want to be transparent that I have requested clarity around whether persistent list view state is currently on the roadmap, under evaluation, or not planned, so that we can provide a more concrete answer rather than repeating general acknowledgments. I cannot commit to a timeline or outcome, but I can commit to pushing for a clear, direct response. Once I receive that clarity, I will follow up with you. I appreciate the way you articulated this. Even when the tone is firm, it is clear you care about the product and how it evolves. Thank you for continuing to raise it.
 
 ---
 
-## 5. Why is Property Name missing in add/edit property? (It's visible in client edit view.)
+## 8. Why is Property Name missing in add/edit property? (It's visible in client edit view.)
 
 **Author:** tbarth (Contributor 3)
-**Posted:** 2026-02-17
-**Views:** 29 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 51 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/why-is-property-name-missing-in-addedit-property-its-visible-in-client-edit-view/8744
 
 ### Content
@@ -255,17 +328,17 @@ When viewing a client's properties on the Client page, I noticed that the left c
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi tbarth​, Thank you for taking the time to lay this out so clearly, and for documenting the workflow in detail. I can see why this feels inconsistent, especially since the Property Name field appears in one workflow but not in another. That would definitely be confusing when managing multiple properties. I really appreciate the thought you have put into outlining what you believe is happening and how it could be resolved. While I cannot speak to the specific development effort or timelines, I will absolutely pass this feedback along to our Product and Development teams for review. The context you provided around usability and workflow impact is especially helpful. I cannot confirm if or when a change would be scheduled, but feedback this does get reviewed and helps inform prioritization decisions, and I will make sure it gets in front of the right people. Thanks again for raising it and for the detailed breakdown.
 
 ---
 
-## 6. How does Jobber’s texting system handle multiple contacts for one client? Texting System is Lacking
+## 9. How does Jobber’s texting system handle multiple contacts for one client? Texting System is Lacking
 
-**Author:** dcholding302 (Contributor 2)
-**Posted:** 2026-02-14
-**Views:** 41 | **Likes:** 1 | **Comments:** 1
+**Author:** dcholding302 (Contributor 3)
+**Posted:** 2026-03-02
+**Views:** 54 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-does-jobber%E2%80%99s-texting-system-handle-multiple-contacts-for-one-client-texting/8714
 
 ### Content
@@ -277,17 +350,17 @@ It is very hard to know who we are talking to as many of our clients have multi
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi dcholding302​, This is incredibly thoughtful and detailed feedback, thank you for taking the time to lay it out so clearly. We completely understand how challenging it can be when you are managing multiple points of contact per client, especially with commercial accounts. Not being able to clearly see the full phone number or easily identify who you are texting can definitely slow things down and create confusion. Your suggestions around: • Displaying the full phone number • Matching texts to specific contact names within a client file • Adding a direct “Text this person” option from the Contacts section • Improving overall contact management and contact syncing are all extremely helpful and very actionable. I will be sharing this directly with our Product and Development teams. Feedback this, especially when it outlines both the current friction and the ideal future state, is exactly what helps guide improvements. We truly appreciate you bringing this forward. If there is anything else you would to expand on or any examples you would us to consider, please feel free to share.
 
 ---
 
-## 7. Referral Credit System Is Very Lacking
+## 10. Referral Credit System Is Very Lacking
 
-**Author:** dcholding302 (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 93 | **Likes:** 1 | **Comments:** 3
+**Author:** dcholding302 (Contributor 3)
+**Posted:** 2026-03-02
+**Views:** 111 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/referral-credit-system-is-very-lacking/8539
 
 ### Content
@@ -299,31 +372,31 @@ This post is feedback, and a place to allow other users to leave feedback, for t
 #### Reply 1
 
 **Author:** HUGEHandyman
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 I know this is a great place to leave this but I'd also recommend sending to support. They are really good at getting feedback to the right people and getting changes implemented.
 
 #### Reply 2
 
 **Author:** dcholding302
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 to HUGEHandyman yup, this has been emailed to support also.
 
 #### Reply 3
 
 **Author:** FredHodgeJr
-**Posted:** 2026-02-14
+**Posted:** 2026-03-02
 
 Excellent feedack, I would love to see those changes! julie​
 
 ---
 
-## 8. Custom fields missing when editing existing properties
+## 11. Custom fields missing when editing existing properties
 
 **Author:** Kevin_G (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 41 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-02
+**Views:** 54 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/custom-fields-missing-when-editing-existing-properties/8465
 
 ### Content
@@ -335,17 +408,17 @@ Hi, does anyone know why I don’t have the option to edit custom fields when up
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 hi Kevin_G​ Thanks for flagging this.
 
 ---
 
-## 9. Duplicates merge
+## 12. Duplicates merge
 
 **Author:** Naz (Contributor 2)
-**Posted:** 2025-03-09
-**Views:** 463 | **Likes:** 8 | **Comments:** 9
+**Posted:** 2025-04-02
+**Views:** 491 | **Likes:** 8 | **Comments:** 9
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/duplicates-merge/1141
 
 ### Content
@@ -357,73 +430,73 @@ Hi guys. Its been a while we been asking for a possibility to merge contacts. Si
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hey Naz! So great to have you as a customer since 2015! We really appreciate your continued feedback to make Jobber a more powerful tool. Client merge is not currently a feature in Jobber, but I’m happy to share your feedback with our Product Team as I understand how this would be valuable. New features are based on trends of requests, so if you’ve shared this feedback before this extra flag will be helpful. Your feature requests are important, so please keep them coming. We are also happy to help with some workarounds so please contact our Success Team!
 
 #### Reply 2
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 to jade jade​ I feel Jobber has blinds on for AI right now. Can you remind them to take a look at the issues that the customers using their software need, and not just the latest trend? Customer retention is at stake!
 
 #### Reply 3
 
 **Author:** HotTubDave
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Definitely a need here. We use Jobber Requests, and I get existing clients who use the "Request Service" button on my website, creating a whole new client record. Happens a couple times a month.
 
 #### Reply 4
 
 **Author:** cami1
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 How has this not made its way to the developers task board yet?
 
 #### Reply 5
 
 **Author:** LuminaryLawns
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Agreed! This would be a big help. We have customers create multiple accounts when they submit requests either from the jobber portal or from the form we have on our website. If there was a way to check the email address and merge the info it would be extremely helpful.
 
 #### Reply 6
 
 **Author:** Naz
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to LuminaryLawns I hope Jobber will listen to this and make it happen.
 
 #### Reply 7
 
 **Author:** wdkljana
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 We've been asking Jobber for this for years now! So frustrating they don't have it others do.
 
 #### Reply 8
 
 **Author:** Naz
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to wdkljana Same thing here, been asking for years.
 
 #### Reply 9
 
 **Author:** JHTS
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 I too would a merge feature. We deal with property managers of large companies and we get asked about a site from one, they leave and someone else asks about same site - a new client is added for new PM. Then we realise we have already done work at this site under a different PM. So to be able to merge the acounts into one so that we can keep a tag on the address and all the works done there would be a very beneficial thing to be able to do. Please bring this in asap
 
 ---
 
-## 10. How to manage duplicate clients, flags, and scheduling visibility in Jobber?
+## 13. How to manage duplicate clients, flags, and scheduling visibility in Jobber?
 
 **Author:** CookAppliance (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 97 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-02-02
+**Views:** 119 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/how-to-manage-duplicate-clients-flags-and-scheduling-visibility-in-jobber/8134
 
 ### Content
@@ -435,17 +508,17 @@ Hello, A few things I'd love to see added to jobber, if not already there and I 
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Hi CookAppliance​, thanks so much for taking the time to share this feedback. These are all really common workflow challenges, and you are definitely not alone in running into them. On duplicate clients, at this time Jobber does not support merging client records. The best workaround is prevention, making sure the team searches existing clients carefully before creating new ones. I completely understand how tricky this can be with multiple people answering phones, and I have passed this feedback along, as this is something many teams ask for. For flagging or labeling clients, Jobber does offer custom client tags. Tags can be used to note items such as no service, payment required first, VIP, flexible scheduling, and more. While tags are not colour-coded and do not surface directly on the schedule or booking flow, they can be very helpful internally for identifying clients and filtering lists. You are correct though that they are not visible at a glance in the calendar, and that is valuable feedback. Regarding scheduling visibility and colour highlights, currently colours on the schedule are tied to team members or keywords rather than client attributes. Has your team tried using the keywords to colour-code clients based on flexibility or appointment requirements directly on the calendar? Many teams handle this with internal notes, tags, or naming conventions, but I agree that true visual indicators would make this much easier for CSRs managing cancellations and fill-in opportunities. I really appreciate you laying this out so clearly. Product feedback this is actively reviewed by our team, and posts yours help shape future improvements. Please keep it coming if you think of anything else. Thanks again for sharing.
 
 ---
 
-## 11. Subjecting potential customers to marketing emails and promotions??!!
+## 14. Subjecting potential customers to marketing emails and promotions??!!
 
 **Author:** Pelectric1 (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 52 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2025-09-02
+**Views:** 69 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/subjecting-potential-customers-to-marketing-emails-and-promotions/5626
 
 ### Content
@@ -457,24 +530,24 @@ Is there anyway way to disable this on the request form? I guess I'm happy it te
 #### Reply 1
 
 **Author:** Pelectric1
-**Posted:** 2025-08-27
+**Posted:** 2025-09-02
 
 Just to be clear, I'm talking about removing the selling of their information. Not just removing the disclaimer.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-11-27
+**Posted:** 2025-11-02
 
 Hi Pelectric1​ Thanks for bringing this up and for sharing your concern. I want to clarify that Jobber does not sell customer information. In fact, our Privacy Policy specifically state that we do not sell or share customer data for marketing purposes. It sounds there may be some confusion about where this message is appearing. Could you please share a bit more detail, or even a screenshot, of where you’re seeing this disclaimer on the request form? That will help us better understand what’s showing up and make sure it’s addressed properly. We take data privacy very seriously, and we want to ensure both you and your customers feel confident using Jobber’s request forms.
 
 ---
 
-## 12. Customer Appointment Confirmations
+## 15. Customer Appointment Confirmations
 
 **Author:** MyApplianceGuy1 (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 61 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2025-11-02
+**Views:** 95 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/customer-appointment-confirmations/7337
 
 ### Content
@@ -486,39 +559,17 @@ Let me preface with how we currently use Jobber in our daily workflow. I own an 
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2025-10-27
+**Posted:** 2025-11-02
 
 JOBBER COMMUNITY TEAM Hiya! Thanks so much for sharing how you've set up your workflow. The level of detail is super helpful and it's clear why you'd want a smoother way to handle confirmation. I've passed this along to our Product Team, but I'm also looking forward to hearing from other members who have found a creative setup for this!— maybe using Jobber’s current automations, Zapier, or another integration?
 
 ---
 
-## 13. Needed Feature: Add Before & After Photos for Individual Visits
-
-**Author:** TLC707 (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 56 | **Likes:** 1 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/needed-feature-add-before--after-photos-for-individual-visits/7153
-
-### Content
-
-One of the most valuable ways to showcase our work is through before-and-after photos tied to individual visits. This feature is standard in other platforms CoPilotCRM and LMN, but Jobber currently doesn’t provide a way to easily attach both sets of photos directly to a visit record. Having this ability would: Give clients a clear visual of the value we deliver. Help build trust and professionalism by keeping photos organized within the client’s visit history. Support communication with clients who don’t live at their property full-time and rely on visuals to see what’s being done while they’re away in real time, not just adding photos to invoices. An important note: the appropriate fix should NOT be integrating yet another third-party software that will just increase your overhead. We need great core features within Jobber itself so businesses can keep everything streamlined and professional. This seems a basic yet powerful feature that would benefit many service-based businesses using Jobber. It would also reduce the need to manage photos manually outside the platform. Would love to see Jobber consider adding this to the roadmap if it’s not already. jade Hey TLC! Thank you for the wonderful feature request. We recently made some changes to our Job Forms, and part of this update was to include the ability to upload photos! If you are not familiar with our Job Form feature, these are customizable checklists that can be used on each visit for your technicians to fill out while in the field. They are also easy to email to the client afterward. For more information on how you can make Job Forms work for you, check out this help article. If you have any questions on incorporating these to your workflow, please contact our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com.
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** jade
-**Posted:** 2025-10-27
-
-Hey TLC! Thank you for the wonderful feature request. We recently made some changes to our Job Forms, and part of this update was to include the ability to upload photos! If you are not familiar with our Job Form feature, these are customizable checklists that can be used on each visit for your technicians to fill out while in the field. They are also easy to email to the client afterward. For more information on how you can make Job Forms work for you, check out this help article. If you have any questions on incorporating these to your workflow, please contact our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com.
-
----
-
-## 14. Growth
+## 16. Growth
 
 **Author:**  (Contributor 2)
-**Posted:** 2025-09-27
-**Views:** 76 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2025-10-02
+**Views:** 103 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/growth/7029
 
 ### Content
@@ -530,75 +581,75 @@ Cl I run multiple seasonal businesses, Christmas Lighting for an example. In job
 #### Reply 1
 
 **Author:** ryaantuttle
-**Posted:** 2025-10-27
+**Posted:** 2025-10-02
 
 Jobber is built out PER company
 
 ---
 
-## 15. International Customers - Getting Ripped Off
+## 17. International Customers - Getting Ripped Off
 
 **Author:** housekeptaus (Contributor 3)
-**Posted:** 2025-08-27
-**Views:** 52 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2025-09-02
+**Views:** 67 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/international-customers---getting-ripped-off/5773
 
 ### Content
 
-I am writing to ask if there are any international customers they are frustrated, and how they work around the following issues. I am in Australia and use Jobber for my cleaning business. Because we live in Australia, we do not get access to two way messaging (letting customers know we are on the way to their job), AI Receptionist or Jobber Payments. I don't understand how Jobber can charge the same amount of money as their US customers but not offer the same services. I then have to may additional hundreds of dollars for other intergrations and messy zapier triggers to get simple tasks completed that our customers expect from us. If you are going to roll something out Jobber, you should invest into rolling it out for all your customers, and maybe not invest so much in over the top podcasts. jade 5 months ago Hello there, we are so sorry that you feel this way, and thank you for taking the time to share your feedback. I can understand how frustrating it must feel to pay the same subscription price as U.S. customers while not having access to features two-way messaging, AI Receptionist, and Jobber Payments. If you feel that you may not be getting the full value of your plan, our Success Team would love to work with you to make sure you are on the best plan for your budget and needs. We appreciate the feedback on the need for additional integrations to fill those gaps. Thank you for sharing how important those tools are for your business. While some features are only available in certain regions due to legal, regulatory, or infrastructure requirements, we know that doesn’t make the impact on your day-to-day any less challenging. I’ve shared your feedback directly with our product team so they can see how this affects international customers, especially in Australia. Thank you again for being candid with us and for running your business with Jobber. We truly value having you in the community.
+I am writing to ask if there are any international customers they are frustrated, and how they work around the following issues. I am in Australia and use Jobber for my cleaning business. Because we live in Australia, we do not get access to two way messaging (letting customers know we are on the way to their job), AI Receptionist or Jobber Payments. I don't understand how Jobber can charge the same amount of money as their US customers but not offer the same services. I then have to may additional hundreds of dollars for other intergrations and messy zapier triggers to get simple tasks completed that our customers expect from us. If you are going to roll something out Jobber, you should invest into rolling it out for all your customers, and maybe not invest so much in over the top podcasts. jade Hello there, we are so sorry that you feel this way, and thank you for taking the time to share your feedback. I can understand how frustrating it must feel to pay the same subscription price as U.S. customers while not having access to features two-way messaging, AI Receptionist, and Jobber Payments. If you feel that you may not be getting the full value of your plan, our Success Team would love to work with you to make sure you are on the best plan for your budget and needs. We appreciate the feedback on the need for additional integrations to fill those gaps. Thank you for sharing how important those tools are for your business. While some features are only available in certain regions due to legal, regulatory, or infrastructure requirements, we know that doesn’t make the impact on your day-to-day any less challenging. I’ve shared your feedback directly with our product team so they can see how this affects international customers, especially in Australia. Thank you again for being candid with us and for running your business with Jobber. We truly value having you in the community.
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-09-27
+**Posted:** 2025-09-02
 
 Hello there, we are so sorry that you feel this way, and thank you for taking the time to share your feedback. I can understand how frustrating it must feel to pay the same subscription price as U.S. customers while not having access to features two-way messaging, AI Receptionist, and Jobber Payments. If you feel that you may not be getting the full value of your plan, our Success Team would love to work with you to make sure you are on the best plan for your budget and needs. We appreciate the feedback on the need for additional integrations to fill those gaps. Thank you for sharing how important those tools are for your business. While some features are only available in certain regions due to legal, regulatory, or infrastructure requirements, we know that doesn’t make the impact on your day-to-day any less challenging. I’ve shared your feedback directly with our product team so they can see how this affects international customers, especially in Australia. Thank you again for being candid with us and for running your business with Jobber. We truly value having you in the community.
 
 #### Reply 2
 
 **Author:** BrandenSewell
-**Posted:** 2025-09-27
+**Posted:** 2025-10-02
 
 Sorry that you are going through that. I can just say that Jobber has a very understanding team with incredible customer service. Have you tried reaching out to them directly about this issue?
 
 ---
 
-## 16. 2 WAY SYNCING WITH QUICKBOOKS NOT WORKING
+## 18. 2 WAY SYNCING WITH QUICKBOOKS NOT WORKING
 
 **Author:** JonathanP (Contributor 2)
-**Posted:** 2025-04-27
-**Views:** 67 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2025-05-02
+**Views:** 90 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/2-way-syncing-with-quickbooks-not-working/3021
 
 ### Content
 
-What are people's thoughts about Quickbooks and Jobber not being able to 2 way sync anymore. We signed up with jobber specifically for this feature, and now that they have taken this feature away we are thinking about looking around for new software that does sync 2 ways with inventory especially. It would be nice to hear what others are thinking about this issue. We hate to leave jobber, however, with the inventory not syncing 2 ways it's really not working for our business. Just some background information we run an Electrical Contracting company with lots of inventory. Thanks in advance for your thoughts on this matter. jade 9 months ago Hey Jonathan! Thanks for the post. The QuickBooks Integration was redesigned to improve sync errors and incorporate more self-serve features for solving sync errors. In order to achieve this, the sync is now a true one-way sync. I can understand how this change may impact your workflow. Our Success Team would be happy to give you an overview of how the new QBO—Jobber integration can work for you. Regarding inventory tracking, there is some information here on using QuickBooks inventory tracking with the new integration; however, I would recommend chatting with our team to find what works best for you! You can reach our Success Team by phone 888-721-1115 ext 1, email mailto:support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!
+What are people's thoughts about Quickbooks and Jobber not being able to 2 way sync anymore. We signed up with jobber specifically for this feature, and now that they have taken this feature away we are thinking about looking around for new software that does sync 2 ways with inventory especially. It would be nice to hear what others are thinking about this issue. We hate to leave jobber, however, with the inventory not syncing 2 ways it's really not working for our business. Just some background information we run an Electrical Contracting company with lots of inventory. Thanks in advance for your thoughts on this matter. jade 10 months ago Hey Jonathan! Thanks for the post. The QuickBooks Integration was redesigned to improve sync errors and incorporate more self-serve features for solving sync errors. In order to achieve this, the sync is now a true one-way sync. I can understand how this change may impact your workflow. Our Success Team would be happy to give you an overview of how the new QBO—Jobber integration can work for you. Regarding inventory tracking, there is some information here on using QuickBooks inventory tracking with the new integration; however, I would recommend chatting with our team to find what works best for you! You can reach our Success Team by phone 888-721-1115 ext 1, email mailto:support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-05-27
+**Posted:** 2025-06-02
 
 Hey Jonathan! Thanks for the post. The QuickBooks Integration was redesigned to improve sync errors and incorporate more self-serve features for solving sync errors. In order to achieve this, the sync is now a true one-way sync. I can understand how this change may impact your workflow. Our Success Team would be happy to give you an overview of how the new QBO—Jobber integration can work for you. Regarding inventory tracking, there is some information here on using QuickBooks inventory tracking with the new integration; however, I would recommend chatting with our team to find what works best for you! You can reach our Success Team by phone 888-721-1115 ext 1, email mailto:support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!
 
 #### Reply 2
 
 **Author:** Housekept_Tim
-**Posted:** 2025-08-27
+**Posted:** 2025-09-02
 
 We have been experiencing the same issue with Xero and so far, months later and thousands of dollars out of our pocket later... still no real fix or attention to the issue. My advice would be to figure out your own workaround as we did, it's the only way we've been able to continue using Jobber.
 
 ---
 
-## 17. Client email responses and communication histories
+## 19. Client email responses and communication histories
 
 **Author:** martalucia (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 39 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-09-02
+**Views:** 59 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/client-email-responses-and-communication-histories/5431
 
 ### Content
@@ -610,17 +661,17 @@ Does Jobber support email threading or auto logging of client email responses in
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-08-27
+**Posted:** 2025-09-02
 
 Hi martalucia​ Thanks for reaching out with this thoughtful question. You're absolutely right—while outgoing emails and texts sent through Jobber are logged in the client’s profile, client replies to those emails are not currently pulled back into Jobber. Instead, they’re sent to the external email address associated with the user who sent the message, which means the full conversation thread isn’t visible within the client’s communication history. We understand how important it is to have a complete, centralized view of client conversations—especially when multiple team members are involved. I’ve shared your feedback with our product team, as improving communication visibility is an area we're actively exploring. In the meantime, one workaround we’d suggest is saving the email thread as a PDF and uploading it to the client’s profile under internal notes. This can help keep all communication in one place for future reference and documentation. If you’d be open to chatting further about how your team uses Jobber for client communication, we’d love to learn more. Your insight helps us make better decisions about where to improve. Please reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com when convenient.
 
 ---
 
-## 18. Client communication preference
+## 20. Client communication preference
 
 **Author:** deanham_ec (Contributor 2)
-**Posted:** 2025-06-27
-**Views:** 52 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2025-07-02
+**Views:** 67 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/customer-management-and-self-serve/client-communication-preference/4139
 
 ### Content
@@ -632,13 +683,13 @@ Is there an option for clients to choose their preferred communication method? C
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-06-27
+**Posted:** 2025-07-02
 
 Hi deanham_ec​ Great question! If you setup your Request Form to ask for their preferred method of contact you would be able to use Custom Fields or Notes to keep track of the preference. This help article can help you with setting up the Request Form. Thanks for the question!
 
 ---
 
-## 19. Need custom field ideas?
+## 21. Need custom field ideas?
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2025-02-27
@@ -660,7 +711,7 @@ We have left a Google Review." However, I wish we did not have to rewrite the ta
 
 ---
 
-## 20. Work around for client imports failing?
+## 22. Work around for client imports failing?
 
 **Author:** Jacob_Thifault (Contributor 2)
 **Posted:** 2025-03-27
@@ -682,7 +733,7 @@ Hey Jacob! Thanks for the question. The reason you're having trouble is that the
 
 ---
 
-## 21. Text Messages
+## 23. Text Messages
 
 **Author:** Meloni (Contributor 2)
 **Posted:** 2025-03-27
@@ -704,7 +755,7 @@ Hi Meloni thank you for the question! If there is a message that you would to co
 
 ---
 
-## 22. 📧Email & 💬Text Templates (Not just for Quotes and Invoices)
+## 24. 📧Email & 💬Text Templates (Not just for Quotes and Invoices)
 
 **Author:** Jessica-2025 (Contributor 3)
 **Posted:** 2025-03-27
@@ -740,7 +791,7 @@ We think this is a fantastic idea, as well! I've played around with an email in 
 
 ---
 
-## 23. ARE YOU ABLE TO TRAIN THE AI RECEPTIONIST TO ANSWER MORE QUESTIONS FROM THE CUSTOMER?
+## 25. ARE YOU ABLE TO TRAIN THE AI RECEPTIONIST TO ANSWER MORE QUESTIONS FROM THE CUSTOMER?
 
 **Author:** MICHAELG (Contributor 2)
 **Posted:** 2025-03-27
@@ -783,7 +834,7 @@ Hello Michael G! Thanks for the question; Jobber does not currently have a way t
 
 ---
 
-## 24. Who has Jobber dialed in using Automation
+## 26. Who has Jobber dialed in using Automation
 
 **Author:** greed007 (Contributor 2)
 **Posted:** 2025-02-27
@@ -833,7 +884,7 @@ to MORGANLAWN5912 Could you explain that one a little more, it’s just not some
 
 ---
 
-## 25. Who has a client maintenance plan set up?
+## 27. Who has a client maintenance plan set up?
 
 **Author:** greed007 (Contributor 2)
 **Posted:** 2025-02-27
@@ -862,7 +913,7 @@ Its depends how you set it up.. Reoccurring vists with a monthly visit does not 
 
 ---
 
-## 26. Two Way Texting with Multiple Technicians
+## 28. Two Way Texting with Multiple Technicians
 
 **Author:** BenSimpson (Contributor 2)
 **Posted:** 2025-02-27
@@ -898,7 +949,7 @@ Hi BenSimpson, thanks for this question! We would love to hear more about how th
 
 ---
 
-## 27. Client Tags
+## 29. Client Tags
 
 **Author:** AYDPoolService (Contributor 2)
 **Posted:** 2025-02-27
@@ -934,7 +985,7 @@ JL We use "Call Back" and "Follow up [month]" tags to easily pull a list for fol
 
 ---
 
-## 28. Show more future Jobs in client portal
+## 30. Show more future Jobs in client portal
 
 **Author:** Sanctuary (Contributor 2)
 **Posted:** 2025-02-27
@@ -956,7 +1007,7 @@ Hey Kylie-Anne, thank you for bringing this to the community! In the client hub,
 
 ---
 
-## 29. Fix Quote UI
+## 31. Fix Quote UI
 
 **Author:** boardwalk (Contributor 2)
 **Posted:** 2025-02-27
@@ -985,7 +1036,7 @@ Additionally, include a line such as "Click here to add this item to your servic
 
 ---
 
-## 30. Am I crazy? Need help.
+## 32. Am I crazy? Need help.
 
 **Author:** JustinDucharme (Contributor 2)
 **Posted:** 2025-02-27
@@ -1035,7 +1086,7 @@ to TheProcessCEO Got it figured out by creating a second admin account. Not sure
 
 ---
 
-## 31. Hold Harmless Agreement
+## 33. Hold Harmless Agreement
 
 **Author:** Woody (Contributor 2)
 **Posted:** 2025-02-27
@@ -1064,7 +1115,7 @@ Under Settings -> Branding -> Change PDF Style -> Jobs there is the option to pr
 
 ---
 
-## 32. Help w/ iPhone App
+## 34. Help w/ iPhone App
 
 **Author:** LuminaryLawns (Contributor 2)
 **Posted:** 2025-02-27
@@ -1100,7 +1151,7 @@ to jade I appreciate the . Now I'm stuck w/ a bubble that says 2 haha, I'll call
 
 ---
 
-## 33. Client hub options
+## 35. Client hub options
 
 **Author:** Joeltricitypool (Contributor 2)
 **Posted:** 2025-02-27
@@ -1129,7 +1180,7 @@ Thank you!
 
 ---
 
-## 34. Automatically upload files and text to clients profiles?
+## 36. Automatically upload files and text to clients profiles?
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-02-27
@@ -1186,7 +1237,7 @@ Yes, I built something similar using the API last year and I'm putting it out on
 
 ---
 
-## 35. Archive Properties
+## 37. Archive Properties
 
 **Author:** Mullins (Contributor 2)
 **Posted:** 2025-02-27

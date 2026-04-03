@@ -1,14 +1,130 @@
 # Jobber Community Forum - Quoting
 
-Total Discussions: 32
+Total Discussions: 36
 
 ---
 
-## 1. How can I mark quotes as declined and track cancellation reasons in Jobber?
+## 1. Client Communications
+
+**Author:** JHTS (Contributor 3)
+**Posted:** 2026-03-19
+**Views:** 41 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/quoting/client-communications/9566
+
+### Content
+
+I would to see space to log our own client communications - not in notes! For example, when we chase quote, we sometimes email but other times we call the client. Unfortunately there is no where to log that they were called including date and time unless i put it in the notes on the quote. Or the notes on client page, which then does not include the items sent via Jobber. It would be handy to have a communications area that we could add communications too that also included the quote number to so we could search and see only communications related to that particular quote. This feature would be particularly handy when dealing with property managers who have 10 sites in quote stage. BETTER SALES PIPELINE WORK SMARTER
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** krista
+**Posted:** 2026-03-24
+
+Hi JHTS​, Thanks for sharing this, I can definitely see how that would be helpful, especially when you’re managing multiple quotes for the same client. Have you tried using custom fields for this? For example, you could add something a “last communication” field on the quote or client to help track outreach at a glance. I’m also curious to learn a bit more about your workflow, what’s not working for you with using notes today? Is it more about visibility, searchability, or tying communications specifically to a quote? Understanding that piece a bit better would really help us think through the best way to support this.
+
+#### Reply 2
+
+**Author:** JHTS
+**Posted:** 2026-03-27
+
+to krista Notes are great for some things - our Team Notes and Surveyor Notes (which would be fantastic in form format - but hey already mentioned that before) When Chasing quotes - putting in custom fields against a client when they have lots of different sites, could work but only if it is attached to each quote as I said we can have a client with 15 sites all with there own property management companies and 10 of them have quotes in different stages, so would have to work out which info is for which quote. I would a simple communication capture per quote - so we can see when calls have been made and emails sent etc. This would help with both visibility and tying communications to a quote rather than a client. It would also mean that when I am away from my desk, my boss can see where we are at with all the quotes - rather than having to wait for me to return and vice versa. Also only team notes make it to jobs, so I would have to ensure those notes don't make it to the teams in the field as they do not need to know anything about the office side. Overall Jobber is a great site, but just little tweaks that would help massively.
+
+#### Reply 3
+
+**Author:** PhilP
+**Posted:** 2026-03-27
+
+I would love to have a living document, kind of a message board that customers and myself could share, we could brainstorm, share notes between several managers on site and myself(I mostly service commercial properties that are large with various supervisors.)
+
+---
+
+## 2. Quotes Deleting
+
+**Author:** NormaF (Contributor 2)
+**Posted:** 2026-03-25
+**Views:** 20 | **Likes:** 0 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/quoting/quotes-deleting/9698
+
+### Content
+
+Has anyone experienced quotes deleting mid-way through the creation process? It keeps happening to one of my estimators. He'll be typing a quote and before he finished the entire thing, it just disappears. He's tried saving after each line item is entered, but it still periodically happens. We've updated the app and the IOS, which seems to help for a day or two, but then the glitch starts up again. Just trying to narrow it down to an app problem or a device problem. TIA!
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** CanopyPartners
+**Posted:** 2026-03-25
+
+I have had it happen once but i can't remember why nor can i recreate it (a good thing). I would recommend the next time it happens to him he keeps track of exactly what he was doing that triggered it. Perhaps there is some bug with a certain step that triggers a quote to disappear i believe it may have been with previewing the quote before it was completed but wasn't saved and when you wanted to back out to go back to the quote you clicked the wrong thing "x-ing out a window" by accident or something similar causing it to cancel the quote rather than go back into it to continue working. I would recommend saving before previewing if you are still working on it.
+
+#### Reply 2
+
+**Author:** jade
+**Posted:** 2026-03-26
+
+Hey Norma! I am sorry to hear that your technician is having issues while quoting. It sounds you have done the correct troubleshooting steps, including deleting and updating the app. If this is continuing, I recommend that the technician reach out to our Success Team, so they can troubleshoot further! You can reach out to the Success Team by phone 888-721-1115 ext 1 or email mailto:support@getjobber.com to get started!
+
+---
+
+## 3. Optional Items in quote PDFs look weird?
+
+**Author:** cwininger (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 29 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/quoting/optional-items-in-quote-pdfs-look-weird/9574
+
+### Content
+
+Why are optional items displayed in this grayed out, muted way on the PDF version of quotes? Non-optional items are dark text with a white background and are really easy to read. I can't think of a sensible reason that optional items wouldn't also be easy to read... Does anyone else think this is weird?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** krista
+**Posted:** 2026-03-24
+
+Hi cwininger​, That’s a really fair callout, and I can definitely see how that would feel a bit odd from a readability standpoint. The intent behind the muted styling is to visually differentiate optional items from standard line items, so customers can quickly understand what’s included versus what’s additional or selectable. That said, I hear your point that if it becomes harder to read, it may be working against that goal. Usability and clarity should definitely come first. I’d be happy to pass this feedback along to the team. Out of curiosity, have you had any customer feedback on this as well, or is this more from your internal review? Also, how are the PDFs used in your workflow? The more understanding of the use case, the better our team can improve the experience.
+
+---
+
+## 4. How to change the quantity of optional line items in a Jobber quote?
+
+**Author:** threerelectric (Contributor 2)
+**Posted:** 2026-03-12
+**Views:** 48 | **Likes:** 0 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/quoting/how-to-change-the-quantity-of-optional-line-items-in-a-jobber-quote/9341
+
+### Content
+
+On the optional line items is there any way to make them so that the customer can change quantity. So for instance we are a electrical contractor and as an option they could add dimmers but that is something they would pick the quantity to so I would put qty. as 1 and they could change it. BEST QUOTING CONSTRUCTION ELECTRICAL CONTRACTING GENERAL CONTRACTING OPTIONAL LINE ITEMS QUOTE OPTIONS
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** Roger
+**Posted:** 2026-03-12
+
+No — customers cannot change the quantity of optional line items in a quote in Jobber. Optional line items allow customers to turn the option on or off, but the quantity itself cannot be edited by the customer. The quantity must be set by you when creating the quote. However, there are a few practical workarounds contractors use. Workaround (Most Common) Create multiple optional items with different quantities. Example: Optional items: Dimmer Switch – Qty 1 Dimmer Switch – Qty 2 Dimmer Switch – Qty 3 Dimmer Switch – Qty 4 Customers simply select the quantity option they want. This works well for items where the quantity range is predictable.
+
+#### Reply 2
+
+**Author:** krista
+**Posted:** 2026-03-14
+
+Great workaround, Roger​ . Thanks for sharing that approach with the community, it is a really helpful way to handle quantity options when building quotes. Let us know if you have any other questions threerelectric​
+
+---
+
+## 5. How can I mark quotes as declined and track cancellation reasons in Jobber?
 
 **Author:** BlueSkies (Contributor 3)
-**Posted:** 2026-02-15
-**Views:** 63 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-03-02
+**Views:** 99 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/quoting/how-can-i-mark-quotes-as-declined-and-track-cancellation-reasons-in-jobber/8725
 
 ### Content
@@ -20,38 +136,38 @@ There may be a solution so let me know. Short version: send out a quote. custome
 #### Reply 1
 
 **Author:** tbarth
-**Posted:** 2026-02-18
+**Posted:** 2026-03-02
 
 For declines, manually adding it to the quote name so it shows up under the quote number (god forbid the they each have their own columns) and a note in the quote for the reason is all I can think of. The closer you look at some of the core features, the more limited you realize they are. These are all good examples of that. Considering the product is over 15 years old, one gets the feeling that expanding the basic features is not a priority.
 
 #### Reply 2
 
 **Author:** BlueSkies
-**Posted:** 2026-02-19
+**Posted:** 2026-03-02
 
 to tbarth Very much so. I came from yardbook. I liked the ability to put picture lines in the quotes. the client hub and two way texting in the app so everything was together. (the dashboard is nice as it automated the sales process for me a bit as a solo guy). but for $300 (to get the texting and the campaigns which is basically mailchimp) its a high price to pay when i could get basically the I NEED THIS TO DO THE JOB features for around $100. it would create a bit more admin work, but seriously im considering it.
 
 #### Reply 3
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi everyone, This is really thoughtful feedback, especially around visibility, accountability, and tracking trends. Thank you for laying it out so clearly. For quotes specifically, have you tried archiving the quote once it has been declined? Archiving will remove it from your active workflow while still keeping it accessible for reporting and history. Some teams use this as their “declined” workflow step. To track the reason, you could also use custom fields on quotes to capture decline reasons such as price, competitor, timing, or DIY. That way, you can standardize the options now and have clean data when office staff come on board. The same approach can work for jobs, adding a required custom field for cancellation reason so that nothing gets closed out without context. While it may not be as automated as a dedicated decline or cancellation status with forced reason codes, this workflow can still give you visibility and accountability across your team. That said, we completely hear the larger point around wanting clearer declined and canceled states built into the core workflow. This is valuable feedback. We would genuinely love the opportunity to help you get the most value out of your Jobber subscription. If you are open to it, our team would be happy to connect and walk through your current setup to see how we can streamline things or recommend configurations that better fit how you operate. If you would to chat, feel free to reach out to Support and we can set something up. We want to make sure Jobber is supporting your business, not creating friction.
 
 #### Reply 4
 
 **Author:** tbarth
-**Posted:** 2026-02-21
+**Posted:** 2026-03-02
 
 to krista Well, mine was kind of grumpy. I'll do better. The custom field is absolutely the correct way to track the reason for a decline; I'd forgotten about those! Adding a new status would not be trivial as company resources go. Database schema, logic, reporting, automations, integrations, mobile, analytics, etc. Seems simple from the front end, but it would be a significant to-do list on the back end. Still though, it would be a great feature and makes sense that it would be there as a standard status option.
 
 ---
 
-## 2. Quotes can be the wrong tool. Estimates avoid disputes, protect margins, and elevate professionalism
+## 6. Quotes can be the wrong tool. Estimates avoid disputes, protect margins, and elevate professionalism
 
 **Author:** tbarth (Contributor 3)
-**Posted:** 2026-02-19
-**Views:** 54 | **Likes:** 2 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 75 | **Likes:** 2 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/quotes-can-be-the-wrong-tool-estimates-avoid-disputes-protect-margins-and-elevat/8795
 
 ### Content
@@ -63,24 +179,24 @@ Quotes and Estimates are fundamentally different, and not having both options is
 #### Reply 1
 
 **Author:** SomosOrganic
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Yes to this! Give me both a quote and estimate functioin
 
 #### Reply 2
 
 **Author:** tbarth
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 I missed a big thing: They would also have to update the back end to reflect the choice in the client portal and on PDF's. All doable, but definitely more work that the front end.
 
 ---
 
-## 3. New to Jobber, Quotes including pictures worth it?
+## 7. New to Jobber, Quotes including pictures worth it?
 
 **Author:** Angel-ProKutz (Contributor 2)
-**Posted:** 2026-02-15
-**Views:** 42 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 68 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/new-to-jobber-quotes-including-pictures-worth-it/8723
 
 ### Content
@@ -92,24 +208,24 @@ Hey guys, I wanted to hear your thoughts on jobber quotes not including pictures
 #### Reply 1
 
 **Author:** BlueSkies
-**Posted:** 2026-02-15
+**Posted:** 2026-03-02
 
 depends on what your doing with it. Can be. Visuals do help sell the job at times. I do christmas lights, and switched to jobber just to be able to put pictures in the quote. I despise that its behind a second level pay wall....as is most everything here. and it isn't even an al a carte option to pick just it. there are a lot of features i don't need or care for but need 1 thing out of the next level...sorry im ranting. For me the pictures helped sell christmas light jobs.
 
 #### Reply 2
 
 **Author:** HUGEHandyman
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 I have the most built out version of jobber and use pretty much every feature. I'd say you can probably get around it if that extra package is too much of a stretch for you but you'll find the more features you use, the more it will benefit you. I have templates set up for each trade, preload pictures in there so each time I bid on something they can see pictures of other times I did that thing they just got a bid on. Helps build authenticity. Do I know tangibly how beneficial it is? No - but if you have the budget for it please do it. You'll thank me later.
 
 ---
 
-## 4. Request for Quote building using hidden subtotals
+## 8. Request for Quote building using hidden subtotals
 
 **Author:** danjhu (Contributor 2)
-**Posted:** 2025-12-09
-**Views:** 126 | **Likes:** 3 | **Comments:** 4
+**Posted:** 2026-01-02
+**Views:** 149 | **Likes:** 3 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/quoting/request-for-quote-building-using-hidden-subtotals/7737
 
 ### Content
@@ -120,39 +236,39 @@ As a handyman/general contractor, I only base my quotes per job/task and not tim
 
 #### Reply 1
 
-**Author:** jade
-**Posted:** 2025-12-09
+**Author:** Shredder1212
+**Posted:** 2026-02-02
 
-Hey there! Thanks for the question. I have some recommendations that may be useful for you here! The first would be to change your client document settings, so that you can hide the unit prices on quotes. We also have the Job Costing feature, available on the Grow and Plus plans. This feature is on the job level rather than the quote level, but it is very useful for calculating labor, profit margins, and expenses. I understand that you are hoping to have a sub-line item feature on the Quote, and I have passed along this feedback to our Product Development team.
+Adding this to the job quote would be the greatest change they have done to the software. Further more if the labor total inputted was calculated in the job cost at the bottom where it generate the profit total that would be great. Would allow for easy digestion of data in terms of calculating job profitability. Currently jobber displays profit as Job cost - Material costs. Which is giving an incorrect display of actual profit. Only work around to have a real profitability percentage would be displaying labor rate as a line item, which then causes issues with clients. Best outcome: Example: Material cost = X Labor rate cost=X Profitability= X-Material cost+ Labor rate Hours tracked on job by signing in would furthermore help determine actual profitability. Also given if labor rate was able to be inputted such as material costs are such as: Example: Actual labor cost with overhead = $25 Labor with markup = X This would make jobber outperform all other sources of job estimating and profitability tracking. I've been reaching out to them for a year begging them to do this, clearly they don't care/don't have enough people asking for this to make a simple change.
 
 #### Reply 2
 
-**Author:** MrElectro
-**Posted:** 2026-02-09
+**Author:** jade
+**Posted:** 2026-01-02
 
-Yes I build quotes to get the total in jobber and then delete lines items before sending
+Hey there! Thanks for the question. I have some recommendations that may be useful for you here! The first would be to change your client document settings, so that you can hide the unit prices on quotes. We also have the Job Costing feature, available on the Grow and Plus plans. This feature is on the job level rather than the quote level, but it is very useful for calculating labor, profit margins, and expenses. I understand that you are hoping to have a sub-line item feature on the Quote, and I have passed along this feedback to our Product Development team.
 
 #### Reply 3
 
-**Author:** Shredder1212
-**Posted:** 2026-02-09
+**Author:** MrElectro
+**Posted:** 2026-02-02
 
-Adding this to the job quote would be the greatest change they have done to the software. Further more if the labor total inputted was calculated in the job cost at the bottom where it generate the profit total that would be great. Would allow for easy digestion of data in terms of calculating job profitability. Currently jobber displays profit as Job cost - Material costs. Which is giving an incorrect display of actual profit. Only work around to have a real profitability percentage would be displaying labor rate as a line item, which then causes issues with clients. Best outcome: Example: Material cost = X Labor rate cost=X Profitability= X-Material cost+ Labor rate Hours tracked on job by signing in would furthermore help determine actual profitability. Also given if labor rate was able to be inputted such as material costs are such as: Example: Actual labor cost with overhead = $25 Labor with markup = X This would make jobber outperform all other sources of job estimating and profitability tracking. I've been reaching out to them for a year begging them to do this, clearly they don't care/don't have enough people asking for this to make a simple change.
+Yes I build quotes to get the total in jobber and then delete lines items before sending
 
 #### Reply 4
 
 **Author:** Janine
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 The customer can’t see your line item costs you can when you create the quote. If you want the unit totals and price per unit values hidden that is possible in the PDF settings. You can have it show just the line totals and hide the math behind it.
 
 ---
 
-## 5. How do locksmith businesses handle vehicle key pricing with hundreds of SKUs? What's your quoting strategy?
+## 9. How do locksmith businesses handle vehicle key pricing with hundreds of SKUs? What's your quoting strategy?
 
 **Author:** Brandin (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 67 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 87 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/how-do-locksmith-businesses-handle-vehicle-key-pricing-with-hundreds-of-skus-wha/8564
 
 ### Content
@@ -164,24 +280,24 @@ Hello, I run a locksmith company and Jobber has been fantastic beyond descriptio
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 This is a very niche issue you're having, I can't think of any other trade that would have that many different sale items to offer to a customer. Most of us I would say are selling 5-10 services and maybe the same amount of sellable items. The only thing that comes to mind would be to find a price that would average out your sales. If one key costs $300 and another is $100, could you not just sell both to a client for $200? This would take a lot of backend work to find a good average price, but with this issue that is the only thing that comes to mind.
 
 #### Reply 2
 
 **Author:** Brandin
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Thanks. It is a niche. I'm hoping the hive mind may have some ideas I hadn't thought of. The problem we run into with average or flat rate pricing on these is the competition. Sure I could offer them all for 200 but then all the people needing the 100 key will go to a competitor and all the people needing the 300 key will come to me instead of them and I just end up making low margin, hard work keys. In our industry, the norm is for people to call several locksmith and the dealership to get prices so it gets very competitive. Add in that there is no licensing, people pushing garbage parts for cheap on facebook, backyard mechanics, and customers not having a budget for a new key, and it gets very price competitive. I wanted to try maybe doing the labor portion of the job as a flat rate so the only variable cost is the hardware but I would still need a way to deal with the hardware.
 
 ---
 
-## 6. Sections in Quotes
+## 10. Sections in Quotes
 
 **Author:** GreenbuiltCo (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 91 | **Likes:** 3 | **Comments:** 3
+**Posted:** 2026-02-02
+**Views:** 115 | **Likes:** 3 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/quoting/sections-in-quotes/8160
 
 ### Content
@@ -193,31 +309,31 @@ We love Jobber and generally have few complaints. However, one big update that w
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Hi GreenbuiltCo​ Thanks so much for sharing this feedback, and we’re glad to hear you’re enjoying Jobber overall. I wanted to let you know that Jobber does offer quote sections, which allow you to group line items together, move entire sections at once, and reorganize estimates much more efficiently. This feature is available on specific plans, and it also comes with additional quoting tools that can help speed up editing and improve clarity for your clients. We also appreciate your feedback on the newer line-item format. Input this is really helpful as we continue refining the quoting experience. Thanks again for taking the time to post and for being part of the Jobber community.
 
 #### Reply 2
 
 **Author:** smpelectric
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 to krista I think they are talking about bundling/grouping as apposed to "quote sections" that you referenced. Bundling items is needed, and has been needed for years. Jobber also needs to cut down on how few items and details you can visually see when building quotes, too much wasted space.
 
 #### Reply 3
 
 **Author:** JHTS
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Also it would be good if when changing a quote to pdf it includes all data not just some of it as the list in a section is too long...so lets just leave it out. I deal with a lot of property managers who have to send the quotes to the landowners and use pdf version all the time, but when have the quote it missing as it has been done in one section then they miss half the information and think only half the works are going to be completed. I have had this issue several times now, especially if they have lots of trees on a site that need the works doing at the same time. Nightmare! You will only notice if you compare the pdf with the actual quote. I have mentioned this to support - and they say to break down the quote into smaller sections....err no, that is not how we do it.
 
 ---
 
-## 7. Optional Line Items
+## 11. Optional Line Items
 
 **Author:** DeckDetail (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 49 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-02-02
+**Views:** 64 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/optional-line-items/8405
 
 ### Content
@@ -229,17 +345,17 @@ It seems that optional line items are no longer marked as optional on the quotes
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Hi DeckDetail​ Thanks for flagging this, I can see how that change would be confusing for customers at first. Optional line items are now shown with a checkbox rather than being explicitly labeled as “optional” on the quote. The intent is to make it clearer that customers can actively choose which items they want included, but we understand that without the label, it can require additional explanation on your end. I’ll make sure this feedback is shared with the product team. Clarity on quotes is really important, especially when customers are making decisions on their own. In the meantime, some customers find it helpful to add an item description explaining that checked items will be included; descriptors such as 'premium' or 'gold standard' are often used in this regard. Thanks again for taking the time to share your experience. Feedback this helps guide future improvements.
 
 ---
 
-## 8. Templates with Attachments, Images, and Reviews
+## 12. Templates with Attachments, Images, and Reviews
 
 **Author:** TheRealJIMCLORE (Contributor 2)
-**Posted:** 2025-12-09
-**Views:** 27 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2025-12-02
+**Views:** 30 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/templates-with-attachments-images-and-reviews/7718
 
 ### Content
@@ -257,11 +373,11 @@ No Replies Be the first to
 
 ---
 
-## 9. can't open quotes
+## 13. can't open quotes
 
 **Author:** dubs1son (Contributor 2)
-**Posted:** 2025-10-09
-**Views:** 43 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-10-02
+**Views:** 49 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/cant-open-quotes/6190
 
 ### Content
@@ -273,17 +389,17 @@ I get an error message and the screen keeps blinking white anyone else having th
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2025-12-09
+**Posted:** 2025-12-02
 
 I haven't seen this issue on my end, but I have had nothing but a good experience with the Jobber Support. I hope this has been resolved by now, but if not reaching out to support is always quick and easy.
 
 ---
 
-## 10. Jobber AI Quote... linked to ChatGPT?
+## 14. Jobber AI Quote... linked to ChatGPT?
 
 **Author:** Conrad (Contributor 4)
-**Posted:** 2025-11-09
-**Views:** 47 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-12-02
+**Views:** 58 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/jobber-ai-quote-linked-to-chatgpt/7465
 
 ### Content
@@ -295,17 +411,17 @@ Hi all, Recently I started using ChatGPT for help quoting irrigation installs. I
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-11-09
+**Posted:** 2025-12-02
 
 Hi Conrad​ Thanks for reaching out and for sharing what happened, that does sound unusual! Just so we can better understand what might be going on, could you clarify what tool or workflow you were using to generate the quote in Jobber when this happened? For example, were you using Jobber AI from the top right of getjobber.com? Once we know a bit more about how the quote was created, we’ll be able to take a closer look at what might have caused the irrigation details to appear.
 
 ---
 
-## 11. Quote emails going to spam
+## 15. Quote emails going to spam
 
 **Author:** ShawnMarie (Contributor 2)
-**Posted:** 2025-11-27
-**Views:** 68 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2025-11-02
+**Views:** 99 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/quote-emails-going-to-spam/7417
 
 ### Content
@@ -316,25 +432,25 @@ We are having a challenge lately with quotes from jobber ending up in our custom
 
 #### Reply 1
 
-**Author:** BrandenSewell
-**Posted:** 2025-11-27
-
-julie​ such great insight. We also require all of our bids to be sent by email and text. We find that the open rate on text messages tends to be higher than email. We have a habit of sending it both ways, then verifying that the customer received it.
-
-#### Reply 2
-
 **Author:** julie
-**Posted:** 2025-11-27
+**Posted:** 2025-11-02
 
 JOBBER COMMUNITY TEAM Hey ShawnMarie, welcome to the Home Service Community! And thanks for asking this question. To avoid having your Jobber emails going to your customer's spam inbox, have them add the Jobber emails to their email contacts. Sometimes emails can go to your client’s spam or junk folder. In order to prevent that from happening, your clients can let their email provider (e.g., Gmail) know these emails are safe by adding them as a contact. Here is a handy guide on how to add an email address as a contact across a variety of email providers. This practice is also known as "whitelisting"! An additional tip is to watch out for keywords that sound spam. If your email sounds spammy, there's a chance it could be marked as spam or the recipient’s email server could filter it. Email providers are starting to analyze the context of emails and there are certain keywords to watch out for that are frequently used in spam emails, such as "reward", "earn", and "sale". Here is a related Help Article for more details. If you have any follow-up questions, our Success Team is just a phone call (1-888-721-1115) or chat message away!
 
+#### Reply 2
+
+**Author:** BrandenSewell
+**Posted:** 2025-12-02
+
+julie​ such great insight. We also require all of our bids to be sent by email and text. We find that the open rate on text messages tends to be higher than email. We have a habit of sending it both ways, then verifying that the customer received it.
+
 ---
 
-## 12. Request: Include Cost Entry in Quotes to Calculate Estimated Profit
+## 16. Request: Include Cost Entry in Quotes to Calculate Estimated Profit
 
 **Author:** Kevin_G (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 56 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2025-11-02
+**Views:** 78 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/request-include-cost-entry-in-quotes-to-calculate-estimated-profit/7355
 
 ### Content
@@ -345,96 +461,96 @@ When converting a request into a job or creating a job directly, there’s an op
 
 #### Reply 1
 
-**Author:** krista
-**Posted:** 2025-10-27
-
-hi Kevin_G​ Thanks for the question. You should be able to add costs to your quotes in Jobber! When editing a quote, click on the Unit Price for a line item, then select Add Costs. From there, you can enter your material, labor, or other costs to see your estimated profit before sending the quote. You can find more details in this help article: Markups on Quotes. Hope that helps!
-
-#### Reply 2
-
 **Author:** Kevin_G
-**Posted:** 2025-10-27
+**Posted:** 2025-11-02
 
 This is what it looks when creating a quote: This is when creating a job:
 
+#### Reply 2
+
+**Author:** krista
+**Posted:** 2025-11-02
+
+hi Kevin_G​ Thanks for the question. You should be able to add costs to your quotes in Jobber! When editing a quote, click on the Unit Price for a line item, then select Add Costs. From there, you can enter your material, labor, or other costs to see your estimated profit before sending the quote. You can find more details in this help article: Markups on Quotes. Hope that helps!
+
 ---
 
-## 13. PLEASE add a kit function
+## 17. PLEASE add a kit function
 
 **Author:** Pelectric (Contributor 2)
-**Posted:** 2025-08-27
-**Views:** 155 | **Likes:** 2 | **Comments:** 8
+**Posted:** 2025-09-02
+**Views:** 204 | **Likes:** 2 | **Comments:** 8
 **URL:** https://community.getjobber.com/discussions/quoting/please-add-a-kit-function/5407
 
 ### Content
 
-Even the bottom of the barrel CRM that I'm currently using has a robust kit function. Create products with fully editable costs and quantities, then add those products to a kit (in this case, what a "service" should be). Once a kit is entered into a quote, individual products are hidden from the customer, but fully editable when creating the quote. As it is now, I have no idea what the difference between a "product" and a "service" are. They both have the same info (name, description, cost, etc). You should just be able to group products to form services. If i have a product of "labor" and a product of "receptacle". I should then be able to create a service of "Replace Receptacle". That service would consist of my labor product, and my receptacle product. Both with quantities and costs that I could edit when creating a quote. Since not all receptacles are the same, and my customer doesnt care whether its a duplex or a decor, being able to edit the cost of that receptacle, straight from the kit during quote creation, would be amazing. ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH OPTIONAL LINE ITEMS PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES WORK SMARTER jade 5 months ago Thank you everyone for the feedback here, this has been submitted to our Product Development team! Markheiks​ I appreciate the context given, if you require your team to add in the details of each line item but want to limit what the client can see in terms of pricing etc. I do recommend changing your Client Document settings. If you have any questions or more feedback on this, please give our Success Team a call - 888-721-1115 ext 1.
+Even the bottom of the barrel CRM that I'm currently using has a robust kit function. Create products with fully editable costs and quantities, then add those products to a kit (in this case, what a "service" should be). Once a kit is entered into a quote, individual products are hidden from the customer, but fully editable when creating the quote. As it is now, I have no idea what the difference between a "product" and a "service" are. They both have the same info (name, description, cost, etc). You should just be able to group products to form services. If i have a product of "labor" and a product of "receptacle". I should then be able to create a service of "Replace Receptacle". That service would consist of my labor product, and my receptacle product. Both with quantities and costs that I could edit when creating a quote. Since not all receptacles are the same, and my customer doesnt care whether its a duplex or a decor, being able to edit the cost of that receptacle, straight from the kit during quote creation, would be amazing. ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING HANDYMAN HVAC IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH OPTIONAL LINE ITEMS PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES WORK SMARTER jade 6 months ago Thank you everyone for the feedback here, this has been submitted to our Product Development team! Markheiks​ I appreciate the context given, if you require your team to add in the details of each line item but want to limit what the client can see in terms of pricing etc. I do recommend changing your Client Document settings. If you have any questions or more feedback on this, please give our Success Team a call - 888-721-1115 ext 1.
 
 ### Replies (8)
 
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-10-27
+**Posted:** 2025-09-02
 
-Hi Rod222​ Thanks so much for taking the time to share your thoughts — we really appreciate you adding your perspective as someone new to Jobber. We understand how valuable a kit or bundled product feature would be for building out quotes more efficiently, and we can absolutely see how that would streamline your workflow. At this time, Jobber doesn’t have a way to group products and services in that way, but this kind of feedback is incredibly helpful for our product team as they evaluate future updates. Thanks again for taking the time to share your experience and suggestions!
+Hi Pelectric​ Thanks so much for sharing this detailed feedback—it’s incredibly helpful! I totally understand how important it is to be able to group line items ( labor and materials) into a single service, with the flexibility to adjust internal pricing behind the scenes while keeping things simple and clear for the customer.
 
 #### Reply 2
 
-**Author:** Rod222
-**Posted:** 2025-10-27
+**Author:** RedRiverFenceOK
+**Posted:** 2025-09-02
 
-I am just starting with Jobber and have found the lack of this option to be extremely disappointing. I really thought this would have been a standard feature. The rest of the service seems great but this is a huge negative. Looking forward to seeing this added! Hopefully very soon.
+I would love to see this in Jobber as well! It would make life so much easier.
 
 #### Reply 3
 
-**Author:** 
-**Posted:** 2025-10-27
-
-DeGrawElectric
-
-#### Reply 4
-
-**Author:** jade
-**Posted:** 2025-09-27
-
-Thank you everyone for the feedback here, this has been submitted to our Product Development team! Markheiks​ I appreciate the context given, if you require your team to add in the details of each line item but want to limit what the client can see in terms of pricing etc. I do recommend changing your Client Document settings. If you have any questions or more feedback on this, please give our Success Team a call - 888-721-1115 ext 1.
-
-#### Reply 5
-
-**Author:** Markheiks
-**Posted:** 2025-09-27
-
-Agree with Above comments. I want to do my detailed estimates, but not show all the detail to the customer. They get bogged down with all the details and want more of a "bottom line me" approach. However, a job on my end requires alot of small material input. I also want to be able to keep the customer from seeing my pricing and getting into the "i can get that from Amazon for less" argument. Also. my team is not a group of skilled estimators and need to put the parts in one by one. I don't want the customer to see all the detail. Your competitors (not to mention any names but Field Pulse) have this mastered. Tempting to jump! just sayin'
-
-#### Reply 6
-
 **Author:** JesseChimneys
-**Posted:** 2025-08-27
+**Posted:** 2025-09-02
 
 I would to see a modifiable kit that the materials list is only viewable from the back end, we not providing a material list with the quote to stop customer shopping at competition after we have put in the time and done a site visit.
 
+#### Reply 4
+
+**Author:** Markheiks
+**Posted:** 2025-10-02
+
+Agree with Above comments. I want to do my detailed estimates, but not show all the detail to the customer. They get bogged down with all the details and want more of a "bottom line me" approach. However, a job on my end requires alot of small material input. I also want to be able to keep the customer from seeing my pricing and getting into the "i can get that from Amazon for less" argument. Also. my team is not a group of skilled estimators and need to put the parts in one by one. I don't want the customer to see all the detail. Your competitors (not to mention any names but Field Pulse) have this mastered. Tempting to jump! just sayin'
+
+#### Reply 5
+
+**Author:** 
+**Posted:** 2025-11-02
+
+DeGrawElectric
+
+#### Reply 6
+
+**Author:** jade
+**Posted:** 2025-10-02
+
+Thank you everyone for the feedback here, this has been submitted to our Product Development team! Markheiks​ I appreciate the context given, if you require your team to add in the details of each line item but want to limit what the client can see in terms of pricing etc. I do recommend changing your Client Document settings. If you have any questions or more feedback on this, please give our Success Team a call - 888-721-1115 ext 1.
+
 #### Reply 7
 
-**Author:** RedRiverFenceOK
-**Posted:** 2025-08-27
+**Author:** Rod222
+**Posted:** 2025-11-02
 
-I would love to see this in Jobber as well! It would make life so much easier.
+I am just starting with Jobber and have found the lack of this option to be extremely disappointing. I really thought this would have been a standard feature. The rest of the service seems great but this is a huge negative. Looking forward to seeing this added! Hopefully very soon.
 
 #### Reply 8
 
 **Author:** krista
-**Posted:** 2025-08-27
+**Posted:** 2025-11-02
 
-Hi Pelectric​ Thanks so much for sharing this detailed feedback—it’s incredibly helpful! I totally understand how important it is to be able to group line items ( labor and materials) into a single service, with the flexibility to adjust internal pricing behind the scenes while keeping things simple and clear for the customer.
+Hi Rod222​ Thanks so much for taking the time to share your thoughts — we really appreciate you adding your perspective as someone new to Jobber. We understand how valuable a kit or bundled product feature would be for building out quotes more efficiently, and we can absolutely see how that would streamline your workflow. At this time, Jobber doesn’t have a way to group products and services in that way, but this kind of feedback is incredibly helpful for our product team as they evaluate future updates. Thanks again for taking the time to share your experience and suggestions!
 
 ---
 
-## 14. Add Category & Subcategory Structure to Pricebook Items for Faster Field Quoting
+## 18. Add Category & Subcategory Structure to Pricebook Items for Faster Field Quoting
 
 **Author:** SparksFly (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 133 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2025-11-02
+**Views:** 181 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/quoting/add-category--subcategory-structure-to-pricebook-items-for-faster-field-quoting/7231
 
 ### Content
@@ -445,25 +561,25 @@ We’d love to see Jobber’s pricebook evolve to include Category and Subcatego
 
 #### Reply 1
 
-**Author:** krista
-**Posted:** 2025-10-27
-
-Hi SparksFly​ Thank you so much for taking the time to share this detailed feedback about adding category and subcategory options to Jobber’s pricebook. We really appreciate the thought and clarity you put into explaining how this improvement could help your team work more efficiently in the field. I’ve shared your feedback with our product team so they can review it as part of our ongoing efforts to enhance quoting and invoicing workflows. While I can’t guarantee if or when this specific change might be implemented, please know that insights yours play an important role in shaping how we improve Jobber. Thanks again for helping us make Jobber better for teams yours.
-
-#### Reply 2
-
 **Author:** julie
-**Posted:** 2025-10-27
+**Posted:** 2025-11-02
 
 JOBBER COMMUNITY TEAM Hey SparksFly! Thanks for sharing your detailed feedback on how this could better support your business. Just wanted to let you know our team is looking into this and will be in touch. Thanks for your patience!
 
+#### Reply 2
+
+**Author:** krista
+**Posted:** 2025-11-02
+
+Hi SparksFly​ Thank you so much for taking the time to share this detailed feedback about adding category and subcategory options to Jobber’s pricebook. We really appreciate the thought and clarity you put into explaining how this improvement could help your team work more efficiently in the field. I’ve shared your feedback with our product team so they can review it as part of our ongoing efforts to enhance quoting and invoicing workflows. While I can’t guarantee if or when this specific change might be implemented, please know that insights yours play an important role in shaping how we improve Jobber. Thanks again for helping us make Jobber better for teams yours.
+
 ---
 
-## 15. Separating products?
+## 19. Separating products?
 
 **Author:** AlexT (Contributor 2)
-**Posted:** 2025-10-27
-**Views:** 35 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-10-02
+**Views:** 42 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/separating-products/7127
 
 ### Content
@@ -475,17 +591,17 @@ Is there a way to organize our products nicely? We buy from many different vendo
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-10-27
+**Posted:** 2025-11-02
 
 Hey Alex! Thanks for the question. There are a few ways to organize your Products in Jobber. Since plans vary, I recommend getting in touch with our Success Team to find a way that works best for you! You can give them a call 888-721-1115 ext 1 or email mailto:support@getjobber.com. I also recommend checking out this help article so you can get started!
 
 ---
 
-## 16. Propsal Detail hiding
+## 20. Propsal Detail hiding
 
 **Author:** Markheiks (Contributor 2)
-**Posted:** 2025-09-27
-**Views:** 40 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2025-10-02
+**Views:** 64 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/quoting/propsal-detail-hiding/6615
 
 ### Content
@@ -497,13 +613,13 @@ is there a way to input all the line items for a quote/estimate/proposal but the
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-09-27
+**Posted:** 2025-10-02
 
 Hey Mark, great question! You have the option to hide the following items on a quote for the client's view: QTY Unit price on line items Total cost per line items Totals and tax in the footer To change these settings, go to the Gear icon > Settings > Business Profile > Client Document Settings. For more information on these settings, check out this help article.
 
 ---
 
-## 17. Declined Botton
+## 21. Declined Botton
 
 **Author:** CareEaseLawn (Contributor 2)
 **Posted:** 2025-04-27
@@ -546,7 +662,7 @@ to jade We would also our clients to have an option to decline a quote and offer
 
 ---
 
-## 18. Tiered Line Items/Products
+## 22. Tiered Line Items/Products
 
 **Author:** RedRiverFenceOK (Contributor 2)
 **Posted:** 2025-08-27
@@ -575,7 +691,7 @@ Hey Red River Fence OK! Thanks for the question. Depending on the outcome you ar
 
 ---
 
-## 19. Suggestion: Quotes / Invoices Sub Items for Main Line Item
+## 23. Suggestion: Quotes / Invoices Sub Items for Main Line Item
 
 **Author:** JThomas (Contributor 2)
 **Posted:** 2025-07-27
@@ -597,7 +713,7 @@ Hey J Thomas! Thanks for this feedback. I could see how having sub-items as a fe
 
 ---
 
-## 20. Feature Request: Group multiple line items into a single option
+## 24. Feature Request: Group multiple line items into a single option
 
 **Author:** DWPGINC (Contributor 2)
 **Posted:** 2025-07-27
@@ -610,7 +726,7 @@ All of our individual line items could stand alone as a billable service. But so
 
 ---
 
-## 21. to all the roofers using Jobber
+## 25. to all the roofers using Jobber
 
 **Author:** EvergreenTX (Contributor 2)
 **Posted:** 2025-06-27
@@ -632,7 +748,7 @@ No Replies Be the first to
 
 ---
 
-## 22. Automation
+## 26. Automation
 
 **Author:** Bly720 (Contributor 2)
 **Posted:** 2025-06-27
@@ -668,7 +784,7 @@ Use quote templates
 
 ---
 
-## 23. Change orders
+## 27. Change orders
 
 **Author:** GloriousAir (Contributor 2)
 **Posted:** 2025-02-27
@@ -725,7 +841,7 @@ to FredHodgeJr FredHodgeJr​ How does this allow the client to approve these ch
 
 ---
 
-## 24. Global Margins for quotes
+## 28. Global Margins for quotes
 
 **Author:** prestonzaharia (Contributor 2)
 **Posted:** 2025-04-27
@@ -747,7 +863,7 @@ Hey Preston Zaharia! Thanks for the question! If you want to adjust the markup/ 
 
 ---
 
-## 25. Maximizing Your Quotes: Jobber Tips for Accurate Pricing”
+## 29. Maximizing Your Quotes: Jobber Tips for Accurate Pricing”
 
 **Author:** Hwbdelivery (Contributor 2)
 **Posted:** 2025-04-27
@@ -769,7 +885,7 @@ I think one of the biggest things I learned, is that, not everyone wants our ser
 
 ---
 
-## 26. Line Item Taxes
+## 30. Line Item Taxes
 
 **Author:** LukeSalmonArm (Contributor 2)
 **Posted:** 2025-03-27
@@ -798,7 +914,7 @@ to krista Hi, We also are running into this same issue. Has it be looked into ye
 
 ---
 
-## 27. We Need a Catalog to Build Estimates 📗
+## 31. We Need a Catalog to Build Estimates 📗
 
 **Author:** Jessica-2025 (Contributor 2)
 **Posted:** 2025-02-27
@@ -848,7 +964,7 @@ Hello Jessica! We appreciate the feedback as it helps us to continue to improve,
 
 ---
 
-## 28. Duplicate Quote Templates
+## 32. Duplicate Quote Templates
 
 **Author:** TimS (Contributor 2)
 **Posted:** 2025-02-27
@@ -877,7 +993,7 @@ Hey Tim! Thank you for the question. We do not have a way to duplicate templates
 
 ---
 
-## 29. Problem with simple math within Jobber
+## 33. Problem with simple math within Jobber
 
 **Author:** Eric (Contributor 2)
 **Posted:** 2025-02-27
@@ -899,7 +1015,7 @@ Hey Eric! Thank you for your question. I’m sorry to hear you have been running
 
 ---
 
-## 30. New Quote Templates
+## 34. New Quote Templates
 
 **Author:** TNLM06 (Contributor 2)
 **Posted:** 2025-02-27
@@ -935,7 +1051,7 @@ JOBBER COMMUNITY TEAM Our Success Team is your best bet to help confirm what's p
 
 ---
 
-## 31. Quotes
+## 35. Quotes
 
 **Author:** NBurton (Contributor 2)
 **Posted:** 2025-02-27
@@ -948,7 +1064,7 @@ What is the best way to figure up a quote were you are far but still making a pr
 
 ---
 
-## 32. Changing quote midstream
+## 36. Changing quote midstream
 
 **Author:** RobertOwensHand (Contributor 2)
 **Posted:** 2025-02-27

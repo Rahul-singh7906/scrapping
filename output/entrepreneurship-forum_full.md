@@ -1,14 +1,1104 @@
 # Jobber Community Forum - Entrepreneurship Forum
 
-Total Discussions: 144
+Total Discussions: 159
 
 ---
 
-## 1. What was your favorite part and biggest takeway from the Jobber Summit?
+## 1. Weekly virtual networking
+
+**Author:** rebecca (Jobber Community Team)
+**Posted:** 2026-03-21
+**Views:** 144 | **Likes:** 1 | **Comments:** 11
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/weekly-virtual-networking/9633
+
+### Content
+
+JOBBER COMMUNITY TEAM We’re trying something new in the community! Starting March 17, we’re hosting a weekly 30-minute networking session for home service pros across all industries. Join one session or all four—no commitment. These will run once a week until April 7 while we pilot the idea. 👉 Link to join: https://meet.google.com/vmf-xjiw-iad 👈 The goal is simple: bring a challenge and get ideas from other pros. Format: • Quick intros • Everyone shares one challenge • Group feedback and ideas • Quick wrap-up 🕒 Tuesdays at 11:30 AM ET ⏱️ 30 minutes Interested? Comment below then we'll invite you and send you a reminder email with the link! COMMUNITY HITTING GOALS LEARNING FROM MISTAKES NETWORKING PROFESSIONAL DEVELOPMENT
+
+### Replies (11)
+
+#### Reply 1
+
+**Author:** FaithM
+**Posted:** 2026-03-22
+
+Ok I will fit it in , I have a meetings in Tuesday that start at 12:00 noon . I might need to depart 5 minutes beforehand.
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-03-24
+
+JOBBER COMMUNITY TEAM to FaithM Thank you for making the time! And no pressure to stay the whole session. Just sent you a reminder email as well 👋t
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2026-03-23
+
+BUILDER 1 I have added it to my calendar and will try to be there.
+
+#### Reply 4
+
+**Author:** julie
+**Posted:** 2026-03-24
+
+JOBBER COMMUNITY TEAM to judithvirag Wonderful! We'd love to have you, Judith.
+
+#### Reply 5
+
+**Author:** judithvirag
+**Posted:** 2026-03-25
+
+BUILDER 1 Great chat today. Thank you for the initiative.
+
+#### Reply 6
+
+**Author:** ogbcleaners
+**Posted:** 2026-03-29
+
+This sounds a great initiative, thanks for putting this together! I’d be interested in joining one of the sessions to connect with others in the industry and see how it goes. Thanks
+
+#### Reply 7
+
+**Author:** julie
+**Posted:** 2026-03-31
+
+JOBBER COMMUNITY TEAM to ogbcleaners Hi there! We sent you an invite and a Google Calendar event reminder for our networking event tomorrow. We hope you can make it!
+
+#### Reply 8
+
+**Author:** Janine_Chambers
+**Posted:** 2026-03-31
+
+to julie I am hoping to join tomorrow!
+
+#### Reply 9
+
+**Author:** rebecca
+**Posted:** 2026-04-01
+
+JOBBER COMMUNITY TEAM to Janine_Chambers Janine-Chambers​ I will add you to the invite for next Tuesday as well!
+
+#### Reply 10
+
+**Author:** aj7
+**Posted:** 2026-04-01
+
+NEW MEMBER interested for next week
+
+#### Reply 11
+
+**Author:** rebecca
+**Posted:** 2026-04-01
+
+JOBBER COMMUNITY TEAM to aj7 aj7​ Excellent! I'll add you to the invite.
+
+---
+
+## 2. To Market or to Not
+
+**Author:** Jamescantclimb (Contributor 2)
+**Posted:** 2026-03-30
+**Views:** 13 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/to-market-or-to-not/9827
+
+### Content
+
+Hi all! This is my first post, so I would to introduce myself before diving in. My name is James Benedetto, and I am an arborist and tree care company owner out of Columbus, Ohio. My company's name is Arborist Solutions, and we have been in business since May of 2019. We haven't quite eclipsed the $1 million mark yet, but we have come close. This post is not to tell you how to run your business; everyone's aspirations are different. In 2019, our dream was to become the best tree care company in the history of the world. By 2020, we realized that business isn't just about your own dream; it's about doing what clients and tree owners want. Then, around 2023, things clicked: we realized we can have our dream if we make it our clients' dream, too. So, how does this relate to marketing? Having a clear vision and picking your end goal will dictate what marketing, if any, you should do. If you are willing to do anything someone will pay for, you will want to market aggressively. But if you want to pick and choose the work you do, selective marketing, or even no marketing, might be the better route. As an arborist, winters get slow every year. However, this past winter, we kept a normal workload the entire season. It wasn't because of expensive Google Ads, flyers, or a lead machine. We stayed busy simply by using Jobber's Marketing Suite ($1,000/year) and relying on a strong clientele we've built trust with over the last few years. In fact, we haven't paid for any ads outside of Jobber since 2024. Right now, we are booking consultations (just the consultations, not even the work) into the first week of May. We help make our clients' dreams come true by aligning their goals with our own focus on tree preservation and health. This means we don't have to guess how our clients think because we educate them to think more us. If you just do whatever a client tells you to do, how can they rely on you for professional, honest advice? If you meet with a client who wants to preserve their trees at any cost, and then their neighbor hires you to clear-cut their lot, what does that do to your image? You can't work for everyone, and honestly, realizing that is the absolute best thing you can do for your business. So, if you want to grow to be the next Asplundh, market hard and do whatever pays. But if you want to be the expert in your field, pick a specialty and fly! BUSINESS ADVICE LEARNING FROM MISTAKES PROFESSIONAL DEVELOPMENT
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-03-31
+
+JOBBER COMMUNITY TEAM Hi James, welcome to the Home Service Community! 👋 And what a way to make a first post! The point about aligning your customer's goals with your own vision is one of the most underrated growth strategies out there. You're not just just doing tree care, you're educating your customers to think about it the right way. 🙌 Glad you're here!
+
+---
+
+## 3. When did you realize your business needed systems, and what did you implement first?
+
+**Author:** NJones (Contributor 3)
+**Posted:** 2026-03-27
+**Views:** 38 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/when-did-you-realize-your-business-needed-systems-and-what-did-you-implement-fir/9804
+
+### Content
+
+At what point did you realize your business needed systems instead of just hard work, and what was the first system you put in place? For me, it was when things started slipping even though we were working harder than ever. Jobs were getting missed, communication wasn’t as tight, and everything still depended on me being involved. That’s when it clicked that effort wasn’t the problem, structure was. The first system I really put in place was around job flow. Clear process from estimate to scheduling to execution, so the crew wasn’t guessing and I wasn’t constantly putting out fires. Once that was in place, everything started to run smoother and it took a lot of pressure off me. BUSINESS ADVICE LEARNING FROM MISTAKES
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2026-03-27
+
+BUILDER 1 I think when we started we all had our own system and we just built on it and expanded it as the business expanded. As for Jobber I signed up once I missed the second appointment with my customer as I was tracking it in Excel.
+
+---
+
+## 4. New business owner in South Florida – best way to get consistent cleaning clients?
+
+**Author:** IslandExpress (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 27 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/new-business-owner-in-south-florida-%E2%80%93-best-way-to-get-consistent-cleaning-client/9593
+
+### Content
+
+Hello everyone, My name is Robert, and I’m the owner of Island Express Auto & Cargo based in South Florida. I’m currently building out my service-based business, including residential cleaning, cargo/shipping, and notary services. Right now, my main focus is growing my cleaning side and getting consistent clients. I would appreciate any advice from experienced business owners here: What is the best way to get my first 5–10 consistent cleaning clients in South Florida? I’m open to all suggestions — marketing, partnerships, platforms, or strategies that actually work. Thank you in advance, I’m here to learn and grow. BUSINESS ADVICE NETWORKING
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-03-24
+
+Welcome to the cleaning industry, I’m obsessed! we do have the luxury of having low start-up costs to begin- we were established in 2016. Facebook and social media were huge in the beginning- neighborhood groups, resharing business posts to your personal, etc. as we began to grow, I realized we needed a Google My business profile- we began asking anyone we’ve cleaned for to leave us a review. We simultaneously built out a great website (that’s your online billboard!) at about 7 years in, we were projecting our first 7-figure year and knew we had to begin spending marketing dollars on Google ads, SEO, etc. coming up on year 10, we are projected to finish around $1.5-$1.6MM this year. SEO/AEO have helped us continue growing- we recently just began gaining conversions through Chat GPT. Best of luck to you!
+
+#### Reply 2
+
+**Author:** IslandExpress
+**Posted:** 2026-03-27
+
+to roselvaggio Thank you, I really appreciate you sharing that. That’s very helpful as I continue building and growing my business. Wishing you continued success as well.
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2026-03-27
+
+BUILDER 1 Welcome to the cleaning community. Here is another post that might help you.
+
+---
+
+## 5. No System = Great Stress. Great System = No Stress. "The E-Myth Revisited."
+
+**Author:** ZacRadcat (Contributor 2)
+**Posted:** 2026-03-26
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/no-system--great-stress-great-system--no-stress-the-e-myth-revisited-/9773
+
+### Content
+
+If you’ve ever felt your business only works when you’re working, The E-Myth Revisited by Michael E. Gerber, is going to hit you right between the eyes. Rarely have I read a business book that has captured me as totally as this one did. Below is a summery of the key lessons with a personal note at the end. I highly recommend you read the book for yourself. The core idea of this book is simple—and brutally honest: Most small businesses don’t fail because of bad ideas. They fail because the people running them are stuck working in the business instead of on it. Here’s the breakdown in plain English. The Big Lie: “If You Understand the Work, You Understand the Business” Most businesses are started by technicians. You’re good at something. We started by doing handyman work. You might be: Brewing coffee Cooking food Designing websites So naturally, you think: “I’ll start a business doing this.” That’s where the problem begins. Being good at the work does not mean you know how to build a business around that work. That’s the E-Myth (Entrepreneurial Myth)—and it’s one of the most game-changing truths in the book. The Three Roles Every Owner Must Balance Gerber says every business owner is actually three people: The Technician The doer. The one swinging the hammer, taking the calls, doing the work. The Manager The one who wants order, systems, schedules, and predictability. The Entrepreneur The visionary. Focused on growth, strategy, and the future. Most people are 80–90% technician. That’s why they get stuck. They build a job—not a business. Why Businesses Get Stuck Here’s what typically happens: You start strong. You get busy. You take on more work. You hire someone. Things get messy. Then one of two things happens: You shrink back down and jump back in to fix it Or you overhire, overspend, and create chaos until things break Now you’re buried—in work, debt, or both. The problem? You didn’t build a system. You built dependency on yourself. That’s the trap. The Shift That Changes Everything The turning point in the book is this idea: Build your business you’re going to franchise it—even if you never do. That means: Every task is documented Every process is repeatable Every role is clearly defined Every outcome is predictable Instead of asking: “How do I get this job done?” You ask: “How do I make sure this job gets done the same way every time—by anyone?” That’s a completely different mindset. Systems Beat Talent Gerber makes a strong point: Great businesses are not built on great people. They’re built on great systems that average people can follow. Look at McDonald’s. They’re not winning because they hire world-class chefs. They win because everything is systemized: How the burger is made How long it cooks How it’s wrapped How it’s delivered Consistency scales. Chaos doesn’t. Working On the Business vs In It This is the line most owners never cross. Working in the business: Doing the jobs Answering every call Solving every problem Working on the business: Designing systems Improving processes Training people Building structure If you don’t make this shift, your business will always feel heavy. The Real Goal The goal is not just to make money. The goal is to build something that works without you. A business that: Delivers consistent results Can grow without breaking Doesn’t rely on your daily effort Because if it only works when you’re there, it’s not a business. It’s a job—with overhead. The Takeaway If you want one sentence that sums up the entire book: Stop scaling your effort. Start scaling your systems. That’s the difference between: Being busy vs. being profitable Hiring people vs. leading a company Owning a job vs. owning a business Personal Story I came into Radical Handyman with a background in organizational development. I spent a decade working in a large non-profit and then several years with a small tree service company. Early on, I became obsessed with systems. Two ideas stuck with me: Your system determines your outcome. If your outcomes are bad, your systems need to change. Those became something of a mantra. I applied that in my personal life first. You see, I've struggled with my weight nearly my whole life. I would crash diet and work out till I puked and still I wasn't getting the outcomes I wanted. No System=Great Stress So I set a goal, and I rebuilt my life a system in order to hit that goal. I studied and used technology to track my progress. I got specific about what went into my body and what my body was doing. I built a diet and exercise system for myself—tracking everything, removing guesswork. The result? I hit my outcome. I lost 100 lbs. No kidding. The system provided the result. The best part is, once the system was in place, the mental load disappeared which helped me to stay consistent. I didn’t have to constantly think about what to do next—I just followed the system and tracked the results. Great System=No Stress. Does It Work in Business? In theory—100%. In practice—it’s harder. Our handyman company grew aggressively… and then stalled. We were on the edge of real problems. The issue? Systems. So the obvious answer is: “Just fix the systems.” But it’s not that simple. We have technicians who are electricians, carpenters, plumbers, and painters—all in one. They don’t just need to do great work. They also need to: Sell Communicate professionally Deliver a great customer experience How do you systemize that? How do you train that? Where We Are Now I don’t have all the answers. But I know those are the right questions. That’s the shift—from working in the business to working on it. As we’ve slowly built systems into our company, we’ve seen a real shift: More structure Less chaos Better performance We’re not at the point where the owners can walk away yet. But we’re moving in that direction. And the best part? Every system we implement: Reduces stress Increases consistency Grows the business—just a little more
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 6. Solo Roofer Rebuilding To Honor His Family
+
+**Author:** LyonsRoofingTN (Contributor 2)
+**Posted:** 2026-03-21
+**Views:** 11 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/solo-roofer-rebuilding-to-honor-his-family/9638
+
+### Content
+
+Solo roofer in Jasper TN. Fascia rebuilds, rafter fixes, and roofing work done right. I handle tile, metal, shingles, modified bit, TPO, or whatever the roof calls for. From a 200 dollar repair to a 90 square replacement, I build with pride. I’ve chose to reset in 2023, moved across the country, shifted everything to do right by my kids, and started fresh. It’s been a fight with hammer and flat bar, but I’m here. I’m building something known. Not big, but my own, and with pride. A legacy. To honor my family, and to offer something real to those me.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-26
+
+I have no idea who you are but I am 100% behind you man. If you do something for the right reasons you can never go wrong. Keep up that fight and good will come your way. There are less and less of guys you in the world these days and the cream rises to the top my friend. I'd love to keep in touch and help in anyway I can, sounds I could learn a lot from you too!
+
+---
+
+## 7. What’s the fastest way you’ve grown your business?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-03-24
+**Views:** 41 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what%E2%80%99s-the-fastest-way-you%E2%80%99ve-grown-your-business/9701
+
+### Content
+
+JOBBER COMMUNITY TEAM Some owners grow by adding more jobs. Others take over existing clients or even buy another business. What’s worked best for you? In this episode of Masters of Home Service, Savannah Revis talks about: What can go wrong (and right) when you buy a business How to spot red flags before taking over clients What helps customers stay after the handoff Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. BUSINESS ADVICE BUSINESS PLANS HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION PROFESSIONAL DEVELOPMENT WINS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** Erin
+**Posted:** 2026-03-26
+
+JOBBER COMMUNITY TEAM This was such a great episode with Savannah. Sending video messages to her new client was a great way to introduce herself and build trust.
+
+---
+
+## 8. What's your biggest struggle running your business?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-03-24
+**Views:** 36 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/whats-your-biggest-struggle-running-your-business/9695
+
+### Content
+
+My biggest struggle at times can be cash flow and not collecting fast enough, even with Jobber, because people will wait to pay. Jobber helps make things easier to track and easier for people to pay BUT once the job is done I get clients who take a long time to pay a time. What's your current business struggle?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2026-03-25
+
+BUILDER 1 We are struggling with not quoting enough for first time cleans. Our team needs to reach out and request more time and this puts a bit of stress on our system. We started tracking where and how much time our team requests and how do the jobs overall go. Are the clients satisfied or if there is an issue that we need to resolve. We have also made a change and increased the quotes with some time. When I started my business 17 years ago and I cleaned I was pretty fast. I notice now as the new generations come up they need a bit more time.
+
+#### Reply 2
+
+**Author:** HilltopAdOS
+**Posted:** 2026-03-25
+
+to judithvirag You're already doing the hard part, which is identifying the actual data points that matter: time requests, job outcomes, client satisfaction. Most operators just adjust quotes by gut and never close the loop. The next unlock is connecting those three data points so patterns surface automatically instead of you having to hunt for them. For example, if certain job types or neighborhoods consistently trigger time requests, that should be rewriting your default quote for that category, not just adding buffer across the board. Blanket quote increases help short term. Category-level adjustments based on actual job history is where the margin protection really lives. Once you have enough data on which variables predict time overruns, you can build a quote modifier that does the adjustment before the job is ever scheduled, so your team stops being in the middle of that conversation entirely
+
+#### Reply 3
+
+**Author:** uniqueterry
+**Posted:** 2026-03-25
+
+My biggest struggle is the funds to get battery powered equipment so some jobs I have to turn down
+
+---
+
+## 9. Why Most Businesses Stay Broke (and How to Fix It)
+
+**Author:** ZacRadcat (Contributor 2)
+**Posted:** 2026-03-24
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/why-most-businesses-stay-broke-and-how-to-fix-it/9659
+
+### Content
+
+That's a massive question and a huge promise! There are so many small businesses in the US and Canada. Why do so many fail? What's the solution? That is exactly the problem that Mike Michalowicz tries to tackle in the excellent book called Profit First. Here is a quick summery of his key ideas. Quick Take Revenue doesn’t equal profit. If you don’t take profit first, you’ll always spend what’s left. So flip the formula—take profit first, then run your business on the remainder. The Lie Most Business Owners Believe Most business owners operate on a simple formula: Sales – Expenses = Profit On paper, it makes sense. In reality, it almost never works. Why? Because expenses always expand to consume whatever is available. If your business brings in $50,000 this month, you’ll find a way to spend $49,500. If it brings in $100,000, suddenly your expenses “need” to be $95,000. More tools. More subscriptions. More hires. More overhead. And at the end of it all? Little to no profit. That’s the trap. The Core Idea: Flip the Equation Profit First introduces a simple but powerful shift: Sales – Profit = Expenses Instead of hoping there’s something left over… -You take your profit first. -Then you run your business on what remains. This forces discipline. It forces clarity. And most importantly— It forces you to build a business that actually works. Why This Works (Behavior > Math) This system isn’t about accounting—it’s about human behavior. Think about it this: If you open your fridge and it’s packed → you eat more If it’s nearly empty → you become resourceful Your business works the same way. When you see a big bank balance, you relax your standards: “We can afford it” “Let’s just get it done” “We’ll make it up next month” But when money is tight (by design), you: Cut unnecessary expenses Negotiate better Focus on high-value work Say no to low-margin jobs Constraint creates clarity. How the System Actually Works Profit First uses a simple structure of separate accounts: Income Account – All revenue goes here first Profit Account – Your profit (non-negotiable) Owner’s Pay – What you actually take home Tax Account – So taxes never surprise you Operating Expenses – What’s left to run the business Every time money comes in, you allocate percentages to each account. Example: 5% Profit 50% Owner’s Pay 15% Taxes 30% Operating Expenses (Exact numbers vary depending on your stage.) What Happens When You Do This At first, it feels tight. Maybe even uncomfortable. That’s the point. You start asking better questions: “Do we actually need this?” “Is this job worth taking?” “Can we charge more?” “Can we do this more efficiently?” Instead of growing your business by doing more… You grow it by doing better. Real-World Application (Especially for Trades & Service Businesses) For a handyman or construction business yours, this is where it gets powerful: You Stop Chasing Bad Jobs Low-margin work becomes obvious—and avoidable. You Price with Intention Instead of “what will they pay?” → it becomes “what do we need to be profitable?” You Build a Cash-Strong Business No more wondering where the money went. You Reduce Stress (Massively) Profit isn’t an afterthought—it’s guaranteed. The Big Shift: From Survival to Control Most businesses operate in survival mode: More jobs = more problems More revenue = more chaos More growth = less profit Profit First flips that. Now: Profit comes first Expenses are controlled Growth is intentional You’re no longer reacting… You’re running the business. Final Thoughts from the book Mike really brings home a truth that I can absolutely attest as true; “Your business will always spend what’s available.” This I find to be true even in personal finances. My wife and I have started emplamenting this by taking out what we want to save from each pay check FIRST before we do anything else. It has dramatically helped us. So, says Mike, take your profit first. Then build a business that can thrive on the rest.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 10. 🔥 Entrepreneurs — What’s ONE lesson you wish you’d learned earlier?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-03-18
+**Views:** 45 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/%F0%9F%94%A5-entrepreneurs-%E2%80%94-what%E2%80%99s-one-lesson-you-wish-you%E2%80%99d-learned-earlier/9538
+
+### Content
+
+I’ve noticed that everyone’s entrepreneurial journey looks wildly different. Some people jump in and figure it out as they go, others spend months planning before they take the first step. But every entrepreneur I meet has at least one “I wish someone had told me this sooner” moment. LEARNING FROM MISTAKES
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** FCG
+**Posted:** 2026-03-21
+
+I spent a long time waiting until everything was ready. The website needed more work. The certifications needed to be finalized. The plan needed another revision. What I did not realize was that waiting felt preparation but it was actually just fear wearing a productive disguise. I am a service-disabled veteran building a landscaping and grounds maintenance business in North Texas with my wife. We also run a free gardening resource at fairycirclegarden.com that we built before we ever had a single contract because we wanted to serve our community while we were still figuring the rest out. That blog taught me more about our customers, our mission, and our voice than any business plan ever could have. The version of your business that exists today, even imperfectly, teaches you things that no amount of planning ever will. Show up before you feel ready. Serve someone before everything is in place. Build in public. The lesson I wish someone had handed me on day one: momentum is the plan. Start moving and the clarity follows. It almost never works the other way around.
+
+---
+
+## 11. Looking to connect with rental business owners
+
+**Author:** Chelly (Contributor 2)
+**Posted:** 2026-03-19
+**Views:** 24 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/looking-to-connect-with-rental-business-owners/9582
+
+### Content
+
+Hi everyone, I have decided to start my own party rental entertainment business. I have seen so many people asking for certain items for parties, or they are too tired to set up, so I decided this would be great for me. Hopefully, I can find others here with similar businesses for pointers.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-03-20
+
+JOBBER COMMUNITY TEAM Hi Chelly, welcome to the community! 👋 Congratulations on the beginning of your entrepreneurial journey. While we may not have a ton of rental-specific businesses in here, we do have a lot of service business owners who deal with booking, scheduling, logistics, and customer experience, which overlap quite a bit with what you’re building. Looking forward to seeing how your business grows!
+
+---
+
+## 12. Biggest impacts.
+
+**Author:** NJones (Contributor 3)
+**Posted:** 2026-03-17
+**Views:** 15 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/biggest-impacts-/9509
+
+### Content
+
+What’s one habit that’s made the biggest impact on your success as a business owner?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** Aatrades719
+**Posted:** 2026-03-18
+
+One habit that has made the biggest impact on A&A Trades & Acquisitions, LLC’s success is consistent follow-through. Every commitment—whether it’s returning a call, showing up on time, completing a job, or standing behind the work—is treated as non-negotiable. In the trades, a lot of businesses lose trust simply by being inconsistent. By doing exactly what we say we’re going to do, every time, we separate ourselves immediately. This habit builds a strong reputation. Customers know they can rely on us, which leads to repeat business, referrals, and long-term relationships. It also creates internal discipline—projects stay on track, standards stay high, and nothing falls through the cracks. Consistent follow-through turns small actions into long-term credibility, and that credibility is what drives sustained growth.
+
+---
+
+## 13. Leap of Faith
+
+**Author:** Unicityfam (Contributor 2)
+**Posted:** 2026-03-11
+**Views:** 59 | **Likes:** 5 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/leap-of-faith/9331
+
+### Content
+
+This is me and my wife's first time starting a business together. For years I have been the sole breadwinner while she has been an excellent stay at home mom. Now we are embarking on a new journey. BUSINESS ADVICE LEARNING RESOURCES MOTIVATION NETWORKING PROFESSIONAL DEVELOPMENT
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-03-12
+
+JOBBER COMMUNITY TEAM Hey! 👋 Starting a business together is definitely a bigg step (it really is a leap of faith). It’s exciting to hear that you and your wife are beginning this new chapter together. 🎉 There are many business owners here who started in a similar place, so you’re in good company. If you’re open to sharing, what kind of business are you launching and what inspired you both to start it now? Looking forward to hearing more about your journey and seeing you around the community.
+
+#### Reply 2
+
+**Author:** dannyrosewood
+**Posted:** 2026-03-12
+
+You Got This
+
+#### Reply 3
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-12
+
+to dannyrosewood We would all love to hear more of your story. Please share! The best of luck to you and your family. You already made the hardest step by doing it! Can't wait for the success stories.
+
+#### Reply 4
+
+**Author:** judithvirag
+**Posted:** 2026-03-12
+
+BUILDER 1 Congratulations!
+
+#### Reply 5
+
+**Author:** NJones
+**Posted:** 2026-03-17
+
+I’ve built my businesses around working with people I love and trust, that’s always been important to me. But it only works if there’s structure and a fair, “democratic” approach where everyone has a voice and there’s still accountability. When you have both, it’s a really strong setup.
+
+---
+
+## 14. Anyone using a VA for your business?
+
+**Author:** CRChrista (Contributor 2)
+**Posted:** 2026-03-13
+**Views:** 30 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/anyone-using-a-va-for-your-business/9407
+
+### Content
+
+Recently I've been thinking about bringing on a VA for some support office tasks. Does anyone use a VA for their business, and if so, what tasks do you delegate to them? Any tips for finding great people?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 15. How do business owners use time blocking to manage a busy workday?
+
+**Author:** HUGEHandyman (Jobber Ambassador)
+**Posted:** 2026-03-10
+**Views:** 90 | **Likes:** 2 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/how-do-business-owners-use-time-blocking-to-manage-a-busy-workday/9241
+
+### Content
+
+How is everyone is handling time blocking when you’re getting pulled in a bunch of different directions all day? I’ve been trying to use time blocking more, but honestly I’ve had a hard time sticking to it consistently. Between calls, texts, estimates, job issues, and random things popping up, it feels the day can get away from you pretty fast. For those of you who are doing it well, what does that actually look ? Do you have certain blocks every week that are set in stone and don’t move? Do you leave flexible time in your day for unexpected stuff? Do you build in dead time or catch-up time? Or do you just have certain priorities you try to hit without scheduling every hour? I’d love to hear how other people are approaching it, especially if you’re balancing sales, operations, and team questions all at the same time. I’m trying to find something realistic that actually works in day-to-day business, not just something that looks good on paper. BUSINESS ADVICE HITTING GOALS NETWORKING
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** Demetri721
+**Posted:** 2026-03-10
+
+As someone running a small service business, I’ve learned that strict time blocking rarely works perfectly because the day is unpredictable. Calls, estimates, customer questions, and job issues will always pop up. Instead of blocking every hour, I focus more on priorities for different parts of the day. Mornings are usually for estimates, scheduling, and responding to customers since that drives new work. Midday is focused on job execution and operations, and late afternoon is for follow-ups, invoicing, and planning the next day. I also try to leave buffer time between jobs so if something runs long or a customer calls, it doesn’t throw the entire day off. For me, the biggest improvement came from focusing on the few activities that actually move the business forward instead of trying to schedule every hour perfectly. In service businesses, flexibility with clear priorities tends to work much better than rigid time blocking.
+
+#### Reply 2
+
+**Author:** TeazerNetwork
+**Posted:** 2026-03-10
+
+We set a few non-negotiable blocks each day (sales follow-up, team check-ins, admin), then leave buffer time for fires and random issues or just chill tbh. The biggest mistake is scheduling every hour too tightly. That usually falls apart fast in service businesses. our setup is: morning: priority work / estimates midday: calls, team questions, active project issues afternoon: follow-ups, loose ends, tomorrow prep Time blocking works better for me when it guides the day instead of trying to control every minute.
+
+#### Reply 3
+
+**Author:** TurfT
+**Posted:** 2026-03-10
+
+I’ve struggled with time blocking too because in a small service business you’re constantly pulled into calls, texts, estimates, and job issues. What helped me was realizing that not everything deserves a time block. Instead, I protect blocks for the things that actually move the business forward—sales, estimates, and building systems. One thing that helped a lot was reducing interruptions by improving my client workflow. I set up a process where a client submits a Jobber request form and is immediately redirected to securely add their credit card on file. That triggers automation that updates the client status, sends a welcome email, and notifies me to schedule the work. The fewer manual steps in the process, the easier it becomes to actually stick to time blocks for important work.
+
+#### Reply 4
+
+**Author:** judithvirag
+**Posted:** 2026-03-11
+
+BUILDER 1 I don't do time blocking. I give myself a bit more grace as at times my day can be hijacked by events or people. I have a task list and some are dailiy reoccurrence and some are weekly. I stick to these and try to complete it by the end of the day. If I remember something I always add it to my task list.
+
+---
+
+## 16. Jobber Grant!
+
+**Author:** topscoop (Contributor 3)
+**Posted:** 2025-07-02
+**Views:** 769 | **Likes:** 8 | **Comments:** 14
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/jobber-grant/4552
+
+### Content
+
+Who else has applied for the jobber grant? And how exactly does that work? BUSINESS ADVICE BUSINESS PLANS COMMUNITY HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION NETWORKING PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
+
+### Replies (14)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2025-08-02
+
+BUILDER 1 Got an email and we are in the 20nd round. Here is the website for the grant: https://www.getjobber.com/grants They are giving away 150,000 to companies. Very generous!!!
+
+#### Reply 2
+
+**Author:** Handywoman
+**Posted:** 2025-07-02
+
+I have! I was actually just selected for phase 2. Did you do your phase one application?
+
+#### Reply 3
+
+**Author:** topscoop
+**Posted:** 2025-07-02
+
+to Handywoman I did! I was also selected for phase 2 I just don't know what happens next. have you applied before? and is it only a select few that move to phase 2?
+
+#### Reply 4
+
+**Author:** Justinmcclenney
+**Posted:** 2025-08-02
+
+I’m in phase 2 also just waiting.
+
+#### Reply 5
+
+**Author:** mrtimfauble
+**Posted:** 2025-08-02
+
+There seems to be a few of us who made it to the 2nd phase 😃
+
+#### Reply 6
+
+**Author:** LauraWhalen
+**Posted:** 2025-08-02
+
+I believe the deadline for applying for the grants has passed. Only those that have submitted applications for phase 1 on time, could move to phase 2. This is the information regarding timelines that I received in an email: June 26-July 18: Application review - judging panel will review phase 2 applications and look at your online presence to get to know more about you and your top-notch service. Mid July 2025: Finalist Selection - Finalists will be contacted to complete a final round of questions. August 2025: Recipient announcement - We'll announce our 15 grant recipients and spotlight their stories to share with our community. Good Luck Everyone!
+
+#### Reply 7
+
+**Author:** lawrencejrank
+**Posted:** 2025-07-02
+
+I just submitted my phase 2 answers! If selected from phase 1, you'll receive an email saying you've been selected for phase 2 and will have to submit the forum. Most answers are limited to 750 characters, so make your answers count!
+
+#### Reply 8
+
+**Author:** getitgone2025
+**Posted:** 2025-08-02
+
+I did! Got invited for phase 2. Waiting to see what else is in-store
+
+#### Reply 9
+
+**Author:** Evergreen
+**Posted:** 2025-08-02
+
+It seem that everyone who properly filled out the first phase application makes it to the second phase. the finalists should be selected soon I believe. good luck everyone! 🤗
+
+#### Reply 10
+
+**Author:** getitgone2025
+**Posted:** 2025-08-02
+
+Submitted my responses I'm waiting for phase 2 decision. I'm excited 😊 let the lord use blogger to bless and progress me in my business.
+
+#### Reply 11
+
+**Author:** Dem_Automation
+**Posted:** 2025-07-02
+
+My phase 2 application is a dead link.
+
+#### Reply 12
+
+**Author:** lawrencejrank
+**Posted:** 2025-07-02
+
+to Dem_Automation I would share the link but I feel that might cause ppl who weren't selected to submit. Contact grants@getjobber.com
+
+#### Reply 13
+
+**Author:** ClWizard1436
+**Posted:** 2025-08-02
+
+I also applied for the grants and it was move forward to face to and responded to the questions asked and I wasn't sure or heard anything back I wanted to see if anyone else had any thoughts
+
+#### Reply 14
+
+**Author:** spiritdove
+**Posted:** 2026-04-01
+
+NEW MEMBER I just applied for the first time. I look forward to experiencing the process.
+
+---
+
+## 17. What advice would you give to someone feeling discouraged or doubtful about their entrepreneurial journey?
+
+**Author:** rebecca (Jobber Community Team)
+**Posted:** 2025-04-02
+**Views:** 35 | **Likes:** 20 | **Comments:** 58
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what-advice-would-you-give-to-someone-feeling-discouraged-or-doubtful-about-thei/9
+
+### Content
+
+JOBBER COMMUNITY TEAM Let's start this forum off with some of your best tips you dish out when a fellow entrepreneur needs a boost. We've all been there! LEARNING FROM MISTAKES MOTIVATION
+
+### Replies (58)
+
+#### Reply 1
+
+**Author:** mowtownedmonton
+**Posted:** 2025-04-02
+
+I found that goal setting and breaking down those goals into individual tasks made it easier to see the path to growth. If 5 big goals for the year have 10 tasks each to achieve them, that's enough for 1 task each week for the year. If you do all that work and still fail, you can honestly say that you did at least 50 things to make it work. That at least helps to address the operational needs of the company. In terms of your personal feelings as an entrepreneur, just know that you aren't alone. Everyone who has built a business from scratch have these problems. I'll bet cash is uncomfortably tight? You have a couple clients who are unreasonable but you can't afford to fire them? Your staff aren't nailing it? How about not having enough hours in the day? Beeeeeen there. We all have. The burnout, the anxiety and the uncertainty will clear up if you're willing to keep pushing forward. That struggle you're going through today is extremely important, necessary even. When you overcome today's big nightmare, (and you will one way or another) you'll come out of it more trained and skillful for nightmares that. Knock out enough nightmares and guess what, nothing is a nightmare anymore. You'll be less and less vulnerable, or maybe just vulnerable to tackle bigger and scarier issues. There's no pathway to entreprenuerial success that isn't paved with the hard won experience. Somewhere along the way, a friend or family member will point out how you kept your cool in a seriously tough situation, and you'll realize that it wasn't tough this time, and you'll remember when it was the toughest thing you could imagine. Riding out entrepreneurship will change who you are.
+
+#### Reply 2
+
+**Author:** lldavid
+**Posted:** 2025-04-02
+
+to mowtownedmonton Your points are spot on. It's a hard path to follow, which has an unknown ending/goal, so taking each day for what is worth is usually the best we can do.
+
+#### Reply 3
+
+**Author:** Shockwell181
+**Posted:** 2025-07-02
+
+to mowtownedmonton I needed that. Thank you.
+
+#### Reply 4
+
+**Author:** bennettdevelops
+**Posted:** 2025-07-02
+
+to mowtownedmonton Thank you for this !!!
+
+#### Reply 5
+
+**Author:** tiffanydavis1
+**Posted:** 2025-08-02
+
+to mowtownedmonton Wow! This is exactly what I needed to read today. Being an entrepreneur is certainly something that you have to strive to maintain everyday. I was just thinking to myself that money really is tight for me. But, I also know that I can't give up and you said push forward. It will pay out in the end. Thanks for this.
+
+#### Reply 6
+
+**Author:** EugeneWatson21
+**Posted:** 2025-04-02
+
+Trust yourself, keep learning, and keep pushing forward. Keep learning new ways to do what you need to do.
+
+#### Reply 7
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to EugeneWatson21 Absolutely, staying curious and adaptable is key! Any particular resources or methods that have helped you stay on top of industry trends?
+
+#### Reply 8
+
+**Author:** Bdowns22
+**Posted:** 2025-04-02
+
+to EugeneWatson21 I could not agree more about trusting yourself. If you don't believe in yourself and your work, how can you expect your customers to believe in you??
+
+#### Reply 9
+
+**Author:** CandyCain24
+**Posted:** 2025-04-02
+
+You just have to start. Will it be sacry? Definitely!! Will it be worth it? Totally!!! Will it be easy? **bleep** No! Always keep learning, because there will be someone out there that has the newest, shiny thing that will challenge you. But if you dig in and go for it and you know what you are doing, then you have nothing to fear.
+
+#### Reply 10
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to CandyCain24 Love the honesty and motivation! It's true—starting is the hardest part, but it's all about pushing through the fear and staying sharp.
+
+#### Reply 11
+
+**Author:** BadgerHauling
+**Posted:** 2025-04-02
+
+I maybe too blunt and not fluffy enough. A good reminder on why you started the business. If the business owner is feeling discouraged or doubtful and they cannot change their mindset, they should become an employee. As leaders, we need to be comfortable putting ourselves into uncomfortable situations. Nothing wrong with doubting a decision but if it was made and it turns out wrong, you learn from it and move on.
+
+#### Reply 12
+
+**Author:** Hjbyrdle33
+**Posted:** 2025-04-02
+
+Trust the process. Lulls can happen, and you can always learn something from them. Motivation is intrinsic so revisit your "why" and tweak it if it has evolved.
+
+#### Reply 13
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to Hjbyrdle33 Great advice. Trusting the process and revisiting your "why" can really help keep things in perspective.
+
+#### Reply 14
+
+**Author:** Bdowns22
+**Posted:** 2025-04-02
+
+You certainly will get overwhelmed from time to time, We ALL DO...... The key to overcome this is to remember why you started this journey to begin with. Also keep in mind that NO MATTER what, THIS TO SHALL PASS........
+
+#### Reply 15
+
+**Author:** rebecca
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to Bdowns22 Gotta remember your why! Care to share yours Bdowns22 ? And always great to keep in mind that tomorrow is another fresh day. Awesome advice!
+
+#### Reply 16
+
+**Author:** bedellmgmt
+**Posted:** 2025-04-02
+
+Having a bigger purpose or why has always helped me find my true north when the journey is tough
+
+#### Reply 17
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to bedellmgmt Your true north 🙌 what a powerful approach. A strong sense of purpose can definitely guide you through the tough times.
+
+#### Reply 18
+
+**Author:** Dreadist
+**Posted:** 2025-04-02
+
+There are highs and lows just keep at it and never get discouraged when you have your lows because if you keep on that path it will turn into a high!
+
+#### Reply 19
+
+**Author:** julie
+**Posted:** 2025-04-02
+
+JOBBER COMMUNITY TEAM to Dreadist It’s encouraging to remember that lows are often just a part of the journey to future highs. Thanks so much for sharing!
+
+#### Reply 20
+
+**Author:** Poo-Picker-Josh
+**Posted:** 2025-04-02
+
+Welcome to entrepreneurship! The best response i've ever got for my discouragement from my mentor... "Have you ever thought thats what it's supposed to feel ?" I feel discouraged all the time. Success is 80% failure haha. Welcome to the club! I get pumped now because it's pushing through the discouragement that not many are willing to push through. When you do things that most aren't willing to do you get results most people never will! Friction = Traction!
+
+#### Reply 21
+
+**Author:** seanroz
+**Posted:** 2025-04-02
+
+Consistency over intensity, most people fail because they don't see immediate results from their efforts and just give up.
+
+#### Reply 22
+
+**Author:** SLLC
+**Posted:** 2025-04-02
+
+If someone is feeling discouraged or doubtful about their entrepreneurial journey, here are some pieces of advice that may help: 1. Reflect on Your Why: Take a step back and remind yourself of why you started this entrepreneurial journey in the first place. Reconnect with your passion, purpose, and goals. Understanding your motivation can reignite your drive and determination. 2. Focus on Progress, Not Perfection: Entrepreneurship is a journey filled with ups and downs. Celebrate small wins along the way and acknowledge the progress you've made, however incremental it may seem. Remember that setbacks are a natural part of growth. 3. Seek Support: Don't hesitate to reach out to mentors, fellow entrepreneurs, friends, or family members for support and encouragement. Surround yourself with positive influences who can offer guidance and perspective during tough times. 4. Embrace Failure as a Learning Opportunity: Failure is not the end but a stepping stone to success. Reframe setbacks as valuable learning experiences that can help you grow stronger and wiser in your entrepreneurial endeavors. 5. Take Care of Yourself: Entrepreneurship can be demanding, both mentally and physically. Make self-care a priority by ensuring you get enough rest, exercise, and relaxation. A healthy mind and body are essential for resilience and perseverance. 6. Adjust Your Mindset: Shift your perspective from seeing challenges as roadblocks to viewing them as opportunities for innovation and growth. Cultivate a positive mindset that embraces change and adapts to new circumstances. 7. Break Down Goals into Manageable Tasks: Feeling overwhelmed is common on the entrepreneurial journey. Break down your goals into smaller, manageable tasks to make progress more achievable and less daunting. 8. Stay Persistent: Remember that success rarely happens overnight. Stay committed to your vision, stay consistent in your efforts, and trust the process. Persistence is often the defining factor between those who give up and those who thrive. 9. Celebrate Your Resilience: Entrepreneurship is not for the faint of heart. Acknowledge your resilience and courage for embarking on this challenging path. Believe in yourself and your ability to overcome obstacles. 10. Revisit Your Vision: Take time to revisit your long-term vision and remind yourself of the impact you aspire to make through your entrepreneurial journey. Let your passion and commitment reignite your sense of purpose and drive. Remember, feeling discouraged or doubtful is a normal part of the entrepreneurial experience. It's how you respond to those feelings that will define your journey. Stay resilient, stay focused, and keep moving forward.
+
+#### Reply 23
+
+**Author:** quinnswater
+**Posted:** 2025-04-02
+
+Always remember why you started. You're either building your future or letting it slip away. The choice is always yours.
+
+#### Reply 24
+
+**Author:** groovecleaning
+**Posted:** 2025-07-02
+
+Consistency is key, nothing happens over night. Ensure you are always doing something to benefit yourself or your business everyday get 1% better and overtime you will have a thriving business.
+
+#### Reply 25
+
+**Author:** KJobi
+**Posted:** 2025-07-02
+
+Discouragement is real- but it should not be the end of your story and often doubt shows up just before growth. When you feel overwhelmed, pause and realign with Your original "why". Revisit your vision, break larger steps into smaller more meaningful steps. Another practical step that helped us in the beginning was, surrounding yourself with wise counsel and people who are where you want to be.
+
+#### Reply 26
+
+**Author:** Tadams
+**Posted:** 2025-07-02
+
+If you're feeling discouraged or doubtful about your entrepreneurial journey, here are some pieces of advice from Solar Eclipse Window Coverings that may help: **Remember Your Why**: Reflect on why you started your venture in the first place. Reconnecting with your passion can reignite your motivation. **Embrace Challenges**: Understand that setbacks are part of the entrepreneurial process. Each challenge can teach you valuable lessons and contribute to your growth. **Set Small Goals**: Break your larger goals into smaller, manageable tasks. Achieving these smaller milestones can boost your confidence and sense of progress. **Seek Support**: Reach out to mentors, fellow entrepreneurs, or supportive friends and family. Sharing your experiences can provide new perspectives and encouragement. **Celebrate Wins**: No matter how small, celebrate your achievements. Recognizing progress can improve your outlook and motivation. **Stay Flexible**: Be open to adjusting your plans and strategies as needed. Flexibility can help you navigate obstacles more effectively. **Focus on Learning**: Adopt a growth mindset and view challenges as opportunities to learn. Continuous learning will enhance your skills and resilience. **Take Breaks**: Step back when you need to recharge. A change of perspective can bring renewed energy and clarity. **Visualize Success**: Picture what success looks for you. Visualization can help you stay focused and motivated on your journey. **Keep Going**: Remember that persistence is key. Many successful entrepreneurs faced doubts along the way but persevered to achieve their goals. Trust the process, stay committed, and believe in your abilities. Your journey is unique, and every step contributes to your growth as an entrepreneur.
+
+#### Reply 27
+
+**Author:** Jeremyking
+**Posted:** 2025-04-02
+
+Ask questions. Verify your source. So many opinions. Find a plan and stick to it until you decide a change is needed give it time though. Also when discouraged write out what you have done well
+
+#### Reply 28
+
+**Author:** ayangonz
+**Posted:** 2025-04-02
+
+Find a mentor. Nothing will get you where you want to go faster and with less pain than following a mentor. Nothing.
+
+#### Reply 29
+
+**Author:** shinyabode
+**Posted:** 2025-04-02
+
+Believe in God and have faith in Jesus Christ. “I can do all things through Christ who strengthens me” is a Bible verse from Philippians 4:13. It is a common expression of faith and a reminder that people can overcome challenges with the strength and empowerment that comes from Jesus. In addition to that, believe in people who say they are not extraordinary and say that if they can do it, so can you!
+
+#### Reply 30
+
+**Author:** 
+**Posted:** 2025-04-02
+
+CK Stop being so **bleep** yourself and take a look at everything you've accomplished being an entrepreneur. They've got the suit, drive, know how and a fantastic attitude all great attributes for an entrepreneur. Now go look in a mirror and smile at your beautiful self! Say to that person in the mirror that you love 'em and what a winner you are. I'm always here for ya buddy, I love and believe in you, did you want that hug now? They're free
+
+#### Reply 31
+
+**Author:** FredHodgeJr
+**Posted:** 2025-04-02
+
+Doubt comes from focusing on problems instead of solutions. Break down what’s overwhelming you into small, executable steps. Feeling stuck? Do the next thing that moves the needle—even if it's just one phone call, one email, or one sale.
+
+#### Reply 32
+
+**Author:** Jmcdowell
+**Posted:** 2025-06-02
+
+If you have a passion for what you’re doing then go for it!!! You only fail if you don’t go for it. Sometimes you got to just take the chance and if you fail learn from it then take that as a lesson to better yourself and keep going. You’ll get whatever you put into your business back out of it if you give it your all. If you’re not pushing yourself or believing in yourself then you’ll definitely get just that out of your business
+
+#### Reply 33
+
+**Author:** luronelee
+**Posted:** 2025-07-02
+
+Rome wasn't built in day. It takes time to discover your strength and weaknesses. Once you do, that will be the source of your collective energy. Always find minded people who have your best interest at heart. You can learn from them and also ask for advice. Stay away from people who always criticize and never have anything good to say about what you are trying to do. It will only cause you more pain and suffering. This is way Nonprofit businesses have Board of Directors. They specialize in working together to find out what works best for a business. Find your own group of business oriented people, and start building idea's and plans for business, and ways to move your business forward.
+
+#### Reply 34
+
+**Author:** topscoop
+**Posted:** 2025-07-02
+
+Remember why you started your journey. Each NO you get is one NO closer to a Yes. Most people don't make it because of their mindset and the risk we take as business owners. Stay locked in and never give up. good things happen to those who wait. Success doesn't just happen overnight. It is a long hard process. Believe in the process!
+
+#### Reply 35
+
+**Author:** Hecmar801
+**Posted:** 2025-07-02
+
+Having your own business will definitely challenge your entrepreneurial spirit. Especially when things don’t go as planned. Having a mentor or coach that you can talk to on a weekly basis’ really helps keep you motivated and keep your mindset thinking the right way. Setting some goals and get an accountability partner!
+
+#### Reply 36
+
+**Author:** VCMEssentials
+**Posted:** 2025-07-02
+
+Being an entrepreneur is challenging but here is some advice I wish I had known before I started my journey. Communication - you must be able to convey your mission/vision with clarity. As an entrepreneur, we understand our message but sometimes that does not translate to our audience. Use social media (my advice focus mainly on two social media platforms unless you have someone dedicated to managing your social media consistently.) Understand your industry the pros and cons of your industry before you start. So you can have a contingency plan in place. Some industries are seasonal, some industries the protocols/guidelines are always changing, some industries have low start-up costs and some have high employee turn-over. Support - look for free business resources the SBA/Score (provides free mentorship), and programs the Verizon Digital Ready program. Education/Experience: getting hands-on experience is essential for you to get better. Education and certifications can be important for your industry, they can help you become an expert in your field, differentiate your business from your competitors, and make your business stand out. Finances - Do not spend unnecessary money, especially in the first 3 years, statistically start-ups have a high failure rate. Business credit - establish it as soon as you can, and if you are trying to get credit from a few creditors, try to apply for credit within the same week so it does not affect your personal credit more than once. (note: some creditors do ask for your SS and business EIN to apply for credit) Find ways to increase income: such as 1. affiliate marketing, 2. a new product or service (make sure you take a poll, and test it out for a few months before committing to the new product or service; as it may not make sense financially or operationally. Invest in assets or find ways to have your money grow for example business high-yield savings, or business CDs. Running a business is not easy, make sure you have a business plan (that you update every 6 - 12 months, know your KPI's, always provide exceptional service, request customer feedback, and start the business for a trial period especially if you don't know if it is a profession you are truly invested in. Hope that helps!
+
+#### Reply 37
+
+**Author:** MRBUBBLES
+**Posted:** 2025-07-02
+
+hang in there and whatever you do, don't ever try to turn a no into a Yes because life is full of YESSESS...you just have to go out there and find yours!
+
+#### Reply 38
+
+**Author:** thomastryon
+**Posted:** 2025-07-02
+
+It's easy to feel overwhelmed or discouraged in the thick of business. That's why it's so important to have a clear and compelling "why" behind what you're doing. When the tough moments come, and they will, remember that every failure and challenge is an opportunity to learn, grown and get better. The hard times aren't just obstacles, they're shaping your business into something stronger. As Dave Ramsey says, "The mountain of success people see is really just pile of failures." Keep climbing.
+
+#### Reply 39
+
+**Author:** Coronapropaint
+**Posted:** 2025-07-02
+
+First of all I have some points that maybe helpful… if u gonna star to build a company.. make sure that is something that u are passionate about. (Customers smell it) make sure that u have the knowledge to do so, and ask for help if u aren’t , you have to be confident about what u offer. always take pictures of your work before and after, those are very helpful for references and also to grow your confidence Roma didn’t build in one day, it will take u time but with a good CUSTOMER SERVICE (be kind and listen to your customers NEEDS, and u will blow up. No everything is about what u offer but make your customers happy around u, and then they WILL for sure make some referrals and u no need to look for jobs anymore, they come to u easily. I hope this helps and keep going , the gold is one step away, if u quit now… u won’t find it GOID LUCK!!🍀
+
+#### Reply 40
+
+**Author:** dber8
+**Posted:** 2025-07-02
+
+Trust that every setback is part of the process. Stay focused on your “why,” take one step at a time, and don’t be afraid to ask for help. Progress often comes just after the point you feel giving up. Keep going. You are closer than you think.
+
+#### Reply 41
+
+**Author:** Hudson
+**Posted:** 2025-07-02
+
+I have been in the flooring business for over 25 years. Started as a helper on the delivery truck and worked myself through all the steps of the flooring business. Driver, installer, finisher, general manager of the store, sales manager, VP. Then became one of the owners of HQ Flooring and Renovations (High Quality Flooring). I have to tell you that it has been a hard road and to stay motivated is easy when the work is flowing in. But when hard times come, such as this past winter, it is easy also to give up and see yourself out of the business. It is very important to know what to do and be prepared for when hard times come. I always expect winter months to be very slow, however my partner and son-in-law hadn't experienced these slow months, since he has been in the business since 2020. I always saved enough money to stay a float on the winter months, however due to the lack of work and the slow down of the economy, this past winter we were not prepared. It was a long and hard winter and we are still feeling the effects of not being prepared for it. So my suggestion is to get a grip on your accounting and save as much as you can so you don't run into issues these when the jobs stop flowing. We invested in a couple of marketing companies, which let to nothing substantial. But working with Jobber and using the tools available to us, we were able to generate and still generating a good solid work load. I am glad I didn't give up, and I am hoping to be here doing what I do best for another 20 years.
+
+#### Reply 42
+
+**Author:** aleidalemes
+**Posted:** 2025-07-02
+
+It's a roller coaster for sure! You have to expect it. You can't get too comfortable with the high of success. You can't get too anxious or defeated when the lows come. When you think about the journey from this perspective, it's easier to deal with solving problems rather than taking the problems personally.
+
+#### Reply 43
+
+**Author:** 
+**Posted:** 2025-07-02
+
+KC I have already replied to this message.
+
+#### Reply 44
+
+**Author:** jovante
+**Posted:** 2025-07-02
+
+After reading this and seeing the comments this actually just help me out even more
+
+#### Reply 45
+
+**Author:** iamplayworks
+**Posted:** 2025-07-02
+
+Give yourself GRACE... grace and space to learn, unlearn, make mistakes, practice, course correct, BREATHE, cry, absorb, ask questions and sometimes ask the same questions over and over again until it sticks, find the right mentors, and to START OVER at your own pace. Rome wasn't built in a day, yet it was because they showed up every day, they ask and received, sought and found what they needed, knocked on doors that seemed closed until they were open.
+
+#### Reply 46
+
+**Author:** The_Guru_7
+**Posted:** 2025-07-02
+
+I’d tell them this: You’re not alone, and doubt is part of the journey—not a disqualifier. I have a grant writing agency. When I started my business, I was working full time managing a nonprofit organization for entrepreneurs, teaching entrepreneurship to college students, bootstrapping everything, and building my business late at night and on weekends. I’ve faced loss, setbacks, and seasons where I questioned if the sacrifices were worth it. But what kept me going was knowing someone was waiting on the other side of my persistence—someone who needed the service or solution only I could provide. Discouragement doesn’t mean you’re failing. It means you care deeply. In those moments, revisit your why. Surround yourself with people who understand your vision, and give yourself grace as you grow. Success isn’t always loud. Sometimes, it’s quietly choosing to keep going when no one’s clapping yet. Keep building. Keep believing. You’re further along than you think.
+
+#### Reply 47
+
+**Author:** roselvaggio
+**Posted:** 2026-03-02
+
+Feel the fear and do it anyway! I banged my head against the wall many times before learning from certain mistakes, and it’s made me a stronger leader today! And don’t ever give up.
+
+#### Reply 48
+
+**Author:** ryaantuttle
+**Posted:** 2025-04-02
+
+Feeling doubtful or discouraged? You're in the right place! Welcome to the club. Surround yourself with a small network of minded folks that have achieved where you'r trying to go. Hire a coach, join a mentoring group and hold one for the ride of your life. Also read the E-myth!
+
+#### Reply 49
+
+**Author:** ORL
+**Posted:** 2025-07-02
+
+Just keep going! We all have special gifts we can share with our clients.
+
+#### Reply 50
+
+**Author:** MirelectRepairz
+**Posted:** 2025-07-02
+
+If you put half the dedication that you put towards working for someone else and running, building or maintaining their company/business then you won’t regret the pay off of doing that for yourself in the long run. But it can get tough though.
+
+#### Reply 51
+
+**Author:** EnergizeUs
+**Posted:** 2025-08-02
+
+This hits home! I’ve seen it and I’ve lived it. Why? Because when I first started I ran on emotions, and made decisions— not using logic. This is the cycle that keeps most contractors in the run around. I believe we don’t need more motivation. We need a blueprint to make decisions that actually hold up. So I put this together for the ones who are tired of the emotional rollercoaster of contracting, service based business. 📌 Mad one day, burnt out the next, then desperate all over again. Im the hamster on the wheel. What are your thoughts?
+
+#### Reply 52
+
+**Author:** BrandenSewell
+**Posted:** 2025-10-02
+
+I can sum my experience as an entrepreneur with one quote that my mom shared with me when I was about 15 years old, "Our greatest glory is not in never falling, but in rising every time we fall." Don't expect to have it easy. Don't expect to never fall down. Don't expect to never have to start over. The one thing you can decide is to get up, dust yourself off, learn and fall forward. Those that go the furthest aren't those that had it easier...a lot of times its just those who refused to quit.
+
+#### Reply 53
+
+**Author:** RickettsVan29
+**Posted:** 2026-03-02
+
+It's often said that the most rewarding endeavors come with their share of challenges, and entrepreneurship is no exception. Think about it: whether you aspired to be an Olympic athlete or learned to drive, every worthwhile pursuit has its hurdles. These experiences teach us resilience and valuable life lessons, reminding us that the journey is rarely linear and there are always unexpected twists and turns along the way! One piece of advice I often share with my clients is the importance of self-care and self-compassion. Prioritizing health and fitness, nutrition, and rest, whatever that means to you, is important to incorporate into your daily routine, whether you're at a job site, a client's home, or your remote office. Also, allow yourself the grace to fail, make mistakes, and learn from those experiences. It’s completely normal to encounter obstacles and have days filled with doubt. However, amidst these challenges, it’s crucial to take a moment to celebrate your successes, no matter how small they may seem. Setting clear goals and recognizing your achievements can make all the difference! And remember, approaching your dreams is much eating an elephant; just take it one bite at a time. Embrace the journey with optimism, and you’ll be amazed at what you can accomplish!
+
+#### Reply 54
+
+**Author:** BrandenSewell
+**Posted:** 2026-03-02
+
+JUST KEEP SWIMMING! 🐠
+
+#### Reply 55
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-02
+
+Always, always, always think about WHY you started your own journey as an entrepreneur! Was it a bad company that made you quit? Was it a vision you saw that wasn't being met by other companies? Was it for freedom? Just keep your goals in mind and know its not going to happen overnight.
+
+#### Reply 56
+
+**Author:** FredHodgeJr
+**Posted:** 2026-03-02
+
+Feeling discouraged in your entrepreneurial journey does not mean you are failing, it means you are stretching. This path is a pressure cooker. Payroll shows up whether you feel confident or not, deals fall through, equipment breaks, people quit, and markets shift. Doubt is not a stop sign, it is part of the growth process. When you feel it, zoom out before you zoom in. Do not judge your business off one bad week or one lost client. Look at your progress over years, not days. Separate your identity from the outcome. You are not this month’s revenue or one tough decision. Instead of asking what is wrong with me, ask what system needs tightening. Most discouragement is a signal that something in the process needs to improve. When everything feels overwhelming, shrink the battlefield and focus on the three highest leverage moves you can make this week. Momentum restores confidence. Protect your inputs by getting around other builders, sharpening your mind, and feeding yourself strong perspectives. Reconnect to why you started, whether that was freedom, impact, legacy, or providing for your family. And remember this truth: every entrepreneur you admire has doubted themselves, they just did not quit in the valley. You do not need a breakthrough, you need the next right decision. Stack enough of those and confidence will follow.
+
+#### Reply 57
+
+**Author:** FCG
+**Posted:** 2026-03-21
+
+I would tell them what nobody told me. The doubt does not mean you are doing it wrong. It means you care. Every veteran I know who has tried to build something after service has hit that wall where the mission feels unclear, the resources feel thin, and the voice in your head asks whether any of it is worth it. That voice is lying. I am a 100% service-disabled veteran building a landscaping business from the ground up with my wife and three kids at home, including a brand new baby. There is no playbook for this. There are days when the gap between where we are and where we are going feels enormous. But I have learned that the people who make it are not the ones who never doubted. They are the ones who showed up anyway. You do not need to feel confident to take the next step. You just need to take it. Start smaller than you think you should. Serve one person well. Build one thing you are proud of. Let your mission be bigger than your fear. And find your community. The loneliest part of entrepreneurship is believing you are the only one struggling. You are not. We are all figuring it out one day at a time, and we are stronger when we do it together. Keep going. The work you do matters.
+
+#### Reply 58
+
+**Author:** julie
+**Posted:** 2026-03-24
+
+JOBBER COMMUNITY TEAM to FCG This is one of the most honest and grounded responses I've seen in this community. The reminder that doubt means you care, not that you're failing, is something so many of us need to hear. The fact that you're building this with your family, navigating real challenges, and still showing up every day is exactly the kind of story this community exists to celebrate. Thank you for sharing it so openly. Keep going, FCG! We're so glad you're here. 🙌
+
+---
+
+## 18. From weekend side hustle to full-time: what would you start with?
+
+**Author:** Laura1111 (Contributor 3)
+**Posted:** 2026-03-02
+**Views:** 141 | **Likes:** 1 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/from-weekend-side-hustle-to-full-time-what-would-you-start-with/8519
+
+### Content
+
+Hey everyone We’re in NJ and exploring starting a weekend home service business that could eventually replace full-time income. My husband comes from road service and gas station inventory work—very hands-on, problem-solving, and customer-facing. The plan is to start on weekends, replace overtime first, and grow from there. For those who’ve done it: - What service did you start with on weekends? - What would you do differently if you were starting again? - Any service you wish you hadn’t tried? Would love to hear real stories and lessons learned. BUSINESS ADVICE COMMUNITY HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION NETWORKING PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** IronRidge
+**Posted:** 2026-03-02
+
+DO IT, don't wait thinking everything has to be in place. Start it, draft your vision, create the business name, decide who will be your demographic (client base), find out what laws you have to obey to launch and run it. Then go, create processes (SOPs) along the way, adjust course when needed. With effort and desire you easily could replace his current job within a year. At this stage time is your currency, don't spend money on marketing, design some basic business cards and go network. Meet every business owner you can. You need exposure at this stage so spend your currency time in getting in front of the people that fit your demographic. Let's look at the questions you asked. :) What service did you start with on weekends? Junk Removal - This is my fourth business to launch from the ground up while working a full time job. This one to date (entering my fourth week) has been the most successful in the amount of time it has been alive. Dream big, run with your vision as hard and fast as you can. If you have these three things you are doing consistently you will be so far above your competition you will scale quickly. 1. Communicate (Vital always talk to the client! Jobber had a video recently where a lady said that is the number one problem in home service businesses is the lack of communication. 2. Be transparent - this shows you are human and that you are striving to be the best service based company for them. 3. Under promise and over deliver - If you give/do even 1% above what you promised you are lightyears above your competition. What would you do differently if you were starting again? Would of launched sooner and worked harder to get in front of more people. Example join networking groups, Kiwanis, The American Legion any group that has people of your client demographics. Any service you wish you hadn’t tried? I have launched and ran cleaning businesses (fun but hard to get staff to clean toilets lol), photography business (love taking phots, however prints dont sell they used to thanks to tech and pics on your phone), Offroad outfitting business (fun, love being outdoors). I have to answer no on this one. :) I am entering my fourth week of business. I have spoken to two businesses that netted me three jobs and one referral that netted me a big job. In my first three weeks I have removed over 6000lbs of items, and over 75% of those items I was able to recycle and not just throw into the landfill. Those four jobs netted us $1450 (gross), and solved four major problems customers had. I would also encourage you create a simple yet effective referral program. The one I have is every person referred that we do a job for we will give $50 of their next service OR donate $50 to a local non profit of their choice under their name (or business name) With that said we have donated $75 to two local non profits so far. Collect all the data you do, and share the important parts with the community. How you are helping in the circle of reuse, recycle, dispose. Share how you are giving back to the community not just trying to take all their money. Do random service project, adopt a section of highway and clean it, choose a random park and clean it. Join non profits and perform service. Things that will cost you time (your current currency) but will pay great ROI in the long run.
+
+#### Reply 2
+
+**Author:** Laura1111
+**Posted:** 2026-03-02
+
+to IronRidge This is incredibly helpful, thank you. “time is your currency” reminder and the focus on communication and transparency, we’ll keep it on top of mind. Love how you’ve built referrals and community impact in from day one, and hearing real numbers from your first few weeks is eye-opening. Truly appreciate you sharing this.
+
+#### Reply 3
+
+**Author:** IronRidge
+**Posted:** 2026-03-02
+
+to Laura1111 Glad my experience is able to help. Looking forward to hearing of great things coming from your launch.
+
+#### Reply 4
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+I started a handyman business - primarily working on thumbtack. I charged a cheap rate till I got enough reviews to warrant an increase in price. I did this on my own for a year till I started getting busy enough to bring other people on. If I had to do it all over again I would do something a lot more simple. This will make things easier when your company gets bigger. I've heard quite a few podcasts about picking up dog poop. Sounds gross but it's pretty scalable I think. The problem with being a handyman is your going to eventually take a job or two you shouldn't, and then you'll have to make it right. A more simple service would have probably avoided a lot of those head aches.
+
+#### Reply 5
+
+**Author:** Laura1111
+**Posted:** 2026-03-02
+
+to HUGEHandyman Appreciate the honesty here. Hearing that simplicity would’ve saved headaches as you scaled is a great reality check. We’re trying to balance getting started quickly with not overcomplicating the service And scaling as well. Thanks
+
+#### Reply 6
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-13
+
+A main reason why I started my business in the same field I have been in for so many years, is to offer services to customers that other companies refused. I would make cleaning, landscaping, junk removal, exclusion work, sanitation recommendations to customers and they would always ask, "Do you know someone who can do that?" I would ask a manager if I can just free up some time and do this for a customer and they would tell me, we are not a cleaning company, we are not a junk removal company, we don't do exclusion work...WHY? When a customer is asking you for a, additional service, the worst thing you can say is "We don't do that". The best 2 things you can say is, I can provide a quote for all of that, or, let me call the (trade) company I work with and they will be able to help you. I found a way to go out and do this work for clients on the weekends as a side hustle, or recommend a tradesmen I know for a little commission. Then I started to see the potential of a full-service company and after a while I didn't want to represent a company that doesn't offer that level of service. SO HERE I AM!
+
+---
+
+## 19. When did your business start to feel truly professional?
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2026-03-03
+**Views:** 34 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/when-did-your-business-start-to-feel-truly-professional/8982
+
+### Content
+
+JOBBER COMMUNITY TEAM A lot of service pros describe a clear turning point 👉 when their business started running more a real operation and less constant improvisation. Before: Chasing payments Re-explaining prices on every job Customers hesitating or shopping around After: Quotes get approved faster Customers trust you earlier in the process Your business feels organized, even on busy days If you’ve experienced that shift, what changed? Was it how you quoted, how customers booked, how you got paid, or something else entirely? And if you haven’t felt that shift yet, what do you think would make the biggest difference? BUSINESS ADVICE MOTIVATION PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** FEP
+**Posted:** 2026-03-10
+
+It sounds funny, but when we started really using Jobber and its full capabilities, our company took on a completely different image almost overnight. Before that, we were doing good work but a lot of things still felt pieced together. Estimates, scheduling, and follow ups were more manual, and sometimes communication with customers could get messy on busy days. Once we started running everything through Jobber, things became much more organized and consistent. Customers receive professional estimates, approvals are easier, and all the details for each job are documented in one place. It also made it much easier to communicate clearly with customers and keep everyone on the same page. The biggest difference is that it doesn’t just help us stay organized internally. Customers notice it too. When everything from the estimate to the scheduling to the job notes looks professional and structured, people trust you faster and feel more confident moving forward with the work. That shift made the business feel a real operation instead of something we were constantly improvising day to day.
+
+---
+
+## 20. What was your favorite part and biggest takeway from the Jobber Summit?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-03-07
-**Views:** 9 | **Likes:** 0 | **Comments:** 1
+**Views:** 49 | **Likes:** 2 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what-was-your-favorite-part-and-biggest-takeway-from-the-jobber-summit/9209
 
 ### Content
@@ -26,11 +1116,138 @@ No Replies Be the first to
 
 ---
 
-## 2. Jobber Summit: Intros and discussion
+## 21. What’s hardest to keep under control as your business grows?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-03-02
+**Views:** 234 | **Likes:** 6 | **Comments:** 16
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what%E2%80%99s-hardest-to-keep-under-control-as-your-business-grows/8878
+
+### Content
+
+JOBBER COMMUNITY TEAM As your business grows, whether you’re solo or leading a team, what’s been the hardest thing to keep on track? Have you built a system for it yet, or are you still figuring it out? In this episode of Masters of Home Service,​ ryaantuttle​ and WiringByron​ covers: Why getting busier without systems creates more chaos The importance of locking in cash flow, business plans, and org charts before growth Simple processes ( estimating and invoicing) that make scaling easier Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Want to put these tips into action? Download our free business scaling readiness checklist. Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. BUSINESS ADVICE BUSINESS PLANS HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION PROFESSIONAL DEVELOPMENT
+
+### Replies (16)
+
+#### Reply 1
+
+**Author:** WiringByron
+**Posted:** 2026-03-02
+
+So excited this is out! If anyone watching this video would to talk about systemizing your business please reach out to me. Always open to helping other Jobber users!
+
+#### Reply 2
+
+**Author:** ryaantuttle
+**Posted:** 2026-03-02
+
+to WiringByron Great work, Cory WiringByron​ !!!! You crushed it brother!!
+
+#### Reply 3
+
+**Author:** Erin
+**Posted:** 2026-03-02
+
+JOBBER COMMUNITY TEAM Some great lessons shared from two awesome business owners. WiringByron​ and ryaantuttle​, thanks for being on the show.
+
+#### Reply 4
+
+**Author:** ryaantuttle
+**Posted:** 2026-03-02
+
+to Erin Thanks for the opportunity Erin​ !!!
+
+#### Reply 5
+
+**Author:** HUGEHandyman
+**Posted:** 2026-03-02
+
+For sure the hardest thing to manage is all the leads - We have leads coming from different places, and keeping track of where those conversations are in the sales process can be hard then once they are converted, what we can do with them. I'm working on a making a PM software on airtable or something but we haven't gotten it ironed out yet. Jobber's sales tab is super solid but where the biggest opportunity for them is extending in to project management. Being able to make tasks and assign them would be a total game changer.
+
+#### Reply 6
+
+**Author:** Lisa
+**Posted:** 2026-03-04
+
+JOBBER COMMUNITY TEAM to HUGEHandyman When leads are coming in from everywhere, just keeping track of who’s at what stage can feel a job on its own. Love that you’re building something out to help solve it. Really appreciate your feedback too, I'll make sure it gets passed along. Thanks for sharing! :)
+
+#### Reply 7
+
+**Author:** judithvirag
+**Posted:** 2026-03-05
+
+BUILDER 1 Keeping the quality. Right now with the growth this is our biggest struggle. From booking to the actual work to make sure all the notes/information is in the job and it actually gets done.
+
+#### Reply 8
+
+**Author:** Lisa
+**Posted:** 2026-03-05
+
+JOBBER COMMUNITY TEAM to judithvirag That’s a big one as teams grow. Making sure the right notes and details actually make it from booking to the job can get tricky fast. Are you using anything right now to help keep that organized for your team?
+
+#### Reply 9
+
+**Author:** WiringByron
+**Posted:** 2026-03-05
+
+to Lisa One thing we use is a Jobber integration called LiveSwitch. It's video with AI built in. I do a virtual walkthrough with the client or an on site walkthrough with the client. That video is shared with the estimator / client / crew so that we are all on the same page. Also from the video the AI which can make you check lists / scope of work straight from the video. Check it out.
+
+#### Reply 10
+
+**Author:** judithvirag
+**Posted:** 2026-03-05
+
+BUILDER 1 to Lisa Yes we use the notes section and we have developed the following system: job scope garbage pet info access to the home parking info special equipment The biggest challenge is not everyone is reading the notes - they get complecent.
+
+#### Reply 11
+
+**Author:** WiringByron
+**Posted:** 2026-03-05
+
+to judithvirag Judith, are you using Job forms heavily for quality control? / Maybe tied into a quarterly bonus plan with GSR meetings?
+
+#### Reply 12
+
+**Author:** ryaantuttle
+**Posted:** 2026-03-02
+
+Thank you, Lisa​ !!
+
+#### Reply 13
+
+**Author:** TheGlowGetter
+**Posted:** 2026-03-04
+
+We really struggled with intake calls and keeping them organized. One person was in charge of answering, and sometimes they couldn't pickup or it was impeding field work. We were losing leads and losing vital information if we did answer. We implemented Quo this year and just from the few calls we've gotten it appears it's going to be life-changing for our team!
+
+#### Reply 14
+
+**Author:** Lisa
+**Posted:** 2026-03-05
+
+JOBBER COMMUNITY TEAM to TheGlowGetter Missed calls and messy intake can be such a headache when everyone’s busy in the field, so it’s awesome Quo is helping smooth that out! Thanks so much for sharing :)
+
+#### Reply 15
+
+**Author:** Sobtine
+**Posted:** 2026-03-05
+
+Quality control with employees for sure
+
+#### Reply 16
+
+**Author:** Lisa
+**Posted:** 2026-03-06
+
+JOBBER COMMUNITY TEAM to Sobtine Quality control can definitely get harder as the team grows. Have you found anything that helps keep everyone consistent on jobs, or is it still something you're working on?
+
+---
+
+## 22. Jobber Summit: Intros and discussion
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2026-03-05
-**Views:** 208 | **Likes:** 6 | **Comments:** 15
+**Views:** 285 | **Likes:** 6 | **Comments:** 15
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/jobber-summit-intros-and-discussion/9092
 
 ### Content
@@ -146,182 +1363,11 @@ BUILDER 1 Hi, this is Judith from Calgary, Alberta, Canada and I own Clean Club 
 
 ---
 
-## 3. What gave you the courage to finally go “all in” on your business?
-
-**Author:** Lisa (Jobber Community Team)
-**Posted:** 2026-03-04
-**Views:** 7 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what-gave-you-the-courage-to-finally-go-%E2%80%9Call-in%E2%80%9D-on-your-business/9006
-
-### Content
-
-JOBBER COMMUNITY TEAM Looking back, what gave you the confidence to go all in? Was it a financial milestone, confidence in your craft, a mindset shift, or something else? In this episode of Masters of Home Service, Kevin Cook talks about: Starting a business while keeping a steady paycheck How survival-mode thinking hurts your sales and success The lessons and mindset shifts that helped him rebuild and start over Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. BUSINESS ADVICE HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 4. When did your business start to feel truly professional?
-
-**Author:** julie (Jobber Community Team)
-**Posted:** 2026-03-03
-**Views:** 6 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/when-did-your-business-start-to-feel-truly-professional/8982
-
-### Content
-
-JOBBER COMMUNITY TEAM A lot of service pros describe a clear turning point 👉 when their business started running more a real operation and less constant improvisation. Before: Chasing payments Re-explaining prices on every job Customers hesitating or shopping around After: Quotes get approved faster Customers trust you earlier in the process Your business feels organized, even on busy days If you’ve experienced that shift, what changed? Was it how you quoted, how customers booked, how you got paid, or something else entirely? And if you haven’t felt that shift yet, what do you think would make the biggest difference? BUSINESS ADVICE MOTIVATION PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 5. What’s hardest to keep under control as your business grows?
-
-**Author:** Lisa (Jobber Community Team)
-**Posted:** 2026-02-25
-**Views:** 142 | **Likes:** 6 | **Comments:** 16
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what%E2%80%99s-hardest-to-keep-under-control-as-your-business-grows/8878
-
-### Content
-
-JOBBER COMMUNITY TEAM As your business grows, whether you’re solo or leading a team, what’s been the hardest thing to keep on track? Have you built a system for it yet, or are you still figuring it out? In this episode of Masters of Home Service,​ ryaantuttle​ and WiringByron​ covers: Why getting busier without systems creates more chaos The importance of locking in cash flow, business plans, and org charts before growth Simple processes ( estimating and invoicing) that make scaling easier Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Want to put these tips into action? Download our free business scaling readiness checklist. Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. BUSINESS ADVICE BUSINESS PLANS HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION PROFESSIONAL DEVELOPMENT
-
-### Replies (16)
-
-#### Reply 1
-
-**Author:** WiringByron
-**Posted:** 2026-02-25
-
-So excited this is out! If anyone watching this video would to talk about systemizing your business please reach out to me. Always open to helping other Jobber users!
-
-#### Reply 2
-
-**Author:** ryaantuttle
-**Posted:** 2026-02-25
-
-to WiringByron Great work, Cory WiringByron​ !!!! You crushed it brother!!
-
-#### Reply 3
-
-**Author:** Erin
-**Posted:** 2026-02-25
-
-JOBBER COMMUNITY TEAM Some great lessons shared from two awesome business owners. WiringByron​ and ryaantuttle​, thanks for being on the show.
-
-#### Reply 4
-
-**Author:** ryaantuttle
-**Posted:** 2026-02-25
-
-to Erin Thanks for the opportunity Erin​ !!!
-
-#### Reply 5
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-01
-
-For sure the hardest thing to manage is all the leads - We have leads coming from different places, and keeping track of where those conversations are in the sales process can be hard then once they are converted, what we can do with them. I'm working on a making a PM software on airtable or something but we haven't gotten it ironed out yet. Jobber's sales tab is super solid but where the biggest opportunity for them is extending in to project management. Being able to make tasks and assign them would be a total game changer.
-
-#### Reply 6
-
-**Author:** Lisa
-**Posted:** 2026-03-04
-
-JOBBER COMMUNITY TEAM to HUGEHandyman When leads are coming in from everywhere, just keeping track of who’s at what stage can feel a job on its own. Love that you’re building something out to help solve it. Really appreciate your feedback too, I'll make sure it gets passed along. Thanks for sharing! :)
-
-#### Reply 7
-
-**Author:** judithvirag
-**Posted:** 2026-03-05
-
-BUILDER 1 Keeping the quality. Right now with the growth this is our biggest struggle. From booking to the actual work to make sure all the notes/information is in the job and it actually gets done.
-
-#### Reply 8
-
-**Author:** Lisa
-**Posted:** 2026-03-05
-
-JOBBER COMMUNITY TEAM to judithvirag That’s a big one as teams grow. Making sure the right notes and details actually make it from booking to the job can get tricky fast. Are you using anything right now to help keep that organized for your team?
-
-#### Reply 9
-
-**Author:** WiringByron
-**Posted:** 2026-03-05
-
-to Lisa One thing we use is a Jobber integration called LiveSwitch. It's video with AI built in. I do a virtual walkthrough with the client or an on site walkthrough with the client. That video is shared with the estimator / client / crew so that we are all on the same page. Also from the video the AI which can make you check lists / scope of work straight from the video. Check it out.
-
-#### Reply 10
-
-**Author:** judithvirag
-**Posted:** 2026-03-05
-
-BUILDER 1 to Lisa Yes we use the notes section and we have developed the following system: job scope garbage pet info access to the home parking info special equipment The biggest challenge is not everyone is reading the notes - they get complecent.
-
-#### Reply 11
-
-**Author:** WiringByron
-**Posted:** 2026-03-05
-
-to judithvirag Judith, are you using Job forms heavily for quality control? / Maybe tied into a quarterly bonus plan with GSR meetings?
-
-#### Reply 12
-
-**Author:** ryaantuttle
-**Posted:** 2026-02-25
-
-Thank you, Lisa​ !!
-
-#### Reply 13
-
-**Author:** TheGlowGetter
-**Posted:** 2026-03-04
-
-We really struggled with intake calls and keeping them organized. One person was in charge of answering, and sometimes they couldn't pickup or it was impeding field work. We were losing leads and losing vital information if we did answer. We implemented Quo this year and just from the few calls we've gotten it appears it's going to be life-changing for our team!
-
-#### Reply 14
-
-**Author:** Lisa
-**Posted:** 2026-03-05
-
-JOBBER COMMUNITY TEAM to TheGlowGetter Missed calls and messy intake can be such a headache when everyone’s busy in the field, so it’s awesome Quo is helping smooth that out! Thanks so much for sharing :)
-
-#### Reply 15
-
-**Author:** Sobtine
-**Posted:** 2026-03-05
-
-Quality control with employees for sure
-
-#### Reply 16
-
-**Author:** Lisa
-**Posted:** 2026-03-06
-
-JOBBER COMMUNITY TEAM to Sobtine Quality control can definitely get harder as the team grows. Have you found anything that helps keep everyone consistent on jobs, or is it still something you're working on?
-
----
-
-## 6. Stay connected after Jobber Summit!
+## 23. Stay connected after Jobber Summit!
 
 **Author:** rebecca (Jobber Community Team)
-**Posted:** 2025-03-09
-**Views:** 25 | **Likes:** 16 | **Comments:** 52
+**Posted:** 2025-04-02
+**Views:** 27 | **Likes:** 16 | **Comments:** 52
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/stay-connected-after-jobber-summit/2577
 
 ### Content
@@ -333,350 +1379,350 @@ JOBBER COMMUNITY TEAM It's great seeing so many connections happening at Jobber 
 #### Reply 1
 
 **Author:** BBQRescue
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Toronto BBQ Cleaning Company: https://www.instagram.com/bbq.rescue/
 
 #### Reply 2
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to BBQRescue 🍁
 
 #### Reply 3
 
 **Author:** RedCliff
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Red Cliff Landscapes @redclifflandscapes on IG Hope to hear from you folks, Cheers!
 
 #### Reply 4
 
 **Author:** Businesstwin
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 2025 Jobber Summit is my first summit. My business is The Cleaning Pro Services of Jax LLC out of Florida. Looking to grow and stay connected with someone who is also in the Residential and Commercial cleaning business, perhaps even a mentor as this is my first business.
 
 #### Reply 5
 
 **Author:** JanineChambers
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I offer Jobber Strategy & Training at www.janinechambers.com I also love connecting with business owners and Jobber users. My primary background is in landscaping but I have worked in several industries using Jobber. Feel free to reach out hello@janinechambers.com or reach out to me on Facebook through the Jobber Entrepreneurship Page
 
 #### Reply 6
 
 **Author:** kasyallen
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Wheatley Creek Services - Remodeling, Painting, & Cleaning - Granby, Colorado https://wheatleycreek.com/ Find me on IG + FB: kasyallen
 
 #### Reply 7
 
 **Author:** 
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 3LeafLandscape Wendy Frank landscaping out of Eagle, Idaho. Lets connect on Instagram @ThreeLeafLawnCare_Idaho would love to connect with other businesses, locally and landscapers. Also looking for great referrals for somebody that can update our website for Google ads. Our reviews are rolling in, thanks to the new Jobber feature. 😀 Thank you, Wendy
 
 #### Reply 8
 
 **Author:** ydwebdesign
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Great to use jobber with clients! Contact me for website and media services https://ydwebdesig.com Best wishes for all your businesses!
 
 #### Reply 9
 
 **Author:** marcusclayton
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Marcus Clayton https://www.plumbhartt.com https://www.westernsummitelectric.com/ https://www.diverseplumbingservices.com/
 
 #### Reply 10
 
 **Author:** coastalclarity
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Coastal Clarity Window Cleaners // La Jolla, Ca https://www.coastalclarity.net/
 
 #### Reply 11
 
 **Author:** firstclasslands
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 First Class Landscaping & Tree Service, LLC and First Class Junk Removal & Dumpster Rentals, LLC we are out of CT find us on Facebook or call/text 860-917-7092 Im always looking to network and work with others
 
 #### Reply 12
 
 **Author:** marcusclayton
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to firstclasslands Sending you a message!
 
 #### Reply 13
 
 **Author:** Carl_Jarvis
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I am working with a team to integrate custom AI solutions that can utilize your current systems to reclaim your time. southernhillsapplinace@gmail.com
 
 #### Reply 14
 
 **Author:** DMEnvironmental
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hi all! I am SMB owner in Colorado Springs. We do landscaping, lawncare and fencing both commercial and residential. Give me a shout if you are in Colorado! https://www.dmenvironmental.site/ info@dmenvironmental.site
 
 #### Reply 15
 
 **Author:** CorbanEnergy
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 www.corbanenergysolutions.com Western New York HVAC and Electrical Contracting Company.
 
 #### Reply 16
 
 **Author:** DanielleWernert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 So nice to learn new content from the Jobber Summit today! I am a consultant that helps home service companies build their own in-house technician training academies and onboarding experiences. If you ever want to chat technician training don't hesitate to reach out! I love supporting our trades! Danielle@upskilledconsulting.com www.upskilledconsulting.com
 
 #### Reply 17
 
 **Author:** SwiftScooper
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Pet Waste Removal Company - Swift Scooper LLC - Minneapolis, MN Jason Riddersen - SwiftScooper1@gmail.com Thank you and am excited to connect!
 
 #### Reply 18
 
 **Author:** EEHS
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hello from Dawn. I would appreciate staying connected. I own Elite Events and Home Services LLC, dba Window Genie of Arlington-Grand Prairie, TX. https://windowgenie/arlington-grand-prairie https://www.facebook.com/share/12HtXkEtimk/?mibextid=wwXIfr
 
 #### Reply 19
 
 **Author:** EricBarker
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Glass Scratch Repair www.glassscratchrepair.com (877)888-3911
 
 #### Reply 20
 
 **Author:** TekBud
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Tek Buds LLC - In-Home Tech support in the PNW tekbudsllc.com support@tekbudsllc.com MSP owners reach if youd to connect and share best practices. Happy Wednesday y'all!
 
 #### Reply 21
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 🍁 Great reading all the comments in the chat. It was highly entertaining! Please remember that yes, we millennials can be "annoying" as Codie says, but we also know and understand tech that y'all with more trips around the sun sometimes can struggle to grasp. Get comfortable with collaborating with talent from all generations, not just yours. Diverse teams are strong teams! 🍁
 
 #### Reply 22
 
 **Author:** TidyupsCleaning
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Tidyups Cleaning Service Inc Edmonton, AB Canada https://tidyupscleaning.com Anyone feel free to contact anytime with any questions, 780-718-5092 or 587-900-7223
 
 #### Reply 23
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to TidyupsCleaning 🍁
 
 #### Reply 24
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 If you see a Canadian Company, leave a 🍁 in the comment section for them! Support Canadian!
 
 #### Reply 25
 
 **Author:** HandyMillerMan
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hi everyone! Justin here... First year business owner in the Handyman and Home Improvement categories of Home Services. I'm actively leaving a career in veteran non-profit work, so if you're a veteran and would some resources or want to connect, please reach out! I'm also looking to start a discord or slack group for those of us Jobber users located in the #Chicagoland area. If you're in the area and want to link up, grab some coffee, talk shop... I'm in!
 
 #### Reply 26
 
 **Author:** LANugent
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Great session today! Toronto Business Consulting that optimizes your people, process and technology. We tinker with all the apps and leadership development tools to help future proof businesses and grow! www.TinkerTimeLabs.com
 
 #### Reply 27
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to LANugent 🍁
 
 #### Reply 28
 
 **Author:** phillipsenter
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 S&S Maintenance, HVAC. sandsmaintenance2005@gmail.com is our email. www.sandsmaintenanehvac.com is our website. We are on Facebook as well. The link it shows me is https://www.facebook.com/profile.php?id=61565124100282. I hope to hear from you all and be able to do some networking and business growth together.
 
 #### Reply 29
 
 **Author:** ydwebdesign
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Great to use jobber with clients! Contact me for website and media services https://ydwebdesign.com (sorry mistyped previously) Best wishes for all of your businesses! Let me know if you’d a free consultation. Just mention Jobber Summit to me at yvonne@ydwebdesign.com
 
 #### Reply 30
 
 **Author:** GroutMedic
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Grout Medic Denver Jesus Barrios, Owner groutmedic@gmail.com
 
 #### Reply 31
 
 **Author:** Sunpak_Sean
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Sunpak Electric- Electrical and Solar contractor Sean Hunter sean@sunpakelectric.com https://www.linkedin.com/in/sean-hunter-b88ab454/
 
 #### Reply 32
 
 **Author:** quinnswater
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hi it was nice connecting with you guys. We do water treatment in Ontario Canada and would love to connect to fellow business owners . We have done all the marketing ourselves with the help of Jobber. You can check us out https:// quinnswater.ca Ig/tiktok : quinnswater
 
 #### Reply 33
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to quinnswater 🍁
 
 #### Reply 34
 
 **Author:** GWCS
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Green Wave Cleaning Solutions Mooresville, NC www.greenwaveclean.com 833-562-4442
 
 #### Reply 35
 
 **Author:** GreenWish
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 GreenWish LLC Lawn and Landscape Services www.greenwishllc.net
 
 #### Reply 36
 
 **Author:** JenniferM16
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Machu Move Managers / Moline, IL - Servicing IL and IA Quad Cities I'm a Senior Move Manager and downsize, pack, unpack and settle older adults prior to them moving into a smaller home or senior commmunity. www.machumovemanagers.com
 
 #### Reply 37
 
 **Author:** Wally
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hey yall! I'm Emily, me and my husband Wally, just started a handyman business in GA. Would love to connect with similar businesses in the southeast! He does the real work, I do the behind the scenes stuff!
 
 #### Reply 38
 
 **Author:** PhilipO
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Wally Hay Emily, you may be the closet to me, I'm in WNC Philip levelandsquare@contractor.net I can do it all and then sum and it can get me into hot water sum times lol. Wat did you think of the event and of Jobber?
 
 #### Reply 39
 
 **Author:** HqhServices
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Wally Hi Emily!! I'm Lori, and my partner Mike and I have basically the same set up as you and Wally, except we're in Az. Just wanted to give you a heads up.... I started out doing "the behind the scenes stuff", while he did the "real work", but it didn't stay that way. This is the start of our 3rd year, and I am in the field as much as I am behind the computer! Best of luck to the both of you!
 
 #### Reply 40
 
 **Author:** JoshJones802
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hello Everyone! I am located in the Southern VT & NH region and specialize in carpentry & HVAC (and offer much more) come have a look on Insta: jjonescarpentry802 Would love to network with other professionals & help keep each other accountable!
 
 #### Reply 41
 
 **Author:** MetroSvcPros
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Metro Service Pros Handyman and Remodeling business in Austin Metro area https://metro-servicepros.com 512.348.9536
 
 #### Reply 42
 
 **Author:** dacostofliving
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 DaCost of Living dacostofliving on IG Real Estate Agent & Construction Project Manager in Ontario, Canada Let's Connect! -Tomika DaCosta
 
 #### Reply 43
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to dacostofliving 🍁
 
 #### Reply 44
 
 **Author:** Zephw
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Superior Refrigeration & AC Facebook- https://www.facebook.com/SuperiorRefrigeration2020 Kersey, PA Skipshvac- instagram hope to connect with others. Thanks for the opportunity
 
 #### Reply 45
 
 **Author:** Mikhail
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Daisy & Co Mikhail.Ibrahim@daisyandco.ca Canada | Ontario | Ottawa, Landscaping
 
 #### Reply 46
 
 **Author:** ApprenticeXpert
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 to Mikhail 🍁
 
 #### Reply 47
 
 **Author:** ThatWaylonGuy
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 I run Facebook ads for Home Service Professionals you guys! I grew up with blue collars and bloody knuckles so I came here to learn who I can help the most and to understand the expectations people have about advertising with Meta. I’d love to connect if anyone has any questions! https://www.facebook.com/waylon.bennett
 
 #### Reply 48
 
 **Author:** Woodworx
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 Hey Ben Wood here! New to Jobber, new to the area and country. Located in Charlotte, NC. Woodworx-clt on Instagram and across facebook. excited to be here and make some connections!
 
 #### Reply 49
 
 **Author:** judithvirag
-**Posted:** 2025-03-09
+**Posted:** 2025-04-02
 
 BUILDER 1 https://www.instagram.com/cleanclubcalgary/
 
 #### Reply 50
 
 **Author:** DMVJunkBusters
-**Posted:** 2025-04-09
+**Posted:** 2025-04-02
 
 Hello everyone! We're new to the Jobber community and would love to connect with other business owners. We're a Hauling and Junk Removal company located in the Washington D.C, Maryland, Virginia area. We just created our instagram account as well and would love to connect there as well. https://www.instagram.com/dmvjunkbusters/
 
@@ -696,11 +1742,11 @@ Hey everyone! Let’s connect! Silent Spark Electric silentsparkelectric.com Ins
 
 ---
 
-## 7. Who in your company could replace you and what would you need to teach them today?
+## 24. Who in your company could replace you and what would you need to teach them today?
 
 **Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-02-18
-**Views:** 52 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-03-02
+**Views:** 72 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/who-in-your-company-could-replace-you-and-what-would-you-need-to-teach-them-toda/8766
 
 ### Content
@@ -712,21 +1758,21 @@ I have been out of daily operations for almost 2 years now. However, the scale s
 #### Reply 1
 
 **Author:** tbarth
-**Posted:** 2026-02-18
+**Posted:** 2026-03-02
 
 I have cousins who owns a business that provides adjacent services, and they would be able to take over for me if something happens. My team could teach them any details they need, but they would be able to apply the vision that they have for their own company. If that were not the case, I wanted to have the option of leaving with confidence, and I didn't have someone to bring up from the ranks, I'd need to find and hire a "CEO" type person who would be able to understand, add to, and execute my vision for the company. One more seat to find a replacement for.
 
 #### Reply 2
 
 **Author:** sam-s
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 My business is new, but this is question I reflected on a lot. 1. When you think of scaling, what gets you excited? Serving more Customers in your geographic area, opening a location a new metropolitan area, franchising? 2. Your company has a mission statement, but what is the mission statement for your role as CEO? That's the target your replacement needs to have in their sights. "What you need to teach them" will flow from there. Very interested to hear your answers. I also sent you a DM. I own a cleaning company too and am trying to build my circle.
 
 #### Reply 3
 
 **Author:** roselvaggio
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 to sam-s Thanks for asking these, they get me excited! Scaling for me is making a difference for more people (whether that's the team or clients) and providing a legacy for my kids. I also love developing my leadership team into better leaders- the journey has been so fulfilling. My mission statement is to change the lives of the people who work in and around my company. I want to leave a lasting and positive impact on the world -- this stands true in every interaction we have!
 
@@ -739,11 +1785,11 @@ I think a lot of owners run into this exact challenge. The team can understand h
 
 ---
 
-## 8. For those of you in the North still dealing with snow and a delayed start to the season...
+## 25. For those of you in the North still dealing with snow and a delayed start to the season...
 
 **Author:** FredHodgeJr (Jobber Ambassador)
-**Posted:** 2026-02-26
-**Views:** 16 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 25 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/for-those-of-you-in-the-north-still-dealing-with-snow-and-a-delayed-start-to-the/8897
 
 ### Content
@@ -761,11 +1807,33 @@ We are always trying to create new ways to push us through January and February 
 
 ---
 
-## 9. Feb Community Spotlight: Quality Convos That Move the Needle
+## 26. What gave you the courage to finally go “all in” on your business?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-03-03
+**Views:** 12 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what-gave-you-the-courage-to-finally-go-%E2%80%9Call-in%E2%80%9D-on-your-business/9006
+
+### Content
+
+JOBBER COMMUNITY TEAM Looking back, what gave you the confidence to go all in? Was it a financial milestone, confidence in your craft, a mindset shift, or something else? In this episode of Masters of Home Service, Kevin Cook talks about: Starting a business while keeping a steady paycheck How survival-mode thinking hurts your sales and success The lessons and mindset shifts that helped him rebuild and start over Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. BUSINESS ADVICE HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 27. Feb Community Spotlight: Quality Convos That Move the Needle
 
 **Author:** julie (Jobber Community Team)
-**Posted:** 2026-02-28
-**Views:** 10 | **Likes:** 1 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 17 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/feb-community-spotlight-quality-convos-that-move-the-needle/8939
 
 ### Content
@@ -783,418 +1851,11 @@ No Replies Be the first to
 
 ---
 
-## 10. What advice would you give to someone feeling discouraged or doubtful about their entrepreneurial journey?
-
-**Author:** rebecca (Jobber Community Team)
-**Posted:** 2025-03-09
-**Views:** 32 | **Likes:** 19 | **Comments:** 56
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/what-advice-would-you-give-to-someone-feeling-discouraged-or-doubtful-about-thei/9
-
-### Content
-
-JOBBER COMMUNITY TEAM Let's start this forum off with some of your best tips you dish out when a fellow entrepreneur needs a boost. We've all been there! LEARNING FROM MISTAKES MOTIVATION
-
-### Replies (56)
-
-#### Reply 1
-
-**Author:** mowtownedmonton
-**Posted:** 2025-03-09
-
-I found that goal setting and breaking down those goals into individual tasks made it easier to see the path to growth. If 5 big goals for the year have 10 tasks each to achieve them, that's enough for 1 task each week for the year. If you do all that work and still fail, you can honestly say that you did at least 50 things to make it work. That at least helps to address the operational needs of the company. In terms of your personal feelings as an entrepreneur, just know that you aren't alone. Everyone who has built a business from scratch have these problems. I'll bet cash is uncomfortably tight? You have a couple clients who are unreasonable but you can't afford to fire them? Your staff aren't nailing it? How about not having enough hours in the day? Beeeeeen there. We all have. The burnout, the anxiety and the uncertainty will clear up if you're willing to keep pushing forward. That struggle you're going through today is extremely important, necessary even. When you overcome today's big nightmare, (and you will one way or another) you'll come out of it more trained and skillful for nightmares that. Knock out enough nightmares and guess what, nothing is a nightmare anymore. You'll be less and less vulnerable, or maybe just vulnerable to tackle bigger and scarier issues. There's no pathway to entreprenuerial success that isn't paved with the hard won experience. Somewhere along the way, a friend or family member will point out how you kept your cool in a seriously tough situation, and you'll realize that it wasn't tough this time, and you'll remember when it was the toughest thing you could imagine. Riding out entrepreneurship will change who you are.
-
-#### Reply 2
-
-**Author:** lldavid
-**Posted:** 2025-03-09
-
-to mowtownedmonton Your points are spot on. It's a hard path to follow, which has an unknown ending/goal, so taking each day for what is worth is usually the best we can do.
-
-#### Reply 3
-
-**Author:** Shockwell181
-**Posted:** 2025-07-09
-
-to mowtownedmonton I needed that. Thank you.
-
-#### Reply 4
-
-**Author:** bennettdevelops
-**Posted:** 2025-07-09
-
-to mowtownedmonton Thank you for this !!!
-
-#### Reply 5
-
-**Author:** tiffanydavis1
-**Posted:** 2025-08-09
-
-to mowtownedmonton Wow! This is exactly what I needed to read today. Being an entrepreneur is certainly something that you have to strive to maintain everyday. I was just thinking to myself that money really is tight for me. But, I also know that I can't give up and you said push forward. It will pay out in the end. Thanks for this.
-
-#### Reply 6
-
-**Author:** EugeneWatson21
-**Posted:** 2025-03-09
-
-Trust yourself, keep learning, and keep pushing forward. Keep learning new ways to do what you need to do.
-
-#### Reply 7
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to EugeneWatson21 Absolutely, staying curious and adaptable is key! Any particular resources or methods that have helped you stay on top of industry trends?
-
-#### Reply 8
-
-**Author:** Bdowns22
-**Posted:** 2025-03-09
-
-to EugeneWatson21 I could not agree more about trusting yourself. If you don't believe in yourself and your work, how can you expect your customers to believe in you??
-
-#### Reply 9
-
-**Author:** CandyCain24
-**Posted:** 2025-03-09
-
-You just have to start. Will it be sacry? Definitely!! Will it be worth it? Totally!!! Will it be easy? **bleep** No! Always keep learning, because there will be someone out there that has the newest, shiny thing that will challenge you. But if you dig in and go for it and you know what you are doing, then you have nothing to fear.
-
-#### Reply 10
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to CandyCain24 Love the honesty and motivation! It's true—starting is the hardest part, but it's all about pushing through the fear and staying sharp.
-
-#### Reply 11
-
-**Author:** BadgerHauling
-**Posted:** 2025-03-09
-
-I maybe too blunt and not fluffy enough. A good reminder on why you started the business. If the business owner is feeling discouraged or doubtful and they cannot change their mindset, they should become an employee. As leaders, we need to be comfortable putting ourselves into uncomfortable situations. Nothing wrong with doubting a decision but if it was made and it turns out wrong, you learn from it and move on.
-
-#### Reply 12
-
-**Author:** Hjbyrdle33
-**Posted:** 2025-03-09
-
-Trust the process. Lulls can happen, and you can always learn something from them. Motivation is intrinsic so revisit your "why" and tweak it if it has evolved.
-
-#### Reply 13
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to Hjbyrdle33 Great advice. Trusting the process and revisiting your "why" can really help keep things in perspective.
-
-#### Reply 14
-
-**Author:** Bdowns22
-**Posted:** 2025-03-09
-
-You certainly will get overwhelmed from time to time, We ALL DO...... The key to overcome this is to remember why you started this journey to begin with. Also keep in mind that NO MATTER what, THIS TO SHALL PASS........
-
-#### Reply 15
-
-**Author:** rebecca
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to Bdowns22 Gotta remember your why! Care to share yours Bdowns22 ? And always great to keep in mind that tomorrow is another fresh day. Awesome advice!
-
-#### Reply 16
-
-**Author:** bedellmgmt
-**Posted:** 2025-03-09
-
-Having a bigger purpose or why has always helped me find my true north when the journey is tough
-
-#### Reply 17
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to bedellmgmt Your true north 🙌 what a powerful approach. A strong sense of purpose can definitely guide you through the tough times.
-
-#### Reply 18
-
-**Author:** Dreadist
-**Posted:** 2025-03-09
-
-There are highs and lows just keep at it and never get discouraged when you have your lows because if you keep on that path it will turn into a high!
-
-#### Reply 19
-
-**Author:** julie
-**Posted:** 2025-03-09
-
-JOBBER COMMUNITY TEAM to Dreadist It’s encouraging to remember that lows are often just a part of the journey to future highs. Thanks so much for sharing!
-
-#### Reply 20
-
-**Author:** Poo-Picker-Josh
-**Posted:** 2025-03-09
-
-Welcome to entrepreneurship! The best response i've ever got for my discouragement from my mentor... "Have you ever thought thats what it's supposed to feel ?" I feel discouraged all the time. Success is 80% failure haha. Welcome to the club! I get pumped now because it's pushing through the discouragement that not many are willing to push through. When you do things that most aren't willing to do you get results most people never will! Friction = Traction!
-
-#### Reply 21
-
-**Author:** seanroz
-**Posted:** 2025-03-09
-
-Consistency over intensity, most people fail because they don't see immediate results from their efforts and just give up.
-
-#### Reply 22
-
-**Author:** SLLC
-**Posted:** 2025-03-09
-
-If someone is feeling discouraged or doubtful about their entrepreneurial journey, here are some pieces of advice that may help: 1. Reflect on Your Why: Take a step back and remind yourself of why you started this entrepreneurial journey in the first place. Reconnect with your passion, purpose, and goals. Understanding your motivation can reignite your drive and determination. 2. Focus on Progress, Not Perfection: Entrepreneurship is a journey filled with ups and downs. Celebrate small wins along the way and acknowledge the progress you've made, however incremental it may seem. Remember that setbacks are a natural part of growth. 3. Seek Support: Don't hesitate to reach out to mentors, fellow entrepreneurs, friends, or family members for support and encouragement. Surround yourself with positive influences who can offer guidance and perspective during tough times. 4. Embrace Failure as a Learning Opportunity: Failure is not the end but a stepping stone to success. Reframe setbacks as valuable learning experiences that can help you grow stronger and wiser in your entrepreneurial endeavors. 5. Take Care of Yourself: Entrepreneurship can be demanding, both mentally and physically. Make self-care a priority by ensuring you get enough rest, exercise, and relaxation. A healthy mind and body are essential for resilience and perseverance. 6. Adjust Your Mindset: Shift your perspective from seeing challenges as roadblocks to viewing them as opportunities for innovation and growth. Cultivate a positive mindset that embraces change and adapts to new circumstances. 7. Break Down Goals into Manageable Tasks: Feeling overwhelmed is common on the entrepreneurial journey. Break down your goals into smaller, manageable tasks to make progress more achievable and less daunting. 8. Stay Persistent: Remember that success rarely happens overnight. Stay committed to your vision, stay consistent in your efforts, and trust the process. Persistence is often the defining factor between those who give up and those who thrive. 9. Celebrate Your Resilience: Entrepreneurship is not for the faint of heart. Acknowledge your resilience and courage for embarking on this challenging path. Believe in yourself and your ability to overcome obstacles. 10. Revisit Your Vision: Take time to revisit your long-term vision and remind yourself of the impact you aspire to make through your entrepreneurial journey. Let your passion and commitment reignite your sense of purpose and drive. Remember, feeling discouraged or doubtful is a normal part of the entrepreneurial experience. It's how you respond to those feelings that will define your journey. Stay resilient, stay focused, and keep moving forward.
-
-#### Reply 23
-
-**Author:** quinnswater
-**Posted:** 2025-03-09
-
-Always remember why you started. You're either building your future or letting it slip away. The choice is always yours.
-
-#### Reply 24
-
-**Author:** groovecleaning
-**Posted:** 2025-07-09
-
-Consistency is key, nothing happens over night. Ensure you are always doing something to benefit yourself or your business everyday get 1% better and overtime you will have a thriving business.
-
-#### Reply 25
-
-**Author:** KJobi
-**Posted:** 2025-07-09
-
-Discouragement is real- but it should not be the end of your story and often doubt shows up just before growth. When you feel overwhelmed, pause and realign with Your original "why". Revisit your vision, break larger steps into smaller more meaningful steps. Another practical step that helped us in the beginning was, surrounding yourself with wise counsel and people who are where you want to be.
-
-#### Reply 26
-
-**Author:** Tadams
-**Posted:** 2025-07-09
-
-If you're feeling discouraged or doubtful about your entrepreneurial journey, here are some pieces of advice from Solar Eclipse Window Coverings that may help: **Remember Your Why**: Reflect on why you started your venture in the first place. Reconnecting with your passion can reignite your motivation. **Embrace Challenges**: Understand that setbacks are part of the entrepreneurial process. Each challenge can teach you valuable lessons and contribute to your growth. **Set Small Goals**: Break your larger goals into smaller, manageable tasks. Achieving these smaller milestones can boost your confidence and sense of progress. **Seek Support**: Reach out to mentors, fellow entrepreneurs, or supportive friends and family. Sharing your experiences can provide new perspectives and encouragement. **Celebrate Wins**: No matter how small, celebrate your achievements. Recognizing progress can improve your outlook and motivation. **Stay Flexible**: Be open to adjusting your plans and strategies as needed. Flexibility can help you navigate obstacles more effectively. **Focus on Learning**: Adopt a growth mindset and view challenges as opportunities to learn. Continuous learning will enhance your skills and resilience. **Take Breaks**: Step back when you need to recharge. A change of perspective can bring renewed energy and clarity. **Visualize Success**: Picture what success looks for you. Visualization can help you stay focused and motivated on your journey. **Keep Going**: Remember that persistence is key. Many successful entrepreneurs faced doubts along the way but persevered to achieve their goals. Trust the process, stay committed, and believe in your abilities. Your journey is unique, and every step contributes to your growth as an entrepreneur.
-
-#### Reply 27
-
-**Author:** Jeremyking
-**Posted:** 2025-03-09
-
-Ask questions. Verify your source. So many opinions. Find a plan and stick to it until you decide a change is needed give it time though. Also when discouraged write out what you have done well
-
-#### Reply 28
-
-**Author:** ayangonz
-**Posted:** 2025-03-09
-
-Find a mentor. Nothing will get you where you want to go faster and with less pain than following a mentor. Nothing.
-
-#### Reply 29
-
-**Author:** shinyabode
-**Posted:** 2025-03-09
-
-Believe in God and have faith in Jesus Christ. “I can do all things through Christ who strengthens me” is a Bible verse from Philippians 4:13. It is a common expression of faith and a reminder that people can overcome challenges with the strength and empowerment that comes from Jesus. In addition to that, believe in people who say they are not extraordinary and say that if they can do it, so can you!
-
-#### Reply 30
-
-**Author:** 
-**Posted:** 2025-03-09
-
-CK Stop being so **bleep** yourself and take a look at everything you've accomplished being an entrepreneur. They've got the suit, drive, know how and a fantastic attitude all great attributes for an entrepreneur. Now go look in a mirror and smile at your beautiful self! Say to that person in the mirror that you love 'em and what a winner you are. I'm always here for ya buddy, I love and believe in you, did you want that hug now? They're free
-
-#### Reply 31
-
-**Author:** FredHodgeJr
-**Posted:** 2025-04-09
-
-Doubt comes from focusing on problems instead of solutions. Break down what’s overwhelming you into small, executable steps. Feeling stuck? Do the next thing that moves the needle—even if it's just one phone call, one email, or one sale.
-
-#### Reply 32
-
-**Author:** Jmcdowell
-**Posted:** 2025-06-09
-
-If you have a passion for what you’re doing then go for it!!! You only fail if you don’t go for it. Sometimes you got to just take the chance and if you fail learn from it then take that as a lesson to better yourself and keep going. You’ll get whatever you put into your business back out of it if you give it your all. If you’re not pushing yourself or believing in yourself then you’ll definitely get just that out of your business
-
-#### Reply 33
-
-**Author:** luronelee
-**Posted:** 2025-06-09
-
-Rome wasn't built in day. It takes time to discover your strength and weaknesses. Once you do, that will be the source of your collective energy. Always find minded people who have your best interest at heart. You can learn from them and also ask for advice. Stay away from people who always criticize and never have anything good to say about what you are trying to do. It will only cause you more pain and suffering. This is way Nonprofit businesses have Board of Directors. They specialize in working together to find out what works best for a business. Find your own group of business oriented people, and start building idea's and plans for business, and ways to move your business forward.
-
-#### Reply 34
-
-**Author:** topscoop
-**Posted:** 2025-07-09
-
-Remember why you started your journey. Each NO you get is one NO closer to a Yes. Most people don't make it because of their mindset and the risk we take as business owners. Stay locked in and never give up. good things happen to those who wait. Success doesn't just happen overnight. It is a long hard process. Believe in the process!
-
-#### Reply 35
-
-**Author:** Hecmar801
-**Posted:** 2025-07-09
-
-Having your own business will definitely challenge your entrepreneurial spirit. Especially when things don’t go as planned. Having a mentor or coach that you can talk to on a weekly basis’ really helps keep you motivated and keep your mindset thinking the right way. Setting some goals and get an accountability partner!
-
-#### Reply 36
-
-**Author:** VCMEssentials
-**Posted:** 2025-07-09
-
-Being an entrepreneur is challenging but here is some advice I wish I had known before I started my journey. Communication - you must be able to convey your mission/vision with clarity. As an entrepreneur, we understand our message but sometimes that does not translate to our audience. Use social media (my advice focus mainly on two social media platforms unless you have someone dedicated to managing your social media consistently.) Understand your industry the pros and cons of your industry before you start. So you can have a contingency plan in place. Some industries are seasonal, some industries the protocols/guidelines are always changing, some industries have low start-up costs and some have high employee turn-over. Support - look for free business resources the SBA/Score (provides free mentorship), and programs the Verizon Digital Ready program. Education/Experience: getting hands-on experience is essential for you to get better. Education and certifications can be important for your industry, they can help you become an expert in your field, differentiate your business from your competitors, and make your business stand out. Finances - Do not spend unnecessary money, especially in the first 3 years, statistically start-ups have a high failure rate. Business credit - establish it as soon as you can, and if you are trying to get credit from a few creditors, try to apply for credit within the same week so it does not affect your personal credit more than once. (note: some creditors do ask for your SS and business EIN to apply for credit) Find ways to increase income: such as 1. affiliate marketing, 2. a new product or service (make sure you take a poll, and test it out for a few months before committing to the new product or service; as it may not make sense financially or operationally. Invest in assets or find ways to have your money grow for example business high-yield savings, or business CDs. Running a business is not easy, make sure you have a business plan (that you update every 6 - 12 months, know your KPI's, always provide exceptional service, request customer feedback, and start the business for a trial period especially if you don't know if it is a profession you are truly invested in. Hope that helps!
-
-#### Reply 37
-
-**Author:** MRBUBBLES
-**Posted:** 2025-07-09
-
-hang in there and whatever you do, don't ever try to turn a no into a Yes because life is full of YESSESS...you just have to go out there and find yours!
-
-#### Reply 38
-
-**Author:** thomastryon
-**Posted:** 2025-07-09
-
-It's easy to feel overwhelmed or discouraged in the thick of business. That's why it's so important to have a clear and compelling "why" behind what you're doing. When the tough moments come, and they will, remember that every failure and challenge is an opportunity to learn, grown and get better. The hard times aren't just obstacles, they're shaping your business into something stronger. As Dave Ramsey says, "The mountain of success people see is really just pile of failures." Keep climbing.
-
-#### Reply 39
-
-**Author:** Coronapropaint
-**Posted:** 2025-07-09
-
-First of all I have some points that maybe helpful… if u gonna star to build a company.. make sure that is something that u are passionate about. (Customers smell it) make sure that u have the knowledge to do so, and ask for help if u aren’t , you have to be confident about what u offer. always take pictures of your work before and after, those are very helpful for references and also to grow your confidence Roma didn’t build in one day, it will take u time but with a good CUSTOMER SERVICE (be kind and listen to your customers NEEDS, and u will blow up. No everything is about what u offer but make your customers happy around u, and then they WILL for sure make some referrals and u no need to look for jobs anymore, they come to u easily. I hope this helps and keep going , the gold is one step away, if u quit now… u won’t find it GOID LUCK!!🍀
-
-#### Reply 40
-
-**Author:** dber8
-**Posted:** 2025-07-09
-
-Trust that every setback is part of the process. Stay focused on your “why,” take one step at a time, and don’t be afraid to ask for help. Progress often comes just after the point you feel giving up. Keep going. You are closer than you think.
-
-#### Reply 41
-
-**Author:** Hudson
-**Posted:** 2025-07-09
-
-I have been in the flooring business for over 25 years. Started as a helper on the delivery truck and worked myself through all the steps of the flooring business. Driver, installer, finisher, general manager of the store, sales manager, VP. Then became one of the owners of HQ Flooring and Renovations (High Quality Flooring). I have to tell you that it has been a hard road and to stay motivated is easy when the work is flowing in. But when hard times come, such as this past winter, it is easy also to give up and see yourself out of the business. It is very important to know what to do and be prepared for when hard times come. I always expect winter months to be very slow, however my partner and son-in-law hadn't experienced these slow months, since he has been in the business since 2020. I always saved enough money to stay a float on the winter months, however due to the lack of work and the slow down of the economy, this past winter we were not prepared. It was a long and hard winter and we are still feeling the effects of not being prepared for it. So my suggestion is to get a grip on your accounting and save as much as you can so you don't run into issues these when the jobs stop flowing. We invested in a couple of marketing companies, which let to nothing substantial. But working with Jobber and using the tools available to us, we were able to generate and still generating a good solid work load. I am glad I didn't give up, and I am hoping to be here doing what I do best for another 20 years.
-
-#### Reply 42
-
-**Author:** aleidalemes
-**Posted:** 2025-07-09
-
-It's a roller coaster for sure! You have to expect it. You can't get too comfortable with the high of success. You can't get too anxious or defeated when the lows come. When you think about the journey from this perspective, it's easier to deal with solving problems rather than taking the problems personally.
-
-#### Reply 43
-
-**Author:** 
-**Posted:** 2025-07-09
-
-KC I have already replied to this message.
-
-#### Reply 44
-
-**Author:** jovante
-**Posted:** 2025-07-09
-
-After reading this and seeing the comments this actually just help me out even more
-
-#### Reply 45
-
-**Author:** iamplayworks
-**Posted:** 2025-07-09
-
-Give yourself GRACE... grace and space to learn, unlearn, make mistakes, practice, course correct, BREATHE, cry, absorb, ask questions and sometimes ask the same questions over and over again until it sticks, find the right mentors, and to START OVER at your own pace. Rome wasn't built in a day, yet it was because they showed up every day, they ask and received, sought and found what they needed, knocked on doors that seemed closed until they were open.
-
-#### Reply 46
-
-**Author:** The_Guru_7
-**Posted:** 2025-07-09
-
-I’d tell them this: You’re not alone, and doubt is part of the journey—not a disqualifier. I have a grant writing agency. When I started my business, I was working full time managing a nonprofit organization for entrepreneurs, teaching entrepreneurship to college students, bootstrapping everything, and building my business late at night and on weekends. I’ve faced loss, setbacks, and seasons where I questioned if the sacrifices were worth it. But what kept me going was knowing someone was waiting on the other side of my persistence—someone who needed the service or solution only I could provide. Discouragement doesn’t mean you’re failing. It means you care deeply. In those moments, revisit your why. Surround yourself with people who understand your vision, and give yourself grace as you grow. Success isn’t always loud. Sometimes, it’s quietly choosing to keep going when no one’s clapping yet. Keep building. Keep believing. You’re further along than you think.
-
-#### Reply 47
-
-**Author:** roselvaggio
-**Posted:** 2026-02-09
-
-Feel the fear and do it anyway! I banged my head against the wall many times before learning from certain mistakes, and it’s made me a stronger leader today! And don’t ever give up.
-
-#### Reply 48
-
-**Author:** ryaantuttle
-**Posted:** 2025-03-09
-
-Feeling doubtful or discouraged? You're in the right place! Welcome to the club. Surround yourself with a small network of minded folks that have achieved where you'r trying to go. Hire a coach, join a mentoring group and hold one for the ride of your life. Also read the E-myth!
-
-#### Reply 49
-
-**Author:** ORL
-**Posted:** 2025-07-09
-
-Just keep going! We all have special gifts we can share with our clients.
-
-#### Reply 50
-
-**Author:** MirelectRepairz
-**Posted:** 2025-07-09
-
-If you put half the dedication that you put towards working for someone else and running, building or maintaining their company/business then you won’t regret the pay off of doing that for yourself in the long run. But it can get tough though.
-
-#### Reply 51
-
-**Author:** EnergizeUs
-**Posted:** 2025-07-09
-
-This hits home! I’ve seen it and I’ve lived it. Why? Because when I first started I ran on emotions, and made decisions— not using logic. This is the cycle that keeps most contractors in the run around. I believe we don’t need more motivation. We need a blueprint to make decisions that actually hold up. So I put this together for the ones who are tired of the emotional rollercoaster of contracting, service based business. 📌 Mad one day, burnt out the next, then desperate all over again. Im the hamster on the wheel. What are your thoughts?
-
-#### Reply 52
-
-**Author:** BrandenSewell
-**Posted:** 2025-09-09
-
-I can sum my experience as an entrepreneur with one quote that my mom shared with me when I was about 15 years old, "Our greatest glory is not in never falling, but in rising every time we fall." Don't expect to have it easy. Don't expect to never fall down. Don't expect to never have to start over. The one thing you can decide is to get up, dust yourself off, learn and fall forward. Those that go the furthest aren't those that had it easier...a lot of times its just those who refused to quit.
-
-#### Reply 53
-
-**Author:** RickettsVan29
-**Posted:** 2026-02-09
-
-It's often said that the most rewarding endeavors come with their share of challenges, and entrepreneurship is no exception. Think about it: whether you aspired to be an Olympic athlete or learned to drive, every worthwhile pursuit has its hurdles. These experiences teach us resilience and valuable life lessons, reminding us that the journey is rarely linear and there are always unexpected twists and turns along the way! One piece of advice I often share with my clients is the importance of self-care and self-compassion. Prioritizing health and fitness, nutrition, and rest, whatever that means to you, is important to incorporate into your daily routine, whether you're at a job site, a client's home, or your remote office. Also, allow yourself the grace to fail, make mistakes, and learn from those experiences. It’s completely normal to encounter obstacles and have days filled with doubt. However, amidst these challenges, it’s crucial to take a moment to celebrate your successes, no matter how small they may seem. Setting clear goals and recognizing your achievements can make all the difference! And remember, approaching your dreams is much eating an elephant; just take it one bite at a time. Embrace the journey with optimism, and you’ll be amazed at what you can accomplish!
-
-#### Reply 54
-
-**Author:** BrandenSewell
-**Posted:** 2026-02-24
-
-JUST KEEP SWIMMING! 🐠
-
-#### Reply 55
-
-**Author:** PestFreeCanada
-**Posted:** 2026-02-24
-
-Always, always, always think about WHY you started your own journey as an entrepreneur! Was it a bad company that made you quit? Was it a vision you saw that wasn't being met by other companies? Was it for freedom? Just keep your goals in mind and know its not going to happen overnight.
-
-#### Reply 56
-
-**Author:** FredHodgeJr
-**Posted:** 2026-02-26
-
-Feeling discouraged in your entrepreneurial journey does not mean you are failing, it means you are stretching. This path is a pressure cooker. Payroll shows up whether you feel confident or not, deals fall through, equipment breaks, people quit, and markets shift. Doubt is not a stop sign, it is part of the growth process. When you feel it, zoom out before you zoom in. Do not judge your business off one bad week or one lost client. Look at your progress over years, not days. Separate your identity from the outcome. You are not this month’s revenue or one tough decision. Instead of asking what is wrong with me, ask what system needs tightening. Most discouragement is a signal that something in the process needs to improve. When everything feels overwhelming, shrink the battlefield and focus on the three highest leverage moves you can make this week. Momentum restores confidence. Protect your inputs by getting around other builders, sharpening your mind, and feeding yourself strong perspectives. Reconnect to why you started, whether that was freedom, impact, legacy, or providing for your family. And remember this truth: every entrepreneur you admire has doubted themselves, they just did not quit in the valley. You do not need a breakthrough, you need the next right decision. Stack enough of those and confidence will follow.
-
----
-
-## 11. Any advise on how to learn about Google Ads coming from knowing absolutely nothing??
-
-**Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-09
-**Views:** 133 | **Likes:** 2 | **Comments:** 9
+## 28. Any advise on how to learn about Google Ads coming from knowing absolutely nothing??
+
+**Author:** PestFreeCanada (Contributor 5)
+**Posted:** 2026-02-02
+**Views:** 163 | **Likes:** 2 | **Comments:** 9
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/any-advise-on-how-to-learn-about-google-ads-coming-from-knowing-absolutely-nothi/8293
 
 ### Content
@@ -1206,73 +1867,73 @@ I have been getting some very positive reviews on Google and want to start to le
 #### Reply 1
 
 **Author:** ryaantuttle
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 This is the best advice you will ever receive about Google ads.... Hire someone that knows what they are doing and specializes in this.
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 BUILDER 1 PestFreeCanada​ - just based on your name I see you are in Canada. I am in Calgary and I can recommend my marketing team. Agree with ryaantuttle​ I am good at a lot of things, but the maze of Goolge Ads I am not. We get 70% of our leads through google ads. Let me know I would be happy to connect you.
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 to judithvirag Yes I am proudly in Canada! If you have anyone that could help I would be more than happy to reach out and talk! I think I am in the place to hire someone I have seen the potential of the ROI and it is something I am prepared to do!
 
 #### Reply 4
 
 **Author:** judithvirag
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 BUILDER 1 to PestFreeCanada PestFreeCanada​ Do you want to send me your email address - you can send me a private message as well and I can put you in contact via email? Thanks, Judith
 
 #### Reply 5
 
 **Author:** Harris1948
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 PestFreeCanada​ We are also Alberta based and have had great luck with our marketing consultant Smarder Marketing https://smarder.io/ Highly recommend them as they have taken an immense amount of time to walk us through Google ads and how to build a website and ads which optimize your SEO. They do all the heavy lifting for us yet the fact that they've taken the time to teach us what is needed so that we understand how Google works/thinks has been life changing for our business. Google itself also has some great resources. Feel free to reach out privately and I can get you connected with Smarder directly. Cheers.
 
 #### Reply 6
 
 **Author:** johnragon
-**Posted:** 2026-02-24
+**Posted:** 2026-03-02
 
 PestFreeCanada​ How is the Google Ads progress going? While, I do agree with ryaantuttle​ about the professional part, the best way to get started is to slowly start running Google Local Services ads. You've probably heard people refer to them as LSA ads, and it's connected directly to your Google business profile. You only end up paying for ads if someone reaches out to your business (via your Google Business Profile). They can be more expensive, but are way less risky than running the standard Google search ads. Essentially, they're guaranteed to get you a conversation as long as you pick up the phone. If you're a one-person-shop then that might be difficult, but it's a great way to shoot to the top of Google Maps in a short span of time.
 
 #### Reply 7
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-24
+**Posted:** 2026-03-02
 
 to johnragon So far so good! I did end up hiring a company that judithvirag​ recommended to manage it for me. We are still in the late stages of planning and about to roll it out. I am very excited for it and will update everyone when the campaign starts to roll along.
 
 #### Reply 8
 
 **Author:** Pstock1988
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 I learned years ago by finding a great YouTube video on the step format, and video format. Even google has a learning page.
 
 #### Reply 9
 
 **Author:** lawn_kingsUS
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Youtube, and Chatgpt, I'm far from a seasoned pro when it comes to technology, and chatgpt was able to walk me through setting up my google search ads. Google local service ads are pretty straight forward to setup, google walks you through it step by step. Depending on where you are at with your business, you may want to setup yourself to avoid the added overhead cost that comes with hiring a company.
 
 ---
 
-## 12. Would you offer junk removal services after listening to this?
+## 29. Would you offer junk removal services after listening to this?
 
 **Author:** Lisa (Jobber Community Team)
-**Posted:** 2026-02-11
-**Views:** 20 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 24 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/would-you-offer-junk-removal-services-after-listening-to-this/8652
 
 ### Content
@@ -1290,61 +1951,11 @@ No Replies Be the first to
 
 ---
 
-## 13. From weekend side hustle to full-time: what would you start with?
-
-**Author:** Laura1111 (Contributor 3)
-**Posted:** 2026-02-09
-**Views:** 101 | **Likes:** 1 | **Comments:** 5
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/from-weekend-side-hustle-to-full-time-what-would-you-start-with/8519
-
-### Content
-
-Hey everyone We’re in NJ and exploring starting a weekend home service business that could eventually replace full-time income. My husband comes from road service and gas station inventory work—very hands-on, problem-solving, and customer-facing. The plan is to start on weekends, replace overtime first, and grow from there. For those who’ve done it: - What service did you start with on weekends? - What would you do differently if you were starting again? - Any service you wish you hadn’t tried? Would love to hear real stories and lessons learned. BUSINESS ADVICE COMMUNITY HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION NETWORKING PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
-
-### Replies (5)
-
-#### Reply 1
-
-**Author:** IronRidge
-**Posted:** 2026-02-09
-
-DO IT, don't wait thinking everything has to be in place. Start it, draft your vision, create the business name, decide who will be your demographic (client base), find out what laws you have to obey to launch and run it. Then go, create processes (SOPs) along the way, adjust course when needed. With effort and desire you easily could replace his current job within a year. At this stage time is your currency, don't spend money on marketing, design some basic business cards and go network. Meet every business owner you can. You need exposure at this stage so spend your currency time in getting in front of the people that fit your demographic. Let's look at the questions you asked. :) What service did you start with on weekends? Junk Removal - This is my fourth business to launch from the ground up while working a full time job. This one to date (entering my fourth week) has been the most successful in the amount of time it has been alive. Dream big, run with your vision as hard and fast as you can. If you have these three things you are doing consistently you will be so far above your competition you will scale quickly. 1. Communicate (Vital always talk to the client! Jobber had a video recently where a lady said that is the number one problem in home service businesses is the lack of communication. 2. Be transparent - this shows you are human and that you are striving to be the best service based company for them. 3. Under promise and over deliver - If you give/do even 1% above what you promised you are lightyears above your competition. What would you do differently if you were starting again? Would of launched sooner and worked harder to get in front of more people. Example join networking groups, Kiwanis, The American Legion any group that has people of your client demographics. Any service you wish you hadn’t tried? I have launched and ran cleaning businesses (fun but hard to get staff to clean toilets lol), photography business (love taking phots, however prints dont sell they used to thanks to tech and pics on your phone), Offroad outfitting business (fun, love being outdoors). I have to answer no on this one. :) I am entering my fourth week of business. I have spoken to two businesses that netted me three jobs and one referral that netted me a big job. In my first three weeks I have removed over 6000lbs of items, and over 75% of those items I was able to recycle and not just throw into the landfill. Those four jobs netted us $1450 (gross), and solved four major problems customers had. I would also encourage you create a simple yet effective referral program. The one I have is every person referred that we do a job for we will give $50 of their next service OR donate $50 to a local non profit of their choice under their name (or business name) With that said we have donated $75 to two local non profits so far. Collect all the data you do, and share the important parts with the community. How you are helping in the circle of reuse, recycle, dispose. Share how you are giving back to the community not just trying to take all their money. Do random service project, adopt a section of highway and clean it, choose a random park and clean it. Join non profits and perform service. Things that will cost you time (your current currency) but will pay great ROI in the long run.
-
-#### Reply 2
-
-**Author:** Laura1111
-**Posted:** 2026-02-09
-
-to IronRidge This is incredibly helpful, thank you. “time is your currency” reminder and the focus on communication and transparency, we’ll keep it on top of mind. Love how you’ve built referrals and community impact in from day one, and hearing real numbers from your first few weeks is eye-opening. Truly appreciate you sharing this.
-
-#### Reply 3
-
-**Author:** IronRidge
-**Posted:** 2026-02-09
-
-to Laura1111 Glad my experience is able to help. Looking forward to hearing of great things coming from your launch.
-
-#### Reply 4
-
-**Author:** HUGEHandyman
-**Posted:** 2026-02-09
-
-I started a handyman business - primarily working on thumbtack. I charged a cheap rate till I got enough reviews to warrant an increase in price. I did this on my own for a year till I started getting busy enough to bring other people on. If I had to do it all over again I would do something a lot more simple. This will make things easier when your company gets bigger. I've heard quite a few podcasts about picking up dog poop. Sounds gross but it's pretty scalable I think. The problem with being a handyman is your going to eventually take a job or two you shouldn't, and then you'll have to make it right. A more simple service would have probably avoided a lot of those head aches.
-
-#### Reply 5
-
-**Author:** Laura1111
-**Posted:** 2026-02-09
-
-to HUGEHandyman Appreciate the honesty here. Hearing that simplicity would’ve saved headaches as you scaled is a great reality check. We’re trying to balance getting started quickly with not overcomplicating the service And scaling as well. Thanks
-
----
-
-## 14. Community Spotlight: Built by People Like You!
+## 30. Community Spotlight: Built by People Like You!
 
 **Author:** julie (Jobber Community Team)
-**Posted:** 2026-02-09
-**Views:** 78 | **Likes:** 5 | **Comments:** 5
+**Posted:** 2026-03-02
+**Views:** 101 | **Likes:** 5 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/community-spotlight-built-by-people-like-you/8501
 
 ### Content
@@ -1356,41 +1967,41 @@ JOBBER COMMUNITY TEAM This community works because members show up, ask question
 #### Reply 1
 
 **Author:** Laura1111
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Love seeing this 👏 As someone new to the community and learning from so many experienced owners, it’s encouraging to see thoughtful questions and real-world experience being recognized. Huge congrats to everyone highlighted — the depth, transparency, and willingness to help are exactly what make this space valuable. Looking forward to learning more and hopefully contributing back as we grow.
 
 #### Reply 2
 
 **Author:** julie
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 JOBBER COMMUNITY TEAM to Laura1111 Welcome to the community, Laura! We're thrilled to have you 🙌
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 I am here because I love to watch people succeed. I get so excited when listening to someone who had a good day, a good month, just got a promotion, their dream job, I just love to see other people in that height of success. I want everyone on here to take a second and realize that you are now living your dream now. You have taken the steps to becoming your own boss and creating your own success story! Thank you for the shout out Julie!
 
 #### Reply 4
 
 **Author:** julie
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 JOBBER COMMUNITY TEAM to PestFreeCanada Thank you for showing up the way you do! That kind of energy and encouragement is exactly what makes this community feel supportive and worth coming back to. Really glad you’re here and contributing to the conversations. 🙌
 
 #### Reply 5
 
 **Author:** Will-Welborn
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Been using ChatGPT for a while. Just started using the Pro version of GenSpark - game changer. Built several a PDF and Google Slides presentations from brochures we had saved - took about 10 minutes and looks professional. Also building chat based sales rep "portal" where we can upload all our company docs and info and they can access in the field as simple as if they were sending a text message.
 
 ---
 
-## 15. Favorite podcasts/YouTube channels
+## 31. Favorite podcasts/YouTube channels
 
 **Author:** DelgadoKW (Contributor 3)
 **Posted:** 2025-07-09
@@ -1461,7 +2072,7 @@ to judithvirag I love DOAC
 
 ---
 
-## 16. How do growing service businesses keep teams aligned with company values while scaling?
+## 32. How do growing service businesses keep teams aligned with company values while scaling?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-02-09
@@ -1539,7 +2150,7 @@ BUILDER 1 Harris1948​ what an amazing story. 75 years is a huge milestone
 
 ---
 
-## 17. Selling to Smoke Shops
+## 33. Selling to Smoke Shops
 
 **Author:** Pstock1988 (Contributor 2)
 **Posted:** 2026-02-09
@@ -1561,7 +2172,7 @@ JOBBER COMMUNITY TEAM Hey Philip, welcome to the community! Love the initiative 
 
 ---
 
-## 18. Should We Care About "The Going Rate"?
+## 34. Should We Care About "The Going Rate"?
 
 **Author:** HUGEHandyman (Jobber Ambassador)
 **Posted:** 2026-02-09
@@ -1583,7 +2194,7 @@ One of the ways that I show my value is by talking to the customer. This sounds 
 
 ---
 
-## 19. Hello I'm New
+## 35. Hello I'm New
 
 **Author:** MMarti21 (Contributor 2)
 **Posted:** 2026-02-09
@@ -1605,7 +2216,7 @@ JOBBER COMMUNITY TEAM Hey MMarti21, welcome to the Jobber Community 👋 We’re
 
 ---
 
-## 20. What does “your best year yet” actually mean for your home service business in 2026?
+## 36. What does “your best year yet” actually mean for your home service business in 2026?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2026-02-09
@@ -1648,7 +2259,7 @@ JOBBER COMMUNITY TEAM to judithvirag No dream too big 🚀 No staff turnover and
 
 ---
 
-## 21. Has your busy season been slow or your slow season been busy?
+## 37. Has your busy season been slow or your slow season been busy?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-01-28
@@ -1670,7 +2281,7 @@ No Replies Be the first to
 
 ---
 
-## 22. 2026 Goals
+## 38. 2026 Goals
 
 **Author:** EdwardZ (Contributor 2)
 **Posted:** 2026-01-28
@@ -1706,7 +2317,7 @@ Amazing! It's always a good idea to call old clients. I have touched base with p
 
 ---
 
-## 23. Are you attending the Jobber Summit?
+## 39. Are you attending the Jobber Summit?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-01-28
@@ -1770,7 +2381,7 @@ Anyone in the north east want to do a watch party ?
 
 ---
 
-## 24. How Are You Using AI to Grow Your Business in 2026?
+## 40. How Are You Using AI to Grow Your Business in 2026?
 
 **Author:** Mitchell_197 (Contributor 3)
 **Posted:** 2026-01-28
@@ -1792,7 +2403,7 @@ No Replies Be the first to
 
 ---
 
-## 25. What’s something *big or small* you want to achieve in 2026?
+## 41. What’s something *big or small* you want to achieve in 2026?
 
 **Author:** Moly (Jobber Community Team)
 **Posted:** 2026-01-28
@@ -1877,7 +2488,7 @@ EnergizeUs
 
 ---
 
-## 26. Free Start-of-Year Business Review System (Dashboards + Workbooks)
+## 42. Free Start-of-Year Business Review System (Dashboards + Workbooks)
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2026-01-28
@@ -1899,7 +2510,7 @@ No Replies Be the first to
 
 ---
 
-## 27. How do you structure an ESOP and when should you decide to create that? Revenue or Profit Metric?
+## 43. How do you structure an ESOP and when should you decide to create that? Revenue or Profit Metric?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-28
@@ -1921,7 +2532,7 @@ No Replies Be the first to
 
 ---
 
-## 28. Does Time Expose the Wrong Employee? Always.
+## 44. Does Time Expose the Wrong Employee? Always.
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-11-28
@@ -1978,7 +2589,7 @@ to FredHodgeJr sent
 
 ---
 
-## 29. Business Plan for 2026
+## 45. Business Plan for 2026
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2026-01-28
@@ -2000,7 +2611,7 @@ EnergizeUs
 
 ---
 
-## 30. Are you personally ready for the holidays?
+## 46. Are you personally ready for the holidays?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-12-28
@@ -2043,7 +2654,7 @@ BUILDER 1 to julie julie​ - you just described my entire 25 year marriage LOL.
 
 ---
 
-## 31. Community Spotlight: These Convos Don’t Happen Without You!
+## 47. Community Spotlight: These Convos Don’t Happen Without You!
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-12-28
@@ -2065,7 +2676,7 @@ No Replies Be the first to
 
 ---
 
-## 32. What do you focus on for end of year planning? What goals do you focus on?
+## 48. What do you focus on for end of year planning? What goals do you focus on?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2115,7 +2726,7 @@ JOBBER COMMUNITY TEAM to BrandenSewell I will look that model up—thanks! Yeah 
 
 ---
 
-## 33. 💡 Deep Discussion
+## 49. 💡 Deep Discussion
 
 **Author:** MrBackflow (Contributor 3)
 **Posted:** 2025-06-28
@@ -2151,7 +2762,7 @@ I used to think skill alone would bring clients, but I’ve learned that clear c
 
 ---
 
-## 34. How did you start your own service business after working for another company?
+## 50. How did you start your own service business after working for another company?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-28
@@ -2173,7 +2784,7 @@ BUILDER 1 I went from corporate to cleaning so I scouted my own clients. On an o
 
 ---
 
-## 35. Issues adding a profile picture?
+## 51. Issues adding a profile picture?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-28
@@ -2195,7 +2806,7 @@ JOBBER COMMUNITY TEAM I was wondering why my profile picture wasn't updating. I 
 
 ---
 
-## 36. What do you do to stay productive while sitting in traffic?
+## 52. What do you do to stay productive while sitting in traffic?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-28
@@ -2238,7 +2849,7 @@ Anyone figure a way to get Jobber up on the Tesla screen other than using the cr
 
 ---
 
-## 37. Which moments make you smile as a business owner?
+## 53. Which moments make you smile as a business owner?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-28
@@ -2260,7 +2871,7 @@ BUILDER 1 Totally agree. We have to cherish the small moments. I actually keep a
 
 ---
 
-## 38. Who is running off of EOS? How has it helped your business grow?
+## 54. Who is running off of EOS? How has it helped your business grow?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-28
@@ -2282,7 +2893,7 @@ BUILDER 1 We have been using EOS for many years now. It gives structure, consist
 
 ---
 
-## 39. Have you ever hit a point in your business where you thought about quitting?
+## 55. Have you ever hit a point in your business where you thought about quitting?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-12-28
@@ -2318,7 +2929,7 @@ JOBBER COMMUNITY TEAM to judithvirag Love this perspective. Thanks for sharing, 
 
 ---
 
-## 40. The next level...what does it look like?
+## 56. The next level...what does it look like?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-28
@@ -2340,7 +2951,7 @@ BUILDER 1 That is a very valid question and something to contemplate. Knowing my
 
 ---
 
-## 41. Being Efficient Allows for Faster Growth and Scaling
+## 57. Being Efficient Allows for Faster Growth and Scaling
 
 **Author:** TheRealJIMCLORE (Contributor 2)
 **Posted:** 2025-12-28
@@ -2362,7 +2973,7 @@ No Replies Be the first to
 
 ---
 
-## 42. Where are you located?
+## 58. Where are you located?
 
 **Author:** Housekept_Tim (Contributor 3)
 **Posted:** 2025-11-28
@@ -2475,7 +3086,7 @@ Windsor Ontario Canada
 
 ---
 
-## 43. Increase Revenue - Cross-service Sales
+## 59. Increase Revenue - Cross-service Sales
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-28
@@ -2497,7 +3108,7 @@ JOBBER COMMUNITY TEAM Love these examples. 🙌 They make cross-selling feel so 
 
 ---
 
-## 44. Business Advice
+## 60. Business Advice
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-28
@@ -2526,7 +3137,7 @@ This topic is one of my most favorite to discuss... I love already how your mind
 
 ---
 
-## 45. How do you Differentiate Yourself from Your Competition?
+## 61. How do you Differentiate Yourself from Your Competition?
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-28
@@ -2597,7 +3208,7 @@ to RichardM Yep, we use Company Cam and send them a gallery of photos after ever
 
 ---
 
-## 46. Want to connect with another local business for B2B referrals?
+## 62. Want to connect with another local business for B2B referrals?
 
 **Author:** ianm (Jobber Product Team)
 **Posted:** 2025-10-28
@@ -2619,7 +3230,7 @@ JOBBER COMMUNITY TEAM Been seeing a lot of home service pros wanting to connect 
 
 ---
 
-## 47. Thinking of selling your business? Here’s how to build a business that’s worth buying
+## 63. Thinking of selling your business? Here’s how to build a business that’s worth buying
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-10-28
@@ -2662,7 +3273,7 @@ JOBBER COMMUNITY TEAM to Moly Thanks for sharing, Moly! Such a great point. Havi
 
 ---
 
-## 48. Can we be real? What do you do on the days/weeks you just want to quit?
+## 64. Can we be real? What do you do on the days/weeks you just want to quit?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -2691,7 +3302,7 @@ NEVER QUIT
 
 ---
 
-## 49. When cash is tight, do you double down on marketing or pull back?
+## 65. When cash is tight, do you double down on marketing or pull back?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-10-28
@@ -2720,7 +3331,7 @@ Great episode!!
 
 ---
 
-## 50. Business growth
+## 66. Business growth
 
 **Author:** Sweba7 (Contributor 2)
 **Posted:** 2025-09-28
@@ -2763,7 +3374,7 @@ Here are some starting points... Create a actionable plan and take massive actio
 
 ---
 
-## 51. Quick Jobber Survey: How do you track time today?
+## 67. Quick Jobber Survey: How do you track time today?
 
 **Author:** Ronen (Jobber Product Team)
 **Posted:** 2025-10-28
@@ -2785,7 +3396,7 @@ have been turned off for this discussion
 
 ---
 
-## 52. What leadership book has helped you grow the most in your own leadership?
+## 68. What leadership book has helped you grow the most in your own leadership?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-08-28
@@ -2863,7 +3474,7 @@ to Moly I will need to check this one out. Thanks for sharing!
 
 ---
 
-## 53. Minutes & Opportunities: How do they matter?
+## 69. Minutes & Opportunities: How do they matter?
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-10-28
@@ -2899,7 +3510,7 @@ BUILDER 1 RichardM We do know where our leads are coming from. 71% are from Goog
 
 ---
 
-## 54. What Podcasts Are You Hooked On Right Now?
+## 70. What Podcasts Are You Hooked On Right Now?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-04-28
@@ -3040,7 +3651,7 @@ TEDtalk, Hurry slowly, Before Breakfast, and of course Dateline
 
 ---
 
-## 55. How can blockchain help small businesses build client trust?
+## 71. How can blockchain help small businesses build client trust?
 
 **Author:** evangelineclair (Contributor 2)
 **Posted:** 2025-09-28
@@ -3062,7 +3673,7 @@ Blockchains great, but, I personally don't think the technology is ready for thi
 
 ---
 
-## 56. If you could talk to your younger self, would you steer them towards the trades? 🛠️
+## 72. If you could talk to your younger self, would you steer them towards the trades? 🛠️
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -3084,7 +3695,7 @@ No Replies Be the first to
 
 ---
 
-## 57. How to sell my business
+## 73. How to sell my business
 
 **Author:** Jorge_newimage (Contributor 3)
 **Posted:** 2025-07-28
@@ -3127,7 +3738,7 @@ Hopefully the business was built to sell. The first thing you want to do, is fin
 
 ---
 
-## 58. What motivated you to start your business? This young entrepreneur shares his story
+## 74. What motivated you to start your business? This young entrepreneur shares his story
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -3149,7 +3760,7 @@ Survival!
 
 ---
 
-## 59. What was your biggest failure or current failure?
+## 75. What was your biggest failure or current failure?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-08-28
@@ -3178,7 +3789,7 @@ to judithvirag judithvirag​ I am currently onboarding with a new CPA who inclu
 
 ---
 
-## 60. What is your biggest success story?
+## 76. What is your biggest success story?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-08-28
@@ -3207,7 +3818,7 @@ BUILDER 1 to julie Thank you julie​. If you love what you do and your team mat
 
 ---
 
-## 61. How to build business credit?
+## 77. How to build business credit?
 
 **Author:** GreenThumb777 (Contributor 3)
 **Posted:** 2025-07-28
@@ -3243,7 +3854,7 @@ To build business credit, register your business and get an EIN. Open a business
 
 ---
 
-## 62. Share your stories here
+## 78. Share your stories here
 
 **Author:** CEOJay (Contributor 2)
 **Posted:** 2025-08-28
@@ -3265,7 +3876,7 @@ BUILDER 1 I started my business after burning out in the corporate world. What f
 
 ---
 
-## 63. When pressure hits, who do you become?
+## 79. When pressure hits, who do you become?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3287,7 +3898,7 @@ No Replies Be the first to
 
 ---
 
-## 64. Finalists - Jobber Grant!
+## 80. Finalists - Jobber Grant!
 
 **Author:** MountainMarine (Contributor 3)
 **Posted:** 2025-07-28
@@ -3365,7 +3976,7 @@ I would purchase equiptment, training and education for employees.
 
 ---
 
-## 65. Do Home Service Pros Never Make It Past This Point?
+## 81. Do Home Service Pros Never Make It Past This Point?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3387,113 +3998,7 @@ No Replies Be the first to
 
 ---
 
-## 66. Jobber Grant!
-
-**Author:** topscoop (Contributor 3)
-**Posted:** 2025-06-28
-**Views:** 680 | **Likes:** 8 | **Comments:** 13
-**URL:** https://community.getjobber.com/discussions/entrepreneurship-forum/jobber-grant/4552
-
-### Content
-
-Who else has applied for the jobber grant? And how exactly does that work? BUSINESS ADVICE BUSINESS PLANS COMMUNITY HITTING GOALS LEARNING FROM MISTAKES LEARNING RESOURCES MOTIVATION NETWORKING PROFESSIONAL DEVELOPMENT SUCCESS STORIES WINS
-
-### Replies (13)
-
-#### Reply 1
-
-**Author:** judithvirag
-**Posted:** 2025-07-28
-
-BUILDER 1 Got an email and we are in the 20nd round. Here is the website for the grant: https://www.getjobber.com/grants They are giving away 150,000 to companies. Very generous!!!
-
-#### Reply 2
-
-**Author:** Handywoman
-**Posted:** 2025-06-28
-
-I have! I was actually just selected for phase 2. Did you do your phase one application?
-
-#### Reply 3
-
-**Author:** topscoop
-**Posted:** 2025-06-28
-
-to Handywoman I did! I was also selected for phase 2 I just don't know what happens next. have you applied before? and is it only a select few that move to phase 2?
-
-#### Reply 4
-
-**Author:** Justinmcclenney
-**Posted:** 2025-07-28
-
-I’m in phase 2 also just waiting.
-
-#### Reply 5
-
-**Author:** mrtimfauble
-**Posted:** 2025-07-28
-
-There seems to be a few of us who made it to the 2nd phase 😃
-
-#### Reply 6
-
-**Author:** LauraWhalen
-**Posted:** 2025-07-28
-
-I believe the deadline for applying for the grants has passed. Only those that have submitted applications for phase 1 on time, could move to phase 2. This is the information regarding timelines that I received in an email: June 26-July 18: Application review - judging panel will review phase 2 applications and look at your online presence to get to know more about you and your top-notch service. Mid July 2025: Finalist Selection - Finalists will be contacted to complete a final round of questions. August 2025: Recipient announcement - We'll announce our 15 grant recipients and spotlight their stories to share with our community. Good Luck Everyone!
-
-#### Reply 7
-
-**Author:** lawrencejrank
-**Posted:** 2025-06-28
-
-I just submitted my phase 2 answers! If selected from phase 1, you'll receive an email saying you've been selected for phase 2 and will have to submit the forum. Most answers are limited to 750 characters, so make your answers count!
-
-#### Reply 8
-
-**Author:** getitgone2025
-**Posted:** 2025-07-28
-
-I did! Got invited for phase 2. Waiting to see what else is in-store
-
-#### Reply 9
-
-**Author:** Evergreen
-**Posted:** 2025-07-28
-
-It seem that everyone who properly filled out the first phase application makes it to the second phase. the finalists should be selected soon I believe. good luck everyone! 🤗
-
-#### Reply 10
-
-**Author:** getitgone2025
-**Posted:** 2025-07-28
-
-Submitted my responses I'm waiting for phase 2 decision. I'm excited 😊 let the lord use blogger to bless and progress me in my business.
-
-#### Reply 11
-
-**Author:** Dem_Automation
-**Posted:** 2025-06-28
-
-My phase 2 application is a dead link.
-
-#### Reply 12
-
-**Author:** lawrencejrank
-**Posted:** 2025-06-28
-
-to Dem_Automation I would share the link but I feel that might cause ppl who weren't selected to submit. Contact grants@getjobber.com
-
-#### Reply 13
-
-**Author:** ClWizard1436
-**Posted:** 2025-07-28
-
-I also applied for the grants and it was move forward to face to and responded to the questions asked and I wasn't sure or heard anything back I wanted to see if anyone else had any thoughts
-
----
-
-## 67. Do you know what SDS sheets are?
+## 82. Do you know what SDS sheets are?
 
 **Author:** VCMEssentials (Contributor 3)
 **Posted:** 2025-07-28
@@ -3529,7 +4034,7 @@ to globalsvcs Thank you, this is great advice!
 
 ---
 
-## 68. 22 year old trying to start a business
+## 83. 22 year old trying to start a business
 
 **Author:** HollerBoy (Contributor 2)
 **Posted:** 2025-06-28
@@ -3579,7 +4084,7 @@ to wallsrevived id love to connect
 
 ---
 
-## 69. The Real Reason You’re Stuck (It’s Not the Customer)
+## 84. The Real Reason You’re Stuck (It’s Not the Customer)
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3608,7 +4113,7 @@ to Manny_Man The fact that you’re already breaking this down, looking at your 
 
 ---
 
-## 70. Don’t Let the Job Break You: Know the Risk Before You Say Yes
+## 85. Don’t Let the Job Break You: Know the Risk Before You Say Yes
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3630,7 +4135,7 @@ No Replies Be the first to
 
 ---
 
-## 71. 2025 Best Year Ever
+## 86. 2025 Best Year Ever
 
 **Author:** Pete2112 (Contributor 2)
 **Posted:** 2025-02-28
@@ -3673,7 +4178,7 @@ Right now, I’m focused on building my network, locking in solid partnerships, 
 
 ---
 
-## 72. Before You Change ANYTHING — Be Honest About What Needs to Change
+## 87. Before You Change ANYTHING — Be Honest About What Needs to Change
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3695,7 +4200,7 @@ No Replies Be the first to
 
 ---
 
-## 73. You Didn’t Buy Freedom. You Bought Responsibility
+## 88. You Didn’t Buy Freedom. You Bought Responsibility
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3717,7 +4222,7 @@ No Replies Be the first to
 
 ---
 
-## 74. Built a $1M Contracting Business in 4 Years
+## 89. Built a $1M Contracting Business in 4 Years
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3739,7 +4244,7 @@ No Replies Be the first to
 
 ---
 
-## 75. The Hardest Thing in Entrepreneurship? Looking in the Mirror.
+## 90. The Hardest Thing in Entrepreneurship? Looking in the Mirror.
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3761,7 +4266,7 @@ No Replies Be the first to
 
 ---
 
-## 76. What Flying Taught Me About Business
+## 91. What Flying Taught Me About Business
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3783,7 +4288,7 @@ No Replies Be the first to
 
 ---
 
-## 77. Contracts with customers vs Contracts with yourself
+## 92. Contracts with customers vs Contracts with yourself
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -3805,7 +4310,7 @@ No Replies Be the first to
 
 ---
 
-## 78. Maintenance or Design & Build? Or Both?
+## 93. Maintenance or Design & Build? Or Both?
 
 **Author:** algo (Contributor 2)
 **Posted:** 2025-06-28
@@ -3827,7 +4332,7 @@ Hey Levi — respect to you for even asking this at year two. A lot of people wa
 
 ---
 
-## 79. Hi I’m new here and excited to be here
+## 94. Hi I’m new here and excited to be here
 
 **Author:** Katris (Contributor 2)
 **Posted:** 2025-06-28
@@ -3849,7 +4354,7 @@ Its an honor to e-meet | Energize Us EDU @willmbetances
 
 ---
 
-## 80. Management Design LLC
+## 95. Management Design LLC
 
 **Author:** blanco1964md (Contributor 2)
 **Posted:** 2025-06-28
@@ -3871,7 +4376,7 @@ It's a pleasure to e-meet.
 
 ---
 
-## 81. Making owning a warranty great again!  Est.2019 we are now looking for funding stage 2.0
+## 96. Making owning a warranty great again!  Est.2019 we are now looking for funding stage 2.0
 
 **Author:** esaadawcahq (Contributor 2)
 **Posted:** 2025-06-28
@@ -3893,7 +4398,7 @@ pleasure to e-meet continue the growth and excellent example
 
 ---
 
-## 82. Hi from Chicago
+## 97. Hi from Chicago
 
 **Author:** Chilandscape (Contributor 3)
 **Posted:** 2025-06-28
@@ -3922,7 +4427,7 @@ It's pleasure to E-Meet !
 
 ---
 
-## 83. How do you get ppl to support you 🤔
+## 98. How do you get ppl to support you 🤔
 
 **Author:** Pinkpurple7 (Contributor 2)
 **Posted:** 2025-05-28
@@ -3972,7 +4477,7 @@ Great question and I’ve been there too: Support doesn’t show up when you nee
 
 ---
 
-## 84. Did You Know the Oldest Business in the World Is a Contracting Company?
+## 99. Did You Know the Oldest Business in the World Is a Contracting Company?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4001,7 +4506,7 @@ to judithvirag You said already said the answer when you asked: “How can the r
 
 ---
 
-## 85. What steps do you take to ensure you’re working on your professional development?
+## 100. What steps do you take to ensure you’re working on your professional development?
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -4072,7 +4577,7 @@ Great question, this one hits home and my personal favorite topic. For me, profe
 
 ---
 
-## 86. What are your goals for your business?
+## 101. What are your goals for your business?
 
 **Author:** StevenAtMosaic (Contributor 2)
 **Posted:** 2025-02-28
@@ -4101,7 +4606,7 @@ Love this question and respect to anyone who’s even taking time to think about
 
 ---
 
-## 87. Why do you think 4 out of 5 businesses fail and what are you doing to avoid joining the majority?
+## 102. Why do you think 4 out of 5 businesses fail and what are you doing to avoid joining the majority?
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -4221,7 +4726,7 @@ Great question. I’ve been working with contractors across the country, and I�
 
 ---
 
-## 88. How do you stay motivated ?
+## 103. How do you stay motivated ?
 
 **Author:** Lignum9291 (Contributor 3)
 **Posted:** 2025-02-28
@@ -4250,7 +4755,7 @@ Did You Know the Oldest Business in the World Is a Contracting Company? Kongo Gu
 
 ---
 
-## 89. Set Goals & Be Honest About Where You Are
+## 104. Set Goals & Be Honest About Where You Are
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4272,7 +4777,7 @@ No Replies Be the first to
 
 ---
 
-## 90. Are You Building a Business or Just Buying Problems?
+## 105. Are You Building a Business or Just Buying Problems?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4294,7 +4799,7 @@ No Replies Be the first to
 
 ---
 
-## 91. #1 Reason Most Contractors Shut Down
+## 106. #1 Reason Most Contractors Shut Down
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4316,7 +4821,7 @@ No Replies Be the first to
 
 ---
 
-## 92. Build the Foundation, or Don’t Be Surprised When theBusiness Collapses
+## 107. Build the Foundation, or Don’t Be Surprised When theBusiness Collapses
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4338,7 +4843,7 @@ No Replies Be the first to
 
 ---
 
-## 93. A Successful Service Base Company — What It Really Takes?
+## 108. A Successful Service Base Company — What It Really Takes?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4360,7 +4865,7 @@ No Replies Be the first to
 
 ---
 
-## 94. ACCOUNTABILITY
+## 109. ACCOUNTABILITY
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4382,7 +4887,7 @@ No Replies Be the first to
 
 ---
 
-## 95. Are you willing to take the RISK?
+## 110. Are you willing to take the RISK?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4404,7 +4909,7 @@ No Replies Be the first to
 
 ---
 
-## 96. Stop Avoiding the One Thing That Could Change Everything
+## 111. Stop Avoiding the One Thing That Could Change Everything
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4426,7 +4931,7 @@ No Replies Be the first to
 
 ---
 
-## 97. Saying You Want Growth.. If You’re Not Willing to Change
+## 112. Saying You Want Growth.. If You’re Not Willing to Change
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4448,7 +4953,7 @@ No Replies Be the first to
 
 ---
 
-## 98. Walt Disney sketched his empire on a napkin. Here’s ours
+## 113. Walt Disney sketched his empire on a napkin. Here’s ours
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4470,7 +4975,7 @@ No Replies Be the first to
 
 ---
 
-## 99. The Crazy Path We Choose: Why Are We Really Doing This?
+## 114. The Crazy Path We Choose: Why Are We Really Doing This?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4492,7 +4997,7 @@ No Replies Be the first to
 
 ---
 
-## 100. When did you go all in?
+## 115. When did you go all in?
 
 **Author:** Ben_Primescape (Contributor 2)
 **Posted:** 2025-06-28
@@ -4556,7 +5061,7 @@ The pain of staying the same, has to weigh more than the pain of change.
 
 ---
 
-## 101. Why do most contractors copy what they see — and wonder why it doesn’t work?
+## 116. Why do most contractors copy what they see — and wonder why it doesn’t work?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -4578,7 +5083,7 @@ No Replies Be the first to
 
 ---
 
-## 102. Working capital
+## 117. Working capital
 
 **Author:** HygienexBiocare (Contributor 2)
 **Posted:** 2025-06-28
@@ -4628,7 +5133,7 @@ Yes im wondering the same
 
 ---
 
-## 103. Here’s a quick lesson I learned the hard way
+## 118. Here’s a quick lesson I learned the hard way
 
 **Author:** summitlawnco (Contributor 3)
 **Posted:** 2025-06-28
@@ -4713,7 +5218,7 @@ to eddiepuckett Great point on the tarp! That definitely would’ve saved me a l
 
 ---
 
-## 104. All things Website
+## 119. All things Website
 
 **Author:** MacMadeDev (Contributor 2)
 **Posted:** 2025-06-28
@@ -4749,7 +5254,7 @@ to fuinaithil Thanks
 
 ---
 
-## 105. Looking for a grant
+## 120. Looking for a grant
 
 **Author:** ecogreencleanco (Contributor 2)
 **Posted:** 2025-05-28
@@ -4785,7 +5290,7 @@ Where are you located? Have you tried your local Small Business Administration C
 
 ---
 
-## 106. Real Talk: The Ups and Downs of Running a Business
+## 121. Real Talk: The Ups and Downs of Running a Business
 
 **Author:** AbigayleJones (Contributor 2)
 **Posted:** 2025-06-28
@@ -4821,7 +5326,7 @@ Love this thread already! I agree with many points listed before me. It definite
 
 ---
 
-## 107. Thinking About Community Booster Programs & Pitch Competitions — Worth It?
+## 122. Thinking About Community Booster Programs & Pitch Competitions — Worth It?
 
 **Author:** SylBelles (Contributor 2)
 **Posted:** 2025-06-28
@@ -4843,7 +5348,7 @@ No Replies Be the first to
 
 ---
 
-## 108. Time for Hobbies!
+## 123. Time for Hobbies!
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -4886,7 +5391,7 @@ I really love this post that you made. A few years ago I got really into doing a
 
 ---
 
-## 109. Looking to scale, need advice
+## 124. Looking to scale, need advice
 
 **Author:** OttawaLPS (Contributor 3)
 **Posted:** 2025-05-28
@@ -4992,7 +5497,7 @@ to LDSewell Hello! I do see your point actually, its hard to invite such a progr
 
 ---
 
-## 110. Business owner not doing well
+## 125. Business owner not doing well
 
 **Author:** Serveyour51 (Contributor 2)
 **Posted:** 2025-06-28
@@ -5119,7 +5624,7 @@ There may be a facebook group for cleaners in your local area, if there are any 
 
 ---
 
-## 111. Advice for new owners
+## 126. Advice for new owners
 
 **Author:** NajeeReynolds (Contributor 2)
 **Posted:** 2025-06-28
@@ -5141,7 +5646,7 @@ No Replies Be the first to
 
 ---
 
-## 112. Tips & Tricks
+## 127. Tips & Tricks
 
 **Author:** topscoop (Contributor 3)
 **Posted:** 2025-06-28
@@ -5177,7 +5682,7 @@ to topscoop That's is great!! Good luck!!
 
 ---
 
-## 113. Raise of Hands!!
+## 128. Raise of Hands!!
 
 **Author:** topscoop (Contributor 3)
 **Posted:** 2025-06-28
@@ -5199,7 +5704,7 @@ No Replies Be the first to
 
 ---
 
-## 114. What’s Your Biggest Entrepreneurial Challenge?
+## 129. What’s Your Biggest Entrepreneurial Challenge?
 
 **Author:** Hwbdelivery (Contributor 4)
 **Posted:** 2025-04-28
@@ -5354,7 +5859,7 @@ My biggest challenge was finding customers who were interested in my service! Ho
 
 ---
 
-## 115. Business start ups
+## 130. Business start ups
 
 **Author:** Justice1 (Contributor 2)
 **Posted:** 2025-06-28
@@ -5376,7 +5881,7 @@ No Replies Be the first to
 
 ---
 
-## 116. Business
+## 131. Business
 
 **Author:** Elishastorm369 (Contributor 2)
 **Posted:** 2025-05-28
@@ -5405,7 +5910,7 @@ Neither! I am surprised to see on this website how many don't know anything abou
 
 ---
 
-## 117. Memberships/Associations
+## 132. Memberships/Associations
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-04-28
@@ -5532,7 +6037,7 @@ BUILDER 1 to YellowDog28 thank you
 
 ---
 
-## 118. The funding process
+## 133. The funding process
 
 **Author:** Chickbee33 (Contributor 2)
 **Posted:** 2025-05-28
@@ -5554,7 +6059,7 @@ JOBBER COMMUNITY TEAM Hey there! Thank you for applying to Jobber Grants. Our Jo
 
 ---
 
-## 119. Jobber Referral Code
+## 134. Jobber Referral Code
 
 **Author:** Ashly (Contributor 2)
 **Posted:** 2025-05-28
@@ -5576,7 +6081,7 @@ No Replies Be the first to
 
 ---
 
-## 120. Let’s Talk About the Future of Trucking”
+## 135. Let’s Talk About the Future of Trucking”
 
 **Author:** Hwbdelivery (Contributor 4)
 **Posted:** 2025-04-28
@@ -5605,7 +6110,7 @@ to jamiejacobsma Also, if anyone is planning to exit or acquire a business, Pete
 
 ---
 
-## 121. Working Capital
+## 136. Working Capital
 
 **Author:** stormerk (Contributor 2)
 **Posted:** 2025-05-28
@@ -5648,7 +6153,7 @@ Yes that will be good
 
 ---
 
-## 122. From Struggle to Strength: The Reality of Entrepreneurship and Why You Can’t Give Up”
+## 137. From Struggle to Strength: The Reality of Entrepreneurship and Why You Can’t Give Up”
 
 **Author:** Hwbdelivery (Contributor 4)
 **Posted:** 2025-05-28
@@ -5698,7 +6203,7 @@ There are days when the money’s slow, the rates are lower than expected, and t
 
 ---
 
-## 123. Pigheaded Discipline and Determination
+## 138. Pigheaded Discipline and Determination
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-03-28
@@ -5720,7 +6225,7 @@ Tgflip
 
 ---
 
-## 124. Virtual vs In-Person Events
+## 139. Virtual vs In-Person Events
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5770,7 +6275,7 @@ BUILDER 1 Prefer in person. So much more chance of interaction. Networking is on
 
 ---
 
-## 125. The Power of Distant Mentorship
+## 140. The Power of Distant Mentorship
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5792,7 +6297,7 @@ I'm in Michigan but have recently worked with mentors in Chicago and Florida. I'
 
 ---
 
-## 126. 🌟 Facing Failure Head-On: An Honest Talk About Business Mistakes 🌟
+## 141. 🌟 Facing Failure Head-On: An Honest Talk About Business Mistakes 🌟
 
 **Author:** David_Moerman (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -5884,7 +6389,7 @@ to Joel_Bennett Good word here Joel. I hope you enjoy the session!
 
 ---
 
-## 127. Managing office staff
+## 142. Managing office staff
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-02-28
@@ -5906,7 +6411,7 @@ Hello! We have an office manager that's responsible for the schedule and client 
 
 ---
 
-## 128. How do you plan for a new year?
+## 143. How do you plan for a new year?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-02-28
@@ -5970,7 +6475,7 @@ BUILDER 1 Thank you great points!
 
 ---
 
-## 129. 1 more crew isn't going to build your Empire
+## 144. 1 more crew isn't going to build your Empire
 
 **Author:** FranchisorXpres (Contributor 3)
 **Posted:** 2025-02-28
@@ -6006,7 +6511,7 @@ to ryaantuttle Nice! Yep you said it yourself. The house always wins. that's why
 
 ---
 
-## 130. Who has some insight on how a new business can get funded?
+## 145. Who has some insight on how a new business can get funded?
 
 **Author:** BestChoiceBaths (Contributor 2)
 **Posted:** 2025-02-28
@@ -6035,7 +6540,7 @@ Great question! Two options would be a hard-money lender and/or bringing in a bu
 
 ---
 
-## 131. Franchising Your Home Service Company
+## 146. Franchising Your Home Service Company
 
 **Author:** FranchisorXpres (Contributor 3)
 **Posted:** 2025-02-28
@@ -6099,7 +6604,7 @@ to Tdog1212 Just sent you a message1
 
 ---
 
-## 132. Is Your Home Improvement Business Making a Difference?
+## 147. Is Your Home Improvement Business Making a Difference?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6121,7 +6626,7 @@ No Replies Be the first to
 
 ---
 
-## 133. Business Coach and/or Mentors..
+## 148. Business Coach and/or Mentors..
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6150,7 +6655,7 @@ Man! I can't say enough about a program I've been in for years. https://www.btac
 
 ---
 
-## 134. Opportunity strikes?
+## 149. Opportunity strikes?
 
 **Author:** Airborne (Contributor 2)
 **Posted:** 2025-02-28
@@ -6186,7 +6691,7 @@ I suggest reading "The Goal" by Eliyahu M. Goldratt before making any moves. Sou
 
 ---
 
-## 135. What was your biggest win in 2024?
+## 150. What was your biggest win in 2024?
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6236,7 +6741,7 @@ Our biggest win in 2024 was landing an entire neighborhoods drainage correction 
 
 ---
 
-## 136. Business books
+## 151. Business books
 
 **Author:** MrShortbuster (Contributor 2)
 **Posted:** 2025-02-28
@@ -6293,7 +6798,7 @@ Currently, I am going through about 4 books me and my wife. Clockwork - As state
 
 ---
 
-## 137. When do you choose to take time off from work?
+## 152. When do you choose to take time off from work?
 
 **Author:** GBPlumbing (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6322,7 +6827,7 @@ I don't have a staff to run my business for me. But I still take my vacations an
 
 ---
 
-## 138. 🌟 Feeling burnt out? You aren’t alone.
+## 153. 🌟 Feeling burnt out? You aren’t alone.
 Let's share, vent, & connect with Ask an Expert guest, Chanique Stewart 🌟
 
 **Author:** Chanique (Jobber Ambassador)
@@ -6527,7 +7032,7 @@ I give myself 2 hrs a day the are just for personal development. Usually an hour
 
 ---
 
-## 139. Start-Up Costs 💰
+## 154. Start-Up Costs 💰
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6584,7 +7089,7 @@ I opened a comany credit card to fund my cleaning business. I really didn't have
 
 ---
 
-## 140. Does Anyone Here Wish They Had More Time in Their Day?
+## 155. Does Anyone Here Wish They Had More Time in Their Day?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6606,7 +7111,7 @@ I to think of my day consists of 4 six our shifts. You tend to work the first 2 
 
 ---
 
-## 141. Start thinking about 2025, what are your goals?
+## 156. Start thinking about 2025, what are your goals?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6628,7 +7133,7 @@ My big goal for 2025 is to spend more time with my extended family! This year wa
 
 ---
 
-## 142. Are You Working On or In the Business?
+## 157. Are You Working On or In the Business?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -6650,7 +7155,7 @@ An exercise that is very eye opening: Make a list of all things you have done fo
 
 ---
 
-## 143. 🎙️ Podcast Discussion: Get High Paying Customers by Going the Extra Mile
+## 158. 🎙️ Podcast Discussion: Get High Paying Customers by Going the Extra Mile
 
 **Author:** brandon-k (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -6672,7 +7177,7 @@ We treat each and every client the same... We give them ALL top notch service an
 
 ---
 
-## 144. This Book Has Been Foundational For Me!
+## 159. This Book Has Been Foundational For Me!
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28

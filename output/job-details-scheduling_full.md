@@ -1,14 +1,257 @@
 # Jobber Community Forum - Job Details Scheduling
 
-Total Discussions: 89
+Total Discussions: 90
 
 ---
 
-## 1. Multi Visit Jobs
+## 1. Making calls from the Jobber app
+
+**Author:** Ernie (Contributor 3)
+**Posted:** 2026-03-27
+**Views:** 19 | **Likes:** 0 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/making-calls-from-the-jobber-app/9795
+
+### Content
+
+We have a dedicated number with jobber and it works great for sending text messages to the customer. However, when you click on the phone icon to make a call it uses the mobile phones default phone number and not the Jobber dedicated number. Is there a way to have jobber only use the dedicated number caller ID? I have customers calling my techs on their personal phones, because the tech called them via jobber, instead of reaching out to the office. Sometimes the tech immediately relays the info but many times they're in jobs and not able to answer the phone. Other times they don't check their voicemail until much later and then forward the info to us. I really don't want the tech receiving those calls in the first place. All calls should be going directly to the office. It creates a big hiccup in our process when the office doesn't find out until later that a customer has reached out. We now only have the techs text the clients. If a call needs to be made the tech notifies the office and the CSR reaches out. Its a workaround but not the most efficient. Is there a way to have the caller ID show the Jobber dedicated number? If not, that would be a great thing to have. Roger 5 days ago Real answer: NO At the moment, there is no way for calls made from the Jobber mobile app to show the Jobber dedicated number as the caller ID. When a technician taps the call icon, the call goes through the phone’s native dialer and uses the technician’s personal phone number. There are other options you can implement, but they depend on your company’s size and budget. For example, you can use a business phone system where employees make calls through a phone app using the company’s main number. This allows everyone in the office to see which calls are being made and keeps communication logged in one place. However, even with those systems, the main texting number will still be the Jobber dedicated number, while your company may also have a separate main office phone number for calls. If you’re running a company, it’s also worth considering providing employees with company devices instead of having them use their personal phones for business. Many businesses give technicians tablets or company phones with data service and install the necessary communication apps on them. You can also use internal communication tools Google Chat, Slack, or similar apps to keep everyone on the team informed and connected. A practical workflow fix many companies use: Technicians only text customers through Jobber If a phone call is needed, the technician notifies the office The office staff makes the call using the company phone number The office number then handles: Callbacks Scheduling Follow-ups This keeps all communication centralized and prevents technicians from becoming the main point of contact for customers.
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** Roger
+**Posted:** 2026-03-28
+
+Real answer: NO At the moment, there is no way for calls made from the Jobber mobile app to show the Jobber dedicated number as the caller ID. When a technician taps the call icon, the call goes through the phone’s native dialer and uses the technician’s personal phone number. There are other options you can implement, but they depend on your company’s size and budget. For example, you can use a business phone system where employees make calls through a phone app using the company’s main number. This allows everyone in the office to see which calls are being made and keeps communication logged in one place. However, even with those systems, the main texting number will still be the Jobber dedicated number, while your company may also have a separate main office phone number for calls. If you’re running a company, it’s also worth considering providing employees with company devices instead of having them use their personal phones for business. Many businesses give technicians tablets or company phones with data service and install the necessary communication apps on them. You can also use internal communication tools Google Chat, Slack, or similar apps to keep everyone on the team informed and connected. A practical workflow fix many companies use: Technicians only text customers through Jobber If a phone call is needed, the technician notifies the office The office staff makes the call using the company phone number The office number then handles: Callbacks Scheduling Follow-ups This keeps all communication centralized and prevents technicians from becoming the main point of contact for customers.
+
+#### Reply 2
+
+**Author:** Ernie
+**Posted:** 2026-03-29
+
+to Roger Thanks Roger. That's what seems to be what we've adopted so that all calls go through the office.
+
+---
+
+## 2. How does Jobber calculate routes, and can it use real driving directions instead of straight-line distance?
+
+**Author:** allpestoff (Contributor 2)
+**Posted:** 2026-03-02
+**Views:** 119 | **Likes:** 1 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/how-does-jobber-calculate-routes-and-can-it-use-real-driving-directions-instead-/8663
+
+### Content
+
+I am writing to express my significant frustration with the current routing functionality within the platform. The primary issue is that the software appears to calculate routes based on "as the crow flies" distance rather than actual driving paths. Furthermore, the routing does not prioritize arrival logic that places the vehicle with the passenger side facing the customer's residence. This is a standard feature in competing routing software and is essential for the safety and efficiency of my team. ROUTE OPTIMIZATION
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2026-03-02
+
+Hello! Thanks for bringing this to the community. We noticed your comment on a similar post, and I have replied there. I apologize if my answer is repetitive, but I want to validate your feedback here! I can understand how a feature that calculates driving paths would be beneficial to you and other Jobber customers. In the Jobber app, you can click the service property and open it in your maps of choice to ensure you are on the best route. While this is not calculated in Jobber at this time, we are always looking to improve, and we will share this valuable feedback with our Product Development team. In addition to me sharing your feedback with our team, you can use this form to provide direct feedback and elaborate on your ideal outcome :)
+
+#### Reply 2
+
+**Author:** CoolCuts
+**Posted:** 2026-03-25
+
+to jade I have been asking about this issue since the first week we started using Jobber and nothing has changed. Trying to route 30-40 clients per day all over the map is very difficult if it is using "as the crow flies". A house could look close by but you would have to cross a river and two pastures to get to it and the road that actually leads you to the property passes by 5 other properties that you service. It doesn't make sense and it is very irritating in any service based industry, especially because, as a lawn care service team, we have to schedule 32 weeks of mowing per client and the route that you pick on Thursday one week doesn't stay the same, after you adjust it how you actually want it because the routing is doesn't make any sense, for any of the other weeks. Thus making me have to go in every day and every week to make sure that the routes are correct for my guys so they aren't bouncing back and forth all day long passing by houses that we actually service. It is a waste of VERY valuable time for everyone! Routing should be straight forward using maps, not crow flies and I should be able to set it up ONE time and not have to worry about it again until we add someone new and I need to add them into the schedule. Also, in the new scheduling platform, I am unable to route specific days at all anymore. There used to be a button to start your day from a specific property and it would semi route the day accordingly to where we could go in and adjust the ones that were not correct (because of the "crow flies" method) but it is no longer an option. The routing is very non user friendly and is making everything very difficult the more clients we add on each year.
+
+#### Reply 3
+
+**Author:** Cam
+**Posted:** 2026-04-01
+
+JOBBER PRODUCT TEAM to CoolCuts Hi CoolCuts​! Thank you for sharing this detailed feedback. If you’re open to it, someone from our product team would love to connect with you directly to better understand your experience. It would be great to get on a call and walk through your workflow so we can identify ways to improve the product. Let me know if that works for you, and we’ll get it set up.
+
+#### Reply 4
+
+**Author:** scoopandgo321
+**Posted:** 2026-03-04
+
+I've said this multiple times. I live on the island, so the routing expects us to do a straight line over the ocean. This causes my whole entire route to not optimize correctly. This is insanely inefficient - needs to be fixed ASAP.
+
+#### Reply 5
+
+**Author:** shastawalton
+**Posted:** 2026-03-29
+
+We just started using Jobber and love it, but other software seems to have this down, so it looks we will need to cancel, since we had a better routing system with Yardbook.
+
+#### Reply 6
+
+**Author:** Jamescantclimb
+**Posted:** 2026-03-30
+
+If Jobber can't do it, I wonder if they can possibly team up with Circuit(now spoke). That software uses traffic trends, road closures, and other data to make efficient routes. We used to use that with my business, but it took a long time to load in the information into the software. It was incredible when we used it, but our office doesn't have the capacity to fill in the information for it.
+
+---
+
+## 3. How to set up automated yearly service reminders in Jobber?
+
+**Author:** DavidVititow (Contributor 2)
+**Posted:** 2026-03-02
+**Views:** 72 | **Likes:** 0 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/how-to-set-up-automated-yearly-service-reminders-in-jobber/8951
+
+### Content
+
+I know I’ve seen this come up before but as a service based industry, I rely heavily on repeat customers. I’d to remind a customer about 11 months after they book with us that their service is coming up. The work around is that I can set them up as a recurring customer and have it remind them that their schedule is coming up a month before the scheduled date. My issue with that is one, I have to wait for paperwork for the customer, and two, I don’t to have to stay on top of seeing if customers actually still want the service. I want reminders sent via email and txt automatically after 11 months (Not a year) and then they can reach back out to us when they get paperwork in for scheduling. There’s got to be a way for Jobber to do this and I can’t seem to figure that out. PLUMBING
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2026-03-06
+
+Hey David! Thanks for the question, the easiest way to do this in Jobber would be with our Campaign Marketing tools! You can create an automated Campaign that targets your specific clients 11 months after their service, and send them an email reminding them of their service! Here is more information on this. If you have any questions, please reach out to our Success Team 888-721-1115 ext 1
+
+#### Reply 2
+
+**Author:** Thomas
+**Posted:** 2026-03-21
+
+We've been trying to use this feature but it has limitations. When we originally started using Jobber, we were told the best practice for our every six months customers was to set them up as a one off, and add a new visit to the archived/closed job when they were due and booked. This allowed us to easily track and see notes from all the prior visits in one place without having to set them up on an auto 6 months recurring job. Now when we set up automated reminders for clients with their last service six months ago via campaigns, the reminders can go out to clients who just had service a week ago. The campaigns automation only looks at the job closed date, not the visits. An update on that would be incredibly helpful for us.
+
+#### Reply 3
+
+**Author:** jade
+**Posted:** 2026-03-25
+
+to Thomas Hey Thomas! Thanks for bringing that to my attention. I have submitted the feedback on including an option that focuses on visits rather than job close date on the campaign add-on. What I could suggest here is to add a tag on the clients you want to target (ex. add a tag called bi-annual clients) and use the tag as the main target factor. I appreciate your input on this, thank you for bringing this to the community!
+
+#### Reply 4
+
+**Author:** Thomas
+**Posted:** 2026-03-31
+
+to jade Thanks Jade. We are using tags now, but there are still too many opportunities for a tag to not get updated and an inaccurate email to go out to clients when we have have the correct data in Jobber, just need to be able to use it.
+
+---
+
+## 4. Location timers still not working
+
+**Author:** Ernie (Contributor 3)
+**Posted:** 2026-02-02
+**Views:** 156 | **Likes:** 1 | **Comments:** 11
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/location-timers-still-not-working/8186
+
+### Content
+
+Hi everyone. I have my guys clock in/out when they arrive at the office using the timesheet timer on their mobile apps. This starts/stops the general timer for the day. However, we have had trouble with the auto location timers when we arrive at our jobs. They are not automatically turning on. The timers worked for about a couple of weeks and now have not worked for 2 months. We have uninstalled and reinstalled the app and have opened a ticket with Jobber but we still have not gotten it to work. Is anyone else using the automated location timers and is it working for you? Is this a common issue with the auto location timer? Do I have to default to manual start/stop on each job? I would prefer the auto timer over the manual location timer to make it simple and avoid techs not consistently starting the timers on jobs. I want to measure the techs efficiency rates on billed vs unbilled hours. My team productivity report isn't accurate because of the timer issue. Is anyone using the automated location timers and team productivity reports? What's your experience? Ernie 23 days ago I wanted to circle back to give an update. It seems jobber has fixed the auto timer issue. The timer begins when my techs get to the jobs and ends when they leave the jobs now automatically. Thanks.
+
+### Replies (11)
+
+#### Reply 1
+
+**Author:** threerelectric
+**Posted:** 2026-03-12
+
+So I set up a job as SHOP in my system so that it clocks my guys in when they get to work in the morning. Sometimes it works and sometimes it does not. When they leave the shop it stops the time and then clocks them in to the other job when they get to the other job and then clocks them in and out while they are there very sporadically. it will show they are on the job for sec. 30 secs and so on and then total time maybe 30 minutes when they were on the job for 8 hours its really weird.
+
+#### Reply 2
+
+**Author:** threerelectric
+**Posted:** 2026-03-12
+
+to threerelectric On a side note for now I just have my guys do daily written time sheets and I manually enter them in
+
+#### Reply 3
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-03-19
+
+to threerelectric I use Force Fleet Tracking for my van so that I can double check all the times that they were onsite at specific times. I have the tech clock in and out of the jobs. Sometimes they forget so having the van tracker for $20/m is awesome. Its having Life 360 on my fleet. Its a bit wierd (not complex) not get systematized for my evening workflow, but easier that written timesheets for me.
+
+#### Reply 4
+
+**Author:** krista
+**Posted:** 2026-02-02
+
+Hi Ernie​ Hi there, this is a really common point of confusion, so you are definitely not alone here. The key thing to check is that the general timesheet timer must be running first for the automated location timers to trigger. The location timers do not start a workday on their own, they only switch the timer from general time to job time once a technician arrives at a job site. From what you described, it sounds your team is clocking in at the office, which is exactly how it should work. After that, when they arrive at a job, the app should automatically move them from the general timer to the job timer. If the general timer is not running, the location timer will not kick in. I also wanted to share that our team is actively working on stabilizing automated location timers. Improvements are underway, and a future app update will include fixes to make this feature more reliable. In the meantime, making sure everyone is running the latest version of the Jobber mobile app and has the correct location and battery settings enabled will help ensure the best possible experience. This help article covers the main troubleshooting steps for setup. The feature is actively used by many teams, and once the general timer and phone settings are dialed in, the automated timers usually work well, and your team productivity report should start lining up much better. Hope this helps.
+
+#### Reply 5
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-02-02
+
+to krista
+
+#### Reply 6
+
+**Author:** Ernie
+**Posted:** 2026-02-02
+
+to krista Thanks Krista, Yes, I have my team clocking in the general timer when they arrive at the office. We have verified that everything that needs to be toggled on is on. I had put a ticket in and just got a response that there is an issue with the location timers for some users and they are working on a solution. Thanks again for the response. Ernie
+
+#### Reply 7
+
+**Author:** Ernie
+**Posted:** 2026-03-10
+
+I wanted to circle back to give an update. It seems jobber has fixed the auto timer issue. The timer begins when my techs get to the jobs and ends when they leave the jobs now automatically. Thanks.
+
+#### Reply 8
+
+**Author:** donrt
+**Posted:** 2026-03-18
+
+I’m having ongoing issues with automatic time tracking, and I need a clear and accurate explanation of how this is supposed to work. The first CSR I spoke with told me there was no need to clock in at the start of the day and that automatic time tracking would still function. I specifically asked if I was the only one experiencing issues, and I was told yes. Based on that, I proceeded with testing. On Saturday, I set up a job and clocked in on one iPad for the day. We also had another tablet (on a different carrier) that was not clocked in. Neither device tracked any time. also have tried with Iphone
+
+#### Reply 9
+
+**Author:** threerelectric
+**Posted:** 2026-03-18
+
+to donrt I am trying to figure this out as well. So I know you have to manually clock it for the general time to work, so that you do not have gaps in between jobs. I think if you clock in manually the GPS works better I am testing that out now. But I have noticed the GPS does not always clock my guys in when they get to the job as well. I am trying to figure how to track "shop time" time when they are loading materials, "general time" time when they are driving to and from jobs, and "job times". We are an electrical contractor so it is really important to be able to track time and put it where it belongs.
+
+#### Reply 10
+
+**Author:** krista
+**Posted:** 2026-03-24
+
+to donrt Hi donrt​, Thanks for sharing this, and I’m really sorry for the confusion here. I can see how frustrating that experience would be, especially after being told something different earlier. To clarify how this works, location timers will only start tracking automatically if the general timer has already been started on the device. If the general timer isn’t running, the automatic tracking won’t begin, even if you arrive at the job location. Based on what you described, that would explain why no time was tracked on either device. Let us know if you continue to have issues; we would be happy to troubleshoot with you.
+
+#### Reply 11
+
+**Author:** SpotsCC1
+**Posted:** 2026-03-24
+
+to krista Hello, but can you confirm this is true? I am 99 percent sure my location timer turns on when I am not clocked into general time. As the GM, I don't clock my general time in jobber so I never clock in, however, the auto timers work for when I help on job sites. And they automatically turn on.
+
+---
+
+## 5. PHC Plant Healthcare Estimates to Jobs
+
+**Author:** TeagueTSH (Contributor 2)
+**Posted:** 2025-05-02
+**Views:** 29 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/phc-plant-healthcare-estimates-to-jobs/2990
+
+### Content
+
+Hi, my name is Teague. I own an operator Tree Service company. We have dramatically increased our volume of plant healthcare, treatment, and clients. Does anyone have a smooth and effective solution to take a single estimate with several products and services/PHC applications and turn them into one off or reoccurring jobs without manually creating a similar job snd deleting all of the other products and services to get the correct scheduling of each PHC application? I am finding it very cumbersome to send a client, say, with multiple properties, a single estimate for several PHC applications and then have to create an individual job for eachof the applications/products and services. Some of these applications would happen reoccurring three times in a season and some only once. With the current software format, This is a tremendous amount of clicks and work to take one complete estimate and turn it into numerous individual jobs in order to get these applications scheduled on the correct seasonal timeline, including the reoccurring ones. Please let me know if anyone has a solution to this currently incredibly cumbersome and time-consuming process when a single client has multiple properties in multiple PHC/product and service application needs. Thank you in advance. Teague
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** Rborist
+**Posted:** 2026-03-23
+
+Did you find a good solution?
+
+---
+
+## 6. Multi Visit Jobs
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-03-06
-**Views:** 7 | **Likes:** 0 | **Comments:** 1
+**Views:** 41 | **Likes:** 1 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/multi-visit-jobs/9193
 
 ### Content
@@ -19,62 +262,18 @@ Lawn treatments: I have 6 visits in my program. They are not equal 6 weeks apart
 
 #### Reply 1
 
-**Author:** 
-**Posted:** 
+**Author:** krista
+**Posted:** 2026-03-11
 
-No Replies Be the first to
-
----
-
-## 2. How to set up automated yearly service reminders in Jobber?
-
-**Author:** DavidVititow (Contributor 2)
-**Posted:** 2026-03-02
-**Views:** 24 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/job-details-scheduling/how-to-set-up-automated-yearly-service-reminders-in-jobber/8951
-
-### Content
-
-I know I’ve seen this come up before but as a service based industry, I rely heavily on repeat customers. I’d to remind a customer about 11 months after they book with us that their service is coming up. The work around is that I can set them up as a recurring customer and have it remind them that their schedule is coming up a month before the scheduled date. My issue with that is one, I have to wait for paperwork for the customer, and two, I don’t to have to stay on top of seeing if customers actually still want the service. I want reminders sent via email and txt automatically after 11 months (Not a year) and then they can reach back out to us when they get paperwork in for scheduling. There’s got to be a way for Jobber to do this and I can’t seem to figure that out. PLUMBING
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** jade
-**Posted:** 2026-03-06
-
-Hey David! Thanks for the question, the easiest way to do this in Jobber would be with our Campaign Marketing tools! You can create an automated Campaign that targets your specific clients 11 months after their service, and send them an email reminding them of their service! Here is more information on this. If you have any questions, please reach out to our Success Team 888-721-1115 ext 1
+HI BlueSkies​ Thanks for the questions. It sounds you may be looking for a subscription-style billing setup. One option is creating a recurring job with billing set to a fixed monthly price. For a yearly total of $300, you could bill $25 per month, even if visits vary. You could also enable automatic payments if a card is on file. For the visits, you can schedule them roughly every two months and adjust as needed. This way the billing stays consistent while the service visits follow the program timeline. If you have further questions, our Success team would be happy to help! You can reach them at 1-888-721-1115 option 1 or support@getjobber.com
 
 ---
 
-## 3. Today button
-
-**Author:** JHTS (Contributor 3)
-**Posted:** 2026-03-03
-**Views:** 8 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/job-details-scheduling/today-button/9002
-
-### Content
-
-Good Morning everyone Are any of you annoyed that when you hit the Today button on month view - it goes to the beginning of the month not todays date. I regularly have to put information into later parts of the year, when complete I hit Today to return to todays date, unfortunately because I work in month view, it jumps to the beginning of the month. Frustrating because if todays date is 25th of the month I then have to scroll to find it. Therefore it is not today! Apparently if you work in week view, it returns to beginning of week, again this is not Today. Its only in Day view that it will actually take you to today. All I would is when I click Today, it actually takes you to TODAY!! CALENDAR QUOTING SCHEDULING VISIT REMINDERS WORK SMARTER
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 4. Auto reply text through Jobber-out of office option
+## 7. Auto reply text through Jobber-out of office option
 
 **Author:** Clean_Crew (Contributor 2)
-**Posted:** 2026-02-27
-**Views:** 28 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 55 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/auto-reply-text-through-jobber-out-of-office-option/8924
 
 ### Content
@@ -99,40 +298,33 @@ Hi there! We have the AI receptionist through jobber but some clients are angry 
 
 ---
 
-## 5. How does Jobber calculate routes, and can it use real driving directions instead of straight-line distance?
+## 8. Today button
 
-**Author:** allpestoff (Contributor 2)
-**Posted:** 2026-02-11
-**Views:** 51 | **Likes:** 0 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/job-details-scheduling/how-does-jobber-calculate-routes-and-can-it-use-real-driving-directions-instead-/8663
+**Author:** JHTS (Contributor 3)
+**Posted:** 2026-03-03
+**Views:** 16 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/job-details-scheduling/today-button/9002
 
 ### Content
 
-I am writing to express my significant frustration with the current routing functionality within the platform. The primary issue is that the software appears to calculate routes based on "as the crow flies" distance rather than actual driving paths. Furthermore, the routing does not prioritize arrival logic that places the vehicle with the passenger side facing the customer's residence. This is a standard feature in competing routing software and is essential for the safety and efficiency of my team. ROUTE OPTIMIZATION
+Good Morning everyone Are any of you annoyed that when you hit the Today button on month view - it goes to the beginning of the month not todays date. I regularly have to put information into later parts of the year, when complete I hit Today to return to todays date, unfortunately because I work in month view, it jumps to the beginning of the month. Frustrating because if todays date is 25th of the month I then have to scroll to find it. Therefore it is not today! Apparently if you work in week view, it returns to beginning of week, again this is not Today. Its only in Day view that it will actually take you to today. All I would is when I click Today, it actually takes you to TODAY!! CALENDAR QUOTING SCHEDULING VISIT REMINDERS WORK SMARTER
 
-### Replies (2)
+### Replies (1)
 
 #### Reply 1
 
-**Author:** jade
-**Posted:** 2026-02-12
+**Author:** 
+**Posted:** 
 
-Hello! Thanks for bringing this to the community. We noticed your comment on a similar post, and I have replied there. I apologize if my answer is repetitive, but I want to validate your feedback here! I can understand how a feature that calculates driving paths would be beneficial to you and other Jobber customers. In the Jobber app, you can click the service property and open it in your maps of choice to ensure you are on the best route. While this is not calculated in Jobber at this time, we are always looking to improve, and we will share this valuable feedback with our Product Development team. In addition to me sharing your feedback with our team, you can use this form to provide direct feedback and elaborate on your ideal outcome :)
-
-#### Reply 2
-
-**Author:** scoopandgo321
-**Posted:** 2026-03-04
-
-I've said this multiple times. I live on the island, so the routing expects us to do a straight line over the ocean. This causes my whole entire route to not optimize correctly. This is insanely inefficient - needs to be fixed ASAP.
+No Replies Be the first to
 
 ---
 
-## 6. Editing a job from the schedule section?
+## 9. Editing a job from the schedule section?
 
-**Author:** PestFreeCanada (Contributor 4)
-**Posted:** 2026-02-25
-**Views:** 20 | **Likes:** 0 | **Comments:** 1
+**Author:** PestFreeCanada (Contributor 5)
+**Posted:** 2026-03-02
+**Views:** 35 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/editing-a-job-from-the-schedule-section/8873
 
 ### Content
@@ -150,11 +342,11 @@ You should be able to edit line items directly from the Schedule view. If you cl
 
 ---
 
-## 7. New schedule  -  Can't find tasks easily
+## 10. New schedule  -  Can't find tasks easily
 
-**Author:** Ernie (Contributor 2)
-**Posted:** 2026-02-22
-**Views:** 20 | **Likes:** 0 | **Comments:** 1
+**Author:** Ernie (Contributor 3)
+**Posted:** 2026-03-02
+**Views:** 33 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/new-schedule---cant-find-tasks-easily/8857
 
 ### Content
@@ -172,11 +364,11 @@ No Replies Be the first to
 
 ---
 
-## 8. New Schedule
+## 11. New Schedule
 
 **Author:** LynnG (Contributor 2)
-**Posted:** 2025-11-09
-**Views:** 121 | **Likes:** 0 | **Comments:** 6
+**Posted:** 2025-11-02
+**Views:** 165 | **Likes:** 0 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/new-schedule/7376
 
 ### Content
@@ -188,52 +380,52 @@ Has anyone tried Jobber's new schedule? I assign a color to each of my staff so 
 #### Reply 1
 
 **Author:** Cam
-**Posted:** 2025-11-09
+**Posted:** 2025-11-02
 
 JOBBER PRODUCT TEAM Hi LynnG​ ! Cam from Jobber Product Marketing here 👋 Thanks for trying out the new schedule! We’re working on an update that’ll let you choose how completed calendar items are styled—either grayed out or struck through while keeping their assigned color. This will be coming sometime in Q4, so keep an eye out! We’re continuing to improve the new schedule and actively listening to feedback yours to make it even better, so please keep sharing your thoughts! Is there anything else you think could be improved?
 
 #### Reply 2
 
 **Author:** Aldo5217
-**Posted:** 2026-02-22
+**Posted:** 2026-03-02
 
 to Cam for the ones that are working on the schedule, Please make it look as much as possible to what the calendar on outlook has to offer, is the most trusted application used all over the world and we still have to use because jobber cant figure it out that companies that have 150 appointments on the schedule and manages multiple calendars is not easy to manage and we can wait when we can do that, currently using jobber ONLY for invoices , Very disappointed that a team of software engineers cant figure it out, leaving the door open for companies to come in and take on their customers
 
 #### Reply 3
 
 **Author:** JHTS
-**Posted:** 2025-12-09
+**Posted:** 2025-12-02
 
 I have been using Jobber for over 2 years now and have really appreciated the system.I’ve been using Jobber for over two years now and have really appreciated the system. However, I wanted to share some feedback about the new schedule layout, as i find the previous version much more user-friendly. In the old schedule, I could easily distinguish between requests for quotes, jobs, reminders, staff training and holidays using colour-coding and specific works. The new version feels quite bland - the days don't stand out clearly, and past days are darkened, which removed the helpful colour differentiation. You now cannot scroll in the month view to the first week of the following month. I've also noticed that: The week view no longer fits entirely across my laptop screen (Mon-Sat is visible but i need to scroll to see Sunday) Job titles appear too small, so its easy to miss important details in bookings Everything is time-based now, which makes it hard to separate different types of calendar items. It would be useful if we were able to group these together Beyond the calendar, I'd love to see some attention given to features that would really improve workflow - such as The ability to search quotes by address or client name, not just by quote number The ability to format text in Notes (eg change font colour or style) to highlight key information Thank you for reading this and I hope it helps shape further improvements.
 
 #### Reply 4
 
 **Author:** Cam
-**Posted:** 2025-12-09
+**Posted:** 2025-12-02
 
 JOBBER PRODUCT TEAM to JHTS Hi JHTS! Thanks so much for taking the time to share this! The level of detail you included helps us understand exactly what you need and how the new layout is impacting your day-to-day. We really appreciate you calling out specific examples, and we’ll be sure to pass this along to our product team as they continue improving the New Schedule! A couple notes and follow-ups that might help in the meantime: Past days are darkened: We’ve recently released an update that lets you choose how completed appointments appear. What you’re describing is the new Grayed-out style, but you can switch back to a Strikethrough style to keep the color differentiation on your calendar. On the New Schedule, go to More > Schedule Settings and you’ll see this as an option. Overlapping appointments: Besides that, you can now choose how overlapping appointments appear (either Nested or Stacked) in those same Schedule Settings. And a couple quick questions so we can understand your feedback a bit better: When you say “everything is time-based now”, can you share a bit more about what you mean? On formatting Notes: that’s a helpful suggestion. To give our team more insight into why this would be valuable for you, could you share what you’d want to highlight with formatting? Knowing the “why” helps us assess the best way to support your workflow. Thanks!
 
 #### Reply 5
 
 **Author:** JHTS
-**Posted:** 2025-12-09
+**Posted:** 2026-01-02
 
 Hi Cam On formatting Notes: that;s a helpful suggestion. To give our team more insight into why this would be valuable for you, could you share what you'd want to highlight with formatting? Knowing the 'why' helps us assess the best way to support your workflow. We use notes on every job. They are added at request stage and the Surveyor Notes are attached up to Quote stage. this one is used solely by management and scheduling..... this includes details - how many man days, TPO information, what machinery will be needed on site etc. We also add another note that is for the operatives, again this is added at request stage and goes through to invoice - this gives them information, who the surveyor was so that if they have any questions they know who to contact. Also where to tip any waste as it is not always efficient to run back to the yard to tip. etc. At the moment we cut and paste the question form at request stage and it is completed as we go through the processes but it is not always easy to read and see the details as they are always in the same writing and colour, especially in bright conditions. If we were able to change the main wording into bold or another colour - this would make it a lot easier to see on a phone screen as there would be a differentiation. If this was in form style, we would be able to use drop down menus for most of the questions and that would be a big bonus..... Don't worry about the other issue - we have sorted our own way of grouping the requests/jobs/tasks etc. Thank you for looking into this for us.
 
 #### Reply 6
 
 **Author:** Cam
-**Posted:** 2025-12-09
+**Posted:** 2026-01-02
 
 JOBBER PRODUCT TEAM to JHTS Hi JHTS, Got it! Thanks so much for the detailed explanation. I’ve shared this with our team to review. Your insights will be so valuable as we keep improving Notes in Jobber. Let us know if you have any other feedback or questions!
 
 ---
 
-## 9. Job Form Additional Characters
+## 12. Job Form Additional Characters
 
 **Author:** rchrenewables (Contributor 2)
-**Posted:** 2026-02-18
-**Views:** 48 | **Likes:** 1 | **Comments:** 6
+**Posted:** 2026-03-02
+**Views:** 80 | **Likes:** 1 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/job-form-additional-characters/8773
 
 ### Content
@@ -245,52 +437,52 @@ Hello, Does anybody utilize the job forms for providing findings for clients? I 
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Just thinking here, but what about a second question below the long answer that says "Continued if Required"?
 
 #### Reply 2
 
 **Author:** tbarth
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 to PestFreeCanada Clever! I tested the long answer box, and it does seem to be limited to 4096 characters.
 
 #### Reply 3
 
 **Author:** rchrenewables
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 to tbarth That’s not a bad idea! Thanks for the responses. It may not be a character limit rather than a formatting issue. The report attached below recently had this issue. Page 3 just goes straight into photos.
 
 #### Reply 4
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi everyone, This is a really good callout, especially if you are using job forms for detailed findings or formal reporting. I would be happy to pass this along to our Development team, particularly around the character limitation and the formatting issue you mentioned. That context is helpful. In the meantime, have you considered using internal notes for longer findings? Notes do not have the same structured character limitations as form fields and can sometimes provide more flexibility for detailed write-ups. Some teams use job forms for structured checklists and then use notes for extended summaries or conclusions.
 
 #### Reply 5
 
 **Author:** tbarth
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 to krista It looks long multiline forms in the mobile app are clipped in the form field, in this case with lots of short lines. If desktop shows the full content, the backend data is still there. I'm assuming the behavior happens on iOS and Android since they both use React Native, which you guys switched to a few years ago. The current TextInput implementation probably uses a fixed height or limited auto-grow without enabling scrolling past the maximum height. Any parent container constraints or missing scrollEnabled could cause it as well. Android has a vertical alignment thing that may also cause it if not accounted for. Should be an easy fix. Looking at the React Native reference: TextInput with multiline={true} Dynamically grow height using onContentSizeChange up to a defined maxHeight Enable scrolling past maxHeight (scrollEnabled={true}) Set textAlignVertical="top" for Android alignment Wrap in KeyboardAvoidingView and ScrollView if the form spans multiple fields or page height Example: <TextInput multiline value={value} onChangeText={setValue} onContentSizeChange={e => setHeight(Math.min(e.nativeEvent.contentSize.height, 400)) // auto-grow until max } scrollEnabled={height >= 400} // allow scrolling past max textAlignVertical="top" // fix Android vertical alignment style={{ height, minHeight: 100, maxHeight: 400, borderWidth: 1, borderColor: '#ccc', padding: 10 }} /> That would prevent clipping, works on iOS and Android, maintain the layout, and handle keyboard interactions and flex layouts correctly. Or I could be completely wrong about the exact cause, but it should still be an easy fix since it's certainly a css issue. As for QA, this is the kind of issue that can slip past all of the non-manual / device testing test methods, including E2E because simulated keyboard and layout stuff can behave differently from real devices. Even then, it's an edge case for manual testing.
 
 #### Reply 6
 
 **Author:** rchrenewables
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Cheers! I will try and use the internal notes at this time. Thank you for the detailed response tbarth​
 
 ---
 
-## 10. Is there a way to view all customers on a map in Jobber?
+## 13. Is there a way to view all customers on a map in Jobber?
 
 **Author:** BlueSkies (Contributor 3)
-**Posted:** 2026-02-14
-**Views:** 41 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 73 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/is-there-a-way-to-view-all-customers-on-a-map-in-jobber/8720
 
 ### Content
@@ -302,17 +494,17 @@ Not sure if this is in the right spot.. Working on renewals for new year. I have
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-20
+**Posted:** 2026-03-02
 
 Hi BlueSkies​, Great question, and this is absolutely the right place to ask. If you are looking to view your customers geographically, you can check out Route Optimization in Settings. That feature will display your clients' locations on a map, which may work well if you are planning renewals by area. It is a helpful way to visually cluster clients and work through them region by region. You may also want to take a look at the video in this help article. It walks through the New Schedule workflow, which allows you to book jobs incredibly quickly, in some cases within 42 seconds. Depending on how you plan to structure your renewal outreach, this workflow might significantly streamline the process!
 
 ---
 
-## 11. How can I create a dynamic appointment cancellation list in Jobber?
+## 14. How can I create a dynamic appointment cancellation list in Jobber?
 
 **Author:** JondyL (Contributor 2)
-**Posted:** 2026-02-14
-**Views:** 21 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 23 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/how-can-i-create-a-dynamic-appointment-cancellation-list-in-jobber/8711
 
 ### Content
@@ -330,54 +522,54 @@ No Replies Be the first to
 
 ---
 
-## 12. Multiple job forms per job
+## 15. Multiple job forms per job
 
 **Author:** TESVT (Contributor 2)
-**Posted:** 2026-02-11
-**Views:** 64 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2026-03-02
+**Views:** 88 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/multiple-job-forms-per-job/8655
 
 ### Content
 
-I just started using Jobber and was excited about using the job forms. While the forms are great and work well for capturing information and sending service reports, I wish I could add multiple versions of the same form on one job. For example, I have a job to visit a client for preventive maintenance on 3 different machines. I have a job form for the maintenance task and add three copies of it to the job: one for each machine. When adding the form to the job I can name them to correspond to each of the machines. The work around I have so far is to make a separate visit for each of the tasks (even thought they are on the same day), as that populates an empty job form into each visit. Anyone have any other suggestions? jade 25 days ago Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com
+I just started using Jobber and was excited about using the job forms. While the forms are great and work well for capturing information and sending service reports, I wish I could add multiple versions of the same form on one job. For example, I have a job to visit a client for preventive maintenance on 3 different machines. I have a job form for the maintenance task and add three copies of it to the job: one for each machine. When adding the form to the job I can name them to correspond to each of the machines. The work around I have so far is to make a separate visit for each of the tasks (even thought they are on the same day), as that populates an empty job form into each visit. Anyone have any other suggestions? jade Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com
 
 ### Replies (4)
 
 #### Reply 1
 
 **Author:** 
-**Posted:** 2026-02-12
+**Posted:** 2026-03-02
 
 PestFreeCanada
 
 #### Reply 2
 
 **Author:** TESVT
-**Posted:** 2026-02-13
+**Posted:** 2026-03-02
 
 to PestFreeCanada Thanks.
 
 #### Reply 3
 
 **Author:** jade
-**Posted:** 2026-02-12
+**Posted:** 2026-03-02
 
 Hey Tesvt, Job forms are a great way to stay organized on the job! If you need to make multiple of the same job form, that is totally possible and I can walk you through the steps. Gear icon > Settings > Job Forms > ... next to the form you wish to duplicate > duplicate - I recommend changing the title of the second or third form to something slightly different so your team can differiciate. Here is some more info on that. When creating the job, you can select multiple job forms at the same time, that will all be applied for the same visit! I really hope this helps! I also want to say thanks to PestFreeCanada for the suggestion, if you are unsure about who your designated Product Expert is, please reach out to our team and we can ensure you get connected with them! 888-721-1115 ext 1 or mailto:support@getjobber.com
 
 #### Reply 4
 
 **Author:** TESVT
-**Posted:** 2026-02-13
+**Posted:** 2026-03-02
 
 Thanks. That could work for me.
 
 ---
 
-## 13. ROUTING
+## 16. ROUTING
 
 **Author:** BlueSkies (Contributor 3)
-**Posted:** 2025-12-09
-**Views:** 82 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2025-12-02
+**Views:** 85 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/routing/7596
 
 ### Content
@@ -389,38 +581,38 @@ So serious question. how in the world do you actual route the properties because
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-12-09
+**Posted:** 2025-12-02
 
 Hey BlueSkys, thank you so much for the context. I would to apologize for any issues you have been experiencing with the routing. Our routing system retrieves data from Google Maps, and you are correct in saying that it uses geocoding. If you are experiencing these issues, especially on properties you frequent, I recommend manually updating the property pin. To do this go to the client > property (click he pin) and you can update it there to be more precise. I do understand your frustration that this was not something that you needed to do with your previous CRM - but once the points are manually adjusted, they will stay that for all future uses. Our Success Team would be more than happy to assist you with your routing and ensure that it is set up correctly for your needs so you can minimize drive time. I would love to know what other CRM systems you have used routing on, so I can fully understand how changes to our routing would benefit you, and let our Product Team know. We thank you kindly for the thorough feedback.
 
 #### Reply 2
 
 **Author:** allpestoff
-**Posted:** 2026-02-11
+**Posted:** 2026-03-02
 
 to jade The primary issue is that the software appears to calculate routes based on "as the crow flies" distance rather than actual driving paths. Furthermore, the routing does not prioritize arrival logic that places the vehicle with the passenger side facing the customer's residence. This is a standard feature in competing routing software and is essential for the safety and efficiency of my team.
 
 #### Reply 3
 
 **Author:** jade
-**Posted:** 2026-02-12
+**Posted:** 2026-03-02
 
 to allpestoff Hello, thanks for your ! I can understand how a feature that calculates driving paths would be beneficial to you and other Jobber customers. In the Jobber app, you can click the service property and open it in your maps of choice to ensure you are on the best route. While this is not calculated in Jobber at this time, we are always looking to improve, and we will share this valuable feedback with our Product Development team.
 
 #### Reply 4
 
 **Author:** BlueSkies
-**Posted:** 2026-01-09
+**Posted:** 2026-01-02
 
 JADE no it doesn't...i have done this multiple times...it doesn't do it. AND....i SHOULDN'T HAVE TO MAKE THOSE TYPES OF ADJUSTMENTS. neighbors. as in next door. 15 steps neighbors. if your geocoding cant figure that out...and your solution is for me to move them. which i have. and the next week it is back to the way it was...and why i wrote a page and a half because its driving me up the wall and wasting time, then i seriously mean this. Jobber is a marketing company disguised as a crm. cheaper systems have figured this out. this isn't a UI issue. This isn't a oh click this or that issue. It doesn't work. and i have talked with more than a few on the phone shared the screen...want to know the response. oh that is a problem...here let me open up the other crm that i still pay for because they have a pricing matrix. a proper pricing matrix in the app. not a seperate excel sheet i would have to do with jobber. here is the same route. lets see how fast this works. oh 1 min ( i timed it) and now it works. oh i am ending in the right spot and not having to move literally 30 properties around i do in jobber because it recognized that ending here means route from start to finish and hit everything that way vs whats the fastest way to hit 60 properties then drop this property at the end. oh something has come up and i need to reroute. so i can with a click of a button remove all the completed jobs...all of them (you call them visits) and then pick a new starting point and ending point. that takes less than 2 min with the other crm...jobber individually removing them rerouting and then needing to manual move them 10 min. that a lot of time for a more expensive crm. and full transparency...i have had this problem and others it and have called had screen shares all sorts of talking with people. So yes im beyond frustrated.
 
 ---
 
-## 14. Text notifications for requests wanted
+## 17. Text notifications for requests wanted
 
 **Author:** geoffhazel (Contributor 2)
-**Posted:** 2026-02-07
-**Views:** 41 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-03-02
+**Views:** 46 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/text-notifications-for-requests-wanted/8625
 
 ### Content
@@ -432,17 +624,17 @@ I am glad jobber emails me as soon as a request comes in but I’m not on email 
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-10
+**Posted:** 2026-03-02
 
 Hi geoffhazel​ Thanks for sharing this, and we completely agree that quick responses to new requests make a big difference in getting things off on the right foot. At the moment, Jobber does not send text messages for new requests; however, Jobber does send push notifications to the Jobber mobile app when something new requires action, including new requests. If you are an admin user, you can opt into additional push notifications so you are notified right away when a client or lead submits a new request, sends a text, views a quote for the first time, or approves a quote. A “new request” push notification is triggered when a client or lead submits a request, but not when a team member creates a request internally.
 
 ---
 
-## 15. Do photos and notes from Jobber requests carry over to jobs and quotes?
+## 18. Do photos and notes from Jobber requests carry over to jobs and quotes?
 
 **Author:** Mobius (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 57 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-03-02
+**Views:** 71 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/do-photos-and-notes-from-jobber-requests-carry-over-to-jobs-and-quotes/8565
 
 ### Content
@@ -454,24 +646,24 @@ New Jobber user just getting to know things and adapt my workflow to this new sy
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Hey Mobius! Welcome to Jobber! To answer your question, when a photo is added to a Request, you can have it so that it carries over to the Quote, Job, and Invoice as long as the photo is added to the internal notes section, and you select the option for "link to related". This looks different in the web version and the app, so I have attached screenshots of both. I do understand the confusion you have, and to elaborate on that, when adding photos to the Request form, they do not carry over by default. The ability to add photos to the Request form is a new feature, and we are very open to feedback as we continue to improve this. I have submitted your feedback on this to our team. I hope this information helps, if you have any questions on this, please contact our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com.
 
 #### Reply 2
 
 **Author:** Mobius
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Thank you Jade, I see where I was going wrong. I completely missed that there was a request form as well as a note section in Requests. I will be sure to make use of this in the future, thanks again.
 
 ---
 
-## 16. Client Reminders
+## 19. Client Reminders
 
-**Author:** Ernie (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 38 | **Likes:** 0 | **Comments:** 1
+**Author:** Ernie (Contributor 3)
+**Posted:** 2026-03-02
+**Views:** 43 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/client-reminders/8590
 
 ### Content
@@ -483,17 +675,17 @@ Is there a way to change the reminders to show only the arrival times instead of
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 Hi Ernie​, thanks for explaining the situation so clearly. For visit reminders, you can remove the start time from the message. This does mean that all visit date and time details would be removed from the reminder, so it’s a bit of a tradeoff, but it can help avoid customers focusing on the start time. To try this out, head to Settings > Emails and Text Messages, then edit your Visit Reminders and remove the {{VISIT_DATE_AND_TIME}} placeholder from the message. At this time, this option isn’t available for requests or assessments, and those reminders will continue to show the start time. Your use case for arrival windows in assessments is still really valuable, and we’re happy to pass that feedback along to the team. Hope this helps, and let us know if you have any questions while testing it out.
 
 ---
 
-## 17. Map and Routing
+## 20. Map and Routing
 
 **Author:** vlang (Contributor 2)
-**Posted:** 2025-03-09
-**Views:** 105 | **Likes:** 1 | **Comments:** 4
+**Posted:** 2025-04-02
+**Views:** 123 | **Likes:** 1 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/job-details-scheduling/map-and-routing/2444
 
 ### Content
@@ -505,34 +697,34 @@ Brief: Is there a way to see all client properties (active and inactive) overlai
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-11-09
+**Posted:** 2025-11-02
 
 Hi vlang​ Thanks so much for sharing this idea and for outlining how it would help your business — that’s really great context! To make sure I understand what you’re looking for, could you let me know if either of these reports serve that need right now? The Visit Report, with the location columns visible, which can show the addresses for scheduled and completed visits. Either the One-Off Job Report or the Recurring Job Report, which may help visualize or filter jobs by location or status. If those don’t quite give you what you need, I’d be happy to share your feedback with our development team about having a map view that overlays all client and job properties (active and inactive) for easier planning and routing.
 
 #### Reply 2
 
 **Author:** Janine-Chambers
-**Posted:** 2025-11-09
+**Posted:** 2025-12-02
 
 The view under settings and route optimization is all active and inactive customers. They should all have a pin regardless of whether or not they have an active job. Have you checked out the heatmap yet on the insights dashboard? It gives you an idea of which areas are the most dense based on revenue. I would also try asking your questions of the Jobber Co-Pilot to see if it can give you some AI insight into your inquiry. Is there a certain metric you are trying to determine?
 
 #### Reply 3
 
 **Author:** FibrenewDA
-**Posted:** 2026-02-09
+**Posted:** 2026-02-02
 
 Revisiting the topic as it is what I am looking for as well. I would the capability to to visually see a map with my scheduled job locations for the day/week and see new customer locations as well. This would help me for scheduling purposes and being more efficient. As I receive a new request, I could see that new customers location in proximity to jobs I already have scheduled. Then I could easily try to schedule an assessment that is close to a planned job. Mike
 
 #### Reply 4
 
 **Author:** krista
-**Posted:** 2026-02-09
+**Posted:** 2026-03-02
 
 to FibrenewDA Hi Mike, I love this idea. Being able to visually see scheduled jobs and new customer locations together would be a huge help for planning and efficiency. I will be sure to share this feedback with the team. Thanks for taking the time to write it up.
 
 ---
 
-## 18. How can lawn care businesses manage seasonal recurring work and annual rescheduling?
+## 21. How can lawn care businesses manage seasonal recurring work and annual rescheduling?
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2026-02-09
@@ -554,7 +746,7 @@ Hi BlueSkies​ Is the issue here that the Job is closing after you invoice, and
 
 ---
 
-## 19. Scheduling For Lawn Care -UK
+## 22. Scheduling For Lawn Care -UK
 
 **Author:** OGS (Contributor 2)
 **Posted:** 2026-02-09
@@ -576,43 +768,7 @@ Hi OGS​ Thanks for reaching out and for explaining your setup. Jobber does hav
 
 ---
 
-## 20. Location timers still not working
-
-**Author:** Ernie (Contributor 2)
-**Posted:** 2026-02-09
-**Views:** 81 | **Likes:** 1 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/job-details-scheduling/location-timers-still-not-working/8186
-
-### Content
-
-Hi everyone. I have my guys clock in/out when they arrive at the office using the timesheet timer on their mobile apps. This starts/stops the general timer for the day. However, we have had trouble with the auto location timers when we arrive at our jobs. They are not automatically turning on. The timers worked for about a couple of weeks and now have not worked for 2 months. We have uninstalled and reinstalled the app and have opened a ticket with Jobber but we still have not gotten it to work. Is anyone else using the automated location timers and is it working for you? Is this a common issue with the auto location timer? Do I have to default to manual start/stop on each job? I would prefer the auto timer over the manual location timer to make it simple and avoid techs not consistently starting the timers on jobs. I want to measure the techs efficiency rates on billed vs unbilled hours. My team productivity report isn't accurate because of the timer issue. Is anyone using the automated location timers and team productivity reports? What's your experience?
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** krista
-**Posted:** 2026-02-09
-
-Hi Ernie​ Hi there, this is a really common point of confusion, so you are definitely not alone here. The key thing to check is that the general timesheet timer must be running first for the automated location timers to trigger. The location timers do not start a workday on their own, they only switch the timer from general time to job time once a technician arrives at a job site. From what you described, it sounds your team is clocking in at the office, which is exactly how it should work. After that, when they arrive at a job, the app should automatically move them from the general timer to the job timer. If the general timer is not running, the location timer will not kick in. I also wanted to share that our team is actively working on stabilizing automated location timers. Improvements are underway, and a future app update will include fixes to make this feature more reliable. In the meantime, making sure everyone is running the latest version of the Jobber mobile app and has the correct location and battery settings enabled will help ensure the best possible experience. This help article covers the main troubleshooting steps for setup. The feature is actively used by many teams, and once the general timer and phone settings are dialed in, the automated timers usually work well, and your team productivity report should start lining up much better. Hope this helps.
-
-#### Reply 2
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-09
-
-to krista
-
-#### Reply 3
-
-**Author:** Ernie
-**Posted:** 2026-02-09
-
-to krista Thanks Krista, Yes, I have my team clocking in the general timer when they arrive at the office. We have verified that everything that needs to be toggled on is on. I had put a ticket in and just got a response that there is an issue with the location timers for some users and they are working on a solution. Thanks again for the response. Ernie
-
----
-
-## 21. How to manage photos for clients with multiple properties in Jobber?
+## 23. How to manage photos for clients with multiple properties in Jobber?
 
 **Author:** myshell (Contributor 2)
 **Posted:** 2026-01-27
@@ -648,7 +804,7 @@ I do see what you mean. Although there is not a way to attach photos to a proper
 
 ---
 
-## 22. Job Forms (Checklists) Not Good Enough For Tracking Job Status
+## 24. Job Forms (Checklists) Not Good Enough For Tracking Job Status
 
 **Author:** dcholding302 (Contributor 2)
 **Posted:** 2025-12-27
@@ -677,7 +833,7 @@ Hi dcholding302​ I hear what you are describing. Forms are tied to visits, so 
 
 ---
 
-## 23. Installs (one off job) vs Monthly Invoicing (reoccuring job)
+## 25. Installs (one off job) vs Monthly Invoicing (reoccuring job)
 
 **Author:** Kamgard (Contributor 2)
 **Posted:** 2025-12-27
@@ -727,7 +883,7 @@ Hi Kamgard​ The cleanest way to handle this is to separate the deposit from t
 
 ---
 
-## 24. What’s your process for estimating job duration accurately—especially for new clients?
+## 26. What’s your process for estimating job duration accurately—especially for new clients?
 
 **Author:** WendyEsparza123 (Contributor 2)
 **Posted:** 2025-12-27
@@ -756,7 +912,7 @@ When I price jobs I just try to add a buffer. And at the end of the day you will
 
 ---
 
-## 25. Finding out when a client profile was created?
+## 27. Finding out when a client profile was created?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-27
@@ -785,7 +941,7 @@ to krista Once it passed the 24 hour mark it just said "1 day ago". It all worke
 
 ---
 
-## 26. Feature Request - JOB Status at a glance
+## 28. Feature Request - JOB Status at a glance
 
 **Author:** dcholding (Contributor 2)
 **Posted:** 2025-12-27
@@ -807,7 +963,7 @@ Hello, and thanks for bringing this to the community! I think that this is a won
 
 ---
 
-## 27. Canceling A Job
+## 29. Canceling A Job
 
 **Author:** LukeE (Contributor 3)
 **Posted:** 2025-05-27
@@ -843,7 +999,7 @@ to jade jade wrote: There is currently no "cancel job" feature in Jobber, but I 
 
 ---
 
-## 28. New Item Request - Billable Hours (BH)
+## 30. New Item Request - Billable Hours (BH)
 
 **Author:** SLC_NC (Contributor 2)
 **Posted:** 2025-12-27
@@ -865,7 +1021,7 @@ Hey there! Thanks for bringing this to the community. I really think the Success
 
 ---
 
-## 29. Job Templates for repeat work
+## 31. Job Templates for repeat work
 
 **Author:** bbliss (Contributor 2)
 **Posted:** 2025-11-27
@@ -901,7 +1057,7 @@ Have you tried the "Job Form"? I had the exact same problem where I needed a rep
 
 ---
 
-## 30. Job Forms Missing Needed Features
+## 32. Job Forms Missing Needed Features
 
 **Author:** larkconcierge (Contributor 2)
 **Posted:** 2025-10-27
@@ -958,7 +1114,7 @@ It looks it wasn't showing because I didn't add a question under that section. I
 
 ---
 
-## 31. ⚡️Keyboard Shortcuts for Jobber
+## 33. ⚡️Keyboard Shortcuts for Jobber
 
 **Author:** BenDelaney (Contributor 2)
 **Posted:** 2025-11-27
@@ -1008,7 +1164,7 @@ to BenDelaney I've updated the script and instructions to include the Windows-fr
 
 ---
 
-## 32. Customer with multiple locations
+## 34. Customer with multiple locations
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-27
@@ -1030,7 +1186,7 @@ it is best to look at client set ups from an accounting perspective. The client 
 
 ---
 
-## 33. Mass Scheduling with Line items
+## 35. Mass Scheduling with Line items
 
 **Author:** jasmontoya (Contributor 2)
 **Posted:** 2025-10-27
@@ -1052,7 +1208,7 @@ Hi jasmontoya​ Thanks for the question! Jobber does have a workflow that allow
 
 ---
 
-## 34. Routing
+## 36. Routing
 
 **Author:** RatFinder (Contributor 2)
 **Posted:** 2025-10-27
@@ -1074,7 +1230,7 @@ Hey there! Thank you for bringing this to the community! Routing can be difficul
 
 ---
 
-## 35. Feature Request: Hourly Line Items That Auto-Track Labor Time
+## 37. Feature Request: Hourly Line Items That Auto-Track Labor Time
 
 **Author:** Nick-TLC (Contributor 2)
 **Posted:** 2025-10-27
@@ -1103,7 +1259,7 @@ Hey Nick! Thank you for this feedback. I can see how it would be valuable for yo
 
 ---
 
-## 36. Mass Visit Scheduling
+## 38. Mass Visit Scheduling
 
 **Author:** DevonMichael (Contributor 2)
 **Posted:** 2025-10-27
@@ -1139,7 +1295,7 @@ Thanks Jade! I will give it a test run tomorrow!
 
 ---
 
-## 37. New Job form no good :-(
+## 39. New Job form no good :-(
 
 **Author:** OCGardens (Contributor 2)
 **Posted:** 2025-09-27
@@ -1189,7 +1345,7 @@ to OCGardens OCGardens​ I too agree that the forum has too much Spam and adver
 
 ---
 
-## 38. Out of cell service area access
+## 40. Out of cell service area access
 
 **Author:** hurcoll (Contributor 2)
 **Posted:** 2025-09-27
@@ -1218,7 +1374,7 @@ This is a GREAT question and something we've been wondering about, too.
 
 ---
 
-## 39. Just getting going with Jobber. Advice Needed
+## 41. Just getting going with Jobber. Advice Needed
 
 **Author:** Ridgeline_Jeff (Contributor 2)
 **Posted:** 2025-09-27
@@ -1240,7 +1396,7 @@ I would say "onboarding" with Jobber would be the best first move. From there I 
 
 ---
 
-## 40. Scheduling multi step jobs
+## 42. Scheduling multi step jobs
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2025-08-27
@@ -1283,7 +1439,7 @@ Hi BlueSkies​ Thank you so much for taking the time to share such detailed fee
 
 ---
 
-## 41. Scheduling ease Vs technician clarity…
+## 43. Scheduling ease Vs technician clarity…
 
 **Author:** Conrad (Contributor 4)
 **Posted:** 2025-08-27
@@ -1305,7 +1461,7 @@ Hey Conrad! Thank you for bringing this to the community. I can confirm that a 2
 
 ---
 
-## 42. Creating route efficiency for scheduling
+## 44. Creating route efficiency for scheduling
 
 **Author:** Jason_WWC (Contributor 2)
 **Posted:** 2025-05-27
@@ -1348,7 +1504,7 @@ BUILDER 1 to Jason_WWC Jason, I am sure Jobber Support could assist with this.
 
 ---
 
-## 43. Deleted Visits
+## 45. Deleted Visits
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2025-08-27
@@ -1377,7 +1533,7 @@ to jade Seconding BlueSkies​ on this. We have had to create a whole internal t
 
 ---
 
-## 44. Jobber needs an Audit Trail feature
+## 46. Jobber needs an Audit Trail feature
 
 **Author:** hshoosier (Contributor 3)
 **Posted:** 2025-07-27
@@ -1434,7 +1590,7 @@ krista​ Any update on this? hshoosier​ is spot on that this is a very needed
 
 ---
 
-## 45. Mass Reschedule
+## 47. Mass Reschedule
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2025-08-27
@@ -1456,7 +1612,7 @@ Hey BlueSkies! We understand that some jobs are weather-dependent. Jobber has a 
 
 ---
 
-## 46. Job Routing
+## 48. Job Routing
 
 **Author:** BlueSkies (Contributor 3)
 **Posted:** 2025-08-27
@@ -1478,7 +1634,7 @@ Hey BlueSkies! Thank you for bringing this to the community. I first want to apo
 
 ---
 
-## 47. Is there any way, or chance of an update, to manually "mark job as scheduled"?
+## 49. Is there any way, or chance of an update, to manually "mark job as scheduled"?
 
 **Author:** Pelectric (Contributor 2)
 **Posted:** 2025-08-27
@@ -1500,7 +1656,7 @@ Hey Pelectric! Thanks for the question. I'm not 100% sure I understand the desir
 
 ---
 
-## 48. Can I bypass "Job, converting etc"?
+## 50. Can I bypass "Job, converting etc"?
 
 **Author:** Newbee (Contributor 2)
 **Posted:** 2025-02-27
@@ -1536,7 +1692,7 @@ Interesting, thank you, I'll try that
 
 ---
 
-## 49. Client profile feature
+## 51. Client profile feature
 
 **Author:** Jorge_newimage (Contributor 3)
 **Posted:** 2025-08-27
@@ -1558,7 +1714,7 @@ Hey Jorge! Thanks for bringing this to the community. This is a great suggestion
 
 ---
 
-## 50. Ideas about note organization and ease of use
+## 52. Ideas about note organization and ease of use
 
 **Author:** OceanicDan (Contributor 2)
 **Posted:** 2025-02-27
@@ -1608,7 +1764,7 @@ I use the notes section on almost every client on almost every call. I come from
 
 ---
 
-## 51. Struggling with Accessing Job Info in Remote Areas – Any Offline Workarounds?
+## 53. Struggling with Accessing Job Info in Remote Areas – Any Offline Workarounds?
 
 **Author:** MountainMarine (Contributor 3)
 **Posted:** 2025-07-27
@@ -1630,7 +1786,7 @@ Buy a cheap wi-fi modem from Amazon and bring it with you everywhere. Super chea
 
 ---
 
-## 52. Suggestions for Jobber
+## 54. Suggestions for Jobber
 
 **Author:** Svarga91 (Contributor 2)
 **Posted:** 2025-04-27
@@ -1659,7 +1815,7 @@ I completely agree with a lot of these! Let me add a few: When creating batch in
 
 ---
 
-## 53. Back and Forth Email's before Quoting work
+## 55. Back and Forth Email's before Quoting work
 
 **Author:** LeatherHelpGuy (Contributor 2)
 **Posted:** 2025-05-27
@@ -1702,7 +1858,7 @@ You could try using the "texting" feature with your customer in the app or deskt
 
 ---
 
-## 54. Not able to get auto location timer to work
+## 56. Not able to get auto location timer to work
 
 **Author:** Ernie (Contributor 2)
 **Posted:** 2025-07-27
@@ -1738,7 +1894,7 @@ Hi Ernie​ Thanks for reaching out and letting us know what you're experiencin
 
 ---
 
-## 55. Who's running a cleaning business!
+## 57. Who's running a cleaning business!
 
 **Author:** DennisYosco (Contributor 2)
 **Posted:** 2025-06-27
@@ -1830,7 +1986,7 @@ Did a link get sent out?
 
 ---
 
-## 56. Hey, I was wanting to know if anyone has a good way to add customers fert programs?
+## 58. Hey, I was wanting to know if anyone has a good way to add customers fert programs?
 
 **Author:**  (Contributor 2)
 **Posted:** 2025-06-27
@@ -1852,7 +2008,7 @@ No Replies Be the first to
 
 ---
 
-## 57. Location Timer Trouble
+## 59. Location Timer Trouble
 
 **Author:** wooddreams (Contributor 2)
 **Posted:** 2025-06-27
@@ -1874,7 +2030,7 @@ krista
 
 ---
 
-## 58. Add appointments to calender
+## 60. Add appointments to calender
 
 **Author:** deanham_ec (Contributor 2)
 **Posted:** 2025-06-27
@@ -1903,7 +2059,7 @@ deanham_ec​ Thank you for the great question! At this time, Jobber doesn’t o
 
 ---
 
-## 59. Job forms detail question
+## 61. Job forms detail question
 
 **Author:** RSCcass0905 (Contributor 2)
 **Posted:** 2025-05-27
@@ -1932,7 +2088,7 @@ I don't believe the forms have those capabilities. However, you could make custo
 
 ---
 
-## 60. Adding Images to Job Forms and Asset Tracking
+## 62. Adding Images to Job Forms and Asset Tracking
 
 **Author:** Jerry_Kobylt (Contributor 2)
 **Posted:** 2025-05-27
@@ -1954,7 +2110,7 @@ Hey Jerry! Thanks for the question. I'm not sure what service you could use to p
 
 ---
 
-## 61. Managing Year-Long Jobs with Multiple Tasks & Recurring Visits
+## 63. Managing Year-Long Jobs with Multiple Tasks & Recurring Visits
 
 **Author:** Svarga91 (Contributor 2)
 **Posted:** 2025-04-27
@@ -1976,29 +2132,7 @@ I’m having a similar issue when I have an estimate approved for one client wit
 
 ---
 
-## 62. PHC Plant Healthcare Estimates to Jobs
-
-**Author:** TeagueTSH (Contributor 2)
-**Posted:** 2025-04-27
-**Views:** 12 | **Likes:** 1 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/job-details-scheduling/phc-plant-healthcare-estimates-to-jobs/2990
-
-### Content
-
-Hi, my name is Teague. I own an operator Tree Service company. We have dramatically increased our volume of plant healthcare, treatment, and clients. Does anyone have a smooth and effective solution to take a single estimate with several products and services/PHC applications and turn them into one off or reoccurring jobs without manually creating a similar job snd deleting all of the other products and services to get the correct scheduling of each PHC application? I am finding it very cumbersome to send a client, say, with multiple properties, a single estimate for several PHC applications and then have to create an individual job for eachof the applications/products and services. Some of these applications would happen reoccurring three times in a season and some only once. With the current software format, This is a tremendous amount of clicks and work to take one complete estimate and turn it into numerous individual jobs in order to get these applications scheduled on the correct seasonal timeline, including the reoccurring ones. Please let me know if anyone has a solution to this currently incredibly cumbersome and time-consuming process when a single client has multiple properties in multiple PHC/product and service application needs. Thank you in advance. Teague
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 63. Scheduling with recurring customers and new customers.
+## 64. Scheduling with recurring customers and new customers.
 
 **Author:** shafere1515 (Contributor 2)
 **Posted:** 2025-04-27
@@ -2020,7 +2154,7 @@ No Replies Be the first to
 
 ---
 
-## 64. Blocking time in jobber schedule as unavailable
+## 65. Blocking time in jobber schedule as unavailable
 
 **Author:** LukeE (Contributor 3)
 **Posted:** 2025-02-27
@@ -2056,7 +2190,7 @@ Hello, I have the same issue. I scheduled a fake task for a couple of weeks, ass
 
 ---
 
-## 65. Jobber Failing to update features
+## 66. Jobber Failing to update features
 
 **Author:**  (Contributor 3)
 **Posted:** 2025-02-27
@@ -2148,7 +2282,7 @@ gm to LawnPro2369 When you have hundreds of customers, multiple crews, crews and
 
 ---
 
-## 66. 🗓️<ADD> COLORS to the Schedule🗓️
+## 67. 🗓️<ADD> COLORS to the Schedule🗓️
 
 **Author:** Jessica-2025 (Contributor 3)
 **Posted:** 2025-04-27
@@ -2170,7 +2304,7 @@ JOBBER COMMUNITY TEAM Hey Jessica 👋 Our Success Team is the best way to get t
 
 ---
 
-## 67. Scheduling - automated round robin
+## 68. Scheduling - automated round robin
 
 **Author:** MrTP (Contributor 2)
 **Posted:** 2025-03-27
@@ -2192,7 +2326,7 @@ Hey Mr. TP, thanks for your question! Jobber does not have an auto-assign or rou
 
 ---
 
-## 68. I have my business fully automated with AI
+## 69. I have my business fully automated with AI
 
 **Author:** alfredoautomate (Contributor 2)
 **Posted:** 2025-02-27
@@ -2228,7 +2362,7 @@ to JamesCayton53 It is a Spam post! This guys always trying to sell something on
 
 ---
 
-## 69. Job visit frustration
+## 70. Job visit frustration
 
 **Author:** jay024464 (Contributor 2)
 **Posted:** 2025-03-27
@@ -2257,7 +2391,7 @@ At the bottom of the form, would it work for you to click "save and create simil
 
 ---
 
-## 70. Managing Fill in Jobs
+## 71. Managing Fill in Jobs
 
 **Author:** CarsonZ (Contributor 2)
 **Posted:** 2025-02-27
@@ -2307,7 +2441,7 @@ I have a similar issue. I have recurring customers that want their gutters clean
 
 ---
 
-## 71. Is there a way my clients can view my job title in appointments?
+## 72. Is there a way my clients can view my job title in appointments?
 
 **Author:** LukeLuda (Contributor 2)
 **Posted:** 2025-02-27
@@ -2329,7 +2463,7 @@ Hi LukeLuda Thanks for reaching out. At this time, Jobber doesn't have a way of 
 
 ---
 
-## 72. Scheduling a customer for an office visit
+## 73. Scheduling a customer for an office visit
 
 **Author:** DnRdog (Contributor 2)
 **Posted:** 2025-02-27
@@ -2358,7 +2492,7 @@ to jade For software that I spend thousands of dollars per year on, I am not int
 
 ---
 
-## 73. Completing Tasks
+## 74. Completing Tasks
 
 **Author:** brooketurner (Contributor 2)
 **Posted:** 2025-02-27
@@ -2380,7 +2514,7 @@ Hi brooketurner thanks for the question. List view is the quickest option at thi
 
 ---
 
-## 74. Dumpster Rentals
+## 75. Dumpster Rentals
 
 **Author:** Jerry (Contributor 2)
 **Posted:** 2025-02-27
@@ -2416,7 +2550,7 @@ Jerry I am glad to hear you found exactly what you were looking for for your com
 
 ---
 
-## 75. Creating different vendors for same product
+## 76. Creating different vendors for same product
 
 **Author:** Tropical-CA (Contributor 2)
 **Posted:** 2025-02-27
@@ -2452,7 +2586,7 @@ Thanks for following up! I think your plan will work great, with the vendor name
 
 ---
 
-## 76. Setting up rounds for lawn applications
+## 77. Setting up rounds for lawn applications
 
 **Author:** ParamountTurfCo (Contributor 2)
 **Posted:** 2025-02-27
@@ -2502,7 +2636,7 @@ to bedellmgmt Thank you bedellmgmt I am in the early stages at setting up my fou
 
 ---
 
-## 77. For people running and scheduling several crews, any tips to help...
+## 78. For people running and scheduling several crews, any tips to help...
 
 **Author:** Bryon (Contributor 2)
 **Posted:** 2025-02-27
@@ -2538,7 +2672,7 @@ BUILDER 1 We run lot of crews. I prefer the day view and scroll around that way.
 
 ---
 
-## 78. Snowplowing routing
+## 79. Snowplowing routing
 
 **Author:** CareEaseLawn (Contributor 2)
 **Posted:** 2025-02-27
@@ -2567,7 +2701,7 @@ You can schedule up to 100 jobs at a time using the bulk scheduling tool. The jo
 
 ---
 
-## 79. Client Reminders
+## 80. Client Reminders
 
 **Author:** FrontDesk24 (Contributor 2)
 **Posted:** 2025-02-27
@@ -2603,7 +2737,7 @@ check job section https://secure.getjobber.com/communication_settings
 
 ---
 
-## 80. Customer information
+## 81. Customer information
 
 **Author:** sdorrion89 (Contributor 2)
 **Posted:** 2025-02-27
@@ -2646,7 +2780,7 @@ I added 2 Custom Fields for this very use. Specifically for a Location Contact a
 
 ---
 
-## 81. Client list when scheduling.
+## 82. Client list when scheduling.
 
 **Author:** Rufusoregon (Contributor 2)
 **Posted:** 2025-02-27
@@ -2668,7 +2802,7 @@ Hey there! Please reach out to our Success Team so we can investigate why this i
 
 ---
 
-## 82. Feature Request: Project Folder
+## 83. Feature Request: Project Folder
 
 **Author:** SET_Brandon (Contributor 3)
 **Posted:** 2025-02-27
@@ -2697,7 +2831,7 @@ Do you set up individual properties under clients with more than one property? W
 
 ---
 
-## 83. Rescheduling multiple clients at once
+## 84. Rescheduling multiple clients at once
 
 **Author:** Greenempire (Contributor 2)
 **Posted:** 2025-02-27
@@ -2719,7 +2853,7 @@ JOBBER COMMUNITY TEAM Hey Green Empire team! Thanks for your question. You are c
 
 ---
 
-## 84. Schedule
+## 85. Schedule
 
 **Author:** Aldo5217 (Contributor 2)
 **Posted:** 2025-02-27
@@ -2769,7 +2903,7 @@ Hey Aldo, thanks for your question! It sounds business is thriving—that’s aw
 
 ---
 
-## 85. Do jobs ever go missing from the calendar?
+## 86. Do jobs ever go missing from the calendar?
 
 **Author:** JustinDucharme (Contributor 2)
 **Posted:** 2025-02-27
@@ -2805,7 +2939,7 @@ This same thing has been happening to us lately. The visit and any initial "inst
 
 ---
 
-## 86. Automate sending day sheets to workers?
+## 87. Automate sending day sheets to workers?
 
 **Author:** HandyMillerMan (Contributor 3)
 **Posted:** 2025-02-27
@@ -2827,7 +2961,7 @@ JOBBER COMMUNITY TEAM Hey HandyMillerMan 👋 This is currently not possible thr
 
 ---
 
-## 87. Invoice Due Date
+## 88. Invoice Due Date
 
 **Author:** Jaco (Contributor 3)
 **Posted:** 2025-02-27
@@ -2877,7 +3011,7 @@ I currently use of Make.com to run a one off task to change due date after I did
 
 ---
 
-## 88. Airbnb Cleaning Automated Scheduling
+## 89. Airbnb Cleaning Automated Scheduling
 
 **Author:** HouseKept (Contributor 2)
 **Posted:** 2025-02-27
@@ -2920,7 +3054,7 @@ I did some research on this for my wife’s cleaning service. Jobber doesn’t h
 
 ---
 
-## 89. Managing Recurring Clients by Appointment
+## 90. Managing Recurring Clients by Appointment
 
 **Author:** jpqbn (Contributor 2)
 **Posted:** 2025-02-27
