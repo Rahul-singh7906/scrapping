@@ -82,6 +82,10 @@ function getRandomUserAgent() {
 
 type ProxyConfig = { server: string; username?: string; password?: string };
 
+const PROXY_DOWNLOAD_URL =
+  process.env.PROXY_DOWNLOAD_URL ||
+  "https://proxy.webshare.io/api/v2/proxy/list/download/vwsxkdoaruvfrqezhmkbmrjshzktswhktwyqeioj/-/any/username/direct/-/?plan_id=12624007";
+
 // Parse a URL-format proxy (http://user:pass@host:port or https://...)
 function parseProxyUrl(proxy: string): ProxyConfig | null {
   try {
@@ -102,6 +106,20 @@ function parseProxyUrl(proxy: string): ProxyConfig | null {
 function parseProxyLine(line: string): ProxyConfig | null {
   const trimmed = line.trim();
   if (!trimmed || trimmed.startsWith('#')) return null;
+
+  const usernameFormatMatch =
+    trimmed.match(/^([^:\s]+):([^@\s]+)@([^:\s]+):(\d+)$/) ??
+    trimmed.match(/^http:\/\/([^:\s]+):([^@\s]+)@([^:\s]+):(\d+)$/);
+
+  if (usernameFormatMatch) {
+    const [, username, password, host, port] = usernameFormatMatch;
+    return {
+      server: `http://${host}:${port}`,
+      username,
+      password,
+    };
+  }
+
   const parts = trimmed.split(':');
   if (parts.length >= 4) {
     const [host, port, username, password] = parts;
@@ -113,18 +131,32 @@ function parseProxyLine(line: string): ProxyConfig | null {
   return null;
 }
 
-// Load all proxies from web-proxies.txt
-function loadProxiesFromFile(): ProxyConfig[] {
-  const filePath = 'web-proxies.txt';
-  if (!fs.existsSync(filePath)) return [];
-  return fs.readFileSync(filePath, 'utf-8')
-    .split('\n')
-    .map(parseProxyLine)
-    .filter((p): p is ProxyConfig => p !== null);
+async function loadProxiesFromUrl(url: string): Promise<ProxyConfig[]> {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 20000);
+
+  try {
+    const response = await fetch(url, {
+      method: 'GET',
+      signal: controller.signal,
+    });
+
+    if (!response.ok) {
+      throw new Error(`Proxy download failed with HTTP ${response.status}`);
+    }
+
+    const content = await response.text();
+    return content
+      .split(/\r?\n/)
+      .map(parseProxyLine)
+      .filter((p): p is ProxyConfig => p !== null);
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
-// Build full proxy list: env/CLI proxy first, then all file proxies
-function buildProxyList(): ProxyConfig[] {
+// Build full proxy list: env/CLI proxy first, then URL-downloaded proxies
+async function buildProxyList(): Promise<ProxyConfig[]> {
   const cliProxy = process.env.PROXY_URL ||
     process.argv.find(arg => arg.startsWith('--proxy='))?.split('=')[1];
   const list: ProxyConfig[] = [];
@@ -133,7 +165,15 @@ function buildProxyList(): ProxyConfig[] {
     if (p) list.push(p);
     else console.warn(`⚠️ Invalid proxy URL from env/args: ${cliProxy}`);
   }
-  list.push(...loadProxiesFromFile());
+
+  try {
+    const downloaded = await loadProxiesFromUrl(PROXY_DOWNLOAD_URL);
+    list.push(...downloaded);
+  } catch (err) {
+    console.error(`❌ Failed to download proxies from URL: ${PROXY_DOWNLOAD_URL}`);
+    console.error(err);
+  }
+
   return list;
 }
 
@@ -724,9 +764,9 @@ async function launchBrowser(proxyConfig?: ProxyConfig) {
 }
 
 (async () => {
-  const proxyList = buildProxyList();
+  const proxyList = await buildProxyList();
   let proxyIndex = 0;
-  console.log(`📋 Loaded ${proxyList.length} proxy/proxies from env/file`);
+  console.log(`📋 Loaded ${proxyList.length} proxy/proxies from env/url`);
 
   let { browser, page } = await launchBrowser(proxyList[proxyIndex]);
 
