@@ -1,14 +1,660 @@
 [
   {
+    "title": "Do you know your actual effective hourly rate per client — once travel time is included?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/do-you-know-your-actual-effective-hourly-rate-per-client-%E2%80%94-once-travel-time-is-i/9842",
+    "author": "davidcholt",
+    "authorRole": "Contributor 2",
+    "time": "2026-03-31",
+    "content": "Hi everyone — I'm a developer, not a cleaning business owner, so I'll be upfront about that. I'm doing early research before building anything. I've been spending time in this community and something keeps catching my eye. There are a lot of conversations about pricing, undercharging, and knowing your numbers — but the specific gap I keep noticing is this: Jobber shows you revenue per job, but it doesn't tell you your real effective hourly rate per client once you factor in drive time and how long a job actually ran versus what you quoted. For a residential cleaning business with recurring clients, that seems it could matter a lot. The client who pays $200 but takes 45 minutes to drive to might look identical in Jobber to a client who pays $180 and is 5 minutes away. My question, specifically for cleaning business owners using Jobber: is this actually a problem you run into? Are you tracking profitability per client in any way right now — spreadsheet, gut feel, something else? And if you're not tracking it, is that because it's genuinely not a priority, or because there's no easy way to do it inside Jobber? Not selling anything — I haven't built anything yet. I'd genuinely love to have a 15-minute conversation with a few people who manage recurring residential clients in Jobber. Happy to share what I learn with anyone who's interested. Drop a comment or DM me. CLEANING HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
+    "views": 15,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What types of expenses do you put in Gross Profit?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/what-types-of-expenses-do-you-put-in-gross-profit/9669",
+    "author": "HUGEHandyman",
+    "authorRole": "Jobber Ambassador",
+    "time": "2026-03-24",
+    "content": "I'm hiring an operations manager and making a portion of their pay based off gross profit performance. This is a big move for me because I've been the ops manager and the sales person so now that someone else's compensation depends on this line item, I need to have it tight. Out of these things, which are appropriate to put in gross profit? Worker compensation insurance Sales commisisions Mileage for technicians driving to jobs Materials used to repair office Labor for an in field \"runner\" to get supplies for everyone A portion of the ops manager's salary if they work in the field Curious to get ya'lls input on this. Thanks!",
+    "views": 36,
+    "likes": 2,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "NJones",
+        "time": "2026-03-27",
+        "content": "Gross profit should only include what it takes to actually produce the work. Inlcuding: Labor (guys in the field) Materials Subcontractors Equipment directly used on the job We do not include: Office staff (including your new ops manager) Marketing Sales costs Rent, software, insurance (general) Admin time If it doesn’t physically help build the job, it doesn’t belong in gross profit. Our goal is to have our ops manager focused on job performance and efficiency, not penalized by business overhead they can’t control.",
+        "likes": 0
+      },
+      {
+        "author": "ContractorCPA",
+        "time": "2026-03-31",
+        "content": "First off, congratulations on taking the step to hire an ops manager. This is a huge milestone for any business. Your instincts are spot on to get the math nailed down before tying someone else's paycheck to it. Let's break this down into two parts: the accounting side of Gross Margin, and the compensation piece. The Core Distinction Gross profit (or gross margin) captures the cost of delivering your service, which is what it actually takes to do the work once you sell it. Everything else, the costs of running the business, selling, and managing, lives below the line in SG&A. GAAP formalizes this as the difference between Cost of Goods Sold and operating expenses, but the practical test is simple. Ask yourself if this cost would exist if you didn't perform this specific job. If the cost only exists because you are doing the work, it belongs in COGS. If it is a cost you carry regardless of job volume, it belongs in SG&A. It is worth noting that where exactly the line gets drawn can vary meaningfully from one business to the next. The right answer depends on your business model, how your crews are structured, and how you want to use gross margin as a management tool. Some businesses also layer in overhead allocations, assigning a portion of indirect costs shop space, equipment, or supervisory labor into COGS on a systematic basis, which can give you a more complete picture of true job profitability but adds complexity to the methodology. Getting this defined correctly upfront is something we work through with contractors regularly, and it is one of those things that pays dividends well beyond just having clean financials. Your Specific Items Mileage for technicians: COGS. This is a direct cost of getting to the job. The runner's labor: COGS, assuming their role is entirely field support. They are enabling production just a technician. Workers' comp: Split it. The portion covering field and production employees belongs in COGS, while the portion covering office staff belongs in SG&A. Many contractors just put it all in COGS if they are field-heavy. This is acceptable as long as you remain consistent. Sales commissions: SG&A, full stop. Under ASC 606, these are contract acquisition costs, not contract fulfillment costs. Keeping commissions out of gross profit is especially important here since you are tying someone's pay to that number. Office repair materials: SG&A. Facility maintenance has nothing to do with job delivery. Portion of the ops manager's salary for field work: This is nuanced, which brings us to the next section. The Compensation Piece Since someone's paycheck is now riding on gross profit, the classification methodology matters more than usual for both accuracy and trust. Regarding the ops manager salary split specifically, the field portion can absolutely go into COGS. However, you need a documented, consistent method for determining that split before the first paycheck goes out under this plan. Timesheets are the cleanest approach. A fixed percentage works well too if their role is predictably split, but \"fixed\" means it does not move unless their role actually changes. You cannot adjust it month to month based on feel. The broader principle here is to lock down your COGS definitions in writing now, before performance is measured against them. Be clear on which costs are in, which are out, and how mixed costs get allocated. If that methodology shifts mid-year, even for legitimate reasons, your ops manager will wonder if the goalposts moved. That creates a trust problem regardless of who is technically right. Happy to dig into your specific setup in more detail if you want to share more about how your business is structured. Feel free to shoot me a message or email me at daniel@contractorsledger.com",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Anyone else realize they were breaking even or losing money after expenses?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/anyone-else-realize-they-were-breaking-even-or-losing-money-after-expenses/9694",
+    "author": "roselvaggio",
+    "authorRole": "Jobber Ambassador",
+    "time": "2026-03-24",
+    "content": "I had a phase where we looked “busy” on paper, fully booked, money coming in, but when I actually broke down the numbers, some jobs were barely breaking even. Once I factored in true payroll burden (taxes, workers comp), supplies, insurance, and transaction fees, it was a wake-up call. There were jobs we were doing that felt productive day-to-day but weren’t contributing to profit at all. For us, it came down to tightening up pricing, being more intentional about which jobs we accepted, and really understanding our numbers on a per-job basis (not just overall revenue). Curious if anyone else has gone through this and what changes made the biggest impact for you? ACCOUNTS RECEIVABLE GETTING PAID PROFIT MARGINS",
+    "views": 29,
+    "likes": 1,
+    "comments": 3,
+    "replies": [
+      {
+        "author": "ContractorCPA",
+        "time": "2026-03-26",
+        "content": "It’s a painful but necessary realization. We call it \"Margin Fade.\" You feel productive because the trucks are moving, but the bank account stays flat. We've found it helpful to include an overhead allocation on the Job reports. It shifts the focus from \"How much revenue can we hit?\" to \"How much are we keeping?\" It's a useful exercise for any business to go through because you start to get a better grasp around what jobs are actually worth pursuing.",
+        "likes": 0
+      },
+      {
+        "author": "HilltopAdOS",
+        "time": "2026-03-26",
+        "content": "This is one of the most common traps in service businesses and it usually starts at the quote stage, not the job stage. By the time you're breaking down a completed job and finding the margin problem, the damage is already done. The shift that tends to make the biggest difference is building your actual cost burden into the quoting formula before the job is ever sold. Not as a gut check after the fact, but as a hard floor the quote has to clear. Payroll burden, overhead allocation, transaction fees, all of it priced in by default. The other piece is job mix. Once you have per-job margin visibility you start seeing which categories are consistently thin and which ones carry the business. A lot of operators find that 20% of their job types are generating most of the real profit and the rest is just keeping the trucks moving. What did your pricing adjustment look practically? Did you raise across the board or start being selective about job types?",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-03-28",
+        "content": "BUILDER 1 I hired a Fractional CFO about two years ago. I have been in business for 17 years and finally got to the phase of educating myself about finances. We worked on a lot of strategies. Now we evaluate our pricing every quarter and for the clients we need to raise we will. Another big realization was what is the revenue amount we bring each month and if it is above a certain amount then our profit increases a lot. I know these realizations might be normal for some but they were lightbulb moments for me.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What is your plan for the Jobber Grant?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/what-is-your-plan-for-the-jobber-grant/9378",
+    "author": "PestFreeCanada",
+    "authorRole": "Contributor 5",
+    "time": "2026-03-12",
+    "content": "I am sure we all have applied for the grant from Jobber by now. I would love to hear how you plan to utilize that money to grow you business! ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FINANCING FLOORING GENERAL CONTRACTING GETTING PAID HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING SNOW REMOVAL",
+    "views": 100,
+    "likes": 3,
+    "comments": 14,
+    "replies": [
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-03-12",
+        "content": "I think its only fair I start! I would use the grant to hire my first employee. If I had the freedom of this grant and didn't have to worry about building up my bank account to have an initial salary in the bank, I could hire the employee a lot earlier than I planned to. That extra time would be spent solely in the truck with me training and learning how my company does things differently than our competitors. I am so afraid that my first employee wouldn't offer the same level of service I am promising, but with 3-4 months of real world training before I send them out on their own, I would feel confident I could get them to a place where they can really shine.",
+        "likes": 0
+      },
+      {
+        "author": "FCG",
+        "time": "2026-03-21",
+        "content": "to PestFreeCanada This is a great plan!",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-03-12",
+        "content": "BUILDER 1 I would use it for moving my offices. We are growing and seem to have outgrown our current space.",
+        "likes": 0
+      },
+      {
+        "author": "MichaelC",
+        "time": "2026-03-12",
+        "content": "It would pay off my tractor and buy a replacement truck. My truck has gone about as far as it wants to at 325,000 miles",
+        "likes": 0
+      },
+      {
+        "author": "BeeDoneHandyman",
+        "time": "2026-03-15",
+        "content": "I would buy a dedicated high roof work van with a great wrap around. I am still using a personal mini- van to get my jobs completed.",
+        "likes": 0
+      },
+      {
+        "author": "Erinn",
+        "time": "2026-03-15",
+        "content": "I’d buy a more suitable vehicle for landscaping (rav 4 can only fit so much 😂) and hope to hire on part time employees to keep up with demand while I grow the business to get us all full time work we love.",
+        "likes": 0
+      },
+      {
+        "author": "",
+        "time": "2026-03-15",
+        "content": "302Ponygirl Service before myself. I will be starting up a non-profit in my area to provide reliable transportation to those without such. I am already repairing vehicles in exchange for serviced in which I am not skilled, plumbing, carpentry, and roofing.",
+        "likes": 0
+      },
+      {
+        "author": "judithvirag",
+        "time": "2026-03-12",
+        "content": "BUILDER 1 I am so rooting for you! Great plan",
+        "likes": 0
+      },
+      {
+        "author": "Aatrades719",
+        "time": "2026-03-18",
+        "content": "At A&A Trades & Acquisitions, LLC, the plan for the Jobber Grant is to invest in growth, efficiency, and community impact. 1. Strengthen Operations: We’ll use the funds to upgrade tools, technology, and systems that streamline scheduling, communication, and project management. This ensures we can serve more clients reliably without sacrificing quality. 2. Enhance Training & Career Development: Part of the grant will support mentoring and hands-on training for new team members. We want to build skilled tradespeople who can grow into meaningful, long-term careers. 3. Expand Services Safely: The grant will help us implement additional safety measures, equipment, and resources to maintain high-quality work while taking on more projects for homes and businesses in our community. 4. Give Back Locally: A portion will go toward community initiatives—educational workshops, safety programs, and supporting local homeowners and small businesses. Our goal is to ensure the communities we serve benefit directly from our growth. Overall, the grant will help A&A Trades & Acquisitions scale responsibly, continue delivering top-tier services, and create lasting value for both our team and the people we serve.",
+        "likes": 0
+      },
+      {
+        "author": "OrdoniaB",
+        "time": "2026-03-18",
+        "content": "Funds would be allocated toward licensing, insurance, and operational expenses to ensure the business remains compliant and protected as it grows. I would also set aside a portion to secure materials upfront for smaller projects, which would allow me to complete jobs faster and build stronger trust with clients. This level of financial support would help relieve some of the pressure of balancing personal income with business expenses and allow me to focus more intentionally on growth.",
+        "likes": 0
+      },
+      {
+        "author": "FCG",
+        "time": "2026-03-21",
+        "content": "This is a Great Question! My answer is equipment. A commercial mower and trailer would allow us to take on more jobs directly, serve more clients, and most importantly launch the program closest to our hearts: free lawn care for elderly veterans in our community who can no longer do it themselves. Right now that vision lives on paper. The right equipment makes it real. Would also love to put it towards operational foundation, Getting paid / pro versions of Jobber itself, as well as other necessary Programs a business needs to thrive.",
+        "likes": 0
+      },
+      {
+        "author": "PhilP",
+        "time": "2026-03-27",
+        "content": "I kind of got funneled into this community applying for the Jobber Grant. If I was fortunate enough to be selected, I would utilize the larger grant to upgrade my garage/shop to be efficient and usable. Currently its just stuffed full and unorganized, cold in the wisconsin winters. Iwould to expand into hiring employee(s), but just need to grow the business base a little more. The smaller grants, I would invest into equipment. I recently got into fire extinguishers and fire alarms, the equipment to service them is really expensive. What a wonderful program for Jobber to promote and give back to bluecollar service providers! I am currently not a customer, I am locked into another platform for the year, but this program makes me want to support a company that partners and supports its customers, even if I am not selected as one of the fortunate few that will benefit from Jobber this year.",
+        "likes": 0
+      },
+      {
+        "author": "TahoeTruckee",
+        "time": "2026-03-27",
+        "content": "Hey everyone! We are an eco-friendly cleaning crew serving North Lake Tahoe and Truckee. It has been a wild first year, growing from 1 to 15 repeat houses and doubling our team to 4 people. If we are lucky enough to win, we are looking at some smart growth. We want to put those funds toward better, more reliable vacuums and basic equipment upgrades. We are not looking for anything crazy, just the solid gear we need to hit our 50 house goal. Our biggest priority is our team. We want to invest in leadership training and a real marketing push so our staff can move into supervisor roles with total job security. For us, it is all about growing the right way. We eventually want to add a hybrid company car to keep our mountain air clean while making sure our crew has long-term careers, not just a job!",
+        "likes": 0
+      },
+      {
+        "author": "Lawnwoman3211",
+        "time": "2026-03-27",
+        "content": "I’d use the grant to get updated equipment to better serve my community",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Moving the needle.",
+    "url": "https://community.getjobber.com/discussions/finances-forum/moving-the-needle-/9508",
+    "author": "NJones",
+    "authorRole": "Contributor 3",
+    "time": "2026-03-17",
+    "content": "What’s been the biggest financial decision you’ve made in your business that actually moved the needle?",
+    "views": 30,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "SibiFirewood",
+        "time": "2026-03-19",
+        "content": "Getting free business advising through the SBDC & other local business resources. Working on building business credit, registering with Nav and Duns & Bradstreet and then finally accessing credit to buy equipment to build capacity and revenue streams.",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHandyman",
+        "time": "2026-03-27",
+        "content": "Not charging hourly! I started charging in half day blocks and it made things go so much smoother. No more people hitting me up that their technician talked to them for 10 minutes and they want that reduced off their bill. No more debating will this job take 3 hours or 4 hours? Maybe 6? Makes it way more simple for quoting and charging people. After I did this, it alleviated so much stress!",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "What would your business look like if 70% of clients were on auto-pay with no cards expiring?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/what-would-your-business-look-like-if-70-of-clients-were-on-auto-pay-with-no-car/9299",
+    "author": "roselvaggio",
+    "authorRole": "Jobber Ambassador",
+    "time": "2026-03-10",
+    "content": "A year ago I looked at my numbers and realized something frustrating: I was spending hours every week chasing payments and updating expired cards. Between follow-ups, declined payments, and cards expiring every few months, it felt billing was taking almost as much energy as running the actual jobs. So we made one change in our process: we started moving clients to auto-pay as the default. At first it was slow. A few clients said yes, a few ignored it, and a few needed reminders. But over time it snowballed. Now about 70% of our clients are on auto-pay. The difference in the business is huge. Invoices get paid automatically. Cash flow is predictable. My admin time dropped dramatically because we’re not chasing payments or dealing with expired cards all the time. It also makes scheduling easier because we know jobs turn into actual revenue without the follow-up. What surprised me most is clients actually prefer it. They not having to remember to pay or deal with invoices every visit. If I could go back, I would have pushed auto-pay much earlier. It turns billing from a weekly stress into something that basically runs in the background. GETTING PAID",
+    "views": 29,
+    "likes": 1,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "Aatrades719",
+        "time": "2026-03-21",
+        "content": "A&A Trades and Acquisitions, LLC would operate with significantly greater financial stability and efficiency if 70% of its clients were enrolled in auto-pay with no payment interruptions. This structure would create consistent, predictable cash flow, allowing the business to accurately forecast revenue and make informed decisions regarding payroll, materials, and growth investments. Administrative time currently spent on invoicing, collections, and payment follow-ups would be greatly reduced, improving overall operational efficiency. Utilizing systems such as Jobber or QuickBooks would further streamline billing and recordkeeping. As a result, the business would experience improved profit retention, reduced financial risk, and a stronger foundation for scalable, long-term growth.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "When is it time to hire an accountant?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/when-is-it-time-to-hire-an-accountant/9617",
+    "author": "PestFreeCanada",
+    "authorRole": "Contributor 5",
+    "time": "2026-03-20",
+    "content": "I am wondering at what point some of you guys have hired an accountant? Did you hire one to grow? To maintain what you have? Or are you simply using one to file taxes at the end of the year? I am thinking about hiring an accountant to manage my finances for me and see where things go, but wondering when is the right time. ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION COSTING DISCOUNTS DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FINANCING FLOORING GENERAL CONTRACTING GETTING PAID HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES SNOW REMOVAL",
+    "views": 48,
+    "likes": 2,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "jrselectric",
+        "time": "2026-03-21",
+        "content": "We have a bookkeeper and an accountant. It makes things so much smoother when it comes to tax season.",
+        "likes": 0
+      },
+      {
+        "author": "Aatrades719",
+        "time": "2026-03-21",
+        "content": "A&A Trades and Acquisitions, LLC recognizes that effective financial management is critical to both sustaining and scaling the business. As operations involve multiple assets, revenue streams, and ongoing transactions, relying solely on year-end tax preparation is not sufficient. The company utilizes structured bookkeeping systems, such as QuickBooks, to maintain accurate monthly financial records and ensure clear visibility into profitability. In addition, the business engages in ongoing tax planning to reduce liability and remain compliant with all applicable regulations. Beyond compliance, accounting support is used strategically to guide financial decisions, manage expenses, and support long-term growth. This approach ensures that A&A Trades and Acquisitions, LLC operates with financial clarity, maintains efficiency, and positions itself for continued expansion.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How do you calculate delivery fees?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/how-do-you-calculate-delivery-fees/9585",
+    "author": "SibiFirewood",
+    "authorRole": "Contributor 2",
+    "time": "2026-03-19",
+    "content": "Gas prices are going up drastically!! When should we make the jump to increase delivery fees? Our customer base already complains about delivery fees because we are in the firewood market with a lot of our competitors not being official businesses, they usually just sell wood from their backyard so they are not concerned with overhead. How do you calculate delivery fees? Has anyone ever done a gas surcharge to introduce a hopefully temporary additional charge while prices are high? HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
+    "views": 29,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "tylerpotter",
+        "time": "2026-03-19",
+        "content": "My initial thought is use the blue ocean strategyto clearly define your differences and market towards them. There's no way you're going to beat Jo Schmo's non existent delivery fees if that's what your customer actually cares about and that's what you're trying to compete on. But if you're customers are continuing to stay with you even though someone else is giving free deliveries (and probably cheaper service) then there's a reason. Capitalize on the reason or reasons they stay with you.",
+        "likes": 0
+      },
+      {
+        "author": "SibiFirewood",
+        "time": "2026-03-20",
+        "content": "Thankyou for that resource it looks great! You are right that is key we have been in business 7 years and was the first professional firewood company in the area and have gained and kept customers because they are tired of getting ripped off…I often have to give new customers discounts because they don’t want to pay extra only to be ripped off for a higher price but I always make sure to tell them we stand by our products and will make it right if they are not happy.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Which business metrics do you actually use from Jobber reports?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/which-business-metrics-do-you-actually-use-from-jobber-reports/9576",
+    "author": "ShaneKetterman",
+    "authorRole": "Contributor 2",
+    "time": "2026-03-19",
+    "content": "For those of you who've hacked together Excel or Power BI or any other tool to get better reporting from Jobber — what metrics do you actually care about the most? There's a ton of metrics I've used but find that just a handful are actually beneficial. I'm building something and want to make sure I'm solving the right problems.",
+    "views": 10,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "",
+        "time": "",
+        "content": "No Replies Be the first to",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How do you go about pricing your services for profit?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/how-do-you-go-about-pricing-your-services-for-profit/5",
+    "author": "julie",
+    "authorRole": "Jobber Community Team",
+    "time": "2025-04-02",
+    "content": "JOBBER COMMUNITY TEAM Communicating cost increases to your clients aren't the easiest yet it has to be done as a business continues to grow. Thoughts? COSTING GETTING PAID HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
+    "views": 52,
+    "likes": 23,
+    "comments": 58,
+    "replies": [
+      {
+        "author": "WiringByron",
+        "time": "2025-04-02",
+        "content": "Everything starts with building a budget! This budget is going to show you what margin you need to make to complete your budget goals at the end of the year. So if your budget is telling you that you need a 50% gross margin then now when you quote you know you need to at the very least add up your costs and double them. I would say if your budget says 50% then you are quoting around 60% gross margin. This give you a profit buffer for some bad jobs and things team days and just general slippage. Get that gross margin as high as you can and you will be a very happy business owner.",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-04-02",
+        "content": "JOBBER COMMUNITY TEAM to WiringByron Thanks for sharing such a detailed breakdown! I completely agree that starting with a solid budget gives you a clear direction on pricing. Your point about aiming for a higher gross margin to account for slippage and unexpected costs is spot on—it's great advice for avoiding surprises down the road.",
+        "likes": 0
+      },
+      {
+        "author": "BobScotland",
+        "time": "2025-04-02",
+        "content": "to WiringByron True - we set the budgets at 50% Gross MU (double the costs) and end up with a GPM of between 40% and 44%. The starting point for profit has always got to be your gross",
+        "likes": 0
+      },
+      {
+        "author": "PrincipleJDM",
+        "time": "2025-04-02",
+        "content": "to WiringByron I'd love to chat with you sometime. I just joined the community and I'm an electrician in the Denver area. I have found it difficult to build a budget in my type of service based electrical work.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-04-02",
+        "content": "to PrincipleJDM Absolutely, my email address is cory@vancityelectric.ca reach out and we can hop on zoom. Cheers.",
+        "likes": 0
+      },
+      {
+        "author": "robertacree",
+        "time": "2025-04-02",
+        "content": "to WiringByron How do you avoid having a 50% markup on parts without having to be taxed on that markup. You know needing a business tax license?",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-04-02",
+        "content": "to robertacree Sorry there, I don't quite understand the question. I don't do our bookkeeping either. I'm in Canada, so we do pay PST on materials we purchase and we charge + pay for GST on all our invoices.",
+        "likes": 0
+      },
+      {
+        "author": "MDcares",
+        "time": "2025-06-02",
+        "content": "to WiringByron I agree and am working on my budget now.",
+        "likes": 0
+      },
+      {
+        "author": "AHH",
+        "time": "2026-03-31",
+        "content": "to WiringByron How do I build a budget and set margins and build up my Residential and start to build a commercial business cleaning. I'm just starting out. I have one employee who doesn't have a vehicle which is hard to navigate. I just had my second surgery so picking her up and dropping her off isn't a problem for now. I start back to work June 1st.",
+        "likes": 0
+      },
+      {
+        "author": "ELCSavannah",
+        "time": "2025-04-02",
+        "content": "Always explain reasons why and include your team as part of the driving force as usually they are!",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-04-02",
+        "content": "JOBBER COMMUNITY TEAM to ELCSavannah price transparency 🤌 i love that. Not only does it foster understanding across your whole team but can potentially empower them, improve accountability, and increase satisfaction. 🙌",
+        "likes": 0
+      },
+      {
+        "author": "GuardainGutters",
+        "time": "2025-04-02",
+        "content": "This is one I would love more feed back about. I just went from a 3 person team, me and an installer, to a 5 person team. Now I have a person answering the phone, making the schedule and doing gofer tasks for me as well as an install team that can work without my labor contribution. Now that I am off the tools and the phone I have time to sell way more than I ever have before. However, my payroll cost is way up and my profit has disappeared. I raised my prices today but worried how to tell my long term clients.",
+        "likes": 0
+      },
+      {
+        "author": "GuardainGutters",
+        "time": "2025-04-02",
+        "content": "to GuardainGutters 3 people; Installer, pt bookkeeper, myself.",
+        "likes": 0
+      },
+      {
+        "author": "ShlomoS",
+        "time": "2025-04-02",
+        "content": "to GuardainGutters Remember that as your payroll went up, your value went up too. Your company is now more responsive ever with a dedicated office staff. More techs on the road means less scheduling glitches when one calls out. more trucks on the road means less hiccups should one break down. You may still offer the same service, but now you do so in a more responsive, reliable, and quicker way. if i was you client, i would pay more for that...",
+        "likes": 0
+      },
+      {
+        "author": "bedellmgmt",
+        "time": "2025-04-02",
+        "content": "to ShlomoS really good points ShlomoS !!",
+        "likes": 0
+      },
+      {
+        "author": "DomHalifax",
+        "time": "2025-04-02",
+        "content": "to GuardainGutters There’s a sweet spot you need to find after hiring full time assistants. Better customer service will create new customers and with the right protocols and setup you can increase income without increasing your customer service budget. Virtual assistants are a good way to keep that budget down as well. I use virtualsolutionsmb.com",
+        "likes": 0
+      },
+      {
+        "author": "RachelSmith",
+        "time": "2025-04-02",
+        "content": "to DomHalifax Finding a VA is top of my list right now. Thanks for your answer",
+        "likes": 0
+      },
+      {
+        "author": "BobScotland",
+        "time": "2025-04-02",
+        "content": "to GuardainGutters I've done similar this year in that I am stepping away as much as I can from the active production side of the business, and yourself we're seeing payroll really bite, but I think its all part of what you might call growing pains in our industry. You have to find a sweet spot where the ratio of production to non-production staff works for you. I think for a small business ours the ratio is around 4:1. In practical terms that looks -9 employees on production with non-production being myself (production manager, sales and marketing etc) and my wife (admin).",
+        "likes": 0
+      },
+      {
+        "author": "Delhudson1",
+        "time": "2025-05-02",
+        "content": "to GuardainGutters It's not easy to tell the clients you're raising prices but it has to be done. you can't stay in business while losing money. most people realize that the cost of everything has gone up and it had to be passed onto the customer unfortunately.",
+        "likes": 0
+      },
+      {
+        "author": "bedellmgmt",
+        "time": "2025-04-02",
+        "content": "I utilize a budget to make sure we are properly recovering costs and passing them on to our clients.",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-04-02",
+        "content": "JOBBER COMMUNITY TEAM to bedellmgmt Smart approach. A solid budget can really help with staying on top of costs for sure. How do you typically communicate those price adjustments to clients?",
+        "likes": 0
+      },
+      {
+        "author": "Chris",
+        "time": "2025-04-02",
+        "content": "I built a calculator in excel with formulas to convert measurements into amount of materials necessary. It simultaneously will factor in our supplier's pricing to the materials and calculate labor based on the size of the job and other factors. I keep the material pricing and labor rates up to date, giving us a good idea of the internal cost will be before we even quote a job.",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-04-02",
+        "content": "JOBBER COMMUNITY TEAM to Chris That’s an awesome approach! Having a calculator that accounts for materials and labor rates sounds a huge time saver.",
+        "likes": 0
+      },
+      {
+        "author": "Ronda",
+        "time": "2025-04-02",
+        "content": "to Chris What kind of business do you have Chris?",
+        "likes": 0
+      },
+      {
+        "author": "Chris",
+        "time": "2025-10-02",
+        "content": "to Ronda I am a tech-y guy working for a Roofing business.",
+        "likes": 0
+      },
+      {
+        "author": "rickechojan",
+        "time": "2025-04-02",
+        "content": "Cost increases are tough. Jobbers email campaign feature is a great way to communicate changes to all clients across the board. Most importantly, be authentic about it. Customers know it costs money to run a business",
+        "likes": 0
+      },
+      {
+        "author": "BadgerHauling",
+        "time": "2025-04-02",
+        "content": "I think gradual increases are not uncommon. People know that almost everything cost more money and those cost continue to rise.",
+        "likes": 0
+      },
+      {
+        "author": "LucinaK",
+        "time": "2025-04-02",
+        "content": "Hi all. New here. Yay! all responses are good but I did not see anyway talk about the inflation percentage rate to be considered. At one time I had the same problem. My CPA told me that I needed to add verbiage on my yearly contracts about the expectation of charging more when the inflation percentage rate would increase e.g. between an 2.5%-4.5% annually. So I try to look at % to help me determine to prepare for an increase or not.",
+        "likes": 0
+      },
+      {
+        "author": "gvlandscape",
+        "time": "2025-04-02",
+        "content": "I think staying on top of your expenses overhead/operating/labor costs and crafting a good man hour rate from that coupled with being as detailed and thorough as possible when creating quotes is best for ensuring profitability. We have always stuck to our guns in terms of pricing when it comes to quotes to clients no surprises costs but it works in our industry, if there is something that is outside the scope of our quote that comes up during a project it is quoted additionally so there are no surprises. Our business thrives on re-occurring jobs with our clients whether it is weekly, monthly or annually.",
+        "likes": 0
+      },
+      {
+        "author": "ryaantuttle",
+        "time": "2025-04-02",
+        "content": "Yess! This is part of every business, no matter what industry. I believe changing your pricing incrementally over time is the best route for home service businesses. They're too small for customers not to see changes, so best done over a period of time instead of all at once. Example: Raise your mark-up on Labor AND Materials 5% every year",
+        "likes": 0
+      },
+      {
+        "author": "JetManSolutions",
+        "time": "2025-04-02",
+        "content": "It's important to do an After Action Report- How do you know how much you need to charge if you don't know if the previous job was profitable? Reviewing each job, assessing it's worth in Time, Materials, and Labor may change your perspective on how much you should be charging. It may not be one or two jobs, but do the same project 3 times and see if it was really worth your while at that price point.",
+        "likes": 0
+      },
+      {
+        "author": "Heliconard",
+        "time": "2025-04-02",
+        "content": "to JetManSolutions Best piece of advice!",
+        "likes": 0
+      },
+      {
+        "author": "kaylitapika",
+        "time": "2025-04-02",
+        "content": "Without being greedy, make sure you are only accepting assignments that are paying you what you are worth!",
+        "likes": 0
+      },
+      {
+        "author": "Sam",
+        "time": "2025-04-02",
+        "content": "In its most simple form, start with how much money YOU want to takeaway from each service/job you provide. From there reverse engineer how much you need to markup your DIRECT COSTS and OVERHEAD to meet that takeaway number.",
+        "likes": 0
+      },
+      {
+        "author": "eberts0604",
+        "time": "2025-04-02",
+        "content": "I'm an odd ball in that I mostly work on a time & materials for my handyman services. I know some handymen are moving toward fixed pricing, but I prefer the flexibility of hourly work. I give estimates, but still bill out hourly. So, to answer the question, my profit is built into my hourly amount.",
+        "likes": 0
+      },
+      {
+        "author": "ChandraService",
+        "time": "2025-04-02",
+        "content": "When you are in the warranty service and have multiple manufactures changing their prices substantially for parts multiple times a year do you change your prices across the board or only with those company with part increases. I'm finding it hard to find balance between their terms and unity across our company?",
+        "likes": 0
+      },
+      {
+        "author": "Heather1",
+        "time": "2025-07-02",
+        "content": "Hello - new here and to running a landscaping business. When you are purchasing from retail stores at a normal price, how can I mark up an item by 60% (as seen in comments above) and not have customers give the hairy eye? Do you also charge for time sourcing these materials, plus this markup? Thanks in advance for your input!",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-07-02",
+        "content": "to Heather1 Hey Heather, first you should do yourself a budget. The budget is going to tell you what margin you need to charge. Yours with no overhead might be 40% gross margin. Who knows. This will also get you away from asking other people what they charge. It doesn't matter what they charge they would have different overhead. Also this is margin not mark up, I would try to loose mark up from your vocabulary, it's not the same as margin. Markup doesn't mean anything and doesn't tie to your budget. Now if your budget that you made is telling you that you need to make a 50% gross margin to have a profitable year then it doesn't matter how you get it but you need to get it somehow.... 50% means your doubling your labour base costs and doubling your materials. But don't separate these out on a quote. Write something \"5 yards of soil + pick up and delivery\" so it's just one line item and a price. If someone asks you to \"break down your price\" you say \"sorry we don't do that\" haha. Just when you buy almost anything else in life, you don't get a breakdown of labour and materials and you don't know the margin the company is making on everything you purchase.",
+        "likes": 0
+      },
+      {
+        "author": "Heather1",
+        "time": "2025-07-02",
+        "content": "to WiringByron Incredibly helpful, thank you Byron. Sounds I need to get a better grasp on markup versus margin and spend some time working out a budget. Your note about clients asking me to break down the price, or give them receipts is also a big one, I've just been asked this and was not pleased with the request! Your framing of this makes sense and allows me to normalize saying no to this, so thank you again.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-08-02",
+        "content": "to Heather1 Awesome, reach out anytime mailto:cory.nextstep@gmail.com and look out for your self out there!",
+        "likes": 0
+      },
+      {
+        "author": "Shavin",
+        "time": "2025-07-02",
+        "content": "to WiringByron This is a great response and also gives me more clarity for my business as well. Thank you! This is another reason why understanding my numbers in my business is so important.",
+        "likes": 0
+      },
+      {
+        "author": "Tadams",
+        "time": "2025-07-02",
+        "content": "Pricing your services for profit in today’s economy requires a strategic approach. Here are some steps to consider: **Research the Market**: Analyze what competitors are charging for similar services. Look for industry standards, and consider local economic conditions that might affect pricing. **Calculate Your Costs**: List all your expenses, including fixed costs (rent, utilities) and variable costs (supplies, labor). This will help you understand the minimum price you can charge without losing money. **Determine Your Value Proposition**: Identify what makes your services unique. Consider the quality, expertise, and additional benefits you offer. Be prepared to communicate this value to your clients. **Set Profit Goals**: Decide on your desired profit margin. This could be a percentage of costs or a specific dollar amount you aim to achieve. **Test Your Pricing**: If possible, experiment with different pricing strategies. You can offer introductory prices, package deals, or tiered pricing to see what resonates with your clients. **Be Flexible**: Stay aware of changes in the economy and your industry. Adjust your pricing as necessary to remain competitive while ensuring profitability. **Solicit Feedback**: Ask customers for feedback on your pricing and perceived value. This can provide insights into whether your pricing is appropriate or if adjustments are needed. **Communicate Clearly**: Make sure your clients understand what they are paying for and why. Transparency can build trust and justify your pricing. By combining these strategies, you can find a pricing model that works for both your business and your clients in today’s economic landscape.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-08-02",
+        "content": "Julie, Jobber should do a webinar on building a budget for your company / I would be happy to help. I think it would help a lot of people. Could include things common budget %'s. Things typical %'s on budget items marketing / management / gross margin / net margin where should people be on these items. It was really eye opening for me when I learned these things. Helped my own business quite a bit. It's one of the most important things that companies should do that they don't.",
+        "likes": 0
+      },
+      {
+        "author": "Poo-Picker-Josh",
+        "time": "2025-04-02",
+        "content": "Over time it's not uncommon to raise prices to match inflation. Good communication to clients will handle that. For setting price points - Different industries have different profit margins. Setting the price is a tough one. You don't want to be too high or too low and obviously have a profit margin that is sustainable. The lowest hourly charge i've found sustainable in any business has been $60 per person. Other businesses have higher minimums. This is my personal experience. We personally priced our Dog Poo Pickup service to be the highest price in the market for the pay as you go packages. And the cheapest in the market if someone pre pays for a year of service. This way the subscriptions not cover more than the cost to run the business on a monthly basis and the prepaid funds just collect in the back. This means we will never be in a deficit unless I make dumb financial decisions lol. You want to get the knowledge of what it costs to run your business and break that down to an hourly cost. including all your expenses not just the cost to do the job. Then you will see the true picture of the cost to run your business and you can decide what you need to charge to be sustainable. Depending on the service industry you're typically looking at a range of 10%-35% profit margin. Do your market research to see what other services are charging and you will get your ball park price and can strategize from there what you want to do.",
+        "likes": 0
+      },
+      {
+        "author": "Verenice81",
+        "time": "2025-06-02",
+        "content": "I crease my prices 10-20% per year to our regular customer.",
+        "likes": 0
+      },
+      {
+        "author": "HeritageResto",
+        "time": "2025-07-02",
+        "content": "I'm a one-man shop, my overhead is low. I confirm everything I can think of and do research to make sure there's nothing else I need to include. I also make sure to pad my labor by an hour or two. I tend to think I can do more than I actually can in the course of a day, so it tends to help with both controlling my rate and completion time in my favor.",
+        "likes": 0
+      },
+      {
+        "author": "DJBlood",
+        "time": "2025-07-02",
+        "content": "How I Bid Linear Sewer Work with Confidence and Consistency In construction, efficiency is everything. Whether you’re estimating a small run or an entire subdivision, the most important factor is how quickly and accurately you can translate scope into a reliable number. I approach all my bidding with a structured formula that turns project dimensions into predictable costs—and it’s worked for me time and again. When I bid sewer work, I do it by the linear foot. That ensures I’m consistent across projects and simplifies budgeting both for me and the client. Here’s an example using 8” SDR 35 sewer pipe with pea gravel bedding, based on a 100-foot section. I bid based on what my crew can actually install per hour, and I build in material, labor, equipment, and markup for true margin. MATERIALS – PIPE • 100 ft @ 20-ft sticks = 5 sticks total • Raw Cost: 5 sticks × $300 = $1,500 • Markup (30%): $450 • Total Pipe Material: $1,950 EQUIPMENT & LABOR (Per Hour to Install 100 ft) Description Rate Excavator $325/hr Pipe Layer $70/hr Labor Hand $50/hr Loader $260/hr Trench Box Rental $100/day = $10/hr → +30% = $13/hr Total Labor/Equip: $718/hour This assumes one hour to install 100 feet, which is achievable with an experienced crew. BEDDING MATERIAL – PEA GRAVEL • Volume Needed: 100 ft x 1 ft wide x 0.5 ft deep = 50 cu ft = 1.85 cu yd • Cost/yd (Local): $50 • Total Gravel Cost: 1.85 × $50 = $92.59 COMBINED TOTAL BEFORE FINAL MARKUP • Pipe (with markup): $1,950 • Labor & Equipment: $718 • Pea Gravel: $92.59 • Subtotal: $2,760.59 FINAL MARKUP – 10% ACROSS THE BOARD • $2,760.59 × 1.10 = $3,036.65 FINAL COST PER LINEAR FOOT • $3,036.65 ÷ 100 ft = $30.37 per foot WHY THIS WORKS This method gives me full control of my bidding process and keeps everything transparent. It accounts for: • Equipment time • Labor by the hour • Exact material needs • Overhead and markup, built in By marking up each item 30%, I account for material reliability, risk, and the value of my sourcing and supply. Then I apply a 10% global markup to protect my margins and overhead. That structure gets me into the 25–45% margin zone, depending on the project. If you’re a smaller outfit handling both the management and the work, you should be shooting for 55%+ to stay sustainable. Anything less, and you’re paying for your own jobs out of pocket. Some clients may not understand why their quote is higher than the guy who scribbles numbers on a napkin. But when you break it down this way—clearly, with purpose—it gives them peace of mind that their job is planned, professional, and worth the investment. Closing Thought: One model doesn’t fit every job, but every estimator should have a model. This is mine. Once it’s built, I don’t have to guess, tweak, or second-guess. I plug in the job length, soil conditions, and material specs—and the numbers speak for themselves. Key Point Deliverance",
+        "likes": 0
+      },
+      {
+        "author": "jlsanche",
+        "time": "2025-07-02",
+        "content": "I had to see what the going rate was for Residential Cleaners in my area. I did this by looking online for the top companies that offered instant quotes. I plotted the quotes and did as many as I needed to gauge size and type of service. From there, I had more of a sense for what i should charge, taking into account my time and materials.",
+        "likes": 0
+      },
+      {
+        "author": "radtimbers",
+        "time": "2025-07-02",
+        "content": "Based on what I create and the materials and time it takes to turn them into a functional piece of art, I price my pieces at anywhere between $300 to $1100 a piece. Most people would say that my products are overpriced but I’d say most of what I create is art first and then functional and art is subjective. If someone is willing to pay for the cost of my products, then it becomes the worth and value. Just my line of thinking.",
+        "likes": 0
+      },
+      {
+        "author": "blpettyjohn",
+        "time": "2025-07-02",
+        "content": "Hello Im new here and i read the comments and thanks all was very imformative and helpful with the economy increase and tariffs fees when ordering supplies outside of the US.",
+        "likes": 0
+      },
+      {
+        "author": "Shavin",
+        "time": "2025-07-02",
+        "content": "This is a great question! Ive heard people survey their clients but you can always do price analysis to your competitors as well and then price according to what feels right for you. You can adjust as you go.",
+        "likes": 0
+      },
+      {
+        "author": "groovecleaning",
+        "time": "2025-07-02",
+        "content": "Very true but its a very important step to actually be profitable. You cant look at it a burden to your customer, you have to understand you cant serve your customers properly if you are not profitable.",
+        "likes": 0
+      },
+      {
+        "author": "LauraWhalen",
+        "time": "2025-07-02",
+        "content": "Make sure you are including all costs and expenses in your quote. Some of the small, missed expenses can really cut into your bottom line. I typically multiply the cost of parts x 3. Labor is quoted at 2.5 x the hourly rate. I make sure that I am quoting about 60% gross margin so I have room for contingencies that may come up.",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-08-02",
+        "content": "Most contractors price for survival, not growth. And when you do that, even a good month leaves you broke. So here’s how I approach it: 1. Build your price from the ground up. Start with your real costs, not your feelings. Labor (your time AND your team’s time) Materials (with markup) Overhead (truck, insurance, gas, dump fees, software) Admin (quote time, phone calls, customer service) Profit (15–30%) — non-negotiable If you’re not adding that last line, you’re doing it wrong. 2. Communicate value before price. When it’s time to raise prices, don’t open with “Sorry, we had to...” Lead with the value: “We’ve upgraded equipment, improved turnaround times, and added better materials — which means a smoother job for you and a cleaner result.” Then say it straight: “To continue offering this level of quality, we’ve updated our pricing to match today’s costs.” Clients respect clarity. Not excuses. 3. Don’t fear the price walkaway — fear the resentment. You’re afraid of losing a client over a price bump? You should be more afraid of resenting the client because you’re working for scraps. If someone flakes over $100… they were never your client. If they respect your work — they’ll respect your growth. 4. Put it in writing, not emotion.",
+        "likes": 0
+      },
+      {
+        "author": "DannyCS",
+        "time": "2025-12-02",
+        "content": "Hey yall! Trying to find some support and feedback for my price increase feature request. I'd love to see what ideas you guys have, and if it would help you out too! See My Thread Here!",
+        "likes": 0
+      },
+      {
+        "author": "StevenAllen",
+        "time": "2026-03-02",
+        "content": "As we are providing estimation services, I price for profit by accounting for labor, materials, overhead, and risk — not just what it takes to win the job. When costs go up, I show clients the numbers. Data makes those conversations easier.",
+        "likes": 0
+      },
+      {
+        "author": "StevenAllen",
+        "time": "2026-03-02",
+        "content": "Doing construction estimation services, I’ve learned you can’t guess your profit. You have to account for labor, materials, overhead, and risk upfront. When prices move, I communicate early and back it with data",
+        "likes": 0
+      },
+      {
+        "author": "JeremyLesser86",
+        "time": "2026-03-21",
+        "content": "I have been in the Residential Painting business since 2022. After a year of business, I about called it quits cause nothing was going right. I have finally started getting my business back up and going but I don't know how to generate sales or boost Revenue or build Clientele work my business making $0 at this point since I started back from the ground up. I'm lost and need help before my business officially falls apart. It's been my dream.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "How can home service businesses improve profit margins without raising prices?",
     "url": "https://community.getjobber.com/discussions/finances-forum/how-can-home-service-businesses-improve-profit-margins-without-raising-prices/9156",
     "author": "roselvaggio",
     "authorRole": "Jobber Ambassador",
     "time": "2026-03-05",
     "content": "If you had double your profit margin without raising rates, what would you cut or optimize? Our payroll all-in consistently remains at around 50%, but I was hoping to hear what others are doing considering labor is our biggest expense as home service businesses! PRICING STRATEGIES PROFIT MARGINS",
-    "views": 21,
+    "views": 58,
     "likes": 1,
-    "comments": 3,
+    "comments": 4,
     "replies": [
       {
         "author": "judithvirag",
@@ -27,6 +673,291 @@
         "time": "2026-03-06",
         "content": "If you aren't raising prices, you can only cut things. Take a hard look at your expenses and see if there are things you aren't using. You might be over paying your people. Maybe you can make a performance pay system and reduce their base, but make the potential to be higher. Bottom line is if you aren't making money you need to change stuff. If you're not willing to raise your prices then that's going to be the thing you cut.",
         "likes": 0
+      },
+      {
+        "author": "NJones",
+        "time": "2026-03-27",
+        "content": "If I had to double margin without raising rates, I wouldn’t cut people I’d fix how labor is being used. For us, the biggest shift comes from tightening efficiency. Making sure every job has the right crew size is huge because a lot of times we overstaff without realizing it. Scheduling is another big one drive time, gaps in the day, or waiting on materials can quietly eat a large chunk of payroll. The more you can have jobs fully prepped before the crew shows up, the better, because field time should be strictly execution, not figuring things out. Strong field leadership also makes a massive difference. One solid lead running the job well will outperform adding extra guys every time. On top of that, tracking labor daily instead of after the job is finished helps catch problems early before they snowball. And rework is the silent killer every mistake essentially doubles your labor on that portion of the job. At 50% payroll, it’s usually not a staffing issue, it’s an efficiency issue. Tighten those systems and you can realistically bring that number down without cutting your team.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How can service businesses automatically add late fees or interest to overdue invoices?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/how-can-service-businesses-automatically-add-late-fees-or-interest-to-overdue-in/917",
+    "author": "MCLS",
+    "authorRole": "Contributor 2",
+    "time": "2025-04-02",
+    "content": "Does anyone know how to add auto interest or late fees to invoices? Considering the scope of my work this would be real handy when my average invoice payment time is around 50 days. Because of this I have to finance my own payroll and if I could recoup some of these interest charges automatically. Too many invoices to manually add fees ACCOUNTS RECEIVABLE COSTING FINANCING PROCESSING PAYMENTS",
+    "views": 660,
+    "likes": 2,
+    "comments": 7,
+    "replies": [
+      {
+        "author": "bedellmgmt",
+        "time": "2025-04-02",
+        "content": "I'm not sure of a way to do this automatically - does anyone else have any ideas?? Hopefully you can collect on those outstanding accounts receivables soon!!!",
+        "likes": 0
+      },
+      {
+        "author": "wdkljana",
+        "time": "2025-04-02",
+        "content": "I too would a way to automate this, but was told by support there is nothing that available at this time, manual is the only option. Adding a CC to jobber to collect payment faster was the only solution given.",
+        "likes": 0
+      },
+      {
+        "author": "Soblessed365",
+        "time": "2025-06-02",
+        "content": "I'm a new business owner and I'm currently using yelp as my help but I get leads and nearby jobs but nobody answers the phone even when I follow up with the project. What's some tips to start receiving winning the customers 🤔",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-11-02",
+        "content": "JOBBER COMMUNITY TEAM Hello! At this time there's no way to automate adding interest or late fees to a past due invoices, those would need to be added manually as an additional line items. But it sounds this function would help a lot of businesses with any outstanding client payments! If anyone is open to sharing approximately what portion of their invoice payments are received past the due date, that would be really great information to share with our Product team.",
+        "likes": 0
+      },
+      {
+        "author": "GamacheLandscap",
+        "time": "2025-12-02",
+        "content": "to julie enough for the functionality to be highly valued among businesses!",
+        "likes": 0
+      },
+      {
+        "author": "JMedford",
+        "time": "2025-11-02",
+        "content": "I also wish this was a feature. We've had to add late fees as a line item manually.",
+        "likes": 0
+      },
+      {
+        "author": "Aatrades719",
+        "time": "2026-03-21",
+        "content": "A&A Trades and Acquisitions, LLC has identified extended invoice payment timelines—currently averaging approximately 50 days—as a material constraint on cash flow and operational efficiency. Given the nature and scope of services provided, the business routinely advances labor, payroll, and project-related expenses well in advance of receiving client payments. This effectively places the company in the position of self-financing its operations, which introduces avoidable financial strain and limits the ability to scale efficiently. To address this, the company is implementing a formalized billing and collections framework designed to improve payment timelines, increase accountability, and offset the financial impact of delayed receivables. Central to this framework is the introduction of clearly defined payment terms across all client agreements and invoices. Standard terms will include a Net 15 or Net 30 structure, after which any outstanding balance becomes subject to automatic late fees and/or interest charges. These charges may include a fixed late fee, a monthly percentage-based finance charge (commonly 1.5%–2%), or a combination of both, applied consistently after a designated grace period. To ensure accuracy, consistency, and administrative efficiency, A&A Trades and Acquisitions, LLC utilizes integrated financial systems such as QuickBooks and Jobber. These platforms enable the automation of late fee application, scheduled payment reminders, and real-time tracking of outstanding receivables. Automation reduces the need for manual follow-up, minimizes human error, and ensures that all clients are managed under the same standardized policies. In addition to implementing late fees, the company is aligning its broader payment strategy with best practices designed to reduce Days Sales Outstanding (DSO). This includes encouraging or requiring clients to enroll in automatic payment methods, collecting deposits upfront for larger projects, and establishing clear consequences for continued late payment, such as work stoppage or revised payment terms on future engagements. The purpose of these measures is not punitive, but corrective and protective. By introducing structured financial controls, the company ensures that the cost of delayed payments is not absorbed internally, but instead fairly allocated. This approach supports healthier cash flow, strengthens financial predictability, and enables reinvestment into workforce stability, equipment, and service quality. Through the implementation of these policies, A&A Trades and Acquisitions, LLC reinforces its commitment to operating as a disciplined, growth-oriented business with strong financial governance, while maintaining transparency and professionalism in all client relationships.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How can I create an invoice for the deposit?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/how-can-i-create-an-invoice-for-the-deposit/7798",
+    "author": "BrandenSewell",
+    "authorRole": "Jobber Ambassador",
+    "time": "2026-01-02",
+    "content": "When doing certain commercial work the client will ask us to send them an invoice for the deposit. This isn't typically how Jobber works as the invoice isn't created until the job is closed usually. What is the best way to send a customer an invoice before having the quote signed, deposit paid, or the job completed? Hope that makes sense. Thanks in advance! ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE CONSTRUCTION COSTING DISCOUNTS FINANCING GENERAL CONTRACTING GETTING PAID HOW MUCH TO CHARGE PAINTING PRICING STRATEGIES PROCESSING PAYMENTS PROFIT MARGINS",
+    "views": 192,
+    "likes": 1,
+    "comments": 10,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-01-02",
+        "content": "Hi BrandenSewell​ , thanks for the question. It makes total sense. In Jobber, the easiest way to take a deposit before the work starts is to use a Quote and collect a deposit through that. Quotes can be approved and paid upfront, so you don't need to wait until the job is closed to receive payment. The common Jobber flow is: Create a Quote and include the deposit amount, or request a deposit on the Quote. Send it to the client for approval, then they can pay the deposit right from the Quote. Once the Quote is approved and the deposit is paid, convert it to a Job and continue as normal. The final invoice can be created when the work is done, with the deposit automatically applied. Would that work for your process, using a Quote to receive the deposit instead of an early invoice?",
+        "likes": 0
+      },
+      {
+        "author": "Blkbear",
+        "time": "2026-03-12",
+        "content": "to krista The common jobber flow is not compatible with commercial contracting work",
+        "likes": 0
+      },
+      {
+        "author": "brandymm",
+        "time": "2026-03-13",
+        "content": "to Blkbear I use this for our commercial contracts, Jobber has also added a new feature to include payment schedules. This works great",
+        "likes": 0
+      },
+      {
+        "author": "Blkbear",
+        "time": "2026-03-13",
+        "content": "to brandymm This seems an AI response, did you even read what i said? After looking at your other responses you never answer anyone's questions you just tell them how great jobber is and you are wrong Can a human answer this and not jobbers ai Bot s ?",
+        "likes": 0
+      },
+      {
+        "author": "brandymm",
+        "time": "2026-01-02",
+        "content": "Required deposits on quotes is the easiest way to collect the deposit, the client balance is adjusted and the final invoice gets paid with the remaining balance. This has helped our business keep track of payments and order materials for upcoming work with the deposit money! We love it!",
+        "likes": 0
+      },
+      {
+        "author": "Blkbear",
+        "time": "2026-03-12",
+        "content": "to brandymm Large commercial jobs do not work that",
+        "likes": 0
+      },
+      {
+        "author": "Blkbear",
+        "time": "2026-03-12",
+        "content": "I am having the same exact problem. It seems this system only lets you collect a deposit on the spot however you stated commercial work doesn't work that. Commercial work is usually net 30-45 INCLUDING deposits. Jobber is too residential for that. I am also having problems doing progress invoicing that payment schedule on jobber is set up for residential work. Did you ever come up with a solution?",
+        "likes": 0
+      },
+      {
+        "author": "krista",
+        "time": "2026-03-14",
+        "content": "Thanks everyone for the discussion here, this is really helpful context. It is great feedback for our team to hear that commercial workflows often need to invoice for deposits upfront, rather than collecting payment at the moment a quote is approved. That is definitely a different process than the typical residential flow, many features are designed around. For those running into this, I would love to understand the main pain point a bit better. Is it mostly that you are starting at the at the end of the information flow, which means information needs to be entered twice? Or is it more that when you invoice a deposit separately, that payment does not automatically connect back to the job or final invoice the way you would expect? The more detail you can share about how you typically structure commercial deposits or progress invoicing, the more helpful it is for our team as we continue improving these workflows.",
+        "likes": 0
+      },
+      {
+        "author": "HydronicJohn",
+        "time": "2026-03-19",
+        "content": "You can send multiple invoices for each job. You could start by sending an invoice labeled \"Deposit for job title\" and leave the job open to continue to work from there. At the end when you send a final invoice you can create a line item with a negative value for deposits paid up until then on the final invoice.",
+        "likes": 0
+      },
+      {
+        "author": "Aatrades719",
+        "time": "2026-03-20",
+        "content": "1. Use a Professional System (Not just Word or Notes) Leverage tools Jobber, QuickBooks, or Wave. These give you: Branded invoices Auto invoice numbers Payment tracking Card/ACH payment options 2. Format Your Invoice a Contractor Who Knows Business Header (Brand Identity) A&A Trades and Acquisitions, LLC Phone | Email | (Optional: website) Logo (if you have one—this matters more than people think) Client Section Customer name Address Phone/email Invoice Details Invoice #: (ex: AA-1024) Date issued Due date: Due upon receipt Line Item (Make it crystal clear) Description: “50% Deposit for [Specific Job Name or Scope]” Example: “50% deposit for structural welding and fabrication – per estimate #204” Amount Section Total Project Cost: $2,000 Deposit Required (50%): $1,000 Total Due Now: $1,000 Payment Terms (This is where professionalism shows) Include a short, firm statement: A deposit is required to secure scheduling and begin work. Remaining balance is due immediately upon project completion unless otherwise agreed in writing. Payment Methods List clearly: Zelle / Cash App / Card / ACH “Make payable to: A&A Trades and Acquisitions, LLC” Footer (Sets you apart) Add: “Thank you for your business.” Optional: license/insured note if applicable 3. Clean Example (What Yours Should Look ) A&A Trades and Acquisitions, LLC Invoice #: AA-1024 Date: March 19, 2026 Bill To: John Smith Description: 50% Deposit for Custom Metal Fabrication Project (Estimate #204) Project Total: $2,000 Deposit (50%): $1,000 Total Due: $1,000 Due: Upon Receipt Remaining balance of $1,000 due upon completion.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "How Much Should You Really Be Charging?",
+    "url": "https://community.getjobber.com/discussions/finances-forum/how-much-should-you-really-be-charging/5115",
+    "author": "EnergizeUs",
+    "authorRole": "Jobber Ambassador",
+    "time": "2025-08-02",
+    "content": "The number one question I receive is tied directly to the fact, most contractors are still guessing when it comes to pricing. Overhead. Profit. Labor rate. Trip fees. They think just because they throw a number they hear their competitors use, thats all that they need. It may work, but how and what do you divide these funds is just as important for your business health. If you don’t know how to do the math, you’re not building a business. You’re surviving check to check and think you need more work, when you do not. So here’s the plan: This Tuesday & Thursday on IG, I’m walking you through our Contractor Price Builder Worksheet FREE on instagram live. We will cover: - How to calculate your real hourly rate - The difference between markup and margin - Why profit is a non-negotiable - And how to price with confidence Join the session. Bring your numbers. ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION COSTING DISCOUNTS DOOR SERVICES FENCE SERVICES FINANCING FLOORING GENERAL CONTRACTING GETTING PAID HANDYMAN HOW MUCH TO CHARGE HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PRICING STRATEGIES PROCESSING PAYMENTS PROFIT MARGINS PROPERTY MAINTENANCE REMODELING RV SERVICES",
+    "views": 992,
+    "likes": 3,
+    "comments": 23,
+    "replies": [
+      {
+        "author": "hshoosier",
+        "time": "2025-08-02",
+        "content": "Today is July 12..... I'm guessing I missed this :(",
+        "likes": 0
+      },
+      {
+        "author": "DavidD031b",
+        "time": "2025-09-02",
+        "content": "to hshoosier I was wondering when will another numbers class be held?",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-09-02",
+        "content": "to DavidD031b Thank you brother - I just replied to your DM - look forward to connecting",
+        "likes": 0
+      },
+      {
+        "author": "DavidD031b",
+        "time": "2025-09-02",
+        "content": "to EnergizeUs great i look forward to chatting.",
+        "likes": 0
+      },
+      {
+        "author": "DavidD031b",
+        "time": "2025-09-02",
+        "content": "to EnergizeUs hi where is our phone call supposed to take place? thanks",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-09-02",
+        "content": "to DavidD031b Yesterday e-mail was sent with a Zoom Link",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-08-02",
+        "content": "to hshoosier We can always run it back - when are you free ?",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-08-02",
+        "content": "to hshoosier Private message sent",
+        "likes": 0
+      },
+      {
+        "author": "N8BLADES",
+        "time": "2025-08-02",
+        "content": "I’m also interested in this if you run it back.",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-08-02",
+        "content": "to N8BLADES It’s official - let’s do it together. Do you have IG where we can add you and host the LIVE ?",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-08-02",
+        "content": "to N8BLADES Private message sent",
+        "likes": 0
+      },
+      {
+        "author": "Clint623",
+        "time": "2025-09-02",
+        "content": "Will there be another session? This is something I’ve always struggled with.",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-09-02",
+        "content": "to Clint623 Feel free to add us on instagram / @willmbetanes and or send a private message Looking forward to helping",
+        "likes": 0
+      },
+      {
+        "author": "MRFIXIT805",
+        "time": "2025-10-02",
+        "content": "to EnergizeUs **@willmbetances",
+        "likes": 0
+      },
+      {
+        "author": "EnerTech",
+        "time": "2025-09-02",
+        "content": "Hello I am interested in walking through the Contractor Price Builder Worksheet FREE please and thank you",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2025-09-02",
+        "content": "to EnerTech Feel free to add us on instagram / @willmbetanes and or send a private message Looking forward to helping",
+        "likes": 0
+      },
+      {
+        "author": "EnerTech",
+        "time": "2025-09-02",
+        "content": "to EnergizeUs Done",
+        "likes": 0
+      },
+      {
+        "author": "amholmesllc",
+        "time": "2025-09-02",
+        "content": "When will another one of these Live sessions be available? Is there a video link where I can watch the video?",
+        "likes": 0
+      },
+      {
+        "author": "Chersheppy",
+        "time": "2026-01-02",
+        "content": "i missed this.",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2026-01-02",
+        "content": "to Chersheppy We just recently filmed with the jobber team in October and have a Jobber Podcast coming out, \"Still Guessing Your Prices? Use This Profit Formula\" Feb 3 2026 In the mean time if you need to figure out your figures for the 2026 year, we teach this course monthly and it applies across industries because we go over your cost as a business. If you want to connect more, check out our free pdf at: https://info.energizeus-edu.today/pricing",
+        "likes": 0
+      },
+      {
+        "author": "ChanceJacobsen",
+        "time": "2026-01-02",
+        "content": "Will there be another session?",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2026-02-02",
+        "content": "to ChanceJacobsen We host this class monthly - if you are interested feel free to reach out to the Jobber team so we can showcase julie​ or you can wait for our podcast coming out with JOBBER We taught this class / course in las vegas title: \"Still Guessing Your Prices? Use This Profit Formula\" Release date: Feb 3 2026 If you cant wait and its urgent for your business needs. I have a free PDF on our site : https://info.energizeus-edu.today/pricing I wish nothing but success and blessing in 2026",
+        "likes": 0
+      },
+      {
+        "author": "EnergizeUs",
+        "time": "2026-03-06",
+        "content": "Good morning Jobber world We are hosting our next in person / live stream course title: THE 3 PAIN POINTS EVERY ELECTRICAL CONTRACTOR FACES Do You remember the day you quit your job? Maybe it was in a truck. Maybe it was after a long day. Maybe it was after realizing you didn't have enough money to care for your family. Something we are seeing is: Now, theres nobody that feeds you work anymore. You have to go find it. And when you finally land a job, you stare at the number before sending it. Asking yourself did I price this right? Am I too high? Did I just work for free? Then you present it to them, they ask you to lower it, they ask you why is it so much... and then “I’m getting two more quotes.” And you start wondering if going out on your own was a mistake. Nobody teaches contractors how to communicate your value. So we will be speaking on: How to Finding Electrical work. How to Price Electrical work. How to Sell Electrical work. Love to have your feedback on the pain points you al experienced just starting out.",
+        "likes": 0
       }
     ]
   },
@@ -34,10 +965,10 @@
     "title": "How do I record payment when a customer has already given me a deposit?",
     "url": "https://community.getjobber.com/discussions/finances-forum/how-do-i-record-payment-when-a-customer-has-already-given-me-a-deposit/9069",
     "author": "PestFreeCanada",
-    "authorRole": "Contributor 4",
-    "time": "2026-03-05",
+    "authorRole": "Contributor 5",
+    "time": "2026-03-04",
     "content": "I am charging a customer $120/month for exterior rodent control and they paid me in full for the year. I applied that payment to the account but when I try to record each months service off of the credit, I can't seem to be able to. Jobber is telling me that the invoice must exceed $0.50. The balance is showing on the account but I can't figure out how to make the monthly charge come off of the balance. HELP! ACCOUNTS RECEIVABLE GETTING PAID HOW MUCH TO CHARGE PEST CONTROL PROCESSING PAYMENTS",
-    "views": 7,
+    "views": 12,
     "likes": 0,
     "comments": 1,
     "replies": [
@@ -56,7 +987,7 @@
     "authorRole": "Contributor 2",
     "time": "2026-03-03",
     "content": "Hello! Thought I would share a useful tool our landscaping irrigation company started using recently. I am one of the co-owners of our business and handle all the accounting. Being in the industry for a while, I have found that many small companies struggle making financially-informed business decisions. I think the cause is that business owners may feel lost when looking at their books/margins/KPIs. I recently stumbled upon a tool called Reach Reporting which does financial dashboarding. You can connect it to Quickbooks or other major accounting softwares. It pulls all relevant financial data from your books and then gives you the ability to create your own financial dashboard or even has templates already made. It has been incredibly helpful for us to see our financials beyond a Balance Sheet and P&L. It slices, dices, graphs, and plots anything you want it to. This has helped other owners or managers in our company who do not have a financial background to understand our financials more clearly than ever before. This is just one of many examples. Hope you find it useful! ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE IRRIGATION SERVICES LANDSCAPING PROFIT MARGINS",
-    "views": 17,
+    "views": 40,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -69,194 +1000,43 @@
     ]
   },
   {
-    "title": "How Much Should You Really Be Charging?",
-    "url": "https://community.getjobber.com/discussions/finances-forum/how-much-should-you-really-be-charging/5115",
-    "author": "EnergizeUs",
-    "authorRole": "Jobber Ambassador",
-    "time": "2025-08-09",
-    "content": "The number one question I receive is tied directly to the fact, most contractors are still guessing when it comes to pricing. Overhead. Profit. Labor rate. Trip fees. They think just because they throw a number they hear their competitors use, thats all that they need. It may work, but how and what do you divide these funds is just as important for your business health. If you don’t know how to do the math, you’re not building a business. You’re surviving check to check and think you need more work, when you do not. So here’s the plan: This Tuesday & Thursday on IG, I’m walking you through our Contractor Price Builder Worksheet FREE on instagram live. We will cover: - How to calculate your real hourly rate - The difference between markup and margin - Why profit is a non-negotiable - And how to price with confidence Join the session. Bring your numbers. ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION COSTING DISCOUNTS DOOR SERVICES FENCE SERVICES FINANCING FLOORING GENERAL CONTRACTING GETTING PAID HANDYMAN HOW MUCH TO CHARGE HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PRICING STRATEGIES PROCESSING PAYMENTS PROFIT MARGINS PROPERTY MAINTENANCE REMODELING RV SERVICES",
-    "views": 880,
-    "likes": 3,
-    "comments": 23,
-    "replies": [
-      {
-        "author": "hshoosier",
-        "time": "2025-08-09",
-        "content": "Today is July 12..... I'm guessing I missed this :(",
-        "likes": 0
-      },
-      {
-        "author": "DavidD031b",
-        "time": "2025-09-09",
-        "content": "to hshoosier I was wondering when will another numbers class be held?",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-09-09",
-        "content": "to DavidD031b Thank you brother - I just replied to your DM - look forward to connecting",
-        "likes": 0
-      },
-      {
-        "author": "DavidD031b",
-        "time": "2025-09-09",
-        "content": "to EnergizeUs great i look forward to chatting.",
-        "likes": 0
-      },
-      {
-        "author": "DavidD031b",
-        "time": "2025-09-09",
-        "content": "to EnergizeUs hi where is our phone call supposed to take place? thanks",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-09-09",
-        "content": "to DavidD031b Yesterday e-mail was sent with a Zoom Link",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-08-09",
-        "content": "to hshoosier We can always run it back - when are you free ?",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-08-09",
-        "content": "to hshoosier Private message sent",
-        "likes": 0
-      },
-      {
-        "author": "N8BLADES",
-        "time": "2025-08-09",
-        "content": "I’m also interested in this if you run it back.",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-08-09",
-        "content": "to N8BLADES It’s official - let’s do it together. Do you have IG where we can add you and host the LIVE ?",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-08-09",
-        "content": "to N8BLADES Private message sent",
-        "likes": 0
-      },
-      {
-        "author": "Clint623",
-        "time": "2025-09-09",
-        "content": "Will there be another session? This is something I’ve always struggled with.",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-09-09",
-        "content": "to Clint623 Feel free to add us on instagram / @willmbetanes and or send a private message Looking forward to helping",
-        "likes": 0
-      },
-      {
-        "author": "MRFIXIT805",
-        "time": "2025-10-09",
-        "content": "to EnergizeUs **@willmbetances",
-        "likes": 0
-      },
-      {
-        "author": "EnerTech",
-        "time": "2025-09-09",
-        "content": "Hello I am interested in walking through the Contractor Price Builder Worksheet FREE please and thank you",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-09-09",
-        "content": "to EnerTech Feel free to add us on instagram / @willmbetanes and or send a private message Looking forward to helping",
-        "likes": 0
-      },
-      {
-        "author": "EnerTech",
-        "time": "2025-09-09",
-        "content": "to EnergizeUs Done",
-        "likes": 0
-      },
-      {
-        "author": "amholmesllc",
-        "time": "2025-09-09",
-        "content": "When will another one of these Live sessions be available? Is there a video link where I can watch the video?",
-        "likes": 0
-      },
-      {
-        "author": "Chersheppy",
-        "time": "2026-01-09",
-        "content": "i missed this.",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2026-01-09",
-        "content": "to Chersheppy We just recently filmed with the jobber team in October and have a Jobber Podcast coming out, \"Still Guessing Your Prices? Use This Profit Formula\" Feb 3 2026 In the mean time if you need to figure out your figures for the 2026 year, we teach this course monthly and it applies across industries because we go over your cost as a business. If you want to connect more, check out our free pdf at: https://info.energizeus-edu.today/pricing",
-        "likes": 0
-      },
-      {
-        "author": "ChanceJacobsen",
-        "time": "2026-01-09",
-        "content": "Will there be another session?",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2026-01-09",
-        "content": "to ChanceJacobsen We host this class monthly - if you are interested feel free to reach out to the Jobber team so we can showcase julie​ or you can wait for our podcast coming out with JOBBER We taught this class / course in las vegas title: \"Still Guessing Your Prices? Use This Profit Formula\" Release date: Feb 3 2026 If you cant wait and its urgent for your business needs. I have a free PDF on our site : https://info.energizeus-edu.today/pricing I wish nothing but success and blessing in 2026",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2026-03-06",
-        "content": "Good morning Jobber world We are hosting our next in person / live stream course title: THE 3 PAIN POINTS EVERY ELECTRICAL CONTRACTOR FACES Do You remember the day you quit your job? Maybe it was in a truck. Maybe it was after a long day. Maybe it was after realizing you didn't have enough money to care for your family. Something we are seeing is: Now, theres nobody that feeds you work anymore. You have to go find it. And when you finally land a job, you stare at the number before sending it. Asking yourself did I price this right? Am I too high? Did I just work for free? Then you present it to them, they ask you to lower it, they ask you why is it so much... and then “I’m getting two more quotes.” And you start wondering if going out on your own was a mistake. Nobody teaches contractors how to communicate your value. So we will be speaking on: How to Finding Electrical work. How to Price Electrical work. How to Sell Electrical work. Love to have your feedback on the pain points you al experienced just starting out.",
-        "likes": 0
-      }
-    ]
-  },
-  {
     "title": "What % of your clients are still on credit cards and what’s your ACH conversion plan?",
     "url": "https://community.getjobber.com/discussions/finances-forum/what--of-your-clients-are-still-on-credit-cards-and-what%E2%80%99s-your-ach-conversion-p/8765",
     "author": "roselvaggio",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-02-18",
+    "time": "2026-03-02",
     "content": "I know this is just \"the price of doing business\", but paying over $37k in processing fees last year was a sight to see. We are currently working on a campaign to switch recurring clients to ACH bank transfer for a lower rate, but I am curious how others are mitigating this cost.",
-    "views": 86,
+    "views": 123,
     "likes": 1,
     "comments": 6,
     "replies": [
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-20",
+        "time": "2026-03-02",
         "content": "I would just bake it in to your estimates. I feel most people don't do ACH. Don't charge a CC fee, just up all your prices my 3-5%.",
         "likes": 0
       },
       {
         "author": "Bnorton23",
-        "time": "2026-02-26",
+        "time": "2026-03-02",
         "content": "Jobber is the first system we’ve used that doesn’t let you pass the fee on to the client. We set up a tax rate of 3% and labeled it Credit Card Processing Fee. If the client pays with cash or check we remove the fee (tax) before collecting payment. We also let our clients know we cover the fee for ACH so a lot have switched to that. It’s not a perfect system but it’s the best option I have found so far…",
         "likes": 0
       },
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-27",
+        "time": "2026-03-02",
         "content": "to Bnorton23 I wouldn't recommend doing it this because it syncs to quickbooks weird. What I do is set up different quote templates and have it as a line item. Then you can remove it whenever you need to on the final invoice",
         "likes": 0
       },
       {
         "author": "ApexFire2021",
-        "time": "2026-02-27",
+        "time": "2026-03-02",
         "content": "to HUGEHandyman That's what we have been doing as well and it has helped a ton. Crazy how much some clients are cool paying as the processing fee to get points, but more power to them!",
         "likes": 0
       },
       {
         "author": "Bnorton23",
-        "time": "2026-02-28",
+        "time": "2026-03-02",
         "content": "to HUGEHandyman This is true if you have jobber connected to Quickbooks. Your workaround is the advice jobber gave me as well but I was looking for a way to automate it and prevent mistakes.",
         "likes": 0
       },
@@ -273,15 +1053,15 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/what-kpis-are-you-using-to-measure-your-business/8916",
     "author": "HUGEHandyman",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-02-27",
+    "time": "2026-03-02",
     "content": "So i hear a lot of influencers Tommy Melo talk about these and I feel the KPI's that actually matter in your specific business can vary a lot. For those of you who are tracking this what main ones are you using? RIght now i\"m doing: Charge Rate - What are we actually making on the amount of time the guys are working Average Job Size Usage Rate for employees - out of how many available hours they have, how much am I scheduling them for",
-    "views": 26,
+    "views": 38,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "ryaantuttle",
-        "time": "2026-02-28",
+        "time": "2026-03-02",
         "content": "CAC & LTV",
         "likes": 0
       }
@@ -291,22 +1071,22 @@
     "title": "Do you have daily goals? Weekly? Monthly?",
     "url": "https://community.getjobber.com/discussions/finances-forum/do-you-have-daily-goals-weekly-monthly/8706",
     "author": "PestFreeCanada",
-    "authorRole": "Contributor 4",
-    "time": "2026-02-13",
+    "authorRole": "Contributor 5",
+    "time": "2026-03-02",
     "content": "From the beginning of starting my own company, I naively told myself that I need to make $300 per day. That would give me my $6000K a month that I was making at my previous job (I roughly estimate 20 working days in a month). Why not be way happier and make the same money?? I soon realized that now all the overhead was my responsibility and that number needed to be adjusted. I then aimed for $500 per day. That really seemed to make a huge difference in my finances. I was very consistently hitting this goal, most times surpassing it. I just started this company in Oct 2025 so this revenue was really amazing for me. I shot for $300 a day thinking that was high! Then, a few days would go by and I would make no money, things slow down, phone isn't ringing, weather gets bad...I soon started noticing that I was becoming depressed that I would have 3 consecutive days where I had no work. I started to panic. Then all of a sudden the phone would ring with a $1200 job. This would take a whole day to complete and I would go home happy. These ups and downs weren't hurting me, but I also didn't seem them helping. I am wondering where others gauge their companies financial health? Do you look at it day to day? Week to week? Month? Year?",
-    "views": 55,
+    "views": 76,
     "likes": 1,
     "comments": 2,
     "replies": [
       {
         "author": "Ryan_Cap",
-        "time": "2026-02-17",
+        "time": "2026-03-02",
         "content": "I went through the exact same thing with my lawn care company. The day-to-day rollercoaster will make you crazy. What changed everything for me was shifting to a weekly and monthly view. When you zoom out, you realize those 3 dead days didn’t actually hurt you…you still hit $10K+ that month. A few things that helped me: ∙ Stop measuring daily revenue. Track your weekly average instead. ∙ Know your real break-even number (not just what you used to make at a W-2 level. You have to factor in insurance, fuel, equipment, taxes). ∙ Watch your quote-to-job conversion rate. If you’re closing 60%+ you’re in good shape, and the slow days are just timing. The emotional side is real though. The inconsistency is harder than the money part. It gets better once you build recurring accounts and your schedule fills in.",
         "likes": 0
       },
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-20",
+        "time": "2026-03-02",
         "content": "I feel you have to start on the project per project level and work your way up. It's good to look at the big picture but if you're continuing to lose money on projects, why are you doing them? Honestly you need to find out what you need to charge PER HOUR then see how you do on that on a monthly basis. If you're phones are slow, figure out what free stuff can you be doing and be proactive to get those going. Also start thinking about where the most profitable revenue sources are from, then double down on those",
         "likes": 0
       }
@@ -317,27 +1097,27 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/when-should-businesses-increase-prices-to-keep-up-with-rising-payroll-costs/8524",
     "author": "roselvaggio",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-02-09",
+    "time": "2026-03-02",
     "content": "When's the last time you updated your pricing model to match your payroll reality? For example, our direct payroll (before tax) is 38% while our indirect payroll is 10%. As of January 2, we increased rates for all recurring clients by 4% to offload the indirect percentage. Going forward, we increased all first-time services by 5%. Thoughts? CLEANING GETTING PAID HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
-    "views": 104,
+    "views": 127,
     "likes": 3,
     "comments": 3,
     "replies": [
       {
         "author": "judithvirag",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "BUILDER 1 Great question and it is super important to run a healthy business. We do a price increase every quarter. We just monitor the customers that needs to be raised. This way we don't necessairly lose too many customers at once. For me the price increase was always about an 80%/20% rule. This way it is more close to 95%/5% meaning that we only maybe lose about 5%. And I know this sounds scary but in reality the customers you were able to raise for, you already make up the lost money and effort.",
         "likes": 0
       },
       {
         "author": "roselvaggio",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "to judithvirag I do love this! Out of 400 recurring clients, we only lost 2 due to the 4% increase. I’m wondering if we raise again mid year or if that’s considered overkill. We remained modest but the response was almost too modest 😭😂",
         "likes": 0
       },
       {
         "author": "tbarth",
-        "time": "2026-02-20",
+        "time": "2026-03-02",
         "content": "I only now beginning to look at hiring, and have been assuming I'd give CoL raises at min each year, and pass that along as a price increase, where merit based raises will come out of revenue as it will be planned for up front. I also have no idea what I'm talking about!",
         "likes": 0
       }
@@ -348,45 +1128,45 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/why-do-profitable-service-businesses-still-struggle-with-cash-flow/8582",
     "author": "julie",
     "authorRole": "Jobber Community Team",
-    "time": "2026-02-09",
+    "time": "2026-03-02",
     "content": "JOBBER COMMUNITY TEAM Many businesses look healthy on paper but still feel tight on cash. Have you ever experienced a month that was profitable, but cash flow was still a challenge? ACCOUNTS RECEIVABLE ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING CHIMNEY SWEEP SERVICES CLEANING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FLOORING GENERAL CONTRACTING GETTING PAID HANDYMAN HVAC INSTALLATION SERVICES IRRIGATION SERVICES JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROFIT MARGINS PROPERTY MAINTENANCE REMODELING ROOFING RV SERVICES SNOW REMOVAL",
-    "views": 83,
+    "views": 122,
     "likes": 1,
     "comments": 6,
     "replies": [
       {
         "author": "ryaantuttle",
-        "time": "2026-02-11",
+        "time": "2026-03-02",
         "content": "Many service businesses look profitable on paper but still struggle with cash flow. That disconnect usually comes from confusing profit with cash. You can have a profitable month and still feel tight on money because profit is an accounting concept, while cash flow is about timing and structure. Most owners don’t realize the difference until the stress shows up in the bank account. The first major reason this happens is that many service businesses don’t charge enough and don’t apply the correct markup. Pricing is often based on what competitors charge or what feels acceptable to customers, rather than on the true cost of delivering the service. Markup is commonly applied only to direct labor, while ignoring overhead, risk, and owner compensation. On paper, jobs look profitable, but in reality the margins are too thin to generate real cash. The business stays busy, revenue comes in, but there’s never enough left over to build reserves. The second issue is a poor understanding of overhead. Most owners underestimate what it actually costs to operate the business. Owner salary, administrative time, sales effort, software, insurance, vehicles, inefficiencies, rework, and taxes are often undercounted or ignored entirely. As a result, the business shows a profit while cash is being consumed to cover expenses that were never properly priced into the work. This creates a situation where money is spent before it ever arrives. Payroll and expenses are paid upfront, invoices are collected weeks later, and future deposits are used to cover past obligations. Even in profitable months, cash flow feels tight because the business is structurally designed to lag behind reality. The frustration comes from doing everything “right” on the surface. Selling more, delivering work, growing the company all while the underlying model isn’t engineered for cash flow. Being busy doesn’t mean being healthy, and revenue doesn’t guarantee sustainability. Service businesses that fix this problem do so by changing how they think. They price with overhead in mind, apply markup to fully burdened costs, and design their billing and payment terms intentionally. When that happens, profitable months finally feel profitable, cash flow stabilizes, and growth stops putting pressure on the business instead of strengthening it. If you’ve ever had a month where the numbers said you were doing well but your bank account told a different story, that gap isn’t random. It’s the signal that pricing, markup, and overhead need to be addressed immediately.",
         "likes": 0
       },
       {
         "author": "PestFreeCanada",
-        "time": "2026-02-11",
+        "time": "2026-03-02",
         "content": "I would start to really dive deep into where your cash is going. It would be a good time to do inventory, tighten up on ordering supplies and see if your chequebook is balanced. A profitable month or quarter should be profitable!",
         "likes": 0
       },
       {
         "author": "tbarth",
-        "time": "2026-02-18",
+        "time": "2026-03-02",
         "content": "For me, it was as simple as being bad with personal finances. As a single owner/operator, the company was effectively an extension of my personal finances. The fix was hiring someone to take over the financial tasks so that I no longer see the accounts or have to be responsible for timely AP transactions. It instantly transformed the business into its own entity in my eyes, and my personal finance habits no longer affect it. The result is that capital is finally building steadily, which is enabling growth.",
         "likes": 0
       },
       {
         "author": "roselvaggio",
-        "time": "2026-02-19",
+        "time": "2026-03-02",
         "content": "to tbarth Totally agree!! I used the business savings as my personal piggybank for a number of years. I learned the hard way (against a ticking clock) that I can't do that anymore! Have you listened to Dave Ramsey's Entreleadership Podcast? It definitely helped provide insight!",
         "likes": 0
       },
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-13",
+        "time": "2026-03-02",
         "content": "Maybe because they aren't profitable haha Just getting sales doesn't mean anything. Are your guys chewing up the budget? Do you have a budget? What's your plan for finance this year? This stuff is often forgotten. I had a year I sold $700k and didn't make anything at the end of the year. That was a tough pill to swallow but I took ownership of it and stopped putting up overhead items that didn't serve me. Plug your P&L in chat gpt and ask it questions. If you don't know what to ask, ask it what to ask.",
         "likes": 0
       },
       {
         "author": "roselvaggio",
-        "time": "2026-02-18",
+        "time": "2026-03-02",
         "content": "Yes! In 2025, we generated $1.3M in revenue with $146,835 in net income (profitable on paper). In 2024, we made $97,659 in net income (profitable again). I learned this the hard way, but profit doesn't equal cash. Payroll timing vs. receivables timing- We pay technicians weekly. Clients may pay days (or weeks) later. In a labor-heavy business, payroll is our largest expense (over $615K in 2025). If collections lag even slightly, cash gets tight fast. Growth eats cash- Scaling requires front-loading expenses such as hiring before revenue is fully ramped, marketing spend (over $50K in 2025). We can be profitable but strained during high-growth months. Debt and financing costs- In 2025, Jobber payment fees alone were $37K (my heart hurt seeing that!) Owner distributions & taxes- Profit doesn’t stay in the business automatically. If you’re an S-Corp, tax obligations and distributions can drain liquidity even in profitable periods. Snow days- We’ve had snow days with zero revenue, but fixed costs keep running.",
         "likes": 0
       }
@@ -397,377 +1177,28 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/gcs---how-are-you-using-the-pricebook/8738",
     "author": "HUGEHandyman",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-02-16",
+    "time": "2026-03-02",
     "content": "Most of my projects are all different. Even something a fence gate is different from one property to the next. One place the gate itself is going on the wall, the other it's going on a post and the current post is wobbling. All bathrooms are roughly the same, but maybe the tile is different, or this customer wants to buy their own supplies. etc. So for you businesses that are in this pickle, how are you using your price book? I basically use mine for line items that don't actually carry a price - policies and warranties for specific things (paint matching, bathroom remodel discoverable, etc) but I'm not using it for what I'd imagined are it's intended purpose. Looking for a little coaching here! GENERAL CONTRACTING HANDYMAN",
-    "views": 62,
+    "views": 82,
     "likes": 1,
     "comments": 3,
     "replies": [
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-17",
+        "time": "2026-03-02",
         "content": "Which AI program would you use for this?",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2026-02-18",
+        "time": "2026-03-02",
         "content": "to HUGEHandyman I prefer to use several platforms to get the best results. I build on Claude but then use Chatgpt for the final assistant.",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2026-02-17",
+        "time": "2026-03-02",
         "content": "Create your own Ai assistant that can analyze each request along with any photos and/or videos you have. You can even upload your current price book or upload any price books you find online. You can then create another assistant to evaluate the estimates to make sure they're accurate. HUGEHandyman​",
-        "likes": 0
-      }
-    ]
-  },
-  {
-    "title": "How do you go about pricing your services for profit?",
-    "url": "https://community.getjobber.com/discussions/finances-forum/how-do-you-go-about-pricing-your-services-for-profit/5",
-    "author": "julie",
-    "authorRole": "Jobber Community Team",
-    "time": "2025-03-09",
-    "content": "JOBBER COMMUNITY TEAM Communicating cost increases to your clients aren't the easiest yet it has to be done as a business continues to grow. Thoughts? COSTING GETTING PAID HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
-    "views": 5,
-    "likes": 23,
-    "comments": 56,
-    "replies": [
-      {
-        "author": "WiringByron",
-        "time": "2025-03-09",
-        "content": "Everything starts with building a budget! This budget is going to show you what margin you need to make to complete your budget goals at the end of the year. So if your budget is telling you that you need a 50% gross margin then now when you quote you know you need to at the very least add up your costs and double them. I would say if your budget says 50% then you are quoting around 60% gross margin. This give you a profit buffer for some bad jobs and things team days and just general slippage. Get that gross margin as high as you can and you will be a very happy business owner.",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-03-09",
-        "content": "JOBBER COMMUNITY TEAM to WiringByron Thanks for sharing such a detailed breakdown! I completely agree that starting with a solid budget gives you a clear direction on pricing. Your point about aiming for a higher gross margin to account for slippage and unexpected costs is spot on—it's great advice for avoiding surprises down the road.",
-        "likes": 0
-      },
-      {
-        "author": "BobScotland",
-        "time": "2025-03-09",
-        "content": "to WiringByron True - we set the budgets at 50% Gross MU (double the costs) and end up with a GPM of between 40% and 44%. The starting point for profit has always got to be your gross",
-        "likes": 0
-      },
-      {
-        "author": "PrincipleJDM",
-        "time": "2025-03-09",
-        "content": "to WiringByron I'd love to chat with you sometime. I just joined the community and I'm an electrician in the Denver area. I have found it difficult to build a budget in my type of service based electrical work.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-03-09",
-        "content": "to PrincipleJDM Absolutely, my email address is cory@vancityelectric.ca reach out and we can hop on zoom. Cheers.",
-        "likes": 0
-      },
-      {
-        "author": "robertacree",
-        "time": "2025-03-09",
-        "content": "to WiringByron How do you avoid having a 50% markup on parts without having to be taxed on that markup. You know needing a business tax license?",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-03-09",
-        "content": "to robertacree Sorry there, I don't quite understand the question. I don't do our bookkeeping either. I'm in Canada, so we do pay PST on materials we purchase and we charge + pay for GST on all our invoices.",
-        "likes": 0
-      },
-      {
-        "author": "MDcares",
-        "time": "2025-05-09",
-        "content": "to WiringByron I agree and am working on my budget now.",
-        "likes": 0
-      },
-      {
-        "author": "ELCSavannah",
-        "time": "2025-03-09",
-        "content": "Always explain reasons why and include your team as part of the driving force as usually they are!",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-03-09",
-        "content": "JOBBER COMMUNITY TEAM to ELCSavannah price transparency 🤌 i love that. Not only does it foster understanding across your whole team but can potentially empower them, improve accountability, and increase satisfaction. 🙌",
-        "likes": 0
-      },
-      {
-        "author": "GuardainGutters",
-        "time": "2025-03-09",
-        "content": "This is one I would love more feed back about. I just went from a 3 person team, me and an installer, to a 5 person team. Now I have a person answering the phone, making the schedule and doing gofer tasks for me as well as an install team that can work without my labor contribution. Now that I am off the tools and the phone I have time to sell way more than I ever have before. However, my payroll cost is way up and my profit has disappeared. I raised my prices today but worried how to tell my long term clients.",
-        "likes": 0
-      },
-      {
-        "author": "GuardainGutters",
-        "time": "2025-03-09",
-        "content": "to GuardainGutters 3 people; Installer, pt bookkeeper, myself.",
-        "likes": 0
-      },
-      {
-        "author": "ShlomoS",
-        "time": "2025-03-09",
-        "content": "to GuardainGutters Remember that as your payroll went up, your value went up too. Your company is now more responsive ever with a dedicated office staff. More techs on the road means less scheduling glitches when one calls out. more trucks on the road means less hiccups should one break down. You may still offer the same service, but now you do so in a more responsive, reliable, and quicker way. if i was you client, i would pay more for that...",
-        "likes": 0
-      },
-      {
-        "author": "bedellmgmt",
-        "time": "2025-03-09",
-        "content": "to ShlomoS really good points ShlomoS !!",
-        "likes": 0
-      },
-      {
-        "author": "DomHalifax",
-        "time": "2025-03-09",
-        "content": "to GuardainGutters There’s a sweet spot you need to find after hiring full time assistants. Better customer service will create new customers and with the right protocols and setup you can increase income without increasing your customer service budget. Virtual assistants are a good way to keep that budget down as well. I use virtualsolutionsmb.com",
-        "likes": 0
-      },
-      {
-        "author": "RachelSmith",
-        "time": "2025-03-09",
-        "content": "to DomHalifax Finding a VA is top of my list right now. Thanks for your answer",
-        "likes": 0
-      },
-      {
-        "author": "BobScotland",
-        "time": "2025-03-09",
-        "content": "to GuardainGutters I've done similar this year in that I am stepping away as much as I can from the active production side of the business, and yourself we're seeing payroll really bite, but I think its all part of what you might call growing pains in our industry. You have to find a sweet spot where the ratio of production to non-production staff works for you. I think for a small business ours the ratio is around 4:1. In practical terms that looks -9 employees on production with non-production being myself (production manager, sales and marketing etc) and my wife (admin).",
-        "likes": 0
-      },
-      {
-        "author": "Delhudson1",
-        "time": "2025-05-09",
-        "content": "to GuardainGutters It's not easy to tell the clients you're raising prices but it has to be done. you can't stay in business while losing money. most people realize that the cost of everything has gone up and it had to be passed onto the customer unfortunately.",
-        "likes": 0
-      },
-      {
-        "author": "bedellmgmt",
-        "time": "2025-03-09",
-        "content": "I utilize a budget to make sure we are properly recovering costs and passing them on to our clients.",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-03-09",
-        "content": "JOBBER COMMUNITY TEAM to bedellmgmt Smart approach. A solid budget can really help with staying on top of costs for sure. How do you typically communicate those price adjustments to clients?",
-        "likes": 0
-      },
-      {
-        "author": "Chris",
-        "time": "2025-03-09",
-        "content": "I built a calculator in excel with formulas to convert measurements into amount of materials necessary. It simultaneously will factor in our supplier's pricing to the materials and calculate labor based on the size of the job and other factors. I keep the material pricing and labor rates up to date, giving us a good idea of the internal cost will be before we even quote a job.",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-03-09",
-        "content": "JOBBER COMMUNITY TEAM to Chris That’s an awesome approach! Having a calculator that accounts for materials and labor rates sounds a huge time saver.",
-        "likes": 0
-      },
-      {
-        "author": "Ronda",
-        "time": "2025-03-09",
-        "content": "to Chris What kind of business do you have Chris?",
-        "likes": 0
-      },
-      {
-        "author": "Chris",
-        "time": "2025-09-09",
-        "content": "to Ronda I am a tech-y guy working for a Roofing business.",
-        "likes": 0
-      },
-      {
-        "author": "rickechojan",
-        "time": "2025-03-09",
-        "content": "Cost increases are tough. Jobbers email campaign feature is a great way to communicate changes to all clients across the board. Most importantly, be authentic about it. Customers know it costs money to run a business",
-        "likes": 0
-      },
-      {
-        "author": "BadgerHauling",
-        "time": "2025-03-09",
-        "content": "I think gradual increases are not uncommon. People know that almost everything cost more money and those cost continue to rise.",
-        "likes": 0
-      },
-      {
-        "author": "LucinaK",
-        "time": "2025-03-09",
-        "content": "Hi all. New here. Yay! all responses are good but I did not see anyway talk about the inflation percentage rate to be considered. At one time I had the same problem. My CPA told me that I needed to add verbiage on my yearly contracts about the expectation of charging more when the inflation percentage rate would increase e.g. between an 2.5%-4.5% annually. So I try to look at % to help me determine to prepare for an increase or not.",
-        "likes": 0
-      },
-      {
-        "author": "gvlandscape",
-        "time": "2025-03-09",
-        "content": "I think staying on top of your expenses overhead/operating/labor costs and crafting a good man hour rate from that coupled with being as detailed and thorough as possible when creating quotes is best for ensuring profitability. We have always stuck to our guns in terms of pricing when it comes to quotes to clients no surprises costs but it works in our industry, if there is something that is outside the scope of our quote that comes up during a project it is quoted additionally so there are no surprises. Our business thrives on re-occurring jobs with our clients whether it is weekly, monthly or annually.",
-        "likes": 0
-      },
-      {
-        "author": "ryaantuttle",
-        "time": "2025-03-09",
-        "content": "Yess! This is part of every business, no matter what industry. I believe changing your pricing incrementally over time is the best route for home service businesses. They're too small for customers not to see changes, so best done over a period of time instead of all at once. Example: Raise your mark-up on Labor AND Materials 5% every year",
-        "likes": 0
-      },
-      {
-        "author": "JetManSolutions",
-        "time": "2025-03-09",
-        "content": "It's important to do an After Action Report- How do you know how much you need to charge if you don't know if the previous job was profitable? Reviewing each job, assessing it's worth in Time, Materials, and Labor may change your perspective on how much you should be charging. It may not be one or two jobs, but do the same project 3 times and see if it was really worth your while at that price point.",
-        "likes": 0
-      },
-      {
-        "author": "Heliconard",
-        "time": "2025-03-09",
-        "content": "to JetManSolutions Best piece of advice!",
-        "likes": 0
-      },
-      {
-        "author": "kaylitapika",
-        "time": "2025-03-09",
-        "content": "Without being greedy, make sure you are only accepting assignments that are paying you what you are worth!",
-        "likes": 0
-      },
-      {
-        "author": "Sam",
-        "time": "2025-03-09",
-        "content": "In its most simple form, start with how much money YOU want to takeaway from each service/job you provide. From there reverse engineer how much you need to markup your DIRECT COSTS and OVERHEAD to meet that takeaway number.",
-        "likes": 0
-      },
-      {
-        "author": "eberts0604",
-        "time": "2025-03-09",
-        "content": "I'm an odd ball in that I mostly work on a time & materials for my handyman services. I know some handymen are moving toward fixed pricing, but I prefer the flexibility of hourly work. I give estimates, but still bill out hourly. So, to answer the question, my profit is built into my hourly amount.",
-        "likes": 0
-      },
-      {
-        "author": "ChandraService",
-        "time": "2025-03-09",
-        "content": "When you are in the warranty service and have multiple manufactures changing their prices substantially for parts multiple times a year do you change your prices across the board or only with those company with part increases. I'm finding it hard to find balance between their terms and unity across our company?",
-        "likes": 0
-      },
-      {
-        "author": "Heather1",
-        "time": "2025-07-09",
-        "content": "Hello - new here and to running a landscaping business. When you are purchasing from retail stores at a normal price, how can I mark up an item by 60% (as seen in comments above) and not have customers give the hairy eye? Do you also charge for time sourcing these materials, plus this markup? Thanks in advance for your input!",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-07-09",
-        "content": "to Heather1 Hey Heather, first you should do yourself a budget. The budget is going to tell you what margin you need to charge. Yours with no overhead might be 40% gross margin. Who knows. This will also get you away from asking other people what they charge. It doesn't matter what they charge they would have different overhead. Also this is margin not mark up, I would try to loose mark up from your vocabulary, it's not the same as margin. Markup doesn't mean anything and doesn't tie to your budget. Now if your budget that you made is telling you that you need to make a 50% gross margin to have a profitable year then it doesn't matter how you get it but you need to get it somehow.... 50% means your doubling your labour base costs and doubling your materials. But don't separate these out on a quote. Write something \"5 yards of soil + pick up and delivery\" so it's just one line item and a price. If someone asks you to \"break down your price\" you say \"sorry we don't do that\" haha. Just when you buy almost anything else in life, you don't get a breakdown of labour and materials and you don't know the margin the company is making on everything you purchase.",
-        "likes": 0
-      },
-      {
-        "author": "Heather1",
-        "time": "2025-07-09",
-        "content": "to WiringByron Incredibly helpful, thank you Byron. Sounds I need to get a better grasp on markup versus margin and spend some time working out a budget. Your note about clients asking me to break down the price, or give them receipts is also a big one, I've just been asked this and was not pleased with the request! Your framing of this makes sense and allows me to normalize saying no to this, so thank you again.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-07-09",
-        "content": "to Heather1 Awesome, reach out anytime mailto:cory.nextstep@gmail.com and look out for your self out there!",
-        "likes": 0
-      },
-      {
-        "author": "Shavin",
-        "time": "2025-07-09",
-        "content": "to WiringByron This is a great response and also gives me more clarity for my business as well. Thank you! This is another reason why understanding my numbers in my business is so important.",
-        "likes": 0
-      },
-      {
-        "author": "Tadams",
-        "time": "2025-07-09",
-        "content": "Pricing your services for profit in today’s economy requires a strategic approach. Here are some steps to consider: **Research the Market**: Analyze what competitors are charging for similar services. Look for industry standards, and consider local economic conditions that might affect pricing. **Calculate Your Costs**: List all your expenses, including fixed costs (rent, utilities) and variable costs (supplies, labor). This will help you understand the minimum price you can charge without losing money. **Determine Your Value Proposition**: Identify what makes your services unique. Consider the quality, expertise, and additional benefits you offer. Be prepared to communicate this value to your clients. **Set Profit Goals**: Decide on your desired profit margin. This could be a percentage of costs or a specific dollar amount you aim to achieve. **Test Your Pricing**: If possible, experiment with different pricing strategies. You can offer introductory prices, package deals, or tiered pricing to see what resonates with your clients. **Be Flexible**: Stay aware of changes in the economy and your industry. Adjust your pricing as necessary to remain competitive while ensuring profitability. **Solicit Feedback**: Ask customers for feedback on your pricing and perceived value. This can provide insights into whether your pricing is appropriate or if adjustments are needed. **Communicate Clearly**: Make sure your clients understand what they are paying for and why. Transparency can build trust and justify your pricing. By combining these strategies, you can find a pricing model that works for both your business and your clients in today’s economic landscape.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-07-09",
-        "content": "Julie, Jobber should do a webinar on building a budget for your company / I would be happy to help. I think it would help a lot of people. Could include things common budget %'s. Things typical %'s on budget items marketing / management / gross margin / net margin where should people be on these items. It was really eye opening for me when I learned these things. Helped my own business quite a bit. It's one of the most important things that companies should do that they don't.",
-        "likes": 0
-      },
-      {
-        "author": "Poo-Picker-Josh",
-        "time": "2025-03-09",
-        "content": "Over time it's not uncommon to raise prices to match inflation. Good communication to clients will handle that. For setting price points - Different industries have different profit margins. Setting the price is a tough one. You don't want to be too high or too low and obviously have a profit margin that is sustainable. The lowest hourly charge i've found sustainable in any business has been $60 per person. Other businesses have higher minimums. This is my personal experience. We personally priced our Dog Poo Pickup service to be the highest price in the market for the pay as you go packages. And the cheapest in the market if someone pre pays for a year of service. This way the subscriptions not cover more than the cost to run the business on a monthly basis and the prepaid funds just collect in the back. This means we will never be in a deficit unless I make dumb financial decisions lol. You want to get the knowledge of what it costs to run your business and break that down to an hourly cost. including all your expenses not just the cost to do the job. Then you will see the true picture of the cost to run your business and you can decide what you need to charge to be sustainable. Depending on the service industry you're typically looking at a range of 10%-35% profit margin. Do your market research to see what other services are charging and you will get your ball park price and can strategize from there what you want to do.",
-        "likes": 0
-      },
-      {
-        "author": "Verenice81",
-        "time": "2025-05-09",
-        "content": "I crease my prices 10-20% per year to our regular customer.",
-        "likes": 0
-      },
-      {
-        "author": "HeritageResto",
-        "time": "2025-06-09",
-        "content": "I'm a one-man shop, my overhead is low. I confirm everything I can think of and do research to make sure there's nothing else I need to include. I also make sure to pad my labor by an hour or two. I tend to think I can do more than I actually can in the course of a day, so it tends to help with both controlling my rate and completion time in my favor.",
-        "likes": 0
-      },
-      {
-        "author": "DJBlood",
-        "time": "2025-07-09",
-        "content": "How I Bid Linear Sewer Work with Confidence and Consistency In construction, efficiency is everything. Whether you’re estimating a small run or an entire subdivision, the most important factor is how quickly and accurately you can translate scope into a reliable number. I approach all my bidding with a structured formula that turns project dimensions into predictable costs—and it’s worked for me time and again. When I bid sewer work, I do it by the linear foot. That ensures I’m consistent across projects and simplifies budgeting both for me and the client. Here’s an example using 8” SDR 35 sewer pipe with pea gravel bedding, based on a 100-foot section. I bid based on what my crew can actually install per hour, and I build in material, labor, equipment, and markup for true margin. MATERIALS – PIPE • 100 ft @ 20-ft sticks = 5 sticks total • Raw Cost: 5 sticks × $300 = $1,500 • Markup (30%): $450 • Total Pipe Material: $1,950 EQUIPMENT & LABOR (Per Hour to Install 100 ft) Description Rate Excavator $325/hr Pipe Layer $70/hr Labor Hand $50/hr Loader $260/hr Trench Box Rental $100/day = $10/hr → +30% = $13/hr Total Labor/Equip: $718/hour This assumes one hour to install 100 feet, which is achievable with an experienced crew. BEDDING MATERIAL – PEA GRAVEL • Volume Needed: 100 ft x 1 ft wide x 0.5 ft deep = 50 cu ft = 1.85 cu yd • Cost/yd (Local): $50 • Total Gravel Cost: 1.85 × $50 = $92.59 COMBINED TOTAL BEFORE FINAL MARKUP • Pipe (with markup): $1,950 • Labor & Equipment: $718 • Pea Gravel: $92.59 • Subtotal: $2,760.59 FINAL MARKUP – 10% ACROSS THE BOARD • $2,760.59 × 1.10 = $3,036.65 FINAL COST PER LINEAR FOOT • $3,036.65 ÷ 100 ft = $30.37 per foot WHY THIS WORKS This method gives me full control of my bidding process and keeps everything transparent. It accounts for: • Equipment time • Labor by the hour • Exact material needs • Overhead and markup, built in By marking up each item 30%, I account for material reliability, risk, and the value of my sourcing and supply. Then I apply a 10% global markup to protect my margins and overhead. That structure gets me into the 25–45% margin zone, depending on the project. If you’re a smaller outfit handling both the management and the work, you should be shooting for 55%+ to stay sustainable. Anything less, and you’re paying for your own jobs out of pocket. Some clients may not understand why their quote is higher than the guy who scribbles numbers on a napkin. But when you break it down this way—clearly, with purpose—it gives them peace of mind that their job is planned, professional, and worth the investment. Closing Thought: One model doesn’t fit every job, but every estimator should have a model. This is mine. Once it’s built, I don’t have to guess, tweak, or second-guess. I plug in the job length, soil conditions, and material specs—and the numbers speak for themselves. Key Point Deliverance",
-        "likes": 0
-      },
-      {
-        "author": "jlsanche",
-        "time": "2025-07-09",
-        "content": "I had to see what the going rate was for Residential Cleaners in my area. I did this by looking online for the top companies that offered instant quotes. I plotted the quotes and did as many as I needed to gauge size and type of service. From there, I had more of a sense for what i should charge, taking into account my time and materials.",
-        "likes": 0
-      },
-      {
-        "author": "radtimbers",
-        "time": "2025-07-09",
-        "content": "Based on what I create and the materials and time it takes to turn them into a functional piece of art, I price my pieces at anywhere between $300 to $1100 a piece. Most people would say that my products are overpriced but I’d say most of what I create is art first and then functional and art is subjective. If someone is willing to pay for the cost of my products, then it becomes the worth and value. Just my line of thinking.",
-        "likes": 0
-      },
-      {
-        "author": "blpettyjohn",
-        "time": "2025-07-09",
-        "content": "Hello Im new here and i read the comments and thanks all was very imformative and helpful with the economy increase and tariffs fees when ordering supplies outside of the US.",
-        "likes": 0
-      },
-      {
-        "author": "Shavin",
-        "time": "2025-07-09",
-        "content": "This is a great question! Ive heard people survey their clients but you can always do price analysis to your competitors as well and then price according to what feels right for you. You can adjust as you go.",
-        "likes": 0
-      },
-      {
-        "author": "groovecleaning",
-        "time": "2025-07-09",
-        "content": "Very true but its a very important step to actually be profitable. You cant look at it a burden to your customer, you have to understand you cant serve your customers properly if you are not profitable.",
-        "likes": 0
-      },
-      {
-        "author": "LauraWhalen",
-        "time": "2025-07-09",
-        "content": "Make sure you are including all costs and expenses in your quote. Some of the small, missed expenses can really cut into your bottom line. I typically multiply the cost of parts x 3. Labor is quoted at 2.5 x the hourly rate. I make sure that I am quoting about 60% gross margin so I have room for contingencies that may come up.",
-        "likes": 0
-      },
-      {
-        "author": "EnergizeUs",
-        "time": "2025-07-09",
-        "content": "Most contractors price for survival, not growth. And when you do that, even a good month leaves you broke. So here’s how I approach it: 1. Build your price from the ground up. Start with your real costs, not your feelings. Labor (your time AND your team’s time) Materials (with markup) Overhead (truck, insurance, gas, dump fees, software) Admin (quote time, phone calls, customer service) Profit (15–30%) — non-negotiable If you’re not adding that last line, you’re doing it wrong. 2. Communicate value before price. When it’s time to raise prices, don’t open with “Sorry, we had to...” Lead with the value: “We’ve upgraded equipment, improved turnaround times, and added better materials — which means a smoother job for you and a cleaner result.” Then say it straight: “To continue offering this level of quality, we’ve updated our pricing to match today’s costs.” Clients respect clarity. Not excuses. 3. Don’t fear the price walkaway — fear the resentment. You’re afraid of losing a client over a price bump? You should be more afraid of resenting the client because you’re working for scraps. If someone flakes over $100… they were never your client. If they respect your work — they’ll respect your growth. 4. Put it in writing, not emotion.",
-        "likes": 0
-      },
-      {
-        "author": "DannyCS",
-        "time": "2025-11-09",
-        "content": "Hey yall! Trying to find some support and feedback for my price increase feature request. I'd love to see what ideas you guys have, and if it would help you out too! See My Thread Here!",
-        "likes": 0
-      },
-      {
-        "author": "StevenAllen",
-        "time": "2026-02-14",
-        "content": "As we are providing estimation services, I price for profit by accounting for labor, materials, overhead, and risk — not just what it takes to win the job. When costs go up, I show clients the numbers. Data makes those conversations easier.",
-        "likes": 0
-      },
-      {
-        "author": "StevenAllen",
-        "time": "2026-02-14",
-        "content": "Doing construction estimation services, I’ve learned you can’t guess your profit. You have to account for labor, materials, overhead, and risk upfront. When prices move, I communicate early and back it with data",
         "likes": 0
       }
     ]
@@ -777,15 +1208,15 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/property-based-pricing/8417",
     "author": "BlueSkies",
     "authorRole": "Contributor 3",
-    "time": "2026-02-09",
+    "time": "2026-02-02",
     "content": "Changing pricing across the board is very time consuming. a few requests. Let the service and product catalog create a proper pricing matrix, to allow mass changes. Example: i do lawn care. after tracking everything and running the numbers i charge by sq ft. of the entire property. (factors in the trimming time better than just the lawn size) there are tiers for the pricing 0-10999 $50 11000-12999 $53 and .001 for ea sq ft over the min 13000-14999 $55 and .002501 for ea sq ft over the min etc etc etc. Im **bleep** about the numbers and almost every time i don't follow the formula i will lose money. What im looking for is something this for the product catalog. You open up the the catalog and either put a blanket price on it that always populates or build that service or products pricing matrix, that then pulls whatever it needs from the clients page in my case property sq ft. runs it through the pricing matrix and spits out the number for that particular service. and yes we can always change it individually when needed byt this would put the pricing in the ballpark. and when sending out renewal letters, this cuts down hours and hours of work as its in house. when you need to change the pricing as everything goes up or down, you go adjust the pricing matrix, not every single clients page. For my treatment side of things, the lawn size is what matters, so the matrix would pull that number off the client page. I do christmas lights, i charge per linear foot as a baseline. it pulls that. this is about speeding up quotes going out especially in mass. Basically the sales book of this is what we charge for xyz the sales guy needs to price consistently compared to the other sales guy its in house and not on some seperate excel sheet outside of the CRM.",
-    "views": 49,
+    "views": 57,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "jade",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "Hey Blueskies! Thank you for the suggestion. I can see how this feature would be beneficial to you and other landscaping businesses. Jobber has an integration with DeepLawn, I think could be helpful for you in this case. The integration is designed to display and access your client's square footage directly on the quote, saving you time. Deep Lawn uses automatic AI measurements of lawns, homes, driveways, and walkways. All client information and square footage estimates sync automatically to Jobber so you don't have to worry about recording it manually. Here is more information on how it works. Another tool I believe can help you here is our new pricebook integration with Home Depot. It is still in beta testing, but you can request to join the lab! Here is the information on that. I really hope this information helps, if you have questions please contact our Success Team, 888-721-1115 ext 1 or email mailto:support@getjobber.com.",
         "likes": 0
       }
@@ -796,21 +1227,21 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/do-you-feel-confident-in-your-pricing/8538",
     "author": "Lisa",
     "authorRole": "Jobber Community Team",
-    "time": "2026-02-09",
+    "time": "2026-03-02",
     "content": "JOBBER COMMUNITY TEAM Pricing can feel tricky. How do you usually decide what to charge? And what’s one thing you learned the hard way about pricing? In this episode of Masters of Home Service, Wilson Betances (EnergizeUs​) shares: The 30-30-30-10 profit formula How knowing your true costs changes everything Why even a 5% price increase can have a big impact on profit Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. COSTING ELECTRICAL CONTRACTING HOW MUCH TO CHARGE PRICING STRATEGIES PROFIT MARGINS",
-    "views": 74,
+    "views": 93,
     "likes": 0,
     "comments": 2,
     "replies": [
       {
         "author": "HUGEHandyman",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "The biggest thing I did was go away from hourly to a hybrid model where we charge in half day blocks. I spent so much time thinking - would this take 4 hours or 6 hours etc and it'd make my brain hurt every day. Then for bigger projects we just price it out. You do need to make sure you know what you need to charge hourly to grow as a business. The other thing with charging correctly is you need THICK SKIN. A lot of people are going to say you're too expensive and you need to have a deep understanding of your numbers so you know that that's ok.",
         "likes": 0
       },
       {
         "author": "Lisa",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "JOBBER COMMUNITY TEAM to HUGEHandyman Thanks for sharing! Glad you found a pricing approach that works for you :) And love that reminder: charging what you’re worth starts with really knowing your numbers.",
         "likes": 0
       }
@@ -820,52 +1251,52 @@
     "title": "What's the best way to do job costing?",
     "url": "https://community.getjobber.com/discussions/finances-forum/whats-the-best-way-to-do-job-costing/8412",
     "author": "Ernie",
-    "authorRole": "Contributor 2",
-    "time": "2026-02-09",
+    "authorRole": "Contributor 3",
+    "time": "2026-02-02",
     "content": "Hello everyone, I have been inconsistent with adding expenses to each job. How are other jobber users adding expenses to each job to see your profitability per job? Are you having your techs keep track of parts/fittings used on a separate form and then adding that to the job after the job has been completed? Trying to find an easy way to keep track of this and get it entered into jobber. Thanks Ernie COSTING PROFIT MARGINS",
-    "views": 142,
+    "views": 172,
     "likes": 2,
     "comments": 7,
     "replies": [
       {
         "author": "ThatHandymanVan",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "I have my techs write the Job no on the top of their receipts for any supplies purchased. Then at the end of every day, the expenses are written in the lines of the job to be captured. Before receipts are scanned into QuickBooks, we verify that this has been completed on the job. If we do need to capture something that we did not just purchase, it is not on a receipt, extra caulking, then it is added at the tech's discretion. I also write on the top of the receipt if it was SM (Supplies and Materials), GS (Goods Sold), Small Tools (TOOLS), or FUEL. So if it is marked GS, it should have a job number. IF anything is missing, it goes back to the tech.",
         "likes": 0
       },
       {
         "author": "Ernie",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "to ThatHandymanVan Thanks for that process. I don't have one in place so its not getting done consistently. so, my techs are just using supplies and materials from the van. They don't go out and purchase (its rare that they do) its mostly SM for installations. So, basically, aside from starting and stopping the job timers, they need to keep track of how many elbows. crimps, pipe, etc they're using, and hand that in so it can be added to that particular job",
         "likes": 0
       },
       {
         "author": "ThatHandymanVan",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "A Job form might help too: The first option is a number field where they enter the number of the item used, just copy the item name from the pricebook, so it can be copied over to the invoice. And the second is a drop-down with qty. Just create an item for each sellable item you have on your truck. Also, I think Ply, which integrates with Jobber, can help do a lot of this, but it costs.",
         "likes": 0
       },
       {
         "author": "Ernie",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "to ThatHandymanVan I the job form set up. Gonna set that up. Thanks.",
         "likes": 0
       },
       {
         "author": "Jaysoasis",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "Hey Ernie, I have been using a different credit/ debit card for supply purchases only. This means anything for the costumers only. I have a company account for everything else tools, gas, maintenance. This makes it super easy for me to find what I spent money on and where the money is being spent. It's nice to be able to just print out each account for the year and hand it to your tax guy also. I use store apps as well to track what I bought and if I need to return something it's easy to look up. Hope this helps.",
         "likes": 0
       },
       {
         "author": "Ernie",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "to Jaysoasis thanks",
         "likes": 0
       },
       {
         "author": "ThatHandymanVan",
-        "time": "2026-02-09",
+        "time": "2026-03-02",
         "content": "Here are a few images of using the expenses. This wont add it to the job though. Maybe then the office or whoever bills it out can transfer it over.",
         "likes": 0
       }
@@ -876,21 +1307,21 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/how-are-you-reviewing-year-end-financials-to-make-better-decisions-next-year/7923",
     "author": "FredHodgeJr",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-01-09",
+    "time": "2026-01-02",
     "content": "How are you reviewing year-end numbers to actually drive better decisions for next year, not just look backward? What expense categories surprised you most in 2025, and what are you cutting or renegotiating for 2026?",
-    "views": 82,
+    "views": 92,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
         "author": "judithvirag",
-        "time": "2026-01-09",
+        "time": "2026-01-02",
         "content": "BUILDER 1 Numbers never lie. I review our numbers weekly, monthly, quarterly and annually. I use my annual numbers to forecast next year and set my budget. I am budgeting a 15% growth for next year. The biggest spend is software. Crazy actually LOL. I find that this new AI world it is hard to run a business without good software.",
         "likes": 0
       },
       {
         "author": "BrianThePoolGuy",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "Is there any way to incorporate budgets into Jobber?",
         "likes": 0
       }
@@ -901,57 +1332,57 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/how-to-offer-financing-options-to-customers-who-can%E2%80%99t-pay-upfront/2745",
     "author": "GloriousAir",
     "authorRole": "Contributor 3",
-    "time": "2025-04-09",
+    "time": "2025-04-02",
     "content": "As a HVAC Contractor, we are thinking about financing our service to our client who cant affort the Lum some of money up front, can I get some advice for the best way possible to start some kind of financing program from our clients or recommendation of any financing solutions. HVAC PROCESSING PAYMENTS",
-    "views": 649,
+    "views": 676,
     "likes": 5,
     "comments": 8,
     "replies": [
       {
         "author": "kellivinson",
-        "time": "2025-04-09",
+        "time": "2025-04-02",
         "content": "We use Acorn Financial and are pleased with them. I only wish Jobber would integrate with them so we could set up the financing directly on our quotes and invoices.",
         "likes": 0
       },
       {
         "author": "KQuinn612",
-        "time": "2025-05-09",
+        "time": "2025-05-02",
         "content": "We use Hearth Financing. They provide ‘personal project loans.’ Clients can use these types of loans for numerous home improvement projects. It’s great for clients to meet our payment scale. The client gets 3-6 offers on average, which show the monthly payment amount, APR %, term length etc. for their individual application. They receive a direct debit of the lump sum chosen into their own bank account. They can then get us the 50% deposit, and have the remaining funds waiting in their account when the final invoice arrives. We’ve used Hearth for about 5 years now, and have had no complaints about the application or process as a whole! I would highly recommend!",
         "likes": 0
       },
       {
         "author": "RCuppett-DOO",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "to KQuinn612 KQuinn612​ I was curious, about two things. Are you required to provide Hearth with so many \"guarantees\" or projects per month in order to use their service. To clarify, Hearth does not pay you directly, they pay the H/O and you have to rely on the H/O to not spend what they were given. Meaning we are giving them the link directly and not applying on their behalf? Thanks! Becca",
         "likes": 0
       },
       {
         "author": "KQuinn612",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "to RCuppett-DOO No- there is not a number of clients you must finance per month of in any timeline. Hearth is a 3rd party personal project loan broker basically, they shop for and offer the client usually 3-6 offers through various servicers and then the client chooses a loan to secure directly with the loan servicer. Yes, their loan is deposited into the client’s bank account to use how they would . The thought is that many contractors take a deposit and a final payment, so the funds can be disbursed according to your system. There is no guarantee they will use the financing for a project with you as there is no verbiage saying they are obligated to do so (even though they are using your account to apply). Honestly, I have never seen this happen, where a client takes a loan and doesn’t follow through with our bid- but it’s possible. Hearth now offers a credit type account vs a standard loan to the client if you choose to offer this new option. We have not personally upgraded our plan to include this as of yet. Any questions the client may have can be directed to Hearth Customer Support. Hearth does notify you via email if the client starts or submits an application and also the highest total they are approved for. They also inform you when a client accepts a loan proposal and the status of their disbursement. Notifying you helps you also contact the client at these times to follow up and make sure they are going to sign :) For the small annual fee, it’s a great option to be able to say Yes, we offer financing!",
         "likes": 0
       },
       {
         "author": "KQuinn612",
-        "time": "2026-02-09",
+        "time": "2026-02-02",
         "content": "to RCuppett-DOO",
         "likes": 0
       },
       {
         "author": "Jessica-2025",
-        "time": "2025-04-09",
+        "time": "2025-04-02",
         "content": "We use Enhancify. We share a link to the Enhancify portal when we send out our quotes via text or email. We require down payments on larger projects. We read somewhere that Wisetack doesn't provide funds to customers prior to work starting. They pay the contractor at completion. We heard good things about Acorn. We hope Jobber integrates with them soon. 🙏 🤞",
         "likes": 0
       },
       {
         "author": "RedbirdPool",
-        "time": "2025-04-09",
+        "time": "2025-04-02",
         "content": "There is another thread about this too. I have requested Acorns. It's super easy to use. Another CRM \"Jobtread\" we started with had that integration. It would be really nice if Jobber could get it onboarded ASAP",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2025-04-09",
+        "time": "2025-04-02",
         "content": "Jobber has an integration with Wisetack, which offers customer financing. I believe Paypal also offers financing or monthly payment options, too.",
         "likes": 0
       }
@@ -962,45 +1393,45 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/should-service-businesses-use-debt-to-grow-and-scale-or-stay-debt-free/5631",
     "author": "BrandenSewell",
     "authorRole": "Jobber Ambassador",
-    "time": "2025-09-09",
+    "time": "2025-09-02",
     "content": "How do you view using credit lines, vendor lines of credit, credit cards, and loans to grow your business? If you prefer to grow debt free what is your strategy? What do you think are the pros and cons of each? ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE COSTING DISCOUNTS FINANCING GETTING PAID HOW MUCH TO CHARGE PRICING STRATEGIES PROCESSING PAYMENTS PROFIT MARGINS",
-    "views": 230,
+    "views": 261,
     "likes": 1,
     "comments": 6,
     "replies": [
       {
         "author": "KellyUGuerrero",
-        "time": "2025-10-09",
+        "time": "2025-10-02",
         "content": "I recommend growing your business by first reinvesting your profits and using vendor credit to help with everyday expenses and staying debt-free as long as you can. Only jump in and take out loans or lines of credit when you see a clear ROI for whatever the debt amount is.",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2025-09-09",
+        "time": "2025-09-02",
         "content": "Using debt is the wisest way to grow and scale. However, \"scaling\" is the new cool term when most should just focus the basics until they get to this point. Growing and scaling is not always the best option for everyone and should be part of your biz plan from the beginning anyway.",
         "likes": 0
       },
       {
         "author": "BrandenSewell",
-        "time": "2025-10-09",
+        "time": "2025-10-02",
         "content": "to ryaantuttle What do you think are the signs that a company should not be focusing on scaling, or using debt to grow?",
         "likes": 0
       },
       {
         "author": "KellyUGuerrero",
-        "time": "2025-10-09",
+        "time": "2025-10-02",
         "content": "to BrandenSewell I think if your business is in the red, it's not the time to be scaling or trying to take our debt. Your basics need to be solid before you take on the added challenge of growing or pulling debt.",
         "likes": 0
       },
       {
         "author": "PestFreeCanada",
-        "time": "2025-12-09",
+        "time": "2025-12-02",
         "content": "I was talking to an older gentleman about this one day and he said something that stuck with me, \"Banks aren't in the business of giving money to people they don't think are going to pay them back. If you secure a loan from a bank it's because they believe in you\". I took that in a way that, I believe my business is going to succeed and the bank thinks so too, so using the debt they allow you is a good thing!",
         "likes": 0
       },
       {
         "author": "Chris_Miller",
-        "time": "2026-01-09",
+        "time": "2026-01-02",
         "content": "I think it also depends on reasons for the growth or scaling. Some people are happy being a one or two person show and have the business cover their livelihood. Others want the grand office with a view of the empire they built. I have seen that the best growth is organic, slow and steady growth that does require effort but not necessarily a boatload of money. Perhaps the loans are to get the business off the ground, that would be reasonable depending on how the funds were allocated. Do what is right for you at the time and don't worry about where others say you should be, most of those people don't pay your bills anyway.",
         "likes": 0
       }
@@ -1011,9 +1442,9 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/what-do-i-need-to-knowhave-prepared-in-order-to-get-better-business-loans/7969",
     "author": "BrandenSewell",
     "authorRole": "Jobber Ambassador",
-    "time": "2026-01-09",
+    "time": "2026-01-02",
     "content": "Have been using Jobber Capital for years to help grow my business. However, it is expensive and really sucks for cash flow purposes. At least in my experience. Is there a better way to do that, or should I be trying to get financing somewhere else that is cheaper? If you recommend the Jobber Capital/ Stripe Loan, then how much have you taken? I have been approved for a little over $100K but I haven't wanted to take that risk. Let me know what you have done and options I may not be thinking of. Thanks! ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE COSTING FINANCING GETTING PAID HOW MUCH TO CHARGE PAINTING PRICING STRATEGIES PROCESSING PAYMENTS",
-    "views": 24,
+    "views": 32,
     "likes": 0,
     "comments": 1,
     "replies": [
@@ -1030,21 +1461,21 @@
     "url": "https://community.getjobber.com/discussions/finances-forum/how-to-make-profit-in-a-service-business/7901",
     "author": "judithvirag",
     "authorRole": "Builder 1",
-    "time": "2026-01-09",
+    "time": "2026-01-02",
     "content": "BUILDER 1 This year our goal was to be profitable - we did reach this goal. As a business owner I do have to admit I have shiny object syndrome that I promised my team I will hone in this year. I did this and we did make profit. How do you ensure that your business is profitable? I know all the general ones bringing in more revenue, cutting expenses, reviewing your accounting once a month etc, but what was an aha moment for you that helped your bottom line? CLEANING GETTING PAID PRICING STRATEGIES Conrad Well done! Profit is the whole point of business after all (if we weren't worried about profit, we could register as a charity and pay less tax 😂) For us, profitability in the past was mostly guesswork - it was one of the big goals we wanted to hit, but when it came to pricing work it was just done by feel with no real structure, no plan, no consistency. This lead to unpredictable cash flow and profit was just whatever was left in the bank at the end of the week/month/year. Our big turning point came earlier this year when we joined a business coaching program. It's been a real eye opener and has set us on a totally different path. The one big learning is probably that you can't rely on your accounting reports to drive your business forward. Anything your accountant tells you is history, it's already happened and you can't change it. Too much focus on that is driving while looking in the rearview mirror - not a good thing if you want to make forward progress, and if you try going forward fast while doing that, you'll crash and burn. Backcosting is the most important part of it. Every single job, you need to know exactly how much profit you make, whether it's on % target, or what needs to be changed to make sure you hit those targets. This is where Jobber has been great, because we have accurate data from every single job so we can easily calculate this. The Job Profitability % has been a game changer, we lean on this hard and it's one of the things I look at most often - a quick check every single time a job is completed. On the bookkeeping side, having your Operating Expenses accurately categorised will give you a clear picture of what your Gross Profit % target needs to be. This changes as your business grows, so you need to keep an eye on this, at least monthly. Once a year isn't enough, by that stage it's too late to make any changes. Digging into not Gross Profit $/hr will give you an even better insight beyond a simple GP% target - this is the real eye opener and allows you to accurately focus on doing more of your most profitable work. Labour Utilisation is a big part as well, the new Jobber reports have been great to easily get a Birds Eye view of this also. There's a lot of different pieces to the puzzle, but it comes back to having good data, looking at it and using it well, so you can make good decisions quickly and often. A note on cutting costs - it's important not to have unnecessary costs, but more commonly people won't have enough costs! If you want to grow, you need to keep increasing your overheads to support your business... trying to cut costs keeps your business limited and dependant on the owners. It's scary, but when you dive into the numbers it makes sense. You need a good plan, but it takes a leap of faith to follow it and take action.",
-    "views": 96,
+    "views": 112,
     "likes": 1,
     "comments": 2,
     "replies": [
       {
         "author": "julie",
-        "time": "2026-01-09",
+        "time": "2026-01-02",
         "content": "JOBBER COMMUNITY TEAM Congrats on hitting your profitability goal 👏 That focus alone is huge. Tagging a few members who come to mind. Curious to hear what specific shifts made the biggest difference for them 👉 PestFreeCanada​ FredHodgeJr​ Conrad​",
         "likes": 0
       },
       {
         "author": "Conrad",
-        "time": "2026-01-09",
+        "time": "2026-01-02",
         "content": "Well done! Profit is the whole point of business after all (if we weren't worried about profit, we could register as a charity and pay less tax 😂) For us, profitability in the past was mostly guesswork - it was one of the big goals we wanted to hit, but when it came to pricing work it was just done by feel with no real structure, no plan, no consistency. This lead to unpredictable cash flow and profit was just whatever was left in the bank at the end of the week/month/year. Our big turning point came earlier this year when we joined a business coaching program. It's been a real eye opener and has set us on a totally different path. The one big learning is probably that you can't rely on your accounting reports to drive your business forward. Anything your accountant tells you is history, it's already happened and you can't change it. Too much focus on that is driving while looking in the rearview mirror - not a good thing if you want to make forward progress, and if you try going forward fast while doing that, you'll crash and burn. Backcosting is the most important part of it. Every single job, you need to know exactly how much profit you make, whether it's on % target, or what needs to be changed to make sure you hit those targets. This is where Jobber has been great, because we have accurate data from every single job so we can easily calculate this. The Job Profitability % has been a game changer, we lean on this hard and it's one of the things I look at most often - a quick check every single time a job is completed. On the bookkeeping side, having your Operating Expenses accurately categorised will give you a clear picture of what your Gross Profit % target needs to be. This changes as your business grows, so you need to keep an eye on this, at least monthly. Once a year isn't enough, by that stage it's too late to make any changes. Digging into not Gross Profit $/hr will give you an even better insight beyond a simple GP% target - this is the real eye opener and allows you to accurately focus on doing more of your most profitable work. Labour Utilisation is a big part as well, the new Jobber reports have been great to easily get a Birds Eye view of this also. There's a lot of different pieces to the puzzle, but it comes back to having good data, looking at it and using it well, so you can make good decisions quickly and often. A note on cutting costs - it's important not to have unnecessary costs, but more commonly people won't have enough costs! If you want to grow, you need to keep increasing your overheads to support your business... trying to cut costs keeps your business limited and dependant on the owners. It's scary, but when you dive into the numbers it makes sense. You need a good plan, but it takes a leap of faith to follow it and take action.",
         "likes": 0
       }
@@ -1139,55 +1570,6 @@
     ]
   },
   {
-    "title": "How can service businesses automatically add late fees or interest to overdue invoices?",
-    "url": "https://community.getjobber.com/discussions/finances-forum/how-can-service-businesses-automatically-add-late-fees-or-interest-to-overdue-in/917",
-    "author": "MCLS",
-    "authorRole": "Contributor 2",
-    "time": "2025-02-28",
-    "content": "Does anyone know how to add auto interest or late fees to invoices? Considering the scope of my work this would be real handy when my average invoice payment time is around 50 days. Because of this I have to finance my own payroll and if I could recoup some of these interest charges automatically. Too many invoices to manually add fees ACCOUNTS RECEIVABLE COSTING FINANCING PROCESSING PAYMENTS",
-    "views": 595,
-    "likes": 2,
-    "comments": 6,
-    "replies": [
-      {
-        "author": "bedellmgmt",
-        "time": "2025-02-28",
-        "content": "I'm not sure of a way to do this automatically - does anyone else have any ideas?? Hopefully you can collect on those outstanding accounts receivables soon!!!",
-        "likes": 0
-      },
-      {
-        "author": "wdkljana",
-        "time": "2025-02-28",
-        "content": "I too would a way to automate this, but was told by support there is nothing that available at this time, manual is the only option. Adding a CC to jobber to collect payment faster was the only solution given.",
-        "likes": 0
-      },
-      {
-        "author": "Soblessed365",
-        "time": "2025-05-28",
-        "content": "I'm a new business owner and I'm currently using yelp as my help but I get leads and nearby jobs but nobody answers the phone even when I follow up with the project. What's some tips to start receiving winning the customers 🤔",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-10-28",
-        "content": "JOBBER COMMUNITY TEAM Hello! At this time there's no way to automate adding interest or late fees to a past due invoices, those would need to be added manually as an additional line items. But it sounds this function would help a lot of businesses with any outstanding client payments! If anyone is open to sharing approximately what portion of their invoice payments are received past the due date, that would be really great information to share with our Product team.",
-        "likes": 0
-      },
-      {
-        "author": "GamacheLandscap",
-        "time": "2025-11-28",
-        "content": "to julie enough for the functionality to be highly valued among businesses!",
-        "likes": 0
-      },
-      {
-        "author": "JMedford",
-        "time": "2025-10-28",
-        "content": "I also wish this was a feature. We've had to add late fees as a line item manually.",
-        "likes": 0
-      }
-    ]
-  },
-  {
     "title": "How to price a job that is outside your normal working area?",
     "url": "https://community.getjobber.com/discussions/finances-forum/how-to-price-a-job-that-is-outside-your-normal-working-area/7831",
     "author": "PestFreeCanada",
@@ -1202,31 +1584,6 @@
         "author": "BrandenSewell",
         "time": "2025-12-28",
         "content": "The way that I approach this is that I just include more time for me to do the job which is obviously incorporated into the price. For example...if I think the job is going to take 3 days in our home town, but this job is 30 minutes to an hour away I just add a day or two onto the job for travel. I wouldn't sell it as a travel charge; however, it's just your price to get the job done. No need to explain to the customer why it's more expensive. Now, I am a painting contractor and we do one off jobs. You are a pest control company I am assuming so you might have a subscription model business. In that case, I would maybe charge the same amount but try to hire someone to work in those areas rather than having large areas covered by one person. Hope that makes sense and helps.",
-        "likes": 0
-      }
-    ]
-  },
-  {
-    "title": "How can I create an invoice for the deposit?",
-    "url": "https://community.getjobber.com/discussions/finances-forum/how-can-i-create-an-invoice-for-the-deposit/7798",
-    "author": "BrandenSewell",
-    "authorRole": "Jobber Ambassador",
-    "time": "2025-12-28",
-    "content": "When doing certain commercial work the client will ask us to send them an invoice for the deposit. This isn't typically how Jobber works as the invoice isn't created until the job is closed usually. What is the best way to send a customer an invoice before having the quote signed, deposit paid, or the job completed? Hope that makes sense. Thanks in advance! ACCOUNTS PAYABLE ACCOUNTS RECEIVABLE CONSTRUCTION COSTING DISCOUNTS FINANCING GENERAL CONTRACTING GETTING PAID HOW MUCH TO CHARGE PAINTING PRICING STRATEGIES PROCESSING PAYMENTS PROFIT MARGINS",
-    "views": 75,
-    "likes": 0,
-    "comments": 2,
-    "replies": [
-      {
-        "author": "krista",
-        "time": "2025-12-28",
-        "content": "Hi BrandenSewell​ , thanks for the question. It makes total sense. In Jobber, the easiest way to take a deposit before the work starts is to use a Quote and collect a deposit through that. Quotes can be approved and paid upfront, so you don't need to wait until the job is closed to receive payment. The common Jobber flow is: Create a Quote and include the deposit amount, or request a deposit on the Quote. Send it to the client for approval, then they can pay the deposit right from the Quote. Once the Quote is approved and the deposit is paid, convert it to a Job and continue as normal. The final invoice can be created when the work is done, with the deposit automatically applied. Would that work for your process, using a Quote to receive the deposit instead of an early invoice?",
-        "likes": 0
-      },
-      {
-        "author": "brandymm",
-        "time": "2025-12-28",
-        "content": "Required deposits on quotes is the easiest way to collect the deposit, the client balance is adjusted and the final invoice gets paid with the remaining balance. This has helped our business keep track of payments and order materials for upcoming work with the deposit money! We love it!",
         "likes": 0
       }
     ]
