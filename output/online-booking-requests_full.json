@@ -1,18 +1,353 @@
 [
   {
+    "title": "Online Booking/Scheduling",
+    "url": "https://community.getjobber.com/discussions/online-booking-requests/online-bookingscheduling/10739",
+    "author": "bahandymanwf",
+    "authorRole": "Contributor 2",
+    "time": "2026-05-02",
+    "content": "I wish Jobber would incorporate a feature into the scheduling where one could make a schedule as follows : Every other Monday, Tuesday, Friday, Saturday, Sunday. Every other Wednesday, Thursday etc. Basically I need to create a schedule to work around my full time job schedule as we work rotating shifts. 2 on 2 off 3 on 2 off 2 on 3 off etc. I would love to setup online booking but can't because I cannot remove the days I'm unavailable due to my full-time job schedule. Can we get this feature added soon?!??",
+    "views": 27,
+    "likes": 0,
+    "comments": 1,
+    "replies": [
+      {
+        "author": "julie",
+        "time": "2026-05-05",
+        "content": "JOBBER COMMUNITY TEAM Hey! Thanks for taking the time to share this. I've logged this as a feature request with our product team so it's on their radar. We can't make any promises on timing, but feedback this is exactly what helps shape where we go next. Thanks again for being part of the community! 🙌",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Online booking - losing Request info",
+    "url": "https://community.getjobber.com/discussions/online-booking-requests/online-booking---losing-request-info/10115",
+    "author": "JondyL",
+    "authorRole": "Contributor 2",
+    "time": "2026-04-11",
+    "content": "Hey all, I have a pain point and I wonder if anyone else is experiencing this. Requests converted to Jobs via online booking lose the data of the Request. So if a customer uses a Request form (via the public website or through Ai Receptionist (which I don't have set up for Booking because I don't want the public to have access to that -- it's a previous customer only function in our world), and then books the visit online, the Request data is NOT moved into the Job, so the techs don't know what the Job is about. Pictures are moved to the Job form. If you have every possible product and service delineated in the booking form, I suppose the Request information might be superfluous, however, in plumbing there are so many variations, and sometimes we show up with the problem identified, not the solution (i.e., line items of products and services). We have more umbrella terms in our Request and Booking forms (routine jobs, multi-faceted jobs, etc.) as choices. Most customer wouldn't know a flange from a fill valve from a flapper, so it makes sense to present their choices in terms customer can understand. In any case, I think it's important to convey to the field crews what the customer said in their own words - can help the conversation when they arrive on site. Yes, I know how to cut and paste and adding steps is moving in the opposite direction of efficiency. Anyone else?",
+    "views": 137,
+    "likes": 2,
+    "comments": 5,
+    "replies": [
+      {
+        "author": "katem",
+        "time": "2026-04-16",
+        "content": "JOBBER PRODUCT TEAM JondyL​ me again! The request info is in the request linked to the job BUT we've heard loud and clear that we need to improve this experience. As you pointed out, the person doing the job might not see that or have access to requests. We're working on a solution!",
+        "likes": 0
+      },
+      {
+        "author": "HUGEHomePros",
+        "time": "2026-04-12",
+        "content": "If you've called jobber support and they can't help, I'd recommend trying Zapier. That could be a way to bridge that info in to the job notes. Zapier has an AI agent bot that could make it for you as well.",
+        "likes": 0
+      },
+      {
+        "author": "cloud6llc",
+        "time": "2026-04-14",
+        "content": "Hi just a little confused you need help with automation and booking? I can help with that.",
+        "likes": 0
+      },
+      {
+        "author": "JondyL",
+        "time": "2026-04-14",
+        "content": "to cloud6llc It's the Request to Job with online booking; it loses the Request data in a way that it does not when online booking is not involved. If I have to build a zap or whatnot I will do that. I haven't heard back from support, and I thought someone else here might have navigated this already. cheers.",
+        "likes": 0
+      },
+      {
+        "author": "cloud6llc",
+        "time": "2026-04-15",
+        "content": "to JondyL Got it thanks for the clarity. Thanks wish you the best.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Online booking in Client Hub",
+    "url": "https://community.getjobber.com/discussions/online-booking-requests/online-booking-in-client-hub/9874",
+    "author": "JondyL",
+    "authorRole": "Contributor 2",
+    "time": "2026-04-08",
+    "content": "Hey all, Anyone having trouble with online booking through ClientHub? I direct existing customers to log into ClientHub before submitting a request so they won't have to put in all their details, address, email, phone, etc. every time they are looking for service. All good, right? Notsomuch. The issue is twofold: 1. The booking form is giving me an error message at the point the customer reaches the calendar to book (after they have already described the issue, marked it urgent/routine, etc.). Only the form linked in client hub is having this problem - the the link copied from the form works fine; and 2. Though my ClientHub preferred form is toggled to Booking, the Request is the one that appears front and center in ClientHub, so unless the customers knows to look over to the left menu and hit +Booking they are filling out a regular request form that does not have real-time online booking. I want to keep the online booking capability isolated to our existing customers for a variety of reasons, and this is an issue that support has thus far been unable to resolve. Also - did you know? If existing customers fill out a request form and type in one letter in the address that differs from what exists in the client file (for example, Spring Street instead of Spring St which is in the existing client file), it will create a duplicate property. Just delete the duplicate, right? Wrong. The request is tied to the \"new\" address, so you would have to recreate the request and attach it to the existing property, so all requests, quotes, jobs and invoices stay together. Am I the only one who is bothered by this?? I really object to recreating/retyping work when it's pretty easy to tie the demographic info to say, a phone number.",
+    "views": 84,
+    "likes": 0,
+    "comments": 2,
+    "replies": [
+      {
+        "author": "PestFreeCanada",
+        "time": "2026-04-08",
+        "content": "This is a good place to post things this. I have seen almost every time a Jobber Support person jump on and help out. These problems could be super frustrating. julie​ maybe you can get the ball rolling to help out.",
+        "likes": 0
+      },
+      {
+        "author": "katem",
+        "time": "2026-04-16",
+        "content": "JOBBER PRODUCT TEAM Hi JondyL! Just wanted to let you know that we shipped a fix for your first point today. For number 2, you should be able to set your booking form to be the one on the side navigation under Settings > Client hub, Request and booking forms. As long as you don't share your booking form anywhere publically, it would be only for existing customers, but as soon as a new customer sends in a request they could technically go into client hub and see the booking experience. Thanks for the feedback on duplicate properties! We will continue to make improvements to duplication detection.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Can I add Job Forms to an Assessment?",
+    "url": "https://community.getjobber.com/discussions/online-booking-requests/can-i-add-job-forms-to-an-assessment/8927",
+    "author": "gdy2000",
+    "authorRole": "Contributor 2",
+    "time": "2026-03-08",
+    "content": "We have an internal first time site visit checklist (PDF Doc) that we want the guys to follow. I see where I can make job forms on Jobber and then add them to jobs. But in the workflow, the site visit form is different than the job form. I can't seem to add job forms to assessments on the system. Am I missing something? If you cannot add job forms to an assessment, can I make a request to have that feature added?",
+    "views": 157,
+    "likes": 0,
+    "comments": 5,
+    "replies": [
+      {
+        "author": "krista",
+        "time": "2026-03-08",
+        "content": "Hi gdy2000​ and JHTS​ Thank you for sharing this context; it is really helpful. At this time, Job Forms can only be attached to jobs, not to assessments or requests, so you are not missing a setting in the workflow. I really appreciate the detail around how you are using assessments and requests differently from jobs. Wanting structured checklists for first-time site visits, separating information the operatives need from what the office needs, capturing details crew size, hours, or TPO information, and reducing copy and paste into notes are all strong use cases. I also hear the accessibility piece around making information easier to read for staff, which is important. I would be happy to submit it as a feature request. Jobber is made by the voice of our customers, and features that get asked for a lot are the ones considered for future iterations. While I can't guarantee any feature requests or timelines, this feedback is super useful for our product team!",
+        "likes": 0
+      },
+      {
+        "author": "gdy2000",
+        "time": "2026-03-08",
+        "content": "to krista Thank you. Put another way, a vast majority of contractors go to the site after a request, then quote the job. Jobber needs a better way to gather information at the \"assessment\" stage of Jobber's workflow, in order to systemize the quoting process.",
+        "likes": 0
+      },
+      {
+        "author": "Ernie",
+        "time": "2026-04-08",
+        "content": "to krista This is something I have been asking for since signing up with jobber a couple of years ago. We do an onsite assessment before creating the quote or scheduling a job. It makes sense to have forms available at the assessment stage to get info and photos needed to produce the quote or schedule the job. We would really to see this feature added to jobber.",
+        "likes": 0
+      },
+      {
+        "author": "gdy2000",
+        "time": "2026-05-06",
+        "content": "to krista Just stopping by to say thank you for adding checklists to assessments. This is exactly what I was looking for!",
+        "likes": 0
+      },
+      {
+        "author": "JHTS",
+        "time": "2026-03-08",
+        "content": "I have been asking for this feature since job forms became a thing. They are great for everyday stuff risk assessments, wildlife assessments, incident & accident forms, which are attached to every job. I would to be able to attach them to requests too to capture details that the operatives dont need but the office does - ie how many men in team, hours takes, TPO details for application etc. At the moment we copy and paste the questions into notes and the surveyor notes only go to quotes - but team notes go all the way. Having this as forms would make the capture of info so much easier. My alternative solution was to be able to change the colour of the writing to make seeing the notes easier. Especially as we have some dyslexic staff.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "title": "Improving Jobber's Online Booking for a Cleaning Business",
+    "url": "https://community.getjobber.com/discussions/online-booking-requests/improving-jobbers-online-booking-for-a-cleaning-business/525",
+    "author": "HouseKept",
+    "authorRole": "Contributor 3",
+    "time": "2025-05-08",
+    "content": "Hey everyone, I love using Jobber for my cleaning business, but I’m finding the online booking functionality a bit lacking. We’re losing potential clients and wasting ad spend because customers can't book instantly online. While we always respond quickly to inquiries, the inability to offer instant booking is really hurting us. We provide a range of services—End of Lease, General Home Cleaning, Airbnb Cleaning (based on the number of rooms, bathrooms, etc.)—and have optional extras oven cleaning and linen hire. Setting all this up in Jobber's online booking system has been a nightmare! I know some of our competitors use platforms Booking Koala or Launch27, but I really don’t want to switch. Has anyone found a good workaround within Jobber or a solution that works for similar businesses? Any advice would be greatly appreciated!",
+    "views": 13,
+    "likes": 6,
+    "comments": 32,
+    "replies": [
+      {
+        "author": "WiringByron",
+        "time": "2025-05-08",
+        "content": "What are some features that you would to see added to online booking? I'll add a few: Ability to allow different services for different employees in Jobber. Right now it's all or nothing. Location booking settings by the employee so I can keep certain people driving in certain areas. Good / Better / Best options ? A cleaner UI for the services. Right now there is just a long list so you can't add too many otherwise it will confuse people. juliesend these up the ladder !! haha.",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-05-08",
+        "content": "JOBBER COMMUNITY TEAM to WiringByron Passing these along to our Success Team rn 👍",
+        "likes": 0
+      },
+      {
+        "author": "mplcs2017",
+        "time": "2025-05-08",
+        "content": "to WiringByron Yes send up the ladder!",
+        "likes": 0
+      },
+      {
+        "author": "MERTSPRODUCTS",
+        "time": "2025-05-08",
+        "content": "to WiringByron Hi, I am looking for a booking system. Has there been any updates for Jobber booking platform? I sure can use it!",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-08-08",
+        "content": "to MERTSPRODUCTS Hey there, it’s simple but workable right now. Perfect for people dabbling in online booking.",
+        "likes": 0
+      },
+      {
+        "author": "EnovanaRaleigh",
+        "time": "2025-05-08",
+        "content": "Things we'd to see: REQUIRE A CREDIT CARD AT THE TIME OF BOOKING Agree w/ WiringBryon: cleaner UI, especially the long list he mentions. It would be nice if the user could input whatever cost parameter is needed (square footage, frequency, etc), then have the price(s) shown. Ability to show pics, or even just icons, to go along w/ any line items. For example, oven cleaning may be an extra service, but having a pic/icon of an oven next to that option would be great. More customization of the available timeframe I'm glad we're all starting to brainstorm this.",
+        "likes": 0
+      },
+      {
+        "author": "CharlesB7",
+        "time": "2025-05-08",
+        "content": "I can see where this may be an issue if you have more of a big city culture to cater to. People still call us personally to book us and I think it is because 99% of my customers generally want someone to talk to personally. Even our commercial clients call us. Most of our clients are over the age of 50. Even if I had trouble bookingI could never think of getting rid of jobber because I how it is set up and it is my library. It would be nice if they had more of an older generation customer geared training video to show people how to book and use their client hub.",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2025-05-08",
+        "content": "Hello HouseKept! We appreciate you taking the time to follow up. Since your last post, there have not been any updates to Online Booking. My apologies for that. We will continue to submit this feedback to our Product Development team so they understand the importance of this feature to our customers! In the meantime, if you need any help or suggestions for workarounds, please contact our Success Team. You can start a live chat by going to the ? top right corner > chat with us.",
+        "likes": 0
+      },
+      {
+        "author": "Canadiana",
+        "time": "2025-05-08",
+        "content": "Thanks for posting this, as we have been finding the same issue for our cleaning division of our business. We are trying to see if we can come up with a solution in Jobber as we do not want to switch either. We will share whatever we manage to come up with, if we find a creative way to make it work!",
+        "likes": 0
+      },
+      {
+        "author": "EnovanaRaleigh",
+        "time": "2025-05-08",
+        "content": "Same here. Jobber's online form is just too basic. We use Launch27 since it's much more robust and customizable. But, we would LOVE to solely use Jobber's online booking. We've been with jobber for 8 years and they're always very responsive. I'm hoping they were working on this and have some new features soon.",
+        "likes": 0
+      },
+      {
+        "author": "boardwalk",
+        "time": "2025-05-08",
+        "content": "We use BookingKoala for our online booking needs. Jobber is just too basic in this regard.",
+        "likes": 0
+      },
+      {
+        "author": "housekeptaus",
+        "time": "2025-09-08",
+        "content": "Be great to get an update on when this simple feature will be rolled out? Jobber is so expensive for it to lack this simple feature",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-09-08",
+        "content": "to housekeptaus I don't know if we can call Jobber expensive... If anyone needs better online booking for the time being before Jobber adds more features I would recommend Responsibid, it's pretty awesome.",
+        "likes": 0
+      },
+      {
+        "author": "Housekept_Tim",
+        "time": "2025-09-08",
+        "content": "to WiringByron We can definitely call Jobber expensive in relation! Checked out Responsibid; at almost $200 a month, after a $700 initial payment, for the plan that integrates with Jobber... felt it too was a bit much",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-09-08",
+        "content": "to Housekept_Tim But think about what Jobber does (runs entire business) compared to Responsibid that only does online booking + scheduling... now compare the prices. Jobber isn't expensive.",
+        "likes": 0
+      },
+      {
+        "author": "Housekept_Tim",
+        "time": "2025-09-08",
+        "content": "to WiringByron Ah I thought you meant on top of Jobber. I'd never compare the two as a for replacement. I'm not sure how long you've been on Jobber, or how many employees & daily jobs you have, but Jobber's prices have definitely outgrown their product growth. We hit a wall with Jobber a while back and had to upgrade to the Grow. At the time it seemed great. The issue is, being in the AU market, we haven't gotten or are unable to fully utilise most of the newly launched features, but pay the same rate. Additionally, we pay international fees as Jobber charges all users in USD plus no local support is provided, so when we do run into issues, we have to operate on US time to get them sorted. So yes, Jobber has gotten more expensive than it should be.",
+        "likes": 0
+      },
+      {
+        "author": "ThatHandymanVan",
+        "time": "2025-10-08",
+        "content": "I would agree that we need a type of online booking. Something that syncs with the current Jobber calendar. The Find A Time is useful, but barely. Only when you are creating a new job. We need it to be useable for sending a booking link for a estimate that was moved to job status, or even just to be able to select a job. This would of course need to include the ability to assign expected hours of completion to a job so that the calendar could pick a slot. This would also allow us to attribute expected budget hours. This is huge in job projections.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2025-10-08",
+        "content": "to ThatHandymanVan Man I love these ideas... I feel at some point they will add in a \"price book\" where we could build our pricing on the back end. Example, kitchen clean would take 2 hours + $30 in supplies. Then I your idea of an approved job being sent to the client to book in themselves and Jobber would know that what they are booking would need a open time slot of 2 hours...",
+        "likes": 0
+      },
+      {
+        "author": "ThatHandymanVan",
+        "time": "2026-02-08",
+        "content": "to WiringByron Servicem8, as well as Field Pulse, I think?",
+        "likes": 0
+      },
+      {
+        "author": "julie",
+        "time": "2025-05-08",
+        "content": "JOBBER COMMUNITY TEAM Hi HouseKept! I’ve shared your feedback with our Success Team as they work closely with our Product Team, and I’m curious what other members have to say about other potential workarounds. 🙂",
+        "likes": 0
+      },
+      {
+        "author": "housekeptaus",
+        "time": "2025-05-08",
+        "content": "to julie Has there been any update here, there is a lot of focus on things AI assistants, in product updates, and I feel the product team are missing basic/easy updates online boooking.",
+        "likes": 0
+      },
+      {
+        "author": "boardwalk",
+        "time": "2025-05-08",
+        "content": "to julie HouseKept, you really nailed it. I've tried to make Jobber work, but it is simply too basic. We have to use BookingKoala.",
+        "likes": 0
+      },
+      {
+        "author": "Jaco",
+        "time": "2025-09-08",
+        "content": "to julie what is the feedback from the team? I sent an email last wee to support and still have no heard a peep from them. This request ahs been outstanding for a year now.",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2025-09-08",
+        "content": "to Jaco You can also reach us by phone 888-721-1115 ext 1 or send a live chat!",
+        "likes": 0
+      },
+      {
+        "author": "Jaco",
+        "time": "2026-02-08",
+        "content": "to jade Still NO since I submitted. Can you please let us know where on the priority list of the Product Team this functionality is?",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2026-02-08",
+        "content": "to Jaco Hey Jaco! Can you please tell me the email that you use for Jobber so I can have someone from our team reach out ASAP? Thank you.",
+        "likes": 0
+      },
+      {
+        "author": "Jaco",
+        "time": "2026-02-08",
+        "content": "to jade Why only to me? Why not to this thread, as there are many others with the same requirement? This forum is supposed to cater for this, but still you are pushing us to the support line and only attending to case-by-case matters instead of listening and answering the community.",
+        "likes": 0
+      },
+      {
+        "author": "jade",
+        "time": "2026-02-08",
+        "content": "to Jaco Hi Jaco, thanks for following up. We mentioned Support earlier to offer help one-on-one if needed, but you’re right that this thread represents feedback from multiple members, and I can confirm it’s visible to our Product team. While we’re not able to guarantee timelines or whether a feature will be supported in Jobber, we appreciate everyone continuing to share suggestions both here and directly to our Success Team.",
+        "likes": 0
+      },
+      {
+        "author": "CharlesB7",
+        "time": "2026-02-08",
+        "content": "I have been in the process of looking for \"greener pastures\" just to make sure I am getting the most of things all you other folks. Yes, Jobber still has some kinks but I am finding out for me Jobber has the most important things I need. Plus I am used to all the features and navigating it. All I know is that I would need to pay a secretary more than $400 a month to do what Jobber does.",
+        "likes": 0
+      },
+      {
+        "author": "WiringByron",
+        "time": "2026-02-08",
+        "content": "to CharlesB7 Yep, you don't want to leave Jobber chasing one feature and then loose out on the 50-100 things it dominates in....",
+        "likes": 0
+      },
+      {
+        "author": "ThatHandymanVan",
+        "time": "2026-02-08",
+        "content": "I really the way that HCP has a pricing form, making it easier for the customer to build their own price. Not promoting them as I left for several reasons.",
+        "likes": 0
+      },
+      {
+        "author": "winnovations",
+        "time": "2026-04-18",
+        "content": "I totally feel your pain with Airbnb logistics. Managing 100+ properties manually in Jobber is a recipe for burnout. We’ve actually been working on a custom API bridge that connects iCal/Airbnb feeds directly into Jobber's scheduling, specifically to handle the 'Instant Book' flow and optional extras ( oven cleaning) that Jobber's native form struggles with. You don't need to switch to Booking Koala—you just need a smarter data layer on top of Jobber. I’d love to share how we’re handling these automated triggers for other service pros.",
+        "likes": 0
+      }
+    ]
+  },
+  {
     "title": "Some Much Needed Fixes in Jobber",
     "url": "https://community.getjobber.com/discussions/online-booking-requests/some-much-needed-fixes-in-jobber/9655",
     "author": "SomePlumber",
     "authorRole": "Contributor 3",
-    "time": "2026-03-24",
-    "content": "Jobber just updated Booking Forms so that customers can now book directly to the schedule how Online Booking and the AI Receptionist does it. This a great update and gives real purpose to the booking forms. BUT... there's a couple things.. Customers can only book Business Day(s) Away. Weekends are not possible. I literally watched my AI Text Receptionist argue with a customer saying Sunday is not possible when it very much is. Most businesses on Jobber are service companies and also need a dropdown to change Days Away to Hours Away. If our schedule is wide open: A - We're missing out on jobs B - Customers are going to find someone else that's faster. I created a Automatic Approval and Auto Payment Form. The most reasonable way to do this was by making a custom booking form. It's fine. It works. But an optional signature box how there is on Job Forms would be extremely useful. Other issue: My last employer was a Plumbing, Heating & Electric business that used Service Titan. There were hundreds of line items. Service Titan allows a manager to create folders for the line items. There was one for Plumbing, Heating, etc. It kept things very organized. Pulling this off in Jobber without folders or any means of organization would be a nightmare. Searching is not reliable enough as nearly everything in the trades has multiple names. For example: the thing you connect your garden hose to can be a hose bib, spigot, sill **bleep**, hose connection, etc. BETTER ONLINE BOOKING PLUMBING VOICE (HEY JOBBER)",
-    "views": 28,
+    "time": "2026-04-08",
+    "content": "Jobber just updated Booking Forms so that customers can now book directly to the schedule how Online Booking and the AI Receptionist does it. This a great update and gives real purpose to the booking forms. BUT... there's a couple things.. Customers can only book Business Day(s) Away. Weekends are not possible. I literally watched my AI Text Receptionist argue with a customer saying Sunday is not possible when it very much is. Most businesses on Jobber are service companies and also need a dropdown to change Days Away to Hours Away. If our schedule is wide open: A - We're missing out on jobs B - Customers are going to find someone else that's faster. I created a Automatic Approval and Auto Payment Form. The most reasonable way to do this was by making a custom booking form. It's fine. It works. But an optional signature box how there is on Job Forms would be extremely useful. Other issue: My last employer was a Plumbing, Heating & Electric business that used Service Titan. There were hundreds of line items. Service Titan allows a manager to create folders for the line items. There was one for Plumbing, Heating, etc. It kept things very organized. Pulling this off in Jobber without folders or any means of organization would be a nightmare. Searching is not reliable enough as nearly everything in the trades has multiple names. For example: the thing you connect your garden hose to can be a hose bib, spigot, sill **bleep**, hose connection, etc.",
+    "views": 81,
     "likes": 0,
     "comments": 1,
     "replies": [
       {
         "author": "jade",
-        "time": "2026-03-25",
+        "time": "2026-04-08",
         "content": "Hey There! Thanks for the questions on the new Online Booking forms. I am happy to hear you are enjoying the update and I appreciate the feedback! To touch on the points mentioned: 1. It looks the options do show for online business days, even if you are open on the weekends. I think this is super important feedback and I have submitted it to the team! 2. For the \"earliest availability,\" if you select 0 business days away, this should allow customers to book on the same day, as long as it fits within your booking interval. 3. I appreciate the feedback on having a signature spot added to the form. For the last part, it sounds you are product category feature, I am happy to submit that feedback as well, but in the meantime, I believe the Success Team can assist with workarounds. Please give them a call, 888-721-1115 ext 1 or email mailto:support@getjobber.com",
         "likes": 0
       }
@@ -23,270 +358,34 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/adding-a-to-do-task-manager/9439",
     "author": "CarpetRand",
     "authorRole": "Contributor 2",
-    "time": "2026-03-14",
+    "time": "2026-04-08",
     "content": "I have been getting many emails and texts asking for quotes and such. As of now I've been using google tasks to mark down the things I need to accomplish. However, I would to have it all in one place with jobber. It would be very helpful to have a Task section where I can create a task that is linked to a client. That way I don't miss or forget anything that needs to be done in the coming days/weeks.",
-    "views": 68,
+    "views": 137,
     "likes": 0,
     "comments": 4,
     "replies": [
       {
         "author": "krista",
-        "time": "2026-03-14",
+        "time": "2026-04-08",
         "content": "Hi CarpetRand​ Thanks for sharing this. Keeping track of follow-ups and requests in one place is definitely important, especially when they are coming in from different channels email and text. I am curious how these requests are usually coming in. If they are coming directly from clients, have you tried entering them as Requests in Jobber so they are tied to the client and can be converted into quotes or jobs later? Some teams also use tasks on the schedule as reminders for follow ups or things that need to be completed on certain days. Would either of those workflows help with what you are trying to track, or are you mainly looking for a dedicated task list that sits alongside your clients in Jobber? Your input is really helpful for our team.",
         "likes": 0
       },
       {
         "author": "SibiFirewood",
-        "time": "2026-03-19",
+        "time": "2026-04-08",
         "content": "to krista They seem to be asking for a to do or task list. That would be really helpful for my team, particularly for a running list of things that need to be worked on during down time. If we could have lists you could customize and add to & that you could select specific team members for that would be awesome! It would be great if the system could pull all the todo’s from jobber jobs that have actions items, need to be closed or invoiced, requests etc all on one master task list for your home page.",
         "likes": 0
       },
       {
         "author": "Roger",
-        "time": "2026-03-16",
+        "time": "2026-04-08",
         "content": "Try the schedule tab i think that can be helpful to start this option Also try to sync with your calendar in my case i use google so everything on jobber reflects on my google caledar too!",
         "likes": 0
       },
       {
         "author": "JHTS",
-        "time": "2026-03-21",
+        "time": "2026-04-08",
         "content": "We use the Task in Schedule for specific people to do things and Events when everyone needs to see it. It means on the desktop it looks a bit full but on the mobile (which all the operatives use - its only stuff that relates to them. Keeping it cleaner and clearer.",
-        "likes": 0
-      }
-    ]
-  },
-  {
-    "title": "Can I add Job Forms to an Assessment?",
-    "url": "https://community.getjobber.com/discussions/online-booking-requests/can-i-add-job-forms-to-an-assessment/8927",
-    "author": "gdy2000",
-    "authorRole": "Contributor 2",
-    "time": "2026-03-02",
-    "content": "We have an internal first time site visit checklist (PDF Doc) that we want the guys to follow. I see where I can make job forms on Jobber and then add them to jobs. But in the workflow, the site visit form is different than the job form. I can't seem to add job forms to assessments on the system. Am I missing something? If you cannot add job forms to an assessment, can I make a request to have that feature added?",
-    "views": 87,
-    "likes": 0,
-    "comments": 4,
-    "replies": [
-      {
-        "author": "krista",
-        "time": "2026-03-02",
-        "content": "Hi gdy2000​ and JHTS​ Thank you for sharing this context; it is really helpful. At this time, Job Forms can only be attached to jobs, not to assessments or requests, so you are not missing a setting in the workflow. I really appreciate the detail around how you are using assessments and requests differently from jobs. Wanting structured checklists for first-time site visits, separating information the operatives need from what the office needs, capturing details crew size, hours, or TPO information, and reducing copy and paste into notes are all strong use cases. I also hear the accessibility piece around making information easier to read for staff, which is important. I would be happy to submit it as a feature request. Jobber is made by the voice of our customers, and features that get asked for a lot are the ones considered for future iterations. While I can't guarantee any feature requests or timelines, this feedback is super useful for our product team!",
-        "likes": 0
-      },
-      {
-        "author": "gdy2000",
-        "time": "2026-03-04",
-        "content": "to krista Thank you. Put another way, a vast majority of contractors go to the site after a request, then quote the job. Jobber needs a better way to gather information at the \"assessment\" stage of Jobber's workflow, in order to systemize the quoting process.",
-        "likes": 0
-      },
-      {
-        "author": "Ernie",
-        "time": "2026-03-29",
-        "content": "to krista This is something I have been asking for since signing up with jobber a couple of years ago. We do an onsite assessment before creating the quote or scheduling a job. It makes sense to have forms available at the assessment stage to get info and photos needed to produce the quote or schedule the job. We would really to see this feature added to jobber.",
-        "likes": 0
-      },
-      {
-        "author": "JHTS",
-        "time": "2026-03-02",
-        "content": "I have been asking for this feature since job forms became a thing. They are great for everyday stuff risk assessments, wildlife assessments, incident & accident forms, which are attached to every job. I would to be able to attach them to requests too to capture details that the operatives dont need but the office does - ie how many men in team, hours takes, TPO details for application etc. At the moment we copy and paste the questions into notes and the surveyor notes only go to quotes - but team notes go all the way. Having this as forms would make the capture of info so much easier. My alternative solution was to be able to change the colour of the writing to make seeing the notes easier. Especially as we have some dyslexic staff.",
-        "likes": 0
-      }
-    ]
-  },
-  {
-    "title": "Improving Jobber's Online Booking for a Cleaning Business",
-    "url": "https://community.getjobber.com/discussions/online-booking-requests/improving-jobbers-online-booking-for-a-cleaning-business/525",
-    "author": "HouseKept",
-    "authorRole": "Contributor 2",
-    "time": "2025-04-02",
-    "content": "Hey everyone, I love using Jobber for my cleaning business, but I’m finding the online booking functionality a bit lacking. We’re losing potential clients and wasting ad spend because customers can't book instantly online. While we always respond quickly to inquiries, the inability to offer instant booking is really hurting us. We provide a range of services—End of Lease, General Home Cleaning, Airbnb Cleaning (based on the number of rooms, bathrooms, etc.)—and have optional extras oven cleaning and linen hire. Setting all this up in Jobber's online booking system has been a nightmare! I know some of our competitors use platforms Booking Koala or Launch27, but I really don’t want to switch. Has anyone found a good workaround within Jobber or a solution that works for similar businesses? Any advice would be greatly appreciated! ADVERTISING CLEANING WEBSITES",
-    "views": 1,
-    "likes": 5,
-    "comments": 31,
-    "replies": [
-      {
-        "author": "WiringByron",
-        "time": "2025-04-02",
-        "content": "What are some features that you would to see added to online booking? I'll add a few: Ability to allow different services for different employees in Jobber. Right now it's all or nothing. Location booking settings by the employee so I can keep certain people driving in certain areas. Good / Better / Best options ? A cleaner UI for the services. Right now there is just a long list so you can't add too many otherwise it will confuse people. juliesend these up the ladder !! haha.",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-04-02",
-        "content": "JOBBER COMMUNITY TEAM to WiringByron Passing these along to our Success Team rn 👍",
-        "likes": 0
-      },
-      {
-        "author": "mplcs2017",
-        "time": "2025-04-02",
-        "content": "to WiringByron Yes send up the ladder!",
-        "likes": 0
-      },
-      {
-        "author": "MERTSPRODUCTS",
-        "time": "2025-04-02",
-        "content": "to WiringByron Hi, I am looking for a booking system. Has there been any updates for Jobber booking platform? I sure can use it!",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-08-02",
-        "content": "to MERTSPRODUCTS Hey there, it’s simple but workable right now. Perfect for people dabbling in online booking.",
-        "likes": 0
-      },
-      {
-        "author": "EnovanaRaleigh",
-        "time": "2025-04-02",
-        "content": "Things we'd to see: REQUIRE A CREDIT CARD AT THE TIME OF BOOKING Agree w/ WiringBryon: cleaner UI, especially the long list he mentions. It would be nice if the user could input whatever cost parameter is needed (square footage, frequency, etc), then have the price(s) shown. Ability to show pics, or even just icons, to go along w/ any line items. For example, oven cleaning may be an extra service, but having a pic/icon of an oven next to that option would be great. More customization of the available timeframe I'm glad we're all starting to brainstorm this.",
-        "likes": 0
-      },
-      {
-        "author": "CharlesB7",
-        "time": "2025-04-02",
-        "content": "I can see where this may be an issue if you have more of a big city culture to cater to. People still call us personally to book us and I think it is because 99% of my customers generally want someone to talk to personally. Even our commercial clients call us. Most of our clients are over the age of 50. Even if I had trouble bookingI could never think of getting rid of jobber because I how it is set up and it is my library. It would be nice if they had more of an older generation customer geared training video to show people how to book and use their client hub.",
-        "likes": 0
-      },
-      {
-        "author": "jade",
-        "time": "2025-04-02",
-        "content": "Hello HouseKept! We appreciate you taking the time to follow up. Since your last post, there have not been any updates to Online Booking. My apologies for that. We will continue to submit this feedback to our Product Development team so they understand the importance of this feature to our customers! In the meantime, if you need any help or suggestions for workarounds, please contact our Success Team. You can start a live chat by going to the ? top right corner > chat with us.",
-        "likes": 0
-      },
-      {
-        "author": "Canadiana",
-        "time": "2025-04-02",
-        "content": "Thanks for posting this, as we have been finding the same issue for our cleaning division of our business. We are trying to see if we can come up with a solution in Jobber as we do not want to switch either. We will share whatever we manage to come up with, if we find a creative way to make it work!",
-        "likes": 0
-      },
-      {
-        "author": "EnovanaRaleigh",
-        "time": "2025-04-02",
-        "content": "Same here. Jobber's online form is just too basic. We use Launch27 since it's much more robust and customizable. But, we would LOVE to solely use Jobber's online booking. We've been with jobber for 8 years and they're always very responsive. I'm hoping they were working on this and have some new features soon.",
-        "likes": 0
-      },
-      {
-        "author": "boardwalk",
-        "time": "2025-04-02",
-        "content": "We use BookingKoala for our online booking needs. Jobber is just too basic in this regard.",
-        "likes": 0
-      },
-      {
-        "author": "housekeptaus",
-        "time": "2025-09-02",
-        "content": "Be great to get an update on when this simple feature will be rolled out? Jobber is so expensive for it to lack this simple feature",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-09-02",
-        "content": "to housekeptaus I don't know if we can call Jobber expensive... If anyone needs better online booking for the time being before Jobber adds more features I would recommend Responsibid, it's pretty awesome.",
-        "likes": 0
-      },
-      {
-        "author": "Housekept_Tim",
-        "time": "2025-09-02",
-        "content": "to WiringByron We can definitely call Jobber expensive in relation! Checked out Responsibid; at almost $200 a month, after a $700 initial payment, for the plan that integrates with Jobber... felt it too was a bit much",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-09-02",
-        "content": "to Housekept_Tim But think about what Jobber does (runs entire business) compared to Responsibid that only does online booking + scheduling... now compare the prices. Jobber isn't expensive.",
-        "likes": 0
-      },
-      {
-        "author": "Housekept_Tim",
-        "time": "2025-09-02",
-        "content": "to WiringByron Ah I thought you meant on top of Jobber. I'd never compare the two as a for replacement. I'm not sure how long you've been on Jobber, or how many employees & daily jobs you have, but Jobber's prices have definitely outgrown their product growth. We hit a wall with Jobber a while back and had to upgrade to the Grow. At the time it seemed great. The issue is, being in the AU market, we haven't gotten or are unable to fully utilise most of the newly launched features, but pay the same rate. Additionally, we pay international fees as Jobber charges all users in USD plus no local support is provided, so when we do run into issues, we have to operate on US time to get them sorted. So yes, Jobber has gotten more expensive than it should be.",
-        "likes": 0
-      },
-      {
-        "author": "ThatHandymanVan",
-        "time": "2025-10-02",
-        "content": "I would agree that we need a type of online booking. Something that syncs with the current Jobber calendar. The Find A Time is useful, but barely. Only when you are creating a new job. We need it to be useable for sending a booking link for a estimate that was moved to job status, or even just to be able to select a job. This would of course need to include the ability to assign expected hours of completion to a job so that the calendar could pick a slot. This would also allow us to attribute expected budget hours. This is huge in job projections.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2025-10-02",
-        "content": "to ThatHandymanVan Man I love these ideas... I feel at some point they will add in a \"price book\" where we could build our pricing on the back end. Example, kitchen clean would take 2 hours + $30 in supplies. Then I your idea of an approved job being sent to the client to book in themselves and Jobber would know that what they are booking would need a open time slot of 2 hours...",
-        "likes": 0
-      },
-      {
-        "author": "ThatHandymanVan",
-        "time": "2026-02-02",
-        "content": "to WiringByron Servicem8, as well as Field Pulse, I think?",
-        "likes": 0
-      },
-      {
-        "author": "julie",
-        "time": "2025-04-02",
-        "content": "JOBBER COMMUNITY TEAM Hi HouseKept! I’ve shared your feedback with our Success Team as they work closely with our Product Team, and I’m curious what other members have to say about other potential workarounds. 🙂",
-        "likes": 0
-      },
-      {
-        "author": "housekeptaus",
-        "time": "2025-04-02",
-        "content": "to julie Has there been any update here, there is a lot of focus on things AI assistants, in product updates, and I feel the product team are missing basic/easy updates online boooking.",
-        "likes": 0
-      },
-      {
-        "author": "boardwalk",
-        "time": "2025-04-02",
-        "content": "to julie HouseKept, you really nailed it. I've tried to make Jobber work, but it is simply too basic. We have to use BookingKoala.",
-        "likes": 0
-      },
-      {
-        "author": "Jaco",
-        "time": "2025-09-02",
-        "content": "to julie what is the feedback from the team? I sent an email last wee to support and still have no heard a peep from them. This request ahs been outstanding for a year now.",
-        "likes": 0
-      },
-      {
-        "author": "jade",
-        "time": "2025-09-02",
-        "content": "to Jaco You can also reach us by phone 888-721-1115 ext 1 or send a live chat!",
-        "likes": 0
-      },
-      {
-        "author": "Jaco",
-        "time": "2026-02-02",
-        "content": "to jade Still NO since I submitted. Can you please let us know where on the priority list of the Product Team this functionality is?",
-        "likes": 0
-      },
-      {
-        "author": "jade",
-        "time": "2026-02-02",
-        "content": "to Jaco Hey Jaco! Can you please tell me the email that you use for Jobber so I can have someone from our team reach out ASAP? Thank you.",
-        "likes": 0
-      },
-      {
-        "author": "Jaco",
-        "time": "2026-02-02",
-        "content": "to jade Why only to me? Why not to this thread, as there are many others with the same requirement? This forum is supposed to cater for this, but still you are pushing us to the support line and only attending to case-by-case matters instead of listening and answering the community.",
-        "likes": 0
-      },
-      {
-        "author": "jade",
-        "time": "2026-02-02",
-        "content": "to Jaco Hi Jaco, thanks for following up. We mentioned Support earlier to offer help one-on-one if needed, but you’re right that this thread represents feedback from multiple members, and I can confirm it’s visible to our Product team. While we’re not able to guarantee timelines or whether a feature will be supported in Jobber, we appreciate everyone continuing to share suggestions both here and directly to our Success Team.",
-        "likes": 0
-      },
-      {
-        "author": "CharlesB7",
-        "time": "2026-02-02",
-        "content": "I have been in the process of looking for \"greener pastures\" just to make sure I am getting the most of things all you other folks. Yes, Jobber still has some kinks but I am finding out for me Jobber has the most important things I need. Plus I am used to all the features and navigating it. All I know is that I would need to pay a secretary more than $400 a month to do what Jobber does.",
-        "likes": 0
-      },
-      {
-        "author": "WiringByron",
-        "time": "2026-02-02",
-        "content": "to CharlesB7 Yep, you don't want to leave Jobber chasing one feature and then loose out on the 50-100 things it dominates in....",
-        "likes": 0
-      },
-      {
-        "author": "ThatHandymanVan",
-        "time": "2026-02-02",
-        "content": "I really the way that HCP has a pricing form, making it easier for the customer to build their own price. Not promoting them as I left for several reasons.",
         "likes": 0
       }
     ]
@@ -296,81 +395,81 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/lead-qualifying-workflow-in-jobber/2249",
     "author": "DarrenSteele",
     "authorRole": "Contributor 4",
-    "time": "2025-04-02",
+    "time": "2025-05-08",
     "content": "I may be hitting the edge of what Jobber can do in terms of it's sales CRM capabilities. BUT maybe someone has a good idea. For my higher ticket item: Permanent Christmas Lights I schedule a site visit and in-home demo of the lights as part of the sales process. Before I put that effort in though I qualify leads by discussing with them what they're looking for, ensuring my product meets that need, and providing a rough estimate for the cost of their install. There's lots of tire-kickers to filter out. If they what they're hearing then I schedule that on-site assessment. My leads come in through Requests in Jobber, once they are qualified I schedule an on site assessment. But when customers are in the process of qualification, often taking the rough pricing to their spouses to talk it over before they commit to an in-person visit, I have no idea where to put them. It seems they clog up my request list and it's difficult to identify who has been contacted and who hasn't. I've tried tagging customers to identify if they are \"permanent lights pricing presented\" but since the requests view isn't filterable by customer tags it's not working well. Anyone have any ideas for my workflow? Or is it just time to get a proper sales crm?",
-    "views": 332,
+    "views": 470,
     "likes": 6,
     "comments": 12,
     "replies": [
       {
         "author": "DarrenSteele",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Sure, here's the workflow as it stands for permanent Christmas lights. Sometimes customers spend time in the qualifying step. It may take several tries to make initial contact, to confirm what scope of work they are interested in. We provide an estimate, and they're not sure if the pricing is in their budget, or they want to get a spouse opinion before \"wasting my time\". Jobber has clear request statuses for New Requests, and once they confirm they want a quote we're all good. But I find it useful to be able to identify if we've made an effort to contact them, and if we've presented them with an estimate. If I could snap my finger and magic up a change to the Jobber workflow I'd introduce two request statuses: Contacted, and Estimated. Does that help describe my process?",
         "likes": 0
       },
       {
         "author": "JulieTipton",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Hello, I share a similar challenge managing the request list. I'd love to see some way to set a Request Status, ideally with a customizable list of stages. e.g. Contacted, Verbal pricing given, Call back next month, Qualified ... Also, would to assign the lead to a Salesperson. Are any of these things in development?",
         "likes": 0
       },
       {
         "author": "EnzoMinniti",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to JulieTipton We have a similar issue exactly this and we are trying to develop something. We currently use asana in a Kanban style board but it's a lot of back and forth going to three different apps including our email inbox, jobber, and asana. It seems jobber is not doing anything about this and we need another front end CRM. We have been looking at pipe drive, fresh sales, and a gmail integration called drag",
         "likes": 0
       },
       {
         "author": "jade",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Hello Darren and Julie, thank you for sharing your concerns about the current setup of the Request workflow. One thing that I would recommend is using the Request title as a status line or tag, the Request title will show on the Request tab in quick glance and can be arranged by alphabetical order. to do this, go to the request > edit > edit the request title. We appreciate the feedback and would to know more about how we can improve here! Feel free to reach out to our Success Team for workflow ideas or to submit feedback. Although we cannot say for certain what features are in development, we can ensure that your feedback is submitted to our Product Development team!",
         "likes": 0
       },
       {
         "author": "Aswath",
-        "time": "2025-07-02",
+        "time": "2025-07-08",
         "content": "Great insights into request/lead management",
         "likes": 0
       },
       {
         "author": "TheProcessCEO",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Wondering if you could adjust your process to eliminate a step. Perhaps you do a phone consultation in the request phase, and gave immediate interest and ask for an in person assessment. That’s where you’d schedule the request day and time. Perhaps eliminate the waiting period all together. The goal essentially is to reduce the time between first interaction and invoice collection. I anticipate that this additional step delays your process in moving the client through their customer journey. Try to close the gap a bit. I hope this helps!",
         "likes": 0
       },
       {
         "author": "Randy_Warner",
-        "time": "2025-07-02",
+        "time": "2025-06-08",
         "content": "Hey DarrenSteele​ . I've seen this situation a lot actually. From my perspective the number one thing that could solve this is if Jobber expanded the ability to add Custom Fields to Requests. My typical response to everyone is that Jobber is a FSM (Field Service Management) application first and a CRM (Customer Relationship Management) application second. There are simply some core CRM functions (lead management and pipeline management) that are not inherently simple in Jobber which is where layering in a true CRM to your business applications comes into play. Luckily though you have some great options from an integration perspective to make this super simple and eliminate duplicate data entry. I took a few minutes to put together a flow that I've seen a number of Jobber users implement with great success. (The green boxes are things that can be automated.) I also walked you through it in the Loom video as well. Video: https://www.loom.com/share/806758977f3245559e964d15d1d6ce46?sid=ab4cd401-f362-463b-954c-165cfdf43ff0 Hopefully this gives you some insight into what is possible and how it may fit into your business. Reach out with any questions!",
         "likes": 0
       },
       {
         "author": "BrianThePoolGuy",
-        "time": "2026-02-02",
+        "time": "2026-02-08",
         "content": "I appreciate Randy_Warner's explanation of integrating Jobber with a CRM. I spent months researching HubSpot and SalesForce as Zapier integrations with Jobber. It was rather cost prohibitive for a business under $2M in annual revenue to spend on a CRM. In addition, both wanted to replace Jobber with their own job management modules. Have you found a significantly less expensive way to integrate a CRM?",
         "likes": 0
       },
       {
         "author": "Randy_Warner",
-        "time": "2026-02-02",
+        "time": "2026-02-08",
         "content": "to BrianThePoolGuy Thanks Brian! First off, personally I think HubSpot and Salesforce are overkill (and expensive) for home service companies. Look at something Zoho CRM or Pipedrive. The biggest issue with using Zapier alone is that it doesn't have Jobber triggers for records that have been UPDATED which leads to inaccurate data. You can do this with Clients but when it comes to managing pipeline if you update a Quote in Jobber there is no Zapier trigger for this. Same goes for Jobs. You need to know when records have been created or updated throughout the entire customer journey from Lead/Request to Quote to Job to Payment. This is one of the reasons I built Adhesion Connect. I'm looking REALLY hard and significantly expanding Adhesion Connect to be a true integration platform designed specifically for the home services industry that would also allow you to bring data BACK INTO Jobber as well. From a \"less expensive\" perspective; how much was this costing you. You should be able to accomplish this for less that a few hundred dollars per month; significantly less than hiring someone to manually enter data...",
         "likes": 0
       },
       {
         "author": "ryaantuttle",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Do you have a flowchart for this, so we can take further look? It's a little hard to decipher actually what the flow is here. Seems you could be doing more qualifying in order to just book the visit, instead of waiting for the spouse to decide.",
         "likes": 0
       },
       {
         "author": "brandymm",
-        "time": "2025-08-02",
+        "time": "2025-08-08",
         "content": "My office uses a large white board with categories -Leads-a new request through jobber or another point of contact -in process-we have sent quote -jobs to be scheduled-approved, once job is approved, all client info is in Jobber, if the lead doesnt move forward, I just archive the quote or request if we did not proceed to quote. We have 2 office staff and the board is visible to each of us, we have at least one meeting weekly to review the board, who we have both spoke with and during this time, we reach out to the leads that may be waiting on something to confirm the decision, etc. Setting up this weekly meeting to review the new leads, quotes and any materials needed for scheduled jobs has saved us time and helping keep guess work out of remembering who we have spoke with and who we need to call back! I also use client notes on Jobber for any information the teams need to know prior to start of the job. Hope this idea may help and looking forward to any future new features from Jobber!",
         "likes": 0
       },
       {
         "author": "ThatHandymanVan",
-        "time": "2026-02-02",
+        "time": "2026-02-08",
         "content": "to brandymm It looks Jobber has begun to build out a sales pipeline. Unfortunately, right now it just has requests and quotes. I really hope they plan on adding the workflow to include Jobs and Invoices. Also, it would be really nice if we could sync the Estimate number, Job Numbers, and Invoice numbers so they all follow one another.",
         "likes": 0
       }
@@ -381,15 +480,15 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/can-you-duplicate-a-past-request-in-jobber-for-a-new-estimate/856",
     "author": "HandyMillerMan",
     "authorRole": "Contributor 3",
-    "time": "2025-04-02",
-    "content": "Is there any way to duplicate a past request in Jobber (verses having to create a new request from scratch)? If not, I would love to request that feature, as sometimes the contractors we send out are not always the right ones for the job (or more often the client's description doesn't match the skills required) and we'd to have another contractor go out there and provide a second free estimate to the customer. Thanks! REQUESTS",
-    "views": 148,
+    "time": "2025-05-08",
+    "content": "Is there any way to duplicate a past request in Jobber (verses having to create a new request from scratch)? If not, I would love to request that feature, as sometimes the contractors we send out are not always the right ones for the job (or more often the client's description doesn't match the skills required) and we'd to have another contractor go out there and provide a second free estimate to the customer. Thanks!",
+    "views": 168,
     "likes": 2,
     "comments": 1,
     "replies": [
       {
         "author": "TheProcessCEO",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Currently, you cannot duplicate a request. However, is there a way an admin or a VA and assign them to the right tech from the very beginning? It could really help save so much time and money. We have a VA sort through our requests and gather missing info when needed from the client before it’s assigned to a sales rep. Hope this helps!",
         "likes": 0
       }
@@ -400,27 +499,27 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/bots-and-spam-via-request-form/5584",
     "author": "MrElectro",
     "authorRole": "Contributor 3",
-    "time": "2025-09-02",
-    "content": "Has anyone else had an issue with Bots when embedding the jobber request form on their website? I get hit daily with bots filling in the request form, jobbers supposed to use cloudfare as a middle layer to prevent this but as we have no control over the filter it is not doing a very good job. I will be building my own form that replicates jobbers request form functions and auto completes are the jobber functions but interested to know if other people have had this issue or it’s just me. REQUESTS",
-    "views": 123,
+    "time": "2025-09-08",
+    "content": "Has anyone else had an issue with Bots when embedding the jobber request form on their website? I get hit daily with bots filling in the request form, jobbers supposed to use cloudfare as a middle layer to prevent this but as we have no control over the filter it is not doing a very good job. I will be building my own form that replicates jobbers request form functions and auto completes are the jobber functions but interested to know if other people have had this issue or it’s just me.",
+    "views": 188,
     "likes": 1,
     "comments": 3,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-11-02",
+        "time": "2025-11-08",
         "content": "Hi MrElectro​ Thanks for sharing this, and I’m sorry to hear you’ve been dealing with spam through your embedded request form. Jobber does have some built-in filtering to help reduce spam submissions, but I understand how frustrating it can be when unwanted requests still get through, especially for publicly embedded forms. I’ve shared your feedback with our development team to look into expanding filtering options or adding more control for users who experience higher volumes of spam. We really appreciate you taking the time to highlight this issue, as it helps us understand where additional safeguards could make a big difference.",
         "likes": 0
       },
       {
         "author": "MrElectro",
-        "time": "2025-12-02",
+        "time": "2025-12-08",
         "content": "I am still suffering massively with this to the point I get at least one spam request a day - this results in a client in jobber that needs deleting and a client in dropbox / company cam that needs searching and deleting",
         "likes": 0
       },
       {
         "author": "krista",
-        "time": "2025-12-02",
+        "time": "2025-12-08",
         "content": "to MrElectro",
         "likes": 0
       }
@@ -431,21 +530,21 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/arrival-timeframe-for-on-site-assessments-requests/4343",
     "author": "cassandranefcr",
     "authorRole": "Contributor 2",
-    "time": "2025-07-02",
+    "time": "2025-07-08",
     "content": "Is there a way to add an arrival timeframe to on-site assessments created from requests, similar to how we can with jobs? I to provide a 1–2 hour window for these visits, and our confirmation texts mention a timeframe. However, when clients view the visit details, it only shows the start time, which I think causes some confusion. It would be helpful if the arrival window could be shown clearly in the visit information as well.",
-    "views": 104,
+    "views": 159,
     "likes": 4,
     "comments": 2,
     "replies": [
       {
         "author": "Greenbelt",
-        "time": "2025-07-02",
+        "time": "2025-07-08",
         "content": "👍",
         "likes": 0
       },
       {
         "author": "krista",
-        "time": "2025-11-02",
+        "time": "2025-11-08",
         "content": "Hi cassandranefcr​ Thanks for reaching out and sharing this suggestion! You’re right—it would be really helpful to show an arrival timeframe for on-site assessments created from requests, similar to what’s available for jobs. I can see how only displaying the start time could cause some confusion for clients when they receive confirmations or view visit details. I’ve shared this feedback with our development team so they can consider adding the ability to include and display arrival windows on assessments in future updates. We really appreciate you highlighting how this would improve clarity for both your team and your clients.",
         "likes": 0
       }
@@ -456,87 +555,87 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/online-booking-with-jobber/641",
     "author": "Canadiana",
     "authorRole": "Contributor 3",
-    "time": "2025-04-02",
-    "content": "We are working on redesigning our website and would love to see how some of you have included jobber in your website, i.e online booking or client hub access page, etc. Share your website address for us to check out and get inspired! ADVERTISING WEBSITES",
-    "views": 15,
+    "time": "2025-05-08",
+    "content": "We are working on redesigning our website and would love to see how some of you have included jobber in your website, i.e online booking or client hub access page, etc. Share your website address for us to check out and get inspired!",
+    "views": 16,
     "likes": 2,
     "comments": 13,
     "replies": [
       {
         "author": "WiringByron",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "https://www.vancityelectric.ca/ I have the online booking front and centre and I've added a few services for people to book. I put the request form in the contact area of the website since I would rather people call or book online. I am wishing Jobber would expand the online booking with additional features though. 🙏🏼",
         "likes": 0
       },
       {
         "author": "HaydenLandscape",
-        "time": "2025-09-02",
+        "time": "2025-09-08",
         "content": "to WiringByron Are they able to ‘check out’ or you need to send them an invoice?",
         "likes": 0
       },
       {
         "author": "WiringByron",
-        "time": "2025-09-02",
+        "time": "2025-09-08",
         "content": "to HaydenLandscape We send an invoice after the work is completed. Jobber hasn't added the function for the client to pay a deposit yet which would be the obvious feature to add here. What we do is if I see someone book a larger service I just send them a deposit invoice to see how serious they are. Usually there hasn't been an issue with that.",
         "likes": 0
       },
       {
         "author": "julie",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "JOBBER COMMUNITY TEAM OOo I love this question! I'm excited to see some websites. I remember Conrad having a Jobber booking request form on his website 👀",
         "likes": 0
       },
       {
         "author": "tonysolis",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "wwwsolisclean.com We have a similar \"Book Now\" on our landing page, so it's the easy to see and book. I do wish the booking page had more customizable options to tie in our brand and color theme other than just logo and name on top left page. I think customers would feel more comfortable with that consistency.",
         "likes": 0
       },
       {
         "author": "NateH",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to tonysolis Agreed, I would much appreciate additional customization on both request forms and online booking. Specifically folders, more branding, material option add-ons to an appointment if you online book a TV mount service it should be possible to A) buy this fancy mount B) buy this less fancy mount C) provide your own - and see the pricing adjust automatically from there.",
         "likes": 0
       },
       {
         "author": "HOMEPRO",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "https://homeproecg.com Since I did not see any others.",
         "likes": 0
       },
       {
         "author": "HomeRepairDan",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "We get a lot of online requests and I am so thrilled to have the Jobber link on our website. It makes it super easy for them. https://wausharahomerepair.com/",
         "likes": 0
       },
       {
         "author": "PaintingManager",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to HomeRepairDan Newbie here! I haven't connected ours to our site yet. Curious to know how yours is set up to ask for the zip code first to see if they are in the service area or not before they can submit.",
         "likes": 0
       },
       {
         "author": "AidenStrehle",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "I think our website can use some adjustments, but it is a start. totallandscapingcrew.com",
         "likes": 0
       },
       {
         "author": "HOMEPRO",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to AidenStrehle Aiden, Your site looks great! If you have the opportunity, try to put a call to action. (10% off next billing for referral that leads to customer) Just a suggestion to drive more traffic to your site.",
         "likes": 0
       },
       {
         "author": "AidenStrehle",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to HOMEPRO I'll definitely give this a try. Thanks!!",
         "likes": 0
       },
       {
         "author": "NickNielsen",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Here’s how we set it up - basically as minimal as possible and built into the home page - https://grizzlybrothersgutters.com/",
         "likes": 0
       }
@@ -547,9 +646,9 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/help-jobber-name-the-new-and-improved-requests--online-booking-experience/5303",
     "author": "Cam",
     "authorRole": "Jobber Product Team",
-    "time": "2025-08-02",
-    "content": "JOBBER PRODUCT TEAM Got a minute? Answer this quick survey and let us know what you'd call it! 👉 https://form.typeform.com/to/vq5SrlM8 ONLINE BOOKING REQUESTS WIN JOBS",
-    "views": 64,
+    "time": "2025-08-08",
+    "content": "JOBBER PRODUCT TEAM Got a minute? Answer this quick survey and let us know what you'd call it! 👉 https://form.typeform.com/to/vq5SrlM8",
+    "views": 75,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -566,15 +665,15 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/online-booking-options/4519",
     "author": "HaulingForGood",
     "authorRole": "Contributor 2",
-    "time": "2025-07-02",
+    "time": "2025-07-08",
     "content": "I run a junk removal company and am trying to simplify online booking processes for our customers. We offer single item curbside pickup with rates varying based on the item being picked up. We've listed out hundreds of possible items and their pricing for straight forward pricing, but I see that if I make it available for online booking it is just one massive cumbersome list that customer would have to scroll through to find their item. Is there any way break this into categories? or make it more of a drop down or allow customers to search for items?",
-    "views": 77,
+    "views": 87,
     "likes": 3,
     "comments": 1,
     "replies": [
       {
         "author": "innerbliss",
-        "time": "2025-07-02",
+        "time": "2025-07-08",
         "content": "We've run into a similar issue with setting up our online bookings. It seems there is no native option in Jobber for drop-down selection booking options (yet), so our work-around for this was to create a separate Online Booking Service (adapted to your junk removal) called Online Booking - Curbside Pickup setting the price as the minimum (or maximum) charge, and setting the description for this service as something : Online Booking - Curbside Pickup We'll pickup your items curbside - charge varies based on item being picked up, click See More below for a full list of items and associated curbside pickup fees. Please note on the next page which item you'd to have picked up. Bicycle - $18 Canoe - $45 etc... It's not a perfect solution, but could be a viable work-around for you until more online booking options are integrated. Hope this helps :)",
         "likes": 0
       }
@@ -585,15 +684,15 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/schedulign-jobber-website-requests/4102",
     "author": "MFFL",
     "authorRole": "Contributor 2",
-    "time": "2025-07-02",
-    "content": "When I enter a request manually, I can put it on my schedule to go bid the job, but when I get requests through my jobbersites website and they come into my requests page, it doesn't look there's a way to schedule that request. Has anyone figured this out? None of the options allow it without converting it to a quote, which still doesn't let me schedule it. ONLINE BOOKING krista Hi MFFL​ thanks for the question. For requests that come filled out by the client from the request link, you can add an assessment at the bottom of the request. The assessment comes before the quote and is what shows up on the schedule. We have a video for scheduling assessments here I hope that helps!",
-    "views": 96,
+    "time": "2025-06-08",
+    "content": "When I enter a request manually, I can put it on my schedule to go bid the job, but when I get requests through my jobbersites website and they come into my requests page, it doesn't look there's a way to schedule that request. Has anyone figured this out? None of the options allow it without converting it to a quote, which still doesn't let me schedule it. krista Hi MFFL​ thanks for the question. For requests that come filled out by the client from the request link, you can add an assessment at the bottom of the request. The assessment comes before the quote and is what shows up on the schedule. We have a video for scheduling assessments here I hope that helps!",
+    "views": 130,
     "likes": 2,
     "comments": 1,
     "replies": [
       {
         "author": "krista",
-        "time": "2025-07-02",
+        "time": "2025-06-08",
         "content": "Hi MFFL​ thanks for the question. For requests that come filled out by the client from the request link, you can add an assessment at the bottom of the request. The assessment comes before the quote and is what shows up on the schedule. We have a video for scheduling assessments here I hope that helps!",
         "likes": 0
       }
@@ -604,15 +703,15 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/new-request-page-is-terrible/2897",
     "author": "Sam",
     "authorRole": "Contributor 2",
-    "time": "2025-05-02",
-    "content": "Why was the perfectly fine Request Page given a new format? It's clunky, squashed and does weird things with custom fields ( show the entire drop down menu when not in edit mode). Please, don't fix what isn't broken. Anyone have any thoughts on this? REQUESTS",
-    "views": 86,
+    "time": "2025-05-08",
+    "content": "Why was the perfectly fine Request Page given a new format? It's clunky, squashed and does weird things with custom fields ( show the entire drop down menu when not in edit mode). Please, don't fix what isn't broken. Anyone have any thoughts on this?",
+    "views": 118,
     "likes": 1,
     "comments": 1,
     "replies": [
       {
         "author": "Tw2n_Money",
-        "time": "2025-06-02",
+        "time": "2025-06-08",
         "content": "hello everyone hope everyone find this app Handy and useful",
         "likes": 0
       }
@@ -623,9 +722,9 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/how-do-you-handle-online-booking--customer-requests%E2%80%9D/2988",
     "author": "Hwbdelivery",
     "authorRole": "Contributor 4",
-    "time": "2025-05-02",
-    "content": "As businesses grow, having an easy way for customers to book services or make requests online becomes crucial. I’ve recently started using an online booking system to streamline appointments, and it’s definitely saved time and reduced errors. Do you guys use any online booking platforms for your services? What’s been your experience with managing customer requests digitally?”* I’ve been using Square for online bookings and payments, and it’s made everything smoother. I that I can sync it with my calendar, send automatic reminders, and get paid online all through one platform. I also use automated emails to confirm appointments and follow up. Have you found a platform that works best for your business?” ADVERTISING",
-    "views": 51,
+    "time": "2025-05-08",
+    "content": "As businesses grow, having an easy way for customers to book services or make requests online becomes crucial. I’ve recently started using an online booking system to streamline appointments, and it’s definitely saved time and reduced errors. Do you guys use any online booking platforms for your services? What’s been your experience with managing customer requests digitally?”* I’ve been using Square for online bookings and payments, and it’s made everything smoother. I that I can sync it with my calendar, send automatic reminders, and get paid online all through one platform. I also use automated emails to confirm appointments and follow up. Have you found a platform that works best for your business?”",
+    "views": 60,
     "likes": 1,
     "comments": 1,
     "replies": [
@@ -642,21 +741,21 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/online-booking-and-communications-challenges/2567",
     "author": "Canadiana",
     "authorRole": "Contributor 3",
-    "time": "2025-04-02",
-    "content": "Hey Everyone, We have some support questions we are hoping to get answers to and thought we would post it on here to see if any other users have found solutions to these challenges or are having the same challenges? Is there a way to edit the \"On my way message”? We would to customize the message and edit it to not provide our employees personal phone numbers but rather list our two way messaging number. We have the jobber Grow package, and are promoting our clients to utilize the two way messaging number for communications, so all of our team gets their message and can quickly. However we're concerned that if we ever move away from jobbers platform, we would lose this number and would therefore have missed communications. Is this a concern for others using this feature? We have been trying to implement the online booking feature on our website. However we are finding it is challenging that we cannot select what employees are available for certain services. Our exterior services guys are not able to do interior cleaning, and vice versa. We are wondering if there is a way to work around this or if Jobber has anything in the works? We have also found that the booking times for services is too limiting. We offer window cleaning and charge by the window pane, it takes 7 minutes to do an interior window pane and frame, but the lowest bookable time option is 15 min. This is resulting in a job being booked for twice as long as it will actually take, or showing that we do not have an available booking window and therefore losing out on the booking. Also, for services that take longer than 60 minutes, the next option is 90 minutes, that’s a big jump. Does Jobber have the ability to make services be set up by single minute units rather than 15 min and 30 min slots? Thanks for any input and insights! CLEANING LANDSCAPING ONLINE BOOKING PRESSURE WASHING PROPERTY MAINTENANCE WEBSITES jade Hey Canadiana! Thank you for your questions! I recommend getting in touch with our Success Team as each business and workflow is different. Our team can find what works best for you. In the meantime, I can assist with the following: 1. You can edit the \"On my way!\" message to use your dedicated phone number (DPN). The steps to get this set up are listed in this article. 2. The DPN is only usable with Jobber; if you leave Jobber in the future, you will lose access to this number. If you have any concerns about this, our Success Team can help answer any questions. 3. We do not currently have a way to differentiate what team members can be booked for specific services. I am more than happy to share this feedback with our Product Development team, and I think it is a feature that other Jobber customers would benefit from as well! 4. We do not currently have a way to edit the time slot intervals outside of what you described. I will also include that feedback for our Product Team. I hope the information shared was helpful. To contact our Success team, you can do so by phone 888-721-1115 ext 1, email support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!",
-    "views": 128,
+    "time": "2025-05-08",
+    "content": "Hey Everyone, We have some support questions we are hoping to get answers to and thought we would post it on here to see if any other users have found solutions to these challenges or are having the same challenges? Is there a way to edit the \"On my way message”? We would to customize the message and edit it to not provide our employees personal phone numbers but rather list our two way messaging number. We have the jobber Grow package, and are promoting our clients to utilize the two way messaging number for communications, so all of our team gets their message and can quickly. However we're concerned that if we ever move away from jobbers platform, we would lose this number and would therefore have missed communications. Is this a concern for others using this feature? We have been trying to implement the online booking feature on our website. However we are finding it is challenging that we cannot select what employees are available for certain services. Our exterior services guys are not able to do interior cleaning, and vice versa. We are wondering if there is a way to work around this or if Jobber has anything in the works? We have also found that the booking times for services is too limiting. We offer window cleaning and charge by the window pane, it takes 7 minutes to do an interior window pane and frame, but the lowest bookable time option is 15 min. This is resulting in a job being booked for twice as long as it will actually take, or showing that we do not have an available booking window and therefore losing out on the booking. Also, for services that take longer than 60 minutes, the next option is 90 minutes, that’s a big jump. Does Jobber have the ability to make services be set up by single minute units rather than 15 min and 30 min slots? Thanks for any input and insights! jade Hey Canadiana! Thank you for your questions! I recommend getting in touch with our Success Team as each business and workflow is different. Our team can find what works best for you. In the meantime, I can assist with the following: 1. You can edit the \"On my way!\" message to use your dedicated phone number (DPN). The steps to get this set up are listed in this article. 2. The DPN is only usable with Jobber; if you leave Jobber in the future, you will lose access to this number. If you have any concerns about this, our Success Team can help answer any questions. 3. We do not currently have a way to differentiate what team members can be booked for specific services. I am more than happy to share this feedback with our Product Development team, and I think it is a feature that other Jobber customers would benefit from as well! 4. We do not currently have a way to edit the time slot intervals outside of what you described. I will also include that feedback for our Product Team. I hope the information shared was helpful. To contact our Success team, you can do so by phone 888-721-1115 ext 1, email support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!",
+    "views": 170,
     "likes": 2,
     "comments": 2,
     "replies": [
       {
         "author": "jade",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Hey Canadiana! Thank you for your questions! I recommend getting in touch with our Success Team as each business and workflow is different. Our team can find what works best for you. In the meantime, I can assist with the following: 1. You can edit the \"On my way!\" message to use your dedicated phone number (DPN). The steps to get this set up are listed in this article. 2. The DPN is only usable with Jobber; if you leave Jobber in the future, you will lose access to this number. If you have any concerns about this, our Success Team can help answer any questions. 3. We do not currently have a way to differentiate what team members can be booked for specific services. I am more than happy to share this feedback with our Product Development team, and I think it is a feature that other Jobber customers would benefit from as well! 4. We do not currently have a way to edit the time slot intervals outside of what you described. I will also include that feedback for our Product Team. I hope the information shared was helpful. To contact our Success team, you can do so by phone 888-721-1115 ext 1, email support@getjobber.com or start a live chat by going to the ? top right corner > chat with us!",
         "likes": 0
       },
       {
         "author": "Canadiana",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "to jade Thank you for all of this info Jade, we appreciate that Jobber is continuing to work on improving the online scheduling capabilities!",
         "likes": 0
       }
@@ -667,21 +766,21 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/can-we-get-a-custom-time-option-for-services/2609",
     "author": "CleanbyVivi",
     "authorRole": "Contributor 2",
-    "time": "2025-04-02",
-    "content": "I own a cleaning company and on average it takes us 90 minutes to clean 1000 sq ft of home. I want to simplify our booking and allow customers to enter the square footage of their home and have an accurate time associated with it. To do that, I need to break it down to 1 square foot = 5.4 seconds so when a customer inputs that their home is 2000 sq ft, it equals 3 hours of service time needed. Currently, the least amount of time I can select is 15 minutes, which means I have to break square footage into increments of 166 sq ft - which is confusing and not feasible because of this. There HAS to be an easy way to allow us to input a custom time selection krista jade CLEANING ONLINE BOOKING",
-    "views": 93,
+    "time": "2025-05-08",
+    "content": "I own a cleaning company and on average it takes us 90 minutes to clean 1000 sq ft of home. I want to simplify our booking and allow customers to enter the square footage of their home and have an accurate time associated with it. To do that, I need to break it down to 1 square foot = 5.4 seconds so when a customer inputs that their home is 2000 sq ft, it equals 3 hours of service time needed. Currently, the least amount of time I can select is 15 minutes, which means I have to break square footage into increments of 166 sq ft - which is confusing and not feasible because of this. There HAS to be an easy way to allow us to input a custom time selection krista jade",
+    "views": 138,
     "likes": 1,
     "comments": 2,
     "replies": [
       {
         "author": "TheProcessCEO",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "I believe the increments are for 15 minutes just to simplify things. Can I scheduled to the nearest quarter hour? It may simplify scheduling and timing all together to round to the nearest quarter hour. I hope this helps!",
         "likes": 0
       },
       {
         "author": "krista",
-        "time": "2025-04-02",
+        "time": "2025-05-08",
         "content": "Hi CleanbyVivi thank you for the interesting question! In my experience what TheProcessCEO is saying is what most of our Home Service Providers do. To keep it simple they have a minimum square footage, and then increase by rounded, standardized increments from there. We would love to better understand how being specific down to time per square foot works better for your company. When convinenent please don’t hesitate to reach out to our Success team at 1-888-721-1115 option 1 or support@getjobber.com",
         "likes": 0
       }
@@ -692,9 +791,9 @@
     "url": "https://community.getjobber.com/discussions/online-booking-requests/customer-ai-automations/2688",
     "author": "Carl_Jarvis",
     "authorRole": "Contributor 2",
-    "time": "2025-04-02",
-    "content": "My name is Carl. I own and operate an Appliance Repair company. I am currently working with some software developers and we have been putting together some custom AI integrations that work with Jobber. Our main one so far can take a phone call recording, transcribe it, and feed it through an LLM in order to generate different outputs based on the conversation. Basically, you talk to a client on the phone and the system will take action on whatever you want based on the conversation you have with the client. Would anyone be interested in having a phone call to brainstorm and spitball ideas? Maybe it is something that could be helpful in your business? Or for other people you work with? INTEGRATIONS WORK SMARTER",
-    "views": 48,
+    "time": "2025-05-08",
+    "content": "My name is Carl. I own and operate an Appliance Repair company. I am currently working with some software developers and we have been putting together some custom AI integrations that work with Jobber. Our main one so far can take a phone call recording, transcribe it, and feed it through an LLM in order to generate different outputs based on the conversation. Basically, you talk to a client on the phone and the system will take action on whatever you want based on the conversation you have with the client. Would anyone be interested in having a phone call to brainstorm and spitball ideas? Maybe it is something that could be helpful in your business? Or for other people you work with?",
+    "views": 58,
     "likes": 1,
     "comments": 1,
     "replies": [

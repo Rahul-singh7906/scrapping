@@ -6,293 +6,392 @@ Total Discussions: 29
 
 ## 1. New Timesheets
 
-**Author:** LynnG (Contributor 2)
-**Posted:** 2026-03-24
-**Views:** 23 | **Likes:** 0 | **Comments:** 1
+**Author:** LynnG (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 115 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/team-management/new-timesheets/9684
 
 ### Content
 
-The new timesheets update rolled out for me today—did anyone else get it? I’d really love to hear what others think. At a high level, I can see what Jobber was trying to do, but in practice it’s added time to my workflow instead of saving it. **A few specific changes I’ve noticed:** **1. GPS Tracking Changes** Each entry now has its own GPS icon, but instead of opening a full daily view for that employee, it’s now a small pop-up map. I have to zoom in significantly just to see the address—and repeat that for every single entry. Previously, I could see all of an employee’s starts, stops, and job completions for the day in one place. Now it takes much longer to review the same information. **2. “Add Entry” Pop-Up Issue** The new Add Entry window is fixed and can’t be moved, which means it blocks the schedule behind it. I manually add drive time between jobs, so I need to reference both the start and end times of each job. Since I can’t see that information while entering it, I have to keep closing or working around the pop-up—this adds a lot of extra steps throughout the day. **3. Loss of Real-Time Job Duration** This is the biggest issue for me. Timesheets no longer show the *current* duration while a timer is running—only the final duration after it’s stopped. For my business, that real-time visibility is important. If a job is running long, I rely on that to check in with my team and make sure everything is on track. Losing that feature is a big step backward. --- I’m a smaller company with just a few employees, so it’s possible these changes are geared more toward larger teams. But for me, this update has made things more time-consuming rather than more efficient. Curious if others are experiencing the same—or if there are workflows I’m missing that make this easier? TIME TRACKING
+The new timesheets update rolled out for me today—did anyone else get it? I’d really love to hear what others think. At a high level, I can see what Jobber was trying to do, but in practice it’s added time to my workflow instead of saving it. **A few specific changes I’ve noticed:** **1. GPS Tracking Changes** Each entry now has its own GPS icon, but instead of opening a full daily view for that employee, it’s now a small pop-up map. I have to zoom in significantly just to see the address—and repeat that for every single entry. Previously, I could see all of an employee’s starts, stops, and job completions for the day in one place. Now it takes much longer to review the same information. **2. “Add Entry” Pop-Up Issue** The new Add Entry window is fixed and can’t be moved, which means it blocks the schedule behind it. I manually add drive time between jobs, so I need to reference both the start and end times of each job. Since I can’t see that information while entering it, I have to keep closing or working around the pop-up—this adds a lot of extra steps throughout the day. **3. Loss of Real-Time Job Duration** This is the biggest issue for me. Timesheets no longer show the *current* duration while a timer is running—only the final duration after it’s stopped. For my business, that real-time visibility is important. If a job is running long, I rely on that to check in with my team and make sure everything is on track. Losing that feature is a big step backward. --- I’m a smaller company with just a few employees, so it’s possible these changes are geared more toward larger teams. But for me, this update has made things more time-consuming rather than more efficient. Curious if others are experiencing the same—or if there are workflows I’m missing that make this easier?
 
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 2. How to fix GPS tracking issues in the Jobber app?
-
-**Author:** threerelectric (Contributor 2)
-**Posted:** 2026-03-04
-**Views:** 33 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/team-management/how-to-fix-gps-tracking-issues-in-the-jobber-app/9030
-
-### Content
-
-I am struggling with the GPS function I went through all of my workers phones and made sure that they are set up correctly. Sometimes they work some what right and sometimes they don't work at all. Every now and then they work completely correctly. Does anyone have any ideas on how to fix this or is anyone else having this problem? ThreeRElectrical ELECTRICAL CONTRACTING FORCE FLEET TRACKING GPS TRACKING LOCATION TIMERS TIME TRACKING
-
-### Replies (1)
+### Replies (3)
 
 #### Reply 1
 
-**Author:** jade
-**Posted:** 2026-03-07
+**Author:** winnovations
+**Posted:** 2026-04-19
 
-Hey there! Thanks for the question. It sounds you did this step already, but the first step is to make sure all your employees have their location settings on for the Jobber app. This will look different on an iPhone compared to Android. The instructions for both are included here. Next step would be to ensure everyone's app is up to date! They can check their app version by going to More> About in the app. They can also check the app store for updates! If you still experience issues, please call our Success Team 888-721-1115 ext 1
-
----
-
-## 3. Non billable hour tracking in Jobber (time clock workarounds)
-
-**Author:** SpotsCC1 (Contributor 3)
-**Posted:** 2025-04-02
-**Views:** 989 | **Likes:** 5 | **Comments:** 28
-**URL:** https://community.getjobber.com/discussions/team-management/non-billable-hour-tracking-in-jobber-time-clock-workarounds/1045
-
-### Content
-
-I use Jobber and am finding the Time Clock feature too limited for my needs. While I don’t plan on switching from Jobber any time soon, I wanted to reach out to the community to see what others have done in this situation. I can’t imagine I’m the only one facing this issue. My main concern is that the "General" time clock category hides too much information. Having only the options for clocking "Job Time" or "General" time leaves a lot of room for error, in my opinion. For example, when a team member has a slow day and completes various "overhead" or "non-billable" tasks, it all gets lumped under "General" time. For our company, these tasks include picking up chemicals from a supplier, fixing a headlight on a truck, delivering door hangers, etc. Relying on team members to make their own notes after the fact or expecting an admin to remember these details later feels unsustainable. If we see that a team member has clocked 5 hours on a job and 3 hours under "General" time, it could easily be mistaken for them simply forgetting to clock out for the day. My team is small, but I imagine this issue is even more pronounced in larger teams. Can anyone suggest workarounds or solutions they’ve found? Maybe I need to put more focus on verifying these manual adjustments, but that feels quite labor-intensive. Thanks! CLEANING GENERAL CONTRACTING TIME TRACKING jade Hey there, thank you so much for your question. I can see how this could be time-consuming for your team to keep track of, and we would be happy to submit your feedback to our Product Development team. I think many users can benefit from a category feature for time tracking! What I do suggest for now is having your employees leave a note directly on the general timer. It may take some time to get into the habit of doing so, but if they record the notes by going to Timesheet > Clock In > Clock out > Edit > Note in the Jobber app, these notes will then sync with the Timesheet Report where they can be exported for easier tracking.
-
-### Replies (28)
-
-#### Reply 1
-
-**Author:** LynnG
-**Posted:** 2025-04-02
-
-I may be a bit late in commenting since this was posted 2 months ago, but maybe it will help someone. If you go to your Jobber Settings, then Timesheets you should have option to create Custom Timesheet Labels. Some that I have created are: Admin, Drive Time, Wait Time, Paid Break, Cancel Fee. I haven't used the General after creating my own.
+Lynn, your breakdown of the new timesheet issues is incredibly detailed—and you’re not alone. That 'fixed pop-up' blocking the schedule is a classic case of form over function. We actually built the Bento Audit Layer specifically for owners who need that birds-eye view back. We brought back the unified daily GPS map (no more individual zooming) and, most importantly, we restored the real-time job duration trackers. You can see exactly how long a tech has been on-site right now, without waiting for them to clock out. Since you’ve been with Jobber since 2014, you know how it should feel. We’d love to show you how we’ve simplified that 'Drive Time' entry so you can see your schedule and your timesheets on one screen again.
 
 #### Reply 2
 
-**Author:** SpotsCC1
-**Posted:** 2025-04-02
+**Author:** HUGEHomePros
+**Posted:** 2026-04-21
 
-to LynnG Definitely not too late! However, I don't see a "timesheets" option in my settings. What you are describing sounds exactly what I am looking for. Perhaps this is a trial that you are apart of? Could you share a screenshot of where you are finding this setting option? Thanks
+I agree - I think the new layout will take some getting used to. One thing I don't really is sometimes guys would clock in to the wrong job but it wasn't a big deal to switch them over. Now we have to take a few extra steps to make this happen which is really clunky. I preferred the old lay out to be honest.
 
 #### Reply 3
 
 **Author:** LynnG
-**Posted:** 2025-04-02
+**Posted:** 2026-04-19
 
-to SpotsCC1 SpottsCC1 did my screen shot help?
-
-#### Reply 4
-
-**Author:** SpotsCC1
-**Posted:** 2025-04-02
-
-to LynnG Thank you! Yes it did. Unfortunately my version of jobber doesn't have this in my settings tab. I pay for the full subscription as well. That is very odd. I'll have to reach out to Jobber.
-
-#### Reply 5
-
-**Author:** Moss912
-**Posted:** 2026-03-02
-
-to LynnG Thanks for your answer this also helped me!
-
-#### Reply 6
-
-**Author:** danjhu
-**Posted:** 2025-04-02
-
-I would to hear from someone about this too! I small team and ask my employees to write down details about how they are accounting their time under "General" but it would be much cleaner to have custom sub categories to improve on time management, accountability, etc. For example, I really should be tracking all of my time spent on the business - sometimes it's on specific jobs but other times it's writing up estimates, etc. but much of it gets unaccounted for. It would be great to be able to print up reports on this sub categories as well.
-
-#### Reply 7
-
-**Author:** RSCcass0905
-**Posted:** 2025-04-02
-
-to danjhu I love this question because it was a big one for me as well. I pay between jobs and it is tricky. What I do is set the job at a set rate so billing isn't as much by time and just check times for new jobs or jobs that differ. Then my team completes the job as they are leaving the site however they do not stop the job timer until they start the timer for the next place. This way they stay on the clock and I get accurate reading for the time they were there. This works for me because we are small business with only 7 employees at this time. I am really interested in all the other suggestions.
-
-#### Reply 8
-
-**Author:** jade
-**Posted:** 2025-04-02
-
-Hey there, thank you so much for your question. I can see how this could be time-consuming for your team to keep track of, and we would be happy to submit your feedback to our Product Development team. I think many users can benefit from a category feature for time tracking! What I do suggest for now is having your employees leave a note directly on the general timer. It may take some time to get into the habit of doing so, but if they record the notes by going to Timesheet > Clock In > Clock out > Edit > Note in the Jobber app, these notes will then sync with the Timesheet Report where they can be exported for easier tracking.
-
-#### Reply 9
-
-**Author:** krista
-**Posted:** 2025-04-02
-
-Hello all! Thank you for your input on how you would Jobber Timesheets to work for your business. We love this discussion and would love to hear from you directly on how this could improve your workflows in Jobber. The more context for our development teams, the better we can build out the product. Please don’t hesitate to reach out to our Success Team so we can best tag and categorize the feedback. They can be reached at 1-888-721-1115 option 1 or support@getjobber.com
-
-#### Reply 10
-
-**Author:** rle
-**Posted:** 2025-04-02
-
-I created a customer with my company name, then created jobs named for common tasks the we can clock into. I put visits for them on the weekends, so it's not too hard to find them from the app. The timesheet custom labels would be perfect, but I also don't have that in my settings menu.
-
-#### Reply 11
-
-**Author:** SpotsCC1
-**Posted:** 2025-04-02
-
-to rle Hi there. This is a creative solution but do you have a work-around to not skew your reporting with the additional jobs completed? Or do you delete them after? I typically track my jobs per week, average job cost, etc. I would worry this might skew the reporting?
-
-#### Reply 12
-
-**Author:** rle
-**Posted:** 2025-04-02
-
-to SpotsCC1 I don't use the job reports, so that hasn't been an issue for me. I usually keep an open job for each general routine task and close them at the end of the quarter. I don't know how that would affect the reporting. Job costing is the only one that would interest me right now, but I'm on the connect plan and don't have access to it.
-
-#### Reply 13
-
-**Author:** bedellmgmt
-**Posted:** 2025-04-02
-
-I'm looking forward to seeing how others tackle this!!
-
-#### Reply 14
-
-**Author:** LynnG
-**Posted:** 2025-04-02
-
-I've been using Jobber since 2014 so not a trial & not an option in the app; maybe it's a difference in the plan we have.
-
-#### Reply 15
-
-**Author:** Jspangler
-**Posted:** 2025-04-02
-
-to LynnG yea, I dont see that either and I am the account owner , admin, etc... dang
-
-#### Reply 16
-
-**Author:** Jspangler
-**Posted:** 2025-04-02
-
-to LynnG what plan do you have Lynn G? Can the Jobber person, Jade, chime in please?
-
-#### Reply 17
-
-**Author:** LynnG
-**Posted:** 2025-04-02
-
-to Jspangler I started with Jobber back in 2014. They no longer offer my plan, but I'm surprised they no longer have this simple feature. I would contact support; I've found them to always be extremely helpful when I've called.
-
-#### Reply 18
-
-**Author:** DirtyDeeds
-**Posted:** 2025-04-02
-
-to LynnG I don't have this option either and Jobber support can't seem to figure out how this is possible =/
-
-#### Reply 19
-
-**Author:** Anthonyf2175
-**Posted:** 2025-04-02
-
-Does anyone else pay their employees commission rather than hourly? Jobber doesn't have a feature to track commission earned per visit and I find it incredibly frustrating, yet I don't see any other posts in the search column about commission tracking so I'm starting to think I'm the only one paying my guys commission and don't want to use a 3rd party tool, I don't think it would be that complicated for Jobber to allow you to assign a commission when you assign an employee to a visit. Any thoughts?
-
-#### Reply 20
-
-**Author:** SpotsCC1
-**Posted:** 2025-04-02
-
-to Anthonyf2175 I don't run a full commission pay but offer a bonus based on revenue produced. What line of business are you in?
-
-#### Reply 21
-
-**Author:** Anthonyf2175
-**Posted:** 2025-04-02
-
-to SpotsCC1 We're in Asphalt Paving & Sealcoating. How do you keep track of the bonuses? Jobber Reports?
-
-#### Reply 22
-
-**Author:** SpotsCC1
-**Posted:** 2025-04-02
-
-I've been using a combination of jobber reports and our own google sheets that I've made. I'm also using a trial for p4p software to see if that is more efficient for tracking. P4P is software that helps you track employee metrics and calculates both commission and hourly pay, depending what you want.
-
-#### Reply 23
-
-**Author:** ThatHandymanVan
-**Posted:** 2025-10-02
-
-to SpotsCC1 What P4P software have you been running? I was wanting to run P4P based on closed job profits.
-
-#### Reply 24
-
-**Author:** SpotsCC1
-**Posted:** 2025-10-02
-
-to ThatHandymanVan It's actually just called P4P software. or Pay 4 performance. It's built by Mike Andes
-
-#### Reply 25
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-02
-
-to SpotsCC1 I think I am going to try Protiv since they added it as compatiblele.
-
-#### Reply 26
-
-**Author:** DirtyDeeds
-**Posted:** 2025-04-02
-
-Thank you!
-
-#### Reply 27
-
-**Author:** ThatHandymanVan
-**Posted:** 2026-02-02
-
-I was wondering if a job with 0 revenue could be created so that time can be logged to it. For example, if they are assigned truck cleanups, a job could be created for this. Let me know your thoughts because you make a really great point here.
-
-#### Reply 28
-
-**Author:** LynnG
-**Posted:** 2026-03-02
-
-to ThatHandymanVan I have created 0 revenue jobs that my staff can use timer on.
+Thanks for the winnovations. I would to see how the Drive Time entry has been simplified since I checked today (04/18) and it and the GPS has not changed. I should mention that I am using a desktop computer and FireFox browser, in case that makes a difference. Also, curious why my original post is in a Review state since it was created 25 days ago. I would have thought it would have been approved by a moderator by now.
 
 ---
 
-## 4. Time Clock Timer's
+## 2. What tools are anyone using for team communication?
 
-**Author:** jross (Contributor 2)
-**Posted:** 2025-05-02
-**Views:** 97 | **Likes:** 1 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/team-management/time-clock-timers/2895
+**Author:** Will-Welborn (Contributor 2)
+**Posted:** 2025-12-08
+**Views:** 312 | **Likes:** 3 | **Comments:** 9
+**URL:** https://community.getjobber.com/discussions/team-management/what-tools-are-anyone-using-for-team-communication/7522
 
 ### Content
 
-Is anyone experiencing issues with Jobber's time clock? Users seem to frequently clock out of a job and then start a "general timer". This requires manual intervention to delete the general timers. The users of the Jobber app are non-technical, so simplifying this process would be beneficial to prevent accidental timer starts when clocking out. Is anyone else facing this issue? CLEANING LOCATION TIMERS TIME TRACKING jade Hello JRoss! Thank you for your question. The reason that this would happen is if the general timer was started prior to the visit timer. There are two types of timers in Jobber—general timers and visit timers. General timers are not tied to a job and are good for tracking time between visits, breaks, or unscheduled time. Visit timers allocate the time logged to the job. If a general timer is running and a visit timer is started, the general timer will pause and pick back up automatically when the visit timer is stopped. If you do not wish for your team to use the general timer, and only the visit timer, ensure they are only starting the timer on the Job Visit. For a visual of what that would look , check out this article from the Jobber Help Center.
+The internal communication in Jobber is not robust enough for multiple team members, especially when we may be working on the same customer/job at different times. Features needed: - ability to mention/tag other team members so they are notified of the comment or message - keeps the communications "within Jobber" at least in knowing which customer the communication pertains to Is there a 3rd party tool/plug in that anyone has found useful for this need? Or even better, Jobber team, is there any plan to deploy this as part of a standard feature?
+
+### Replies (9)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2025-12-08
+
+Hey Will, I am so glad that the community stepped in here and offered lots of alternatives for team communication! Jobber does not have any immediate plans to add this feature, but it is certainly something that our development team can explore in the future. We are always looking to improve! I do Janine's suggestion of using the 2-way SMS to communicate with teammates, but I understand that certain permissions would be required. Thank you so much for your feedback.
+
+#### Reply 2
+
+**Author:** Will-Welborn
+**Posted:** 2025-12-08
+
+to jade Love Jobber and don't plan on leaving BUT, it surprises me that this is not something in development. Every other CRM, Sales Pipeline system, etc... I have ever used has internal user communication as a standard feature. As our team grows, the ability to tag/communicate within Jobber on specific clients/quotes/jobs is going to become extremely cumbersome.
+
+#### Reply 3
+
+**Author:** Janine-Chambers
+**Posted:** 2025-12-08
+
+I really Slack or Whatsapp for third party. They are free/low cost and app based. I have used the two way texting tool in Jobber to communicate with employees as well, but that isn't really the intended use for it and only admin or those with high permissions can use it inside of Jobber.
+
+#### Reply 4
+
+**Author:** AdamSylvester
+**Posted:** 2025-12-08
+
+I hope so because this is a critical collaboration tool and it's very common across all of our other apps we use (Company Cam, Openphone, Missive, etc.)
+
+#### Reply 5
+
+**Author:** judithvirag
+**Posted:** 2025-12-08
+
+BUILDER 1 We also use Slack. What I with Slack is we have purchased Tacos and through this app we were able to set up our own reward system. Also What's App.
+
+#### Reply 6
+
+**Author:** Will-Welborn
+**Posted:** 2025-12-08
+
+I have used slack before, but the real need is for team communication to be able to "connect" to the customer/job/estimate that the team is communicating about. Other CRM's have this as a common feature. Lover Jobber but don't know why this feature is not part of the software.
+
+#### Reply 7
+
+**Author:** RichardM
+**Posted:** 2025-12-08
+
+WhatsApp works best for us. You can copy and paste links from Jobber that follow through to the app (as long as everyone has access). I haven't tried Slack before.
+
+#### Reply 8
+
+**Author:** CMSRepairs
+**Posted:** 2025-12-08
+
+Our company uses tasks and just assigns the follows ups with tasks and a note.
+
+#### Reply 9
+
+**Author:** winnovations
+**Posted:** 2026-04-19
+
+Will, love that you’re experimenting with GenSpark for sales portals—AI is definitely the fix for Jobber’s communication gaps. We’ve actually built a layer that allows for those @mentions and internal notes you’re missing, but with a twist: it’s connected to a chat-based AI that has full context of your Jobber docs. Instead of just a text message, your field reps can ask: 'What’s the history on this quote?' and get an instant answer based on all previous internal notes and PDF brochures you’ve uploaded. Since you’re already building a rep portal, I’d love to show you how we’ve integrated this directly with Jobber’s API to make it seamless. It’s the 'internal communication' feature Jobber forgot to build.
+
+---
+
+## 3. How to fix GPS tracking issues in the Jobber app?
+
+**Author:** threerelectric (Contributor 2)
+**Posted:** 2026-03-08
+**Views:** 92 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/team-management/how-to-fix-gps-tracking-issues-in-the-jobber-app/9030
+
+### Content
+
+I am struggling with the GPS function I went through all of my workers phones and made sure that they are set up correctly. Sometimes they work some what right and sometimes they don't work at all. Every now and then they work completely correctly. Does anyone have any ideas on how to fix this or is anyone else having this problem? ThreeRElectrical
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2025-05-02
+**Posted:** 2026-03-08
+
+Hey there! Thanks for the question. It sounds you did this step already, but the first step is to make sure all your employees have their location settings on for the Jobber app. This will look different on an iPhone compared to Android. The instructions for both are included here. Next step would be to ensure everyone's app is up to date! They can check their app version by going to More> About in the app. They can also check the app store for updates! If you still experience issues, please call our Success Team 888-721-1115 ext 1
+
+#### Reply 2
+
+**Author:** winnovations
+**Posted:** 2026-04-15
+
+Hi! We have seen these GPS "glitches" many times—Jobber’s native tracking can be very sporadic depending on the phone's background settings. We are actually building a more stable sync layer that monitors "Time on Job" via the API and cross-references it with Google Calendar to ensure you don't lose those 8-hour shifts. It’s designed to stop the "15-second" errors. Would you be open to seeing how we are stabilizing the time-tracking data?
+
+---
+
+## 4. Non billable hour tracking in Jobber (time clock workarounds)
+
+**Author:** SpotsCC1 (Contributor 3)
+**Posted:** 2025-05-08
+**Views:** 13 | **Likes:** 5 | **Comments:** 28
+**URL:** https://community.getjobber.com/discussions/team-management/non-billable-hour-tracking-in-jobber-time-clock-workarounds/1045
+
+### Content
+
+I use Jobber and am finding the Time Clock feature too limited for my needs. While I don’t plan on switching from Jobber any time soon, I wanted to reach out to the community to see what others have done in this situation. I can’t imagine I’m the only one facing this issue. My main concern is that the "General" time clock category hides too much information. Having only the options for clocking "Job Time" or "General" time leaves a lot of room for error, in my opinion. For example, when a team member has a slow day and completes various "overhead" or "non-billable" tasks, it all gets lumped under "General" time. For our company, these tasks include picking up chemicals from a supplier, fixing a headlight on a truck, delivering door hangers, etc. Relying on team members to make their own notes after the fact or expecting an admin to remember these details later feels unsustainable. If we see that a team member has clocked 5 hours on a job and 3 hours under "General" time, it could easily be mistaken for them simply forgetting to clock out for the day. My team is small, but I imagine this issue is even more pronounced in larger teams. Can anyone suggest workarounds or solutions they’ve found? Maybe I need to put more focus on verifying these manual adjustments, but that feels quite labor-intensive. Thanks! jade Hey there, thank you so much for your question. I can see how this could be time-consuming for your team to keep track of, and we would be happy to submit your feedback to our Product Development team. I think many users can benefit from a category feature for time tracking! What I do suggest for now is having your employees leave a note directly on the general timer. It may take some time to get into the habit of doing so, but if they record the notes by going to Timesheet > Clock In > Clock out > Edit > Note in the Jobber app, these notes will then sync with the Timesheet Report where they can be exported for easier tracking.
+
+### Replies (28)
+
+#### Reply 1
+
+**Author:** LynnG
+**Posted:** 2025-05-08
+
+I may be a bit late in commenting since this was posted 2 months ago, but maybe it will help someone. If you go to your Jobber Settings, then Timesheets you should have option to create Custom Timesheet Labels. Some that I have created are: Admin, Drive Time, Wait Time, Paid Break, Cancel Fee. I haven't used the General after creating my own.
+
+#### Reply 2
+
+**Author:** SpotsCC1
+**Posted:** 2025-05-08
+
+to LynnG Definitely not too late! However, I don't see a "timesheets" option in my settings. What you are describing sounds exactly what I am looking for. Perhaps this is a trial that you are apart of? Could you share a screenshot of where you are finding this setting option? Thanks
+
+#### Reply 3
+
+**Author:** LynnG
+**Posted:** 2025-05-08
+
+to SpotsCC1 SpottsCC1 did my screen shot help?
+
+#### Reply 4
+
+**Author:** SpotsCC1
+**Posted:** 2025-05-08
+
+to LynnG Thank you! Yes it did. Unfortunately my version of jobber doesn't have this in my settings tab. I pay for the full subscription as well. That is very odd. I'll have to reach out to Jobber.
+
+#### Reply 5
+
+**Author:** Moss912
+**Posted:** 2026-03-08
+
+to LynnG Thanks for your answer this also helped me!
+
+#### Reply 6
+
+**Author:** danjhu
+**Posted:** 2025-05-08
+
+I would to hear from someone about this too! I small team and ask my employees to write down details about how they are accounting their time under "General" but it would be much cleaner to have custom sub categories to improve on time management, accountability, etc. For example, I really should be tracking all of my time spent on the business - sometimes it's on specific jobs but other times it's writing up estimates, etc. but much of it gets unaccounted for. It would be great to be able to print up reports on this sub categories as well.
+
+#### Reply 7
+
+**Author:** RSCcass0905
+**Posted:** 2025-05-08
+
+to danjhu I love this question because it was a big one for me as well. I pay between jobs and it is tricky. What I do is set the job at a set rate so billing isn't as much by time and just check times for new jobs or jobs that differ. Then my team completes the job as they are leaving the site however they do not stop the job timer until they start the timer for the next place. This way they stay on the clock and I get accurate reading for the time they were there. This works for me because we are small business with only 7 employees at this time. I am really interested in all the other suggestions.
+
+#### Reply 8
+
+**Author:** jade
+**Posted:** 2025-05-08
+
+Hey there, thank you so much for your question. I can see how this could be time-consuming for your team to keep track of, and we would be happy to submit your feedback to our Product Development team. I think many users can benefit from a category feature for time tracking! What I do suggest for now is having your employees leave a note directly on the general timer. It may take some time to get into the habit of doing so, but if they record the notes by going to Timesheet > Clock In > Clock out > Edit > Note in the Jobber app, these notes will then sync with the Timesheet Report where they can be exported for easier tracking.
+
+#### Reply 9
+
+**Author:** krista
+**Posted:** 2025-05-08
+
+Hello all! Thank you for your input on how you would Jobber Timesheets to work for your business. We love this discussion and would love to hear from you directly on how this could improve your workflows in Jobber. The more context for our development teams, the better we can build out the product. Please don’t hesitate to reach out to our Success Team so we can best tag and categorize the feedback. They can be reached at 1-888-721-1115 option 1 or support@getjobber.com
+
+#### Reply 10
+
+**Author:** rle
+**Posted:** 2025-05-08
+
+I created a customer with my company name, then created jobs named for common tasks the we can clock into. I put visits for them on the weekends, so it's not too hard to find them from the app. The timesheet custom labels would be perfect, but I also don't have that in my settings menu.
+
+#### Reply 11
+
+**Author:** SpotsCC1
+**Posted:** 2025-05-08
+
+to rle Hi there. This is a creative solution but do you have a work-around to not skew your reporting with the additional jobs completed? Or do you delete them after? I typically track my jobs per week, average job cost, etc. I would worry this might skew the reporting?
+
+#### Reply 12
+
+**Author:** rle
+**Posted:** 2025-05-08
+
+to SpotsCC1 I don't use the job reports, so that hasn't been an issue for me. I usually keep an open job for each general routine task and close them at the end of the quarter. I don't know how that would affect the reporting. Job costing is the only one that would interest me right now, but I'm on the connect plan and don't have access to it.
+
+#### Reply 13
+
+**Author:** bedellmgmt
+**Posted:** 2025-05-08
+
+I'm looking forward to seeing how others tackle this!!
+
+#### Reply 14
+
+**Author:** LynnG
+**Posted:** 2025-05-08
+
+I've been using Jobber since 2014 so not a trial & not an option in the app; maybe it's a difference in the plan we have.
+
+#### Reply 15
+
+**Author:** Jspangler
+**Posted:** 2025-05-08
+
+to LynnG yea, I dont see that either and I am the account owner , admin, etc... dang
+
+#### Reply 16
+
+**Author:** Jspangler
+**Posted:** 2025-05-08
+
+to LynnG what plan do you have Lynn G? Can the Jobber person, Jade, chime in please?
+
+#### Reply 17
+
+**Author:** LynnG
+**Posted:** 2025-05-08
+
+to Jspangler I started with Jobber back in 2014. They no longer offer my plan, but I'm surprised they no longer have this simple feature. I would contact support; I've found them to always be extremely helpful when I've called.
+
+#### Reply 18
+
+**Author:** DirtyDeeds
+**Posted:** 2025-05-08
+
+to LynnG I don't have this option either and Jobber support can't seem to figure out how this is possible =/
+
+#### Reply 19
+
+**Author:** Anthonyf2175
+**Posted:** 2025-05-08
+
+Does anyone else pay their employees commission rather than hourly? Jobber doesn't have a feature to track commission earned per visit and I find it incredibly frustrating, yet I don't see any other posts in the search column about commission tracking so I'm starting to think I'm the only one paying my guys commission and don't want to use a 3rd party tool, I don't think it would be that complicated for Jobber to allow you to assign a commission when you assign an employee to a visit. Any thoughts?
+
+#### Reply 20
+
+**Author:** SpotsCC1
+**Posted:** 2025-05-08
+
+to Anthonyf2175 I don't run a full commission pay but offer a bonus based on revenue produced. What line of business are you in?
+
+#### Reply 21
+
+**Author:** Anthonyf2175
+**Posted:** 2025-05-08
+
+to SpotsCC1 We're in Asphalt Paving & Sealcoating. How do you keep track of the bonuses? Jobber Reports?
+
+#### Reply 22
+
+**Author:** SpotsCC1
+**Posted:** 2025-05-08
+
+I've been using a combination of jobber reports and our own google sheets that I've made. I'm also using a trial for p4p software to see if that is more efficient for tracking. P4P is software that helps you track employee metrics and calculates both commission and hourly pay, depending what you want.
+
+#### Reply 23
+
+**Author:** ThatHandymanVan
+**Posted:** 2025-10-08
+
+to SpotsCC1 What P4P software have you been running? I was wanting to run P4P based on closed job profits.
+
+#### Reply 24
+
+**Author:** SpotsCC1
+**Posted:** 2025-10-08
+
+to ThatHandymanVan It's actually just called P4P software. or Pay 4 performance. It's built by Mike Andes
+
+#### Reply 25
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-02-08
+
+to SpotsCC1 I think I am going to try Protiv since they added it as compatiblele.
+
+#### Reply 26
+
+**Author:** DirtyDeeds
+**Posted:** 2025-05-08
+
+Thank you!
+
+#### Reply 27
+
+**Author:** ThatHandymanVan
+**Posted:** 2026-02-08
+
+I was wondering if a job with 0 revenue could be created so that time can be logged to it. For example, if they are assigned truck cleanups, a job could be created for this. Let me know your thoughts because you make a really great point here.
+
+#### Reply 28
+
+**Author:** LynnG
+**Posted:** 2026-03-08
+
+to ThatHandymanVan I have created 0 revenue jobs that my staff can use timer on.
+
+---
+
+## 5. Time Clock Timer's
+
+**Author:** jross (Contributor 2)
+**Posted:** 2025-05-08
+**Views:** 144 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/team-management/time-clock-timers/2895
+
+### Content
+
+Is anyone experiencing issues with Jobber's time clock? Users seem to frequently clock out of a job and then start a "general timer". This requires manual intervention to delete the general timers. The users of the Jobber app are non-technical, so simplifying this process would be beneficial to prevent accidental timer starts when clocking out. Is anyone else facing this issue? jade Hello JRoss! Thank you for your question. The reason that this would happen is if the general timer was started prior to the visit timer. There are two types of timers in Jobber—general timers and visit timers. General timers are not tied to a job and are good for tracking time between visits, breaks, or unscheduled time. Visit timers allocate the time logged to the job. If a general timer is running and a visit timer is started, the general timer will pause and pick back up automatically when the visit timer is stopped. If you do not wish for your team to use the general timer, and only the visit timer, ensure they are only starting the timer on the Job Visit. For a visual of what that would look , check out this article from the Jobber Help Center.
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2025-05-08
 
 Hello JRoss! Thank you for your question. The reason that this would happen is if the general timer was started prior to the visit timer. There are two types of timers in Jobber—general timers and visit timers. General timers are not tied to a job and are good for tracking time between visits, breaks, or unscheduled time. Visit timers allocate the time logged to the job. If a general timer is running and a visit timer is started, the general timer will pause and pick back up automatically when the visit timer is stopped. If you do not wish for your team to use the general timer, and only the visit timer, ensure they are only starting the timer on the Job Visit. For a visual of what that would look , check out this article from the Jobber Help Center.
 
 #### Reply 2
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-02-02
+**Posted:** 2026-02-08
 
 I have found that when there are times of losing cell signal, this happens more frequently. Not sure if it is the same as what is causing yours. Sometimes I just leave the multiple logs so long as time is tracked.
 
 ---
 
-## 5. How to disconnect financials from texting
+## 6. How to disconnect financials from texting
 
 **Author:** dakotasmalljobs (Contributor 2)
-**Posted:** 2025-07-02
-**Views:** 103 | **Likes:** 5 | **Comments:** 4
+**Posted:** 2025-07-08
+**Views:** 166 | **Likes:** 5 | **Comments:** 4
 **URL:** https://community.getjobber.com/discussions/team-management/how-to-disconnect-financials-from-texting/4452
 
 ### Content
@@ -304,38 +403,38 @@ I have found an issue that I think would be very easy for Jobber to fix, but is 
 #### Reply 1
 
 **Author:** DavidM
-**Posted:** 2025-08-02
+**Posted:** 2025-07-08
 
 100% in agreement! We started using Jobber because of the texting feature. Once we discovered, after the fact, that field tech's could see the numbers they started to complain about how much they were getting paid when they saw how much we charged for each job. I shared my views with our on boarding person. To fix this we zeroed out the cost of jobs, and turned off the ability of the tech to search/view invoices, quotes and requests from the app. The problem now is that some reporting is misleading because the jobs have $0 value. So there is a way around it at a cost of reporting on each jobs value. Not sure if this helps, but it really does need to be addressed.
 
 #### Reply 2
 
 **Author:** krista
-**Posted:** 2025-11-02
+**Posted:** 2025-11-08
 
 Hi dakotasmalljobs​ and DavidM​ Thanks so much for sharing this feedback! We completely understand how frustrating it can be to have texting permissions tied to financial visibility, especially when you want your field team to communicate with customers without seeing job pricing or margins. I’ve shared your feedback with our development team so they can consider separating these permissions in future updates. We really appreciate you taking the time to explain how this affects your team and operations—it helps us better understand how we can make Jobber work more effectively for your business.
 
 #### Reply 3
 
 **Author:** Janine-Chambers
-**Posted:** 2025-12-02
+**Posted:** 2025-12-08
 
 They can send an on my way text from the field but the actual two way texting shows all text communications between your business and the customer. This includes access to quotes and invoices as well as client hub. Most texts you send through Jobber sends the link with it. I believe the reason for allowing your staff to see these items in Jobber as a default setting is to make you aware of the fact that they will have access to this type of information if they have access to the two way texting. I don't think it is a simple fix without impacting the customers experience or the functionality of the feature.
 
 #### Reply 4
 
 **Author:** D_LHerbier
-**Posted:** 2026-02-02
+**Posted:** 2026-02-08
 
 Although annoying, I dont see this getting changed on the Jobber end. As it was mentioned above, the field tech can still send an "on the way" text message without the adjusted permissions I believe. Anything other than the "on the way" message may just need to be sent as a regular text message outside of Jobber. In some cases, it may be better to just call the customer and verbally discuss the topic. As you know, the verbal phone call can be dialed out right from the Jobber app.
 
 ---
 
-## 6. How can teams manage user permissions and admin access in Jobber?
+## 7. How can teams manage user permissions and admin access in Jobber?
 
 **Author:** bbliss (Contributor 2)
-**Posted:** 2025-12-02
-**Views:** 91 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2025-12-08
+**Views:** 146 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/team-management/how-can-teams-manage-user-permissions-and-admin-access-in-jobber/7631
 
 ### Content
@@ -347,17 +446,17 @@ The permissions section needs to be more robust. There are members of organizati
 #### Reply 1
 
 **Author:** jade
-**Posted:** 2026-01-02
+**Posted:** 2026-01-08
 
 Hey Bliss, thanks for the feedback on user permission levels. If you are referring to the Marketing tools, it's correct that these require admin access. I can understand how it could be beneficial to have other non-admin employees access this feature, and I have submitted your suggestion to our Product Development team. We are always looking to improve. Thank you kindly for sharing. If you have any questions at all, please reach out to our Success Team 888-721-1115 ext 1 or email mailto:support@getjobber.com
 
 ---
 
-## 7. DELETED USERS INSTEAD OF LEAVING DEACTIVATED
+## 8. DELETED USERS INSTEAD OF LEAVING DEACTIVATED
 
 **Author:** OswaldoEPSI (Contributor 2)
-**Posted:** 2025-12-02
-**Views:** 84 | **Likes:** 0 | **Comments:** 3
+**Posted:** 2025-12-08
+**Views:** 148 | **Likes:** 0 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/team-management/deleted-users-instead-of-leaving-deactivated/7675
 
 ### Content
@@ -369,102 +468,31 @@ I deleted two users. How could I recovery the users and their history of task/ v
 #### Reply 1
 
 **Author:** krista
-**Posted:** 2025-12-02
+**Posted:** 2025-12-08
 
 Hi OswaldoEPSI​ I am sorry this happened. At the moment, there is not a way to recover users or their history once they have been deleted. Deactivated users keep their records visible, but deleted users are removed permanently. That said, I would really to understand a bit more about what you were trying to do, and what information you were hoping to keep. If you can share a little context about your workflow and what you expected to happen, I will pass that feedback along to our product team. We want to make sure this experience is clearer and better supported in the future.
 
 #### Reply 2
 
 **Author:** OswaldoEPSI
-**Posted:** 2025-12-02
+**Posted:** 2025-12-08
 
 Hi Krista, Thank you for your response. I don't understand why the history of work done for clients is deleted when the user is deleted. What I need to know is which jobs were done for specific clients. Even the schedule was deleted; it's not recorded, even when the person who performed the work is no longer a system user. I need to see the jobs done by my company in August, September, and October. Is there any way to generate a report of all the jobs done by my company during those months? Thank you for your support.
 
 #### Reply 3
 
 **Author:** krista
-**Posted:** 2026-01-02
+**Posted:** 2025-12-08
 
 Hi OswaldoEPSI​ Thanks for explaining, and I completely understand why this feels alarming. To clarify what gets removed when a user is deleted, the user profile and their assignment history are removed permanently, so you will no longer see that person as the assigned user in places the schedule or team filters. However, the jobs your company completed should still exist in your account, tied to the clients and properties. What is lost is the link to the deleted user, not the client work itself. Here are a couple ways you can pull everything your company did in August, September, and October. Option 1, Jobs report by date range Go to Reports. Open the Jobs report. Set the date range to August 1 through October 31 for the year you need. Filter by job status, usually Completed, if you want only finished work. You can then export the report to CSV or PDF. This will give you a full list of jobs completed in that window, regardless of whether the original user still exists. Option 2, Jobs list with filters Go to Jobs. Use Filters. Set Completed date to the same August 1 through October 31 range. Apply any other filters you want, for example by client or job type. You can export the filtered list as well. Option 3, Visits report if you need the schedule view If what you are really after is the visit and schedule history, go to Reports and open the Visits report. Set the date range to August 1 through October 31. Export from there. Even if the assigned user was deleted, visits and jobs should still show as company work for those dates, they just may not show a staff name anymore.
-
----
-
-## 8. What tools are anyone using for team communication?
-
-**Author:** Will-Welborn (Contributor 2)
-**Posted:** 2025-12-02
-**Views:** 185 | **Likes:** 2 | **Comments:** 8
-**URL:** https://community.getjobber.com/discussions/team-management/what-tools-are-anyone-using-for-team-communication/7522
-
-### Content
-
-The internal communication in Jobber is not robust enough for multiple team members, especially when we may be working on the same customer/job at different times. Features needed: - ability to mention/tag other team members so they are notified of the comment or message - keeps the communications "within Jobber" at least in knowing which customer the communication pertains to Is there a 3rd party tool/plug in that anyone has found useful for this need? Or even better, Jobber team, is there any plan to deploy this as part of a standard feature?
-
-### Replies (8)
-
-#### Reply 1
-
-**Author:** jade
-**Posted:** 2025-12-02
-
-Hey Will, I am so glad that the community stepped in here and offered lots of alternatives for team communication! Jobber does not have any immediate plans to add this feature, but it is certainly something that our development team can explore in the future. We are always looking to improve! I do Janine's suggestion of using the 2-way SMS to communicate with teammates, but I understand that certain permissions would be required. Thank you so much for your feedback.
-
-#### Reply 2
-
-**Author:** Will-Welborn
-**Posted:** 2025-12-02
-
-to jade Love Jobber and don't plan on leaving BUT, it surprises me that this is not something in development. Every other CRM, Sales Pipeline system, etc... I have ever used has internal user communication as a standard feature. As our team grows, the ability to tag/communicate within Jobber on specific clients/quotes/jobs is going to become extremely cumbersome.
-
-#### Reply 3
-
-**Author:** Janine-Chambers
-**Posted:** 2025-12-02
-
-I really Slack or Whatsapp for third party. They are free/low cost and app based. I have used the two way texting tool in Jobber to communicate with employees as well, but that isn't really the intended use for it and only admin or those with high permissions can use it inside of Jobber.
-
-#### Reply 4
-
-**Author:** AdamSylvester
-**Posted:** 2025-12-02
-
-I hope so because this is a critical collaboration tool and it's very common across all of our other apps we use (Company Cam, Openphone, Missive, etc.)
-
-#### Reply 5
-
-**Author:** judithvirag
-**Posted:** 2025-12-02
-
-BUILDER 1 We also use Slack. What I with Slack is we have purchased Tacos and through this app we were able to set up our own reward system. Also What's App.
-
-#### Reply 6
-
-**Author:** Will-Welborn
-**Posted:** 2025-12-02
-
-I have used slack before, but the real need is for team communication to be able to "connect" to the customer/job/estimate that the team is communicating about. Other CRM's have this as a common feature. Lover Jobber but don't know why this feature is not part of the software.
-
-#### Reply 7
-
-**Author:** RichardM
-**Posted:** 2025-12-02
-
-WhatsApp works best for us. You can copy and paste links from Jobber that follow through to the app (as long as everyone has access). I haven't tried Slack before.
-
-#### Reply 8
-
-**Author:** CMSRepairs
-**Posted:** 2025-12-02
-
-Our company uses tasks and just assigns the follows ups with tasks and a note.
 
 ---
 
 ## 9. Jobber Training
 
 **Author:** HBP (Contributor 2)
-**Posted:** 2025-11-02
-**Views:** 121 | **Likes:** 1 | **Comments:** 3
+**Posted:** 2025-11-08
+**Views:** 178 | **Likes:** 1 | **Comments:** 3
 **URL:** https://community.getjobber.com/discussions/team-management/jobber-training/7388
 
 ### Content
@@ -476,21 +504,21 @@ We’ve been using Jobber for a few years now, but the office manager who origin
 #### Reply 1
 
 **Author:** AdamSylvester
-**Posted:** 2025-11-02
+**Posted:** 2025-11-08
 
 I don’t believe Jobber does this but I can help. Shoot me an email and we’ll setup a call. Adam@adamsylvester.com
 
 #### Reply 2
 
 **Author:** julie
-**Posted:** 2025-11-02
+**Posted:** 2025-11-08
 
 JOBBER COMMUNITY TEAM Hey HBP, glad to hear you're enjoying using Jobber!I
 
 #### Reply 3
 
 **Author:** Janine-Chambers
-**Posted:** 2025-12-02
+**Posted:** 2025-12-08
 
 I offer 1-on-1 Jobber training via zoom. I have the participant screen share with me and I walk them through how to do what they need to do. It is very conversational and I show you how you can make Jobber work for your specific business/industry. Feel free to reach out or email me at mailto:hello@janinechambers.com or you can book a training session with me any time at http://www.janinechambers.com/jobbertrainingsession
 

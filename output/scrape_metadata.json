@@ -1,70 +1,70 @@
 {
   "marketing-tools": {
-    "lastScrapedAt": "2026-04-02T11:21:00.417Z",
-    "totalDiscussions": 33
+    "lastScrapedAt": "2026-05-08T07:32:17.979Z",
+    "totalDiscussions": 35
   },
   "quoting": {
-    "lastScrapedAt": "2026-04-02T11:33:45.210Z",
-    "totalDiscussions": 36
+    "lastScrapedAt": "2026-05-08T07:48:00.697Z",
+    "totalDiscussions": 40
   },
   "online-booking-requests": {
-    "lastScrapedAt": "2026-04-02T11:08:49.251Z",
-    "totalDiscussions": 21
+    "lastScrapedAt": "2026-05-08T07:16:30.065Z",
+    "totalDiscussions": 24
   },
   "job-details-scheduling": {
-    "lastScrapedAt": "2026-04-02T11:47:17.098Z",
-    "totalDiscussions": 90
+    "lastScrapedAt": "2026-05-08T08:12:30.362Z",
+    "totalDiscussions": 99
   },
   "invoicing-getting-paid": {
-    "lastScrapedAt": "2026-04-02T11:59:42.477Z",
-    "totalDiscussions": 73
+    "lastScrapedAt": "2026-05-08T08:26:03.576Z",
+    "totalDiscussions": 76
   },
   "insights-reporting": {
-    "lastScrapedAt": "2026-04-02T12:12:49.569Z",
+    "lastScrapedAt": "2026-05-08T08:32:09.190Z",
     "totalDiscussions": 35
   },
   "team-management": {
-    "lastScrapedAt": "2026-04-02T12:26:25.762Z",
+    "lastScrapedAt": "2026-05-08T08:38:43.064Z",
     "totalDiscussions": 29
   },
   "integrations": {
-    "lastScrapedAt": "2026-04-02T12:39:25.508Z",
-    "totalDiscussions": 64
+    "lastScrapedAt": "2026-05-08T08:53:17.168Z",
+    "totalDiscussions": 66
   },
   "customer-management-and-self-serve": {
-    "lastScrapedAt": "2026-04-02T12:52:35.276Z",
-    "totalDiscussions": 37
+    "lastScrapedAt": "2026-05-08T09:06:35.022Z",
+    "totalDiscussions": 38
   },
   "marketing-forum": {
-    "lastScrapedAt": "2026-04-02T13:30:17.100Z",
-    "totalDiscussions": 137
+    "lastScrapedAt": "2026-05-08T09:55:28.544Z",
+    "totalDiscussions": 169
   },
   "operations-forum": {
-    "lastScrapedAt": "2026-04-02T13:53:51.741Z",
-    "totalDiscussions": 125
+    "lastScrapedAt": "2026-05-08T10:30:15.186Z",
+    "totalDiscussions": 141
   },
   "finances-forum": {
-    "lastScrapedAt": "2026-04-02T14:18:56.030Z",
-    "totalDiscussions": 85
+    "lastScrapedAt": "2026-05-08T10:51:41.726Z",
+    "totalDiscussions": 98
   },
   "hiring--team-forum": {
-    "lastScrapedAt": "2026-04-02T14:42:00.860Z",
-    "totalDiscussions": 99
+    "lastScrapedAt": "2026-05-09T06:04:39.616Z",
+    "totalDiscussions": 111
   },
   "equipment--tools-forum": {
-    "lastScrapedAt": "2026-04-02T14:57:03.553Z",
-    "totalDiscussions": 37
+    "lastScrapedAt": "2026-05-09T06:25:24.107Z",
+    "totalDiscussions": 44
   },
   "entrepreneurship-forum": {
-    "lastScrapedAt": "2026-04-02T15:22:14.708Z",
-    "totalDiscussions": 159
+    "lastScrapedAt": "2026-05-09T06:56:27.961Z",
+    "totalDiscussions": 179
   },
   "electrical-mastermind-group": {
-    "lastScrapedAt": "2026-04-02T15:27:36.096Z",
+    "lastScrapedAt": "2026-05-09T07:01:50.792Z",
     "totalDiscussions": 0
   },
   "announcements": {
-    "lastScrapedAt": "2026-04-02T16:58:23.998Z",
-    "totalDiscussions": 26
+    "lastScrapedAt": "2026-05-09T08:15:16.056Z",
+    "totalDiscussions": 34
   }
 }

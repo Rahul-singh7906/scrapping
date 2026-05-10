@@ -1,62 +1,728 @@
 # Jobber Community Forum - Hiring  Team Forum
 
-Total Discussions: 99
+Total Discussions: 111
 
 ---
 
-## 1. Where do you find good quality candidates?
+## 1. Is hiring employees worth it for a small home service business?
 
-**Author:** PestFreeCanada (Contributor 5)
-**Posted:** 2026-03-26
-**Views:** 26 | **Likes:** 1 | **Comments:** 4
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/where-do-you-find-good-quality-candidates/9762
+**Author:** LandenLee05 (Contributor 2)
+**Posted:** 2026-05-05
+**Views:** 73 | **Likes:** 2 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/is-hiring-employees-worth-it-for-a-small-home-service-business/10795
 
 ### Content
 
-I am going to be starting to look to hire someone and I am wondering what platforms other people are using to find good quality candidates? COACHING FINDING EMPLOYEES GENERAL HIRING TIPS INTERVIEW TIPS & QUESTIONS PEST CONTROL TRAINING
+Any advice for someone scared to take the lead and hire another employee?
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-05-05
+
+Even those of us that have employees still ask that question lol For sure, you will have less to worry about and less overhead without employees. You'll never have to deal with interpersonal problems and you will have complete control over your final product. You won't have to spend a second training someone, or cleaning up a mess that someone else left you. The reality is hiring people is hard, and pretty much everyone learns this the hard way. There are great coaching courses to give you direction but you're going to have bad hires and it's going to be a pain. All that being said, you need to really assess what your goals are. For GC work, you should be able to easily clear six figures on your own BUT that's only if you work. You are 100% capped by time so you will only be able to make a certain amount. Also if you ever want a day off or you get hurt, your income will go down. Now depending on your trade, you could get around this with subs. Subs won't have all the expenses that come with an employee but here in California we have very strict sub contractor laws so you have to be mindful of that. The reality is if your goal is to get out of the day to day, you HAVE TO have employees and as long as your financially ready, just educate yourself as best as you can and dig in. Hire slow, fire fast. Always pay on time, pay a good wage so you attract the best candidates, and expect to spend a lot of time training. It's a lot of responsability to be the captain of someone else's earnings so don't take that lightly but also don't let anyone mess with your money. Give them a chance but if you know they won't work out, free them up to be a better fit somewhere else.
+
+#### Reply 2
+
+**Author:** Conrad
+**Posted:** 2026-05-06
+
+I don't see it as a question of being worth it... HugeHomePros touched on this, but it's really a question of whether you want to just make a job for yourself? Or whether you actually want to build a business that generates income without you? These are two completely different things and the approach to each is totally different. And there's ranges in between - sometimes people hire others to help them with their job. If you want a business that works without you - yeah there's no other way, you need employees. They are your "factory". The bigger your factory, the greater revenue and profit potential, but also the more things that can go wrong. "Where there's people, there's problems." So if you're not ready to deal with problems, you're probably not ready to have employees. It's not easy, but it does unlock huge opportunities and lifestyle advantages etc. that simply aren't possible if you stay on the tools doing the job yourself. There's also a lot to consider as far as key person risk. If you're the main income producing person - the risk is YOU. What happens if you can't work for any reason (sickness, injury etc.)? What happens when you get older (no one is young forever, and if you're doing physical work it puts a real toll on your body)? Will you be able to make enough money to achieve the lifestyle you want and retire in the way you want? Start thinking about what you want life to look in 10, 20 years. Then work backwards to see what you need to do to get there. When you're clear on that, most other decisions become easy.
+
+#### Reply 3
+
+**Author:** VCMEssentials
+**Posted:** 2026-05-07
+
+The "right" employees are always worth it! They can add value to your business from their customer service skills, on the job skills and team skills. As a small business owner you sometimes have to wear many hats, but finding employees that understand your mission, vision and are willing to follow direction and do the work is invaluable. You as the owner/operator can free up time to concentrate on areas that may need more of your attention, you might be due for a vacation or time-off and having the staff that you can trust and rely on can make you relax, and reset where you can be your best self on the job and at home. Ask yourself these questions 1. can hiring the right employees bring in more targeted business? 2. Will it help significantly lessen team stress and allow jobs not to be rushed? 3. Will it allow for more service offerings? 4. If it is in my budget, what reservations am I having to hiring and how can I mitigate those issues? In mitigation do I need to update or have policies and procedures in place? You have to look at where you business is and where you want to be in the next year to two years. Being a solopreneur is hard, stressful and a lot of mistakes and time can be lost as you are doing all the work, administrative, operations and in the field. So truly look at how you want your business to grow.
+
+#### Reply 4
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-05
+
+I think it comes down to trading your time and energy for other problems. When I'm out on the field scooping, I'm the most expensive scooper because the value of my time is so much higher compared to just hiring someone at $20 an hour to scoop dog poop. If you hire someone, you need to be filling up that extra time you just made with higher leverage activities that drive revenue and growth for your business (networking, following up on leads, working on projects that you know will make the business more efficient or more money). But having employees just means you're dealing with their issues as well, and it's a bigger burden since now you have their family relying on you to always "show up".
+
+#### Reply 5
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+Honestly, I was scared to hire my first guy too. The biggest mistake I see is hiring too early. Make sure you're actually turning down work before you bring someone on. When you do hire, take your time picking the right person. Attitude is more important than experience. I'd rather train a good guy with no experience than deal with a skilled guy with a bad attitude. Start with one part-timer. Way less pressure that way.
+
+#### Reply 6
+
+**Author:** PestFreeCanada
+**Posted:** 2026-05-06
+
+I told myself I wouldn't hire someone until I had 3 months of their salary in the bank that could disappear tomorrow and it wouldn't shutter my business. I am almost there and still feel I am not ready to hire. I think this question is so subjective. Think too about paying for a truck, equipment, fuel, uniforms, WSIB... all of that is part of it. You will know when it's time and you will have to make the decision. You can do what I did and start with a helper, a summer student or family or friends kid looking for work. It gives a really good taste of the responsibility with out all the risk.
+
+#### Reply 7
+
+**Author:** Kecleaning
+**Posted:** 2026-05-07
+
+NEW MEMBER I feel this is one of the hardest decisions a business owner makes. Check around your local community. Find out about interns. State programs, city programs, and unemployment programs. I have had interns from a program called Avenues to Living. Which helps find employment for youth that are ready to graduate soon with some limited disabilities. With no pressure to hire after the hours are completed. Same goes with some of the city programs around here. I just linked up with the DOL and they have a grant program here in NJ where if you hire someone through them you get up to a $10,000 reimbursement for wages. They find the employees; they make sure they have all the qualifications you are looking for and vet them. Also, no pressure to hire them permanently once the program is over. In the cleaning world turnover is crazy. Especially after covid. Only you will know when it's truly time.
+
+---
+
+## 2. What changed after you hired your first employee?
+
+**Author:** AnthonySalazar (Jobber Ambassador)
+**Posted:** 2026-05-07
+**Views:** 5 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-changed-after-you-hired-your-first-employee/10893
+
+### Content
+
+Hiring my first employee did not suddenly free up my schedule. For a while, it actually made things harder. I was still answering all the questions: “What do I do if the gate is locked?” “What if the dog is outside?” “Do I skip this area?” “How should I message the customer?” I realized I had a lot of expectations in my head that were never clearly documented anywhere. So every small issue still came back to me. One thing that helped us a lot was creating repeatable standards for the things that caused the most callbacks or customer complaints and using Job Forms to make sure my employees followed those standards. For example: gate photos at the end of every appointment customer instructions attached directly to the job clear arrival communication (sending an on the way message 30-45 minutes before each visit) completion forms with a checklist of all actions done on the visit (waste hauled away, gate locked and secured, sanitized boots and equipment) Once those things were written down and repeated consistently, the business became a lot less dependent on me making every decision throughout the day. Curious what other owners experienced with this. What got easier after your first hire? And what unexpectedly became harder?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 3. Hiring Slow - Would You Hire Someone that Didn't Look in to Your Company?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-05-07
+**Views:** 11 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/hiring-slow---would-you-hire-someone-that-didnt-look-in-to-your-company/10875
+
+### Content
+
+I'm a part of breakthrough academy and they really recommend hiring slow, so being really picky about who you hire. With that, comes creating a lot of barriers that the candidate essentially needs to "fight through" to get to that next stage and ultimately be hired. I do some of these things now but I had one thing pop up on a few interviews and I was wondering if ya'll think I'm being too hard headed when it comes to this. Keep in mind these candidates applied where they had to submit pictures of their work - then they filled out a lengthy survey about job skills and abilities. The first interview, the first question is "Did you look in to our company at all?" - most the time I'm being told no. LOL For me that's crazy but it also makes me want to just hang up the phone. Why should I care about you if you don't care about the thing you're going to commit most of your day toward? My job postings are pretty long and descriptive but would you automatically disqualify someone why hasn't even been to your website?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-07
+
+Honestly for me it's a huge red flag when someone doesn't take at least 5 minutes to do some basic research on the company they're interviewing with. It shows a lack of initiative and attention to detail to tip the scale in their favor. But I would say for every 10 people I interview, maybe only 1-2 of them will actually Google our business name or what we do lol. That's why the first question I ask on an interview is "What can you tell me about Salazar Scoops?" lol. I think out of the 3 technicians I currently have, only one of them actually did some basic research and the other 2 had no idea what we did but they're still great team members!
+
+---
+
+## 4. How do you know when it's the right time to hire your first employee?
+
+**Author:** justintr1 (Contributor 2)
+**Posted:** 2026-05-04
+**Views:** 87 | **Likes:** 0 | **Comments:** 8
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-know-when-its-the-right-time-to-hire-your-first-employee/10776
+
+### Content
+
+when do you know its a good time to hire someone?
+
+### Replies (8)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-04
+
+When you get tired of having to do everything yourself, or feel you can't take a day off for a vacation or an emergency. If you're at capacity with work and can no longer accept new clients, that's a good indication to either 1) raise prices or 2) hire someone to increase your capacity
+
+#### Reply 2
+
+**Author:** justintr1
+**Posted:** 2026-05-04
+
+to AnthonySalazar and when i decide to hire a person what should i pay them and and what should i charge for them being on the jobsite?
+
+#### Reply 3
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-04
+
+to justintr1 I've always tried to keep total labor cost between 25-40% of the revenue generated since you still need to account for all your other expenses licenses, marketing, fuel/supplies and paying yourself
+
+#### Reply 4
+
+**Author:** Jsparks
+**Posted:** 2026-05-04
+
+If you have the work lined up and not enough time to get the jobs done and if you are missing out to much on family events. We work to live not live to work
+
+#### Reply 5
+
+**Author:** agentoly
+**Posted:** 2026-05-04
+
+When paying that person doesn't make your payroll more than 35% of what you bring in. I hired because the job wouldn't allow me to do it by myself and because I couldnt be on multiple jobsites at the same time. Everyone wants a job but can your job support them
+
+#### Reply 6
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+You know it’s time to hire your first employee when you’re consistently turning down work or you’re so booked up that you can’t keep up with the demand. For me, I waited until I was booked out about 3–4 weeks and had to start telling customers I couldn’t get to them for over a month. That’s when I knew I was leaving money on the table. If you’re still worried about having enough work, you’re probably not ready yet. When you’re truly ready, you’ll know — because the work will be there and you physically can’t do it all yourself.
+
+#### Reply 7
+
+**Author:** PestFreeCanada
+**Posted:** 2026-05-06
+
+I had this same problem and I solved it in a very easy going and smart way, I hired a summer student. He isn't out working on his own yet, he is more of a my helper. He will get tools from the truck, clean up a job site, hold a ladder, etc. Its giving me the experience having someone working for me and seeing how it feels before I hire someone who is dependant on me to make a living. I am slowly seeing what I can trust someone to do on their own or with me. It is making my stops a lot faster and more efficient and allowing me to take on more work in a day. That is what we all want isn't it???
+
+#### Reply 8
+
+**Author:** judithvirag
+**Posted:** 2026-05-06
+
+BUILDER 1 Great question. For me it was the right time when I could not do the work on my own. I had enough to hire someone part time. Then it grew into full time pretty quick.
+
+---
+
+## 5. How are you Hiring Reliable Employees in the Cleaning Industry?
+
+**Author:** specktacularfam (Contributor 3)
+**Posted:** 2026-05-01
+**Views:** 48 | **Likes:** 0 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-are-you-hiring-reliable-employees-in-the-cleaning-industry/10687
+
+### Content
+
+Hi everyone, I’m currently growing my cleaning business and getting to the point where I need to start bringing on employees. I want to build a solid, dependable team—not just people who show up, but people who actually care about the work and take pride in what they do. For those of you who have already gone through the hiring process, I’d really appreciate your insight: Where are you finding your best employees? (Indeed, Facebook, referrals, etc.) What qualities do you look for when hiring cleaners? Do you require prior experience, or do you train from scratch? How do you handle background checks and trust/security in clients’ homes? What pay structure or incentives have helped you keep employees long-term? Any red flags you’ve learned to watch out for during interviews? In my business, we don’t do quick surface cleans—we focus on deep, detailed, time-consuming work. Because of that, I want to make sure I’m hiring people who can handle that level of effort and consistency. I’m also trying to build a positive, supportive work environment while still maintaining high standards. Any advice on balancing that would be helpful too. Looking forward to hearing what’s worked (and what hasn’t) for you all!
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-03
+
+We've had a lot of success running paid listings on indeed ($3-5 a day), requesting the applicant to fill out a DISC assessment before an interview (we look for high S and C for scoopers), then a quick 10-15 minute video interview to see if they can follow basic instructions. If they pass all of that during the slow seasons I used to do a "working interview" for just one hour where they'll scoop with me to see if they actually enjoy the job and I'll pay them $20. But during spring rush I didn't have the time to do the working interview so I just hired the best fits that followed instructions lol.
+
+#### Reply 2
+
+**Author:** judithvirag
+**Posted:** 2026-05-02
+
+BUILDER 1 julie​ thanks for the tag and specktacularfam​ it is amazing news that you are growing and starting to hire. When I started I had no idea what I was doing so I hired a lot of family and friends - which backfired quickly. After a while I was really torn as I had a lot of %^&* going on in my business and I decided to hire a business coach. He coached me through our core values and we only hire based on or core values and attitude now. Here are some answers to your questions: Where are you finding your best employees? (Indeed, Facebook, referrals, etc.) We use Indeed and we also participate on job fairs What qualities do you look for when hiring cleaners? Attitude is number one. We do have a lot of qualifying questions - ie. Do you have your own vehicle and drivers license, can you work Mon to Fri 9-5, are you comfortable with pets, are you comfortable with the driving that is part of the job. Do you require prior experience, or do you train from scratch? We train so we hire without or with experience How do you handle background checks and trust/security in clients’ homes? We run background checks on everyone that we pay for. I guess for security not sure good question, our clients trust us. As for the team members we are quite clear that if the customer comes to us that something in missing we will call the police right away. What pay structure or incentives have helped you keep employees long-term? Benefits, extra upaid vacation, fair wages Any red flags you’ve learned to watch out for during interviews? If they only want to work in one area, if they are not flexible. Hope this helps!
+
+#### Reply 3
+
+**Author:** julie
+**Posted:** 2026-05-01
+
+JOBBER COMMUNITY TEAM Tagging judithvirag​ roselvaggio​ for visibility!
+
+#### Reply 4
+
+**Author:** specktacularfam
+**Posted:** 2026-05-03
+
+Thank you everyone for your amazing tips & advice! Thankful for this community!
+
+---
+
+## 6. Who has employees who can actually list the core values of your business?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-04-30
+**Views:** 42 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/who-has-employees-who-can-actually-list-the-core-values-of-your-business/10657
+
+### Content
+
+We just reinvented our mission, vision, and values. When introducing them to the team, I felt I was throwing corporate jargon at them, but the core values are now used for performance evaluations, termination decisions, and they are threaded into all operations. During a core value analysis, 90% of the team exudes what we're looking for, but I am curious as to how to get them to love this versus looking at it as "words painted on a wall". Thoughts?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-05-01
+
+I have thought about this many times. What are the core values of my company, and how does that shine through to my clients. At the end of the day that is what its all about. What the customer sees and feels during their experience with the service. I am an owner operator so I can easily give customers exactly what I envisioned every single day. And I have also worked for companies in the past that pushed those "words printed on a wall" type of vision. I think the passion and living the true meaning of your vision starts right at the top. If the owner isn't living up to it then that trickles down to customer facing employees. I had owners and managers who's last thought was about the vision and more focused on profit, job completion and as little stress as possible. Being passionate and extreme with your vision is what matters. If you have 1 employee, it's easy to keep those values strong every day. The more you hire the more diluted that passion can become. Promote those who radiate that vision, a Wi-Fi repeater to get the signal to the back room! Drive the vision home with passionate stories, experiences that you see employees going above and beyond and praising the work people are doing with your goals at the forefront. Great question. It really made me start thinking about this again.
+
+---
+
+## 7. What behavior do you tolerate that’s quietly costing you revenue or reputation?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 167 | **Likes:** 3 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-behavior-do-you-tolerate-that%E2%80%99s-quietly-costing-you-revenue-or-reputation/9938
+
+### Content
+
+As we’ve grown, the biggest thing we’ve had to confront is tolerating inconsistency in service quality, especially from newer team members. Even small things (missed details, slower communication, or not fully following SOPs) can quietly impact client trust and retention over time. Individually, they seem minor. But at scale, they affect: Client experience Referrals and reviews Long-term revenue We’re learning that what you tolerate becomes your standard so tightening accountability, training, and follow-through has become a major focus as we scale.
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2026-04-09
+
+BUILDER 1 Never ending auditing, checking and babysitting LOL. Life of a business owner. Even if everything is pretty closely followed, still find small mistakes. I pick my battles as I make mistakes too.
+
+#### Reply 2
+
+**Author:** tileninja
+**Posted:** 2026-04-08
+
+The biggest thing I’ve had to address is tolerating misalignment—whether that’s unclear scope, rushed decisions, or clients not committed to doing things the right way. It can cost time, slow production, and impact the final product. I’ve tightened that up by setting clearer expectations, controlling the process, and only taking on work that meets the standard.
+
+#### Reply 3
+
+**Author:** ryaantuttle
+**Posted:** 2026-04-09
+
+Sounds the forever battle to me! roselvaggio​ This is people being human and management realizing that nothing will ever be cared for or done to their level of satisfaction. As you "scale", you scale the problems and inefficiencies that were already underlining. That's why it's important to really evaluate why and what your'e "scaling". There's house fires and then theres dumpster fires. Either way it's more important to grow our people than our customers.
+
+#### Reply 4
+
+**Author:** Jamierunco77
+**Posted:** 2026-04-29
+
+Love this Rosie.
+
+---
+
+## 8. What kind of small mistakes would you let slide on a new workers first day?
+
+**Author:** PestFreeCanada (Contributor 5)
+**Posted:** 2026-04-23
+**Views:** 147 | **Likes:** 4 | **Comments:** 9
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-kind-of-small-mistakes-would-you-let-slide-on-a-new-workers-first-day/10451
+
+### Content
+
+I just hired my first employee. He is a young, bright, articulate 22 year old fresh out of university. I took him on as a summer intern to help me during my busy months to start, with the hopes he likes the industry and wants to go further. Yesterday was his first day and as he were loading up the truck after a job, and he left my $500 telescopic ladder on the customers lawn while I was speaking to the customer. I didn't realize until we got to our next job for the day. He reacted very professionally to it, apologized many times and even offered to take an Uber to the last place and grab it and come back! I didn't scold him or say anything negative but it did make me think... Has anyone had experience with a disastrous first day with a new employee? An instant red flag? What happened that made you pull the plug after day one? What are some mistakes that are expected on a first day?
+
+### Replies (9)
+
+#### Reply 1
+
+**Author:** JohnD
+**Posted:** 2026-04-23
+
+I tend to be fairly easygoing for the first few days. Its a highly stressful time for the new employee and they probably aren't thinking at their most efficient. After a few weeks, maybe a month I start to focus in a bit more and dial in on correcting mistakes. I think it would have to be a pretty significant mess up to fire a guy on day one. Only time I've seen it was when I was a foreman for a previous employer and a guy showed up drunk on day one, he wasn't allowed to come back, thats a red flag for sure!
+
+#### Reply 2
+
+**Author:** BrennanB
+**Posted:** 2026-04-24
+
+I agree to all of those replies. Sometimes good workers beat themselves up more than you would, especially if they care. You can train and train people but cant make them care!
+
+#### Reply 3
+
+**Author:** PricePremierFl
+**Posted:** 2026-04-24
+
+For me, it depends on the mistake and the attitude behind it. Leaving a ladder or a tool behind on day one isn’t ideal, but it’s also not the end of the world if the person owns it, fixes it, and shows they actually care. I’m big on accountability. If you can admit it, correct it, and not make it a pattern, we’re good. Red flags for me are excuses, blame-shifting, or acting the mistake isn’t a big deal. I can teach skills all day, but I can’t teach work ethic or character. First-day nerves are normal, lack of responsibility isn’t.
+
+#### Reply 4
+
+**Author:** sam-s
+**Posted:** 2026-04-23
+
+Real red flags are usually personality traits: sloppy, disrespectful, slow to help, etc. Everything is new to him today. You, the vehicle, the Client, the clothes (if he's in uniform). It makes sense he'd overlook something small that - especially because he can't take one look at the back of your truck and say "Something's missing here". If anything, his response to the ladder incident makes me think MORE of him, not less. Bottom line: congrats on hiring your first employee! That's HUGE. Your entire "business owner immune system" is hyperactive right now 😄. It's trying to protect your business!
+
+#### Reply 5
+
+**Author:** TheRealJenkins
+**Posted:** 2026-04-24
+
+Everyone makes mistakes, not just the new guys. It’s how those mistakes are handled that really matters. PricePremierFL said it the best. Excuses and blame shifting tell me that person is never going to learn from their mistakes. That is someone I don’t want representing me and my company.
+
+#### Reply 6
+
+**Author:** roselvaggio
+**Posted:** 2026-04-25
+
+Our new technicians tend to be super nervous their first day- new job, new environment, new people (all women at that!) We have had trainees use alkaline cleaners where they should've used acidic.. or changed the thermostat up in a client's home without permission.. or parked in a driveway without knowing we aren't allowed-- all of these are learning lessons. We are very lenient related to these things, but when it comes to disrespect toward other team members or our clients, we have pulled after 1-2 days.
+
+#### Reply 7
+
+**Author:** GreenVizionz
+**Posted:** 2026-04-25
+
+I remember when I first started working with my neighbor as a teenager. We worked long hours for very little pay, but I took pride in learning the work and doing things the right way. One day, I made a mistake and left his STIHL backpack blower at a job site. When we went back, it was gone. He was understandably upset and raised his voice, but I stayed composed, owned the mistake, and didn’t make excuses. That moment stuck with me. Instead of letting it discourage me, it pushed me to be more detail-oriented, accountable, and professional in everything I do. I learned early on that mistakes will happen, but how you respond is what defines you. Since then, I’ve made it a priority to double-check my work, respect other people’s property, and carry myself with professionalism no matter the situation. That experience helped shape how I run my business today—with accountability, consistency, and a strong work ethic.
+
+#### Reply 8
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-26
+
+I had someone asking other what they were paid one time. Huge red flag haha He didn't last very long and now I have a talk with the guys ahead of time about things that. I'm generally pretty easy going. Things I let slide but talk to them about involve - being late, being on their phone, things that.
+
+#### Reply 9
+
+**Author:** judithvirag
+**Posted:** 2026-04-28
+
+BUILDER 1 Red flags for us is attitude. Sounds this person had the best attitude offering to go get it. They are nervous and don't know yet where to pay attention on the first couple days. We coach them through it. If this person would have shurgged a shoulder, yes immiediate dismissal.
+
+---
+
+## 9. Hiring Help.. Collapsing my Growth
+
+**Author:** GeorgesElec (Contributor 2)
+**Posted:** 2026-04-11
+**Views:** 85 | **Likes:** 1 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/hiring-help-collapsing-my-growth/10109
+
+### Content
+
+I need journeymen electricians and cannot find them anywhere. I have an insane amount of work but lack the talent. I offer $5000.00 sign on bonus $2000.00 Referral reward Full Health benefits Brand new work truck no on call schedule and so much more with avg income over $175k Please give me some pointers and what helped you
 
 ### Replies (4)
 
 #### Reply 1
 
 **Author:** julie
-**Posted:** 2026-03-27
+**Posted:** 2026-04-15
 
-JOBBER COMMUNITY TEAM I can imagine finding and hiring pest control techs being a bit more difficult than, let's say, lawn care or cleaning. 🤔 Other than the usual suggestions job boards and social media (which are great to start with), I would look into local FB groups, community networking groups (someone's son or daughter might be interested in this career path, you never know!), and technical programs/colleges that offer pesticide certification programs and see if you can partner with them for student referrals. Going to tag a few pest control members to see if they can chime in with their insights! Pestguy​ CatalinaPest​ WING8PestSvcs​ RatFinder​ allpestoff​ SmallTownCEO​
+JOBBER COMMUNITY TEAM WiringByron​ jrselectric​ Hey you two! Any chance you can share some advice here?
 
 #### Reply 2
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-27
+**Author:** WiringByron
+**Posted:** 2026-04-15
 
-I've had some luck on zip recruiter. You just have to be careful to not leave the job open for too long because they charge you per job posting. Also, in your posting, make sure to ask them to do a lot, not just submit a resume. For us, we ask for 3 pictures of their work and if they don't submit them I don't pass them along. My goal is to make the application process take a little longer so the most interested candidates are the ones i'm spending time on.
+That's really interesting. I've heard about this DC area before, and I know it's extremely tough to find people there. I'm in Vancouver, Canada, and there is definitely a shortage of electricians here, for sure. My one main tip I would give you is to network your way to finding these electricians. That means talking to every single person you know and asking them if they know any other electricians, because those electricians are going to know other electricians. Essentially, you got to think that all of these guys already have jobs, so you're basically trying to move them from one situation to another. And another question would be, is your situation better? Are you guys really organized? How is the culture? How is the training, the bonus plan, the benefits?I call it the cozy home. Why is your house more cozy than the other company? Another thing is, you're going to have to home grow these electricians. Start them off as apprentices and grow them into really important roles at your company. If you have this much growth, you'd probably Have to get involved with the local high schools in your area and technical colleges wherever these electricians are getting trained. I'm sure there's something that you can get involved with or somebody you can start networking with. P.S. That's more money than I pay myself. L.O.L. Jeez, Canada sucks. Maybe I'll come work for you.
+
+#### Reply 3
+
+**Author:** WiringByron
+**Posted:** 2026-04-15
+
+PX Alex Hermosi would tell you to charge more so that you can pay your guys more, but damn, 175k sounds pretty awesome to me.
+
+#### Reply 4
+
+**Author:** TurfT
+**Posted:** 2026-04-27
+
+As a fellow electrician who walked away to start a lawn care business, your post caught my eye. Honestly, if I’d found a job offering $175k with those benefits back then, I probably would’ve never started my own business! But here’s the perspective from the other side: I chose lawn care for the flexibility and freedom, not just the money. For years, I felt overqualified and stuck in a boring routine where every day was the same old thing, usually while answering to a boss who knew less than I did. One thing that would keep me away regardless of the pay is the schedule. You couldn’t pay me enough to work 'oil field' hours or rotating day/evening/night shifts. Working crazy hours and being away from family just isn't worth it at the end of the day. If your roles involve that kind of rotation or out-of-town work, that might be exactly why you aren't finding the talent. I started my own business because I was bored, I wanted challenges, autonomy, and wanted to be sleeping in my own bed every night and have breakfast with my family in the mornings. That what makes my life happy, not crazy money with crazy hours.
+
+---
+
+## 10. As a remodeler - would you hire a non-fluent English speaker?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-21
+**Views:** 109 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/as-a-remodeler---would-you-hire-a-non-fluent-english-speaker/10383
+
+### Content
+
+I had an interesting situation come up and I was wondering everyone's take on it. My company does small jobs to full remodels and our guys interact with clients a lot. I'm looking for another remodeler on my team to primarily handle bathroom renovations. I had a candidate come in that had really good pictures and what looks good technical knowledge but he spoke Russian and it was hard to communicate. We were using a translator app to speak to each other and he seemed a good guy with good knowledge but it was hard to communicate. He had all his papers squared away so that wasn't the issue. Would you disqualify someone on difficulty communicating alone? My concern is with all the things that can come up with a remodel, it's important to be able to quickly communicate that to the team and I'm concerned we would spend too much time trying to get the message across.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-23
+
+If the guy does good work and is trustworthy, I would keep him on. I would also be pushing him to study English and make that a priority. Work together and practice speaking as much as you can. I wouldn't leave him alone with a customer until his communication was better in case a customer had a question or concern, but have him more as a labourer to start. Good workers are really hard to find. Good communicators are also hard to find. I personally would rather have a good worker who is a poor speaker, than a strong speaker who is a bad worker.
+
+#### Reply 2
+
+**Author:** PricePremierFl
+**Posted:** 2026-04-24
+
+In my businesses, communication is non‑negotiable because we’re in and out of people’s homes every day. I’ve had highly skilled guys apply who could do beautiful tile work or solid repairs, but if they can’t clearly communicate with clients or my team, it becomes a liability. For example, in my flooring/tile and handyman work, I need someone who can explain issues, get approvals, and update customers without me having to translate every step. Same with my pool service side, if a tech can’t communicate a safety issue, a chemical problem, or a repair need, that’s a real risk. Skill matters, but so does clarity. I wouldn’t disqualify someone just because English isn’t their first language, but I would need to see that they can communicate well enough to keep jobs moving, avoid mistakes, and maintain the customer experience. If the language barrier slows down the workflow or creates confusion, it’s not the right fit for the role.
+
+#### Reply 3
+
+**Author:** AdamsI01
+**Posted:** 2026-04-23
+
+I can agree with that because if the work is good you said then keep him and help him work on his English but also keep him because if you run into a customer one day who doesn't speak fluid English then you can always use him to translate what your saying
+
+---
+
+## 11. Hiring and onboarding… how often are you modifying your playbook?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-04-14
+**Views:** 95 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/hiring-and-onboarding%E2%80%A6-how-often-are-you-modifying-your-playbook/10155
+
+### Content
+
+We have collectively changed our processes around hiring and onboarding almost annually at this point. We have grown an average of 20% YOY and this is constantly up for review. Just this year, we have built it out to still work when the company is “10x” where we are today (that would put us over $10MM). Has anyone else found themselves becoming more strict around who they bring into their team? How much do your core values affect your decisions in hiring? What unique things do you implement to make the process less “gut instinct”?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-15
+
+I would rather grow slowly with a strong team than grow quickly with a poor team. I would never hire someone who didn't adhere to my companies values and quality standards. I can see more growth with one very strong person rather than 4 bad ones.
+
+#### Reply 2
+
+**Author:** losttribe
+**Posted:** 2026-04-16
+
+Exactly 💯
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2026-04-17
+
+BUILDER 1 Absolutely my hiring process evolved in the past 17 years. I am not involved at this time only if I were to bring on a management team member. For us core values is the most important along with attitude. At times we don't pay attention to the small signs and it always comes and bites us in the butt. Adding trusting your gut is important too. My body always tells me if something is off.
+
+---
+
+## 12. How Do You Communicate A Labor Budget To Someone When Negotiating a Rate?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 102 | **Likes:** 3 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-communicate-a-labor-budget-to-someone-when-negotiating-a-rate/9898
+
+### Content
+
+I'm onboarding a few different admin positions and I'm trying to do it the right way. This means coming up with a budget that works, then making the new position's pay based off of that with performance pay to help increase their pay with company performance. The issue I'm running in to is of course everyone wants more money. Me too lol But I struggle a little telling them why this is why I am paying what I am. As a side note, I'm also struggling a little bit communicating why it needs to be performance based. How do you guys communicate that to your team? What do you do when they want more, are a home run hire, but you don't have the budget for it?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** michael090
+**Posted:** 2026-04-08
+
+Here’s a tighter, more natural version: “I keep it simpleI tell them the base has to stay within what the business can sustain, not just what we’d to pay. For performance pay, I position it as upside: instead of being capped, they can earn more as results come in. If someone wants more and I can’t meet it, I’m upfront about it and show them what growth would need to happen to increase their pay. If that doesn’t work for them, they’re probably not the right fit right now.
+
+---
+
+## 13. How do you keep good employees from leaving?
+
+**Author:** judithvirag (Builder 1)
+**Posted:** 2026-04-08
+**Views:** 128 | **Likes:** 4 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-keep-good-employees-from-leaving/9657
+
+### Content
+
+BUILDER 1 I had my cleaning company for 17 years now. I have had my fair share of good employees. My longest serving couple has been 12 years. Then I had some team members for 4+ years. While I do not want them to leave as it is hard to find good team members with our core values, I find that they do run their course due to the nature of the job. What have you implemented that helped your business to keep and engage long term good employees? TIA
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-04-08
+
+You don’t “keep” good employees, you give them a reason to stay. For us, that means: Consistent schedules + pay (no chaos), clear expectations (no guessing games), recognition + growth (they’re not stuck cleaning forever), and actually caring about their life outside work. Most don’t leave over money, they leave over stress, confusion, or feeling unappreciated. Fix those, and retention gets a lot easier.
+
+#### Reply 2
+
+**Author:** Clean_Crew
+**Posted:** 2026-04-11
+
+For house cleaning I feel it is really difficult to retain contractors or employees due to the difficulty of the work. It takes a certain type of person and they have to love to clean. Everyone thinks they can do it until they find out it is hard to do. In addition, these change constantly. For instance, clients change the date, employees call in for various reasons. So consistant schedules is not that easy. I am finding a good commission of at least 55% of the job works great and they set their own schedules ahead of time. I can do better on the reward part as I don't have a big budget for this. Any suggestions would help!
+
+#### Reply 3
+
+**Author:** DOMINIC030
+**Posted:** 2026-04-08
+
+pay them at least $150 per day to start. The #1 factor in a crew member is starting pay and frequency of pay.
+
+#### Reply 4
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+It's always good to find out why they are leaving and do what your company can do to take that edge off. If its family time or issues, adapt their start or finish time. If its issues with another employee, revise the schedule. If it is money, incentivise them with some commission. Whatever the issue is I am sure there is a creative solution that makes sense for you and an employee. Sometimes too you just have to let them leave, the open road is calling. Maybe the industry isn't for them anymore. Keeping someone who doesn't want to stay can become toxic, but a long standing employee leaving can be toxic too. Sometimes you got to just take your medicine and keep moving forward. Ahhhhhhh, the joys of business ownership no one really talks about!
+
+#### Reply 5
+
+**Author:** GeorgesElec
+**Posted:** 2026-04-11
+
+I am putting together a package called Longevity Bonus that are paid out at 4 different milestones for each year. IE: $250,000.00 in sales/installs = 3.5% bonus is $8,750.00 and for $500k $750K and 1 Million Restarts every year. I am an owner now but I was a 16 year field sales/tech and would have died for a program this
+
+#### Reply 6
+
+**Author:** PricePremierFl
+**Posted:** 2026-04-24
+
+For me, keeping good employees comes down to giving them a reason to stay beyond just a paycheck. In my businesses, the people who stick around the longest are the ones who feel valued, challenged, and trusted with real responsibility. I’ve learned that most good workers don’t leave because of the work, they leave because they don’t see growth, don’t feel appreciated, or feel they’re just another body on the schedule. So I focus on creating an environment where they feel part of something, not replaceable. Different Approaches That Have Worked for Me 1. Give them ownership of something small Not a title, a responsibility. When someone feels responsible for a piece of the business (quality checks, customer updates, equipment care, etc.), they take pride in it and stay longer. 2. Show them the path forward Even if it’s simple: - “Here’s what you need to do to earn more.” - “Here’s how you can move into a lead role.” People stay when they can see their future. 3. Keep communication open and honest I do quick check‑ins: - “How’s the workload?” - “Anything slowing you down?” - “Anything you want to learn next?” Small conversations prevent big problems. 4. Reward reliability, not just speed Some employees aren’t the fastest, but they’re consistent, respectful, and dependable. I make sure those people feel seen, bonuses, flexibility, or even just recognition goes a long way. 5. Build a culture where good workers don’t feel punished for being good If someone is always the one fixing others’ mistakes, they burn out. I make sure the load is balanced and that strong employees aren’t carrying the whole team. At the end of the day, people stay where they feel respected, supported, and their work actually matters. When you build that kind of environment, the good ones don’t want to leave.
+
+---
+
+## 14. Do You Train Your Team to Think or Just Work?
+
+**Author:** EnergizeUs (Jobber Ambassador)
+**Posted:** 2025-08-08
+**Views:** 289 | **Likes:** 1 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/do-you-train-your-team-to-think-or-just-work/5118
+
+### Content
+
+Every Monday, we hold a short training session with our team. We train on communication. leadership. & mindset. The reason being most tradespeople aren’t struggling because they can’t do the work. They’re struggling because they were never taught how to: Speak with clarity Handle conflict Lead a crew Represent the business professionally These tend to be the issues I see bottling up, either from our exit interviews or customer feed back or when things are misunderstood. Thats why I'm curious: Do you train soft skills with your crew?
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** LauraWhalen
+**Posted:** 2025-08-08
+
+Definitely train them to think things through and do what is best for the company and the client. Keeping the clients happy is our number one priority as this nets my company repeat business and referrals.
+
+#### Reply 2
+
+**Author:** EnergizeUs
+**Posted:** 2025-08-08
+
+to LauraWhalen I love your example Thank you for that Is there anything you do specifically to help train your team? For example, how do they go about the opportunities because so many people come into work thinking let me just get this done with and move on. How do you train your team?
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2025-08-08
+
+BUILDER 1 As much as we can yes! And for the other times they are free to ask questions.
+
+#### Reply 4
+
+**Author:** EnergizeUs
+**Posted:** 2025-08-08
+
+to judithvirag I love the example that you are leaving. Especially leaving yourself open to give that training.
+
+#### Reply 5
+
+**Author:** PricePremierFl
+**Posted:** 2026-04-24
+
+I’m big on training my team to think, not just work. In my businesses, the technical side is usually the easiest part to teach. It’s the communication, decision‑making, and professionalism that make or break a job. Whether it’s flooring, tile, handyman work, or pool service, my guys are in customers’ homes and backyards every day. They need to be able to speak clearly, handle small conflicts, explain what they’re doing, and represent the business the right way. If they can’t do that, the quality of the work doesn’t matter because the customer experience falls apart. So yes, we train soft skills. I’d rather spend time upfront teaching someone how to think through a situation, communicate an issue, or take ownership than constantly putting out fires later. A crew that can think saves me time, protects the brand, and keeps customers happy.
+
+---
+
+## 15. What Features Would Be Helpful for Dealing with Subcontractors on Your Team?
+
+**Author:** ryaantuttle (Jobber Ambassador)
+**Posted:** 2025-05-08
+**Views:** 451 | **Likes:** 1 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-features-would-be-helpful-for-dealing-with-subcontractors-on-your-team/2978
+
+### Content
+
+Subcontractors can be a powerful way to grow your service business—but managing them smoothly takes the right tools. From scheduling to paperwork to payments, things can get complicated fast if you're relying on spreadsheets or text threads. Here are a few key ideas to kick off the conversation: Insurance Certificate Tracking + Expiration Reminders Making sure your subcontractors are insured is a no-brainer—but keeping track of their certificates and renewal dates can be a hassle. A built-in feature that stores insurance docs and sends automatic reminders before they expire would help keep your business protected and organized. Built-in Payment Processing for Subcontractors Paying subs quickly and clearly is essential for maintaining good relationships. Imagine being able to approve their invoices and process payments right through Jobber—no more chasing emails or juggling payment apps. Subcontractor Availability Scheduling Knowing when your subs are available is half the battle. A shared calendar where subcontractors can input their availability would make job assignment way easier and help avoid scheduling conflicts before they happen. What would you to see added to help manage subcontractors better? Drop your ideas in the comments—👇
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** CyndallCarver
+**Posted:** 2025-05-08
+
+So is there a way to keep track of insurance certificates and send reminders of upcoming expiration dates?
+
+#### Reply 2
+
+**Author:** ryaantuttle
+**Posted:** 2025-10-08
+
+to CyndallCarver Not yet! However, I believe this feature will be added soon. Right now we set up a Google calendar with alerts set 1 month ahead of any certs expiring.
+
+#### Reply 3
+
+**Author:** awmcarp
+**Posted:** 2025-06-08
+
+Allowing them to see the job calendar and related job documents (prints, selections,...).
+
+#### Reply 4
+
+**Author:** jonathantreat
+**Posted:** 2025-10-08
+
+The ability to have better scheduling for longer-term remodel jobs that can be assigned to a subcontractor would be a great addition.
+
+#### Reply 5
+
+**Author:** BrianB
+**Posted:** 2026-04-15
+
+to jonathantreat We need to be able to dispatch a sub on a job without the need for them to actually login to an app. Most subs just want to do the work they’re contracted for and not learn an app for each company they do business with. Sending them an email/TXT message when assigned with links to the Job and Job Forms on a webpage would be great, something that displays well on a mobile phone. Give them the ability to complete the Job and Job Forms and leave some notes, then it gets pushed back into Jobber. Right now we pay for user for our subs but have no functionality other than scheduling. If anyone wants to reach out, I would be more than happy to help.
+
+---
+
+## 16. Where do you find good quality candidates?
+
+**Author:** PestFreeCanada (Contributor 5)
+**Posted:** 2026-04-08
+**Views:** 123 | **Likes:** 1 | **Comments:** 5
+**URL:** https://community.getjobber.com/discussions/hiring--team-forum/where-do-you-find-good-quality-candidates/9762
+
+### Content
+
+I am going to be starting to look to hire someone and I am wondering what platforms other people are using to find good quality candidates?
+
+### Replies (5)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 We use Indeed as a platform and Zoho Recruiting to manage the candidates. As a small business coach this question always comes up and the comment that Indeed does not work well. I to encourage everyone if they use any platform for hiring is that they will get results if they put in the work of selecting and communicating with the candidates. There will be a lot of applicants in there that will not match your criteria. For reference per ad we usually get about 400 applicants. More than half we don't even see because of our qualifying questions - basically they do not qualify. We send questions to them and they have 48 hours to respond. We here maybe corresponding with only about 75 candidates. If they don't respond they are disqualified. If they answer and we them then they get invited to a video interview that they can do on their own at any time. If they don't do it within 48 hours, again they are disquaified. For video interviews we maybe have about 30. Once we review the video and we them they will get invited to an in person interview. We interview about 10. It seems leghty but it gives us good results.
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM I can imagine finding and hiring pest control techs being a bit more difficult than, let's say, lawn care or cleaning. 🤔 Other than the usual suggestions job boards and social media (which are great to start with), I would look into local FB groups, community networking groups (someone's son or daughter might be interested in this career path, you never know!), and technical programs/colleges that offer pesticide certification programs and see if you can partner with them for student referrals. Going to tag a few pest control members to see if they can chime in with their insights! Pestguy​ CatalinaPest​ WING8PestSvcs​ RatFinder​ allpestoff​ SmallTownCEO​
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2026-03-27
+**Posted:** 2026-04-08
 
 I the idea of putting a candidate through some harder work to weed out the not interested ones. Thanks for that, I didn't even think about it.
 
 #### Reply 4
 
-**Author:** judithvirag
-**Posted:** 2026-03-27
+**Author:** michael090
+**Posted:** 2026-04-08
 
-BUILDER 1 We use Indeed as a platform and Zoho Recruiting to manage the candidates. As a small business coach this question always comes up and the comment that Indeed does not work well. I to encourage everyone if they use any platform for hiring is that they will get results if they put in the work of selecting and communicating with the candidates. There will be a lot of applicants in there that will not match your criteria. For reference per ad we usually get about 400 applicants. More than half we don't even see because of our qualifying questions - basically they do not qualify. We send questions to them and they have 48 hours to respond. We here maybe corresponding with only about 75 candidates. If they don't respond they are disqualified. If they answer and we them then they get invited to a video interview that they can do on their own at any time. If they don't do it within 48 hours, again they are disquaified. For video interviews we maybe have about 30. Once we review the video and we them they will get invited to an in person interview. We interview about 10. It seems leghty but it gives us good results.
+My recommendation: Start with LinkedIn + selective job boards, then use Upwork as a secondary pool if you need volume or want to trial someone first. https://www.linkedin.com/in/michael-orion-13b473343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appIf you tell me the exact role and responsibilities, I can suggest the best platform and a posting description that brings better candidates.
+
+#### Reply 5
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+I've had some luck on zip recruiter. You just have to be careful to not leave the job open for too long because they charge you per job posting. Also, in your posting, make sure to ask them to do a lot, not just submit a resume. For us, we ask for 3 pictures of their work and if they don't submit them I don't pass them along. My goal is to make the application process take a little longer so the most interested candidates are the ones i'm spending time on.
 
 ---
 
-## 2. Upsides and downsides of hiring a summer helper?
+## 17. Upsides and downsides of hiring a summer helper?
 
 **Author:** PestFreeCanada (Contributor 5)
-**Posted:** 2026-03-27
-**Views:** 8 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-04-08
+**Views:** 28 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/upsides-and-downsides-of-hiring-a-summer-helper/9806
 
 ### Content
 
-I am thinking about hiring someone to help me in the busy season and the idea of a high school kid as a summer job sounds a promising idea. I wouldn't have to pay them a crazy salary, they are sponges with information and they are typically more physically full of energy. I wouldn't be able to send them on their own, but they could help me get a few more jobs done in a day. I am wondering if anyone has tried this and what would be the pros and cons of doing it? ARBORIST AUTO DETAILING CLEANING COACHING CONSTRUCTION FENCE SERVICES FINDING EMPLOYEES FLOORING GENERAL CONTRACTING GENERAL HIRING TIPS HANDYMAN HEALTH AND SAFETY INSTALLATION SERVICES INTERVIEW TIPS & QUESTIONS IRRIGATION SERVICES JOB DESCRIPTIONS JUNK REMOVAL LANDSCAPING LAWN CARE OPERATING PROCEDURES PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE ROOFING TRAINING
+I am thinking about hiring someone to help me in the busy season and the idea of a high school kid as a summer job sounds a promising idea. I wouldn't have to pay them a crazy salary, they are sponges with information and they are typically more physically full of energy. I wouldn't be able to send them on their own, but they could help me get a few more jobs done in a day. I am wondering if anyone has tried this and what would be the pros and cons of doing it?
 
 ### Replies (1)
 
@@ -69,16 +735,16 @@ No Replies Be the first to
 
 ---
 
-## 3. Promoting from within - is someone who is primarily money driven, a good candidate for management?
+## 18. Promoting from within - is someone who is primarily money driven, a good candidate for management?
 
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-03-26
-**Views:** 6 | **Likes:** 0 | **Comments:** 1
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 23 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/promoting-from-within---is-someone-who-is-primarily-money-driven-a-good-candidat/9768
 
 ### Content
 
-So here's the situation - I've hired two different operations managers and had to let them go for various reasons. The reason I was seeking outside the company was for a fresh outlook and a new way of doing things. Although I think there were things I could have done in the hiring process to sniff these bad candidates out, I'm now feeling I should be promoting from within with someone already familiar with our systems and company culture. The obvious choice would seem to be the guy who's been here the longest. He's the site super on all our bigger jobs and everyone recognizes him as the most senior person, the person they call if they have a technical related question. I offered him the position (which is a healthy base salary plus incentive bonuses for gross profit, customer satisfaction, and clearly outlined administrative task goals) and he's very hung up on the money. Objectively, it's more money overall than he earned last year plus the bonuses but the weekly base is lower than if he worked in the field that week. He earned roughly $82k in the field (working roughly 80% of the available hours we COULD have worked him, because of slow weeks), this is a base of $88k with incentive bonuses that should definitely take this north of a size figure position. People should obviously care about the money they earn but he's basically super worried about the guarantee of money instead of the opportunity to earn a lot more with the bonuses. I tried encouraging him that this is something he can do but he keeps going back to the guaranteed money. I definitely want this position on performance pay so a high flat salary is off the table. My concern is he will be a few weeks in, working harder than he did before, getting paid less in the immediate term, and will not be giving it his all. He doesn't view this as a good offer. Question is - if someone isn't excited at an opportunity this, should I take the offer off the table? Or is there a different way I could be thinking about this? BONUS AND RETENTION PROGRAMS COACHING GENERAL HIRING TIPS JOB DESCRIPTIONS REMODELING TRAINING
+So here's the situation - I've hired two different operations managers and had to let them go for various reasons. The reason I was seeking outside the company was for a fresh outlook and a new way of doing things. Although I think there were things I could have done in the hiring process to sniff these bad candidates out, I'm now feeling I should be promoting from within with someone already familiar with our systems and company culture. The obvious choice would seem to be the guy who's been here the longest. He's the site super on all our bigger jobs and everyone recognizes him as the most senior person, the person they call if they have a technical related question. I offered him the position (which is a healthy base salary plus incentive bonuses for gross profit, customer satisfaction, and clearly outlined administrative task goals) and he's very hung up on the money. Objectively, it's more money overall than he earned last year plus the bonuses but the weekly base is lower than if he worked in the field that week. He earned roughly $82k in the field (working roughly 80% of the available hours we COULD have worked him, because of slow weeks), this is a base of $88k with incentive bonuses that should definitely take this north of a size figure position. People should obviously care about the money they earn but he's basically super worried about the guarantee of money instead of the opportunity to earn a lot more with the bonuses. I tried encouraging him that this is something he can do but he keeps going back to the guaranteed money. I definitely want this position on performance pay so a high flat salary is off the table. My concern is he will be a few weeks in, working harder than he did before, getting paid less in the immediate term, and will not be giving it his all. He doesn't view this as a good offer. Question is - if someone isn't excited at an opportunity this, should I take the offer off the table? Or is there a different way I could be thinking about this?
 
 ### Replies (1)
 
@@ -91,67 +757,38 @@ No Replies Be the first to
 
 ---
 
-## 4. Health Benefits for Seasonal Crews in British Columbia
+## 19. Health Benefits for Seasonal Crews in British Columbia
 
 **Author:** CHY (Contributor 2)
-**Posted:** 2026-03-26
-**Views:** 14 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-04-08
+**Views:** 61 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/health-benefits-for-seasonal-crews-in-british-columbia/9741
 
 ### Content
 
-Has anyone found a good solution for offering benefits to a seasonal crew? Traditional group plans seem expensive and not very flexible for our structure, so I’m currently exploring Health Care Spending Accounts instead. I’d love to hear what providers others are using for either/or and what’s worked well for your team. Any recommendations or insights would be appreciated. For context - my business partner and I are on salary year-round for our landscaping business but 99% of billable operations, and staff are seasonal from March to December. We lay-off and try to rehire anyone who has worked in previous seasons. Goal is to have health care spending and / or benefits for ourselves as well as our staff in order to retain staff and grow the business despite the seasonality of our services (no, we do not offer snow removal or plan to go that avenue). BONUS AND RETENTION PROGRAMS COACHING GENERAL HIRING TIPS LANDSCAPING
+Has anyone found a good solution for offering benefits to a seasonal crew? Traditional group plans seem expensive and not very flexible for our structure, so I’m currently exploring Health Care Spending Accounts instead. I’d love to hear what providers others are using for either/or and what’s worked well for your team. Any recommendations or insights would be appreciated. For context - my business partner and I are on salary year-round for our landscaping business but 99% of billable operations, and staff are seasonal from March to December. We lay-off and try to rehire anyone who has worked in previous seasons. Goal is to have health care spending and / or benefits for ourselves as well as our staff in order to retain staff and grow the business despite the seasonality of our services (no, we do not offer snow removal or plan to go that avenue).
 
 ### Replies (1)
 
 #### Reply 1
 
 **Author:** PestFreeCanada
-**Posted:** 2026-03-26
+**Posted:** 2026-04-08
 
 I don't know the laws in BC but in Ontario you can hire your staff as a contractor and wouldn't need to get them insurance. If something does happen to them you could always offer them a payment to help, or pay for their business insurance?
 
 ---
 
-## 5. How do you keep good employees from leaving?
-
-**Author:** judithvirag (Builder 1)
-**Posted:** 2026-03-24
-**Views:** 27 | **Likes:** 2 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-keep-good-employees-from-leaving/9657
-
-### Content
-
-BUILDER 1 I had my cleaning company for 17 years now. I have had my fair share of good employees. My longest serving couple has been 12 years. Then I had some team members for 4+ years. While I do not want them to leave as it is hard to find good team members with our core values, I find that they do run their course due to the nature of the job. What have you implemented that helped your business to keep and engage long term good employees? TIA BONUS AND RETENTION PROGRAMS CLEANING INTERVIEW TIPS & QUESTIONS
-
-### Replies (2)
-
-#### Reply 1
-
-**Author:** DOMINIC030
-**Posted:** 2026-03-25
-
-pay them at least $150 per day to start. The #1 factor in a crew member is starting pay and frequency of pay.
-
-#### Reply 2
-
-**Author:** PestFreeCanada
-**Posted:** 2026-03-26
-
-It's always good to find out why they are leaving and do what your company can do to take that edge off. If its family time or issues, adapt their start or finish time. If its issues with another employee, revise the schedule. If it is money, incentivise them with some commission. Whatever the issue is I am sure there is a creative solution that makes sense for you and an employee. Sometimes too you just have to let them leave, the open road is calling. Maybe the industry isn't for them anymore. Keeping someone who doesn't want to stay can become toxic, but a long standing employee leaving can be toxic too. Sometimes you got to just take your medicine and keep moving forward. Ahhhhhhh, the joys of business ownership no one really talks about!
-
----
-
-## 6. Delegation & Hiring for a Maintenance-Heavy Landscaping Company Trying to Scale
+## 20. Delegation & Hiring for a Maintenance-Heavy Landscaping Company Trying to Scale
 
 **Author:** CHY (Contributor 2)
-**Posted:** 2026-03-26
-**Views:** 7 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-04-08
+**Views:** 22 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/delegation--hiring-for-a-maintenance-heavy-landscaping-company-trying-to-scale/9745
 
 ### Content
 
-I’ve been looking into accountability charts and delegation after listening to the Jobber podcast where they talked about this, but I’m not sure where to begin. Right now I’m still heavily involved in day-to-day residential maintenance landscaping operations—quoting, scheduling, managing crews, and even some marketing—which makes it hard to step back and focus on growing into larger/higher earning project work beyond maintenance. For those who’ve gone through this at a similar stage, what responsibilities did you delegate first—and to whom? Also, what was your first key hire that really helped free up your time to focus on growth? Any practical guidance would be great. ARBORIST BONUS AND RETENTION PROGRAMS COACHING CONSTRUCTION GENERAL CONTRACTING GENERAL HIRING TIPS INSTALLATION SERVICES LANDSCAPING LAWN CARE OPERATING PROCEDURES PROPERTY MAINTENANCE REPORTING & BUSINESS INSIGHTS TRAINING
+I’ve been looking into accountability charts and delegation after listening to the Jobber podcast where they talked about this, but I’m not sure where to begin. Right now I’m still heavily involved in day-to-day residential maintenance landscaping operations—quoting, scheduling, managing crews, and even some marketing—which makes it hard to step back and focus on growing into larger/higher earning project work beyond maintenance. For those who’ve gone through this at a similar stage, what responsibilities did you delegate first—and to whom? Also, what was your first key hire that really helped free up your time to focus on growth? Any practical guidance would be great.
 
 ### Replies (1)
 
@@ -164,16 +801,16 @@ No Replies Be the first to
 
 ---
 
-## 7. Transitioning from Landscape Maintenance to Higher Earning / Project Work
+## 21. Transitioning from Landscape Maintenance to Higher Earning / Project Work
 
 **Author:** CHY (Contributor 2)
-**Posted:** 2026-03-26
-**Views:** 5 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-04-08
+**Views:** 18 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/transitioning-from-landscape-maintenance-to-higher-earning--project-work/9743
 
 ### Content
 
-For those who started in maintenance, how did you transition into larger projects hardscaping and design? Did you train your existing crew or build a separate team? I’m trying to figure out the best path forward without disrupting our current operations. Any advice from those who’ve made that shift would be really helpful. COACHING CONSTRUCTION FENCE SERVICES FINDING EMPLOYEES GENERAL CONTRACTING GENERAL HIRING TIPS INSTALLATION SERVICES LANDSCAPING LAWN CARE PROPERTY MAINTENANCE REPORTING & BUSINESS INSIGHTS SALARIES TRAINING
+For those who started in maintenance, how did you transition into larger projects hardscaping and design? Did you train your existing crew or build a separate team? I’m trying to figure out the best path forward without disrupting our current operations. Any advice from those who’ve made that shift would be really helpful.
 
 ### Replies (1)
 
@@ -186,90 +823,90 @@ No Replies Be the first to
 
 ---
 
-## 8. Screening Applicants: Do You Disqualify Low-Effort Responses?
+## 22. Screening Applicants: Do You Disqualify Low-Effort Responses?
 
 **Author:** DelgadoKW (Contributor 3)
-**Posted:** 2026-03-19
-**Views:** 21 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-04-08
+**Views:** 72 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/screening-applicants-do-you-disqualify-low-effort-responses/9595
 
 ### Content
 
-I recently posted a help wanted ad on Facebook (business page + shared to personal). It outlines our service model—handyman work focused on active real estate listings—and includes tiered roles with pay ranges. At the end of the post, I asked interested candidates to message me with: Their experience in handyman/construction work The types of projects they’re comfortable handling Whether they have their own tools and transportation I’ve received a decent number of responses, but most are extremely low-effort—things “Hi” or “I’m a contractor looking for work.” Not a single person has followed the instructions in the post. That’s raising a concern for me, since this business relies heavily on clear scopes, communication, and the ability to follow directions, especially when working on inspection-related repairs with tight timelines. My question: Am I being unreasonable to treat this as an initial filter and write these candidates off? Or is this just typical behavior at the top of the funnel that I should expect and manage differently? Would appreciate how others are handling this. This is my first time hiring help. FINDING EMPLOYEES GENERAL HIRING TIPS
+I recently posted a help wanted ad on Facebook (business page + shared to personal). It outlines our service model—handyman work focused on active real estate listings—and includes tiered roles with pay ranges. At the end of the post, I asked interested candidates to message me with: Their experience in handyman/construction work The types of projects they’re comfortable handling Whether they have their own tools and transportation I’ve received a decent number of responses, but most are extremely low-effort—things “Hi” or “I’m a contractor looking for work.” Not a single person has followed the instructions in the post. That’s raising a concern for me, since this business relies heavily on clear scopes, communication, and the ability to follow directions, especially when working on inspection-related repairs with tight timelines. My question: Am I being unreasonable to treat this as an initial filter and write these candidates off? Or is this just typical behavior at the top of the funnel that I should expect and manage differently? Would appreciate how others are handling this. This is my first time hiring help.
 
 ### Replies (2)
 
 #### Reply 1
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
 
 I definitely disqualify people for the easiest things - dude if you can't send me three pictures of work you want to do, I'm guessing you're not going to make the effort to do something else you don't really want to do, but I need you to do for the job. You have to disqualify them for the easy things because it will waste your time in the long run. I'm in a business mentorship group called Break Through Academy, and the biggest thing in recruiting is slowing it down. This includes you too. Why do you want to compromise the process to potentially find a diamond in the rough? Purposely make it difficult - if it means it takes longer to find the right people, so be it. If you're a handyman, they need to have a lot more characteristics than just being a good tradesman to represent your company well so don't compromise dude.
 
 #### Reply 2
 
 **Author:** roselvaggio
-**Posted:** 2026-03-24
+**Posted:** 2026-04-08
 
 My philosophy is that if a candidate can’t follow our simple application process (it is about 8 steps), they don’t qualify. We had rejected over 200 applicants in four months due to the inability to complete an application. while we aren’t contractors, cleaning also requires delivery on clear scopes of work. In my experience, I used to hire literally anyone interested (I’m thankful to save myself and my leadership team many headaches opting out of this method lol). There are cleaning companies doing over $5MM/year that I’ve spoken to that hire 1/500 applicants due to the inability to follow instructions. Their retention rate is admirable and that helps me believe I’m not being unreasonable ☺️
 
 ---
 
-## 9. How To Manage Late/Absent Workers?
+## 23. How To Manage Late/Absent Workers?
 
 **Author:** HauerPower (Contributor 2)
-**Posted:** 2026-03-17
-**Views:** 51 | **Likes:** 1 | **Comments:** 5
+**Posted:** 2026-04-08
+**Views:** 121 | **Likes:** 1 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-to-manage-lateabsent-workers/9498
 
 ### Content
 
-Short of firing an employee, what are some creative ways you leaders have motivated your teams to arrive on time? COACHING INTERVIEW TIPS & QUESTIONS PestFreeCanada Start their schedule 1 hour later and have them work one hour later. Then you have someone to call when you get a late last minute request. You're showing them you appreciate their work and want to work with them, also that employee feels listened to. If they cant make that adjustment work then you have a problem and a decision should be made.
+Short of firing an employee, what are some creative ways you leaders have motivated your teams to arrive on time? PestFreeCanada Start their schedule 1 hour later and have them work one hour later. Then you have someone to call when you get a late last minute request. You're showing them you appreciate their work and want to work with them, also that employee feels listened to. If they cant make that adjustment work then you have a problem and a decision should be made.
 
 ### Replies (5)
 
 #### Reply 1
 
 **Author:** sheltenwells
-**Posted:** 2026-03-23
+**Posted:** 2026-04-08
 
 We believe in coaching our team. The following has really helped us to know who is willing to fix their problems and who really doesnt care. Coaching Process Step 1: Verbal Reminder Issue explained Expectations clarified Documented on WhatsApp Step 2: Written Coaching Written corrective plan by the employee Reviewed with employee Documented on WhatsApp Step 3: Written Warning Formal notice Mandatory meeting with management + lead Documented on WhatsApp Step 4: Suspension or Termination Based on severity or repeated issues Documented on WhatsApp Rule of 3 — Warning Expiration Written coaching/warnings expire after 3 months Expired warnings do not count toward future discipline
 
 #### Reply 2
 
 **Author:** PestFreeCanada
-**Posted:** 2026-03-17
+**Posted:** 2026-04-08
 
 Start their schedule 1 hour later and have them work one hour later. Then you have someone to call when you get a late last minute request. You're showing them you appreciate their work and want to work with them, also that employee feels listened to. If they cant make that adjustment work then you have a problem and a decision should be made.
 
 #### Reply 3
 
 **Author:** HauerPower
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 to PestFreeCanada That's quite simple, and very insightful, I the creativity. Even if it's just for Mondays for the repeat offenders it might bake into a decent culture, and give more clients more workable hours too.
 
 #### Reply 4
 
 **Author:** PestFreeCanada
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 to HauerPower That is exactly why I tried to do it one of my guys. He still couldn't make it work so we started to pressure him and eventually he ended up quitting because of the added pressure.
 
 #### Reply 5
 
 **Author:** jrselectric
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 If you've tried multiple times to already address the lateness, I would think its time to part ways. Its a reflection on you and the company with how your employees behave and their actions.
 
 ---
 
-## 10. If I shadowed your top tech for a day, what would shock me the most?
+## 24. If I shadowed your top tech for a day, what would shock me the most?
 
 **Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-03-19
-**Views:** 33 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-04-08
+**Views:** 65 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/if-i-shadowed-your-top-tech-for-a-day-what-would-shock-me-the-most/9596
 
 ### Content
@@ -281,139 +918,139 @@ I can’t be alone in feeling that as owners (out of daily ops) that we don’t 
 #### Reply 1
 
 **Author:** Justinjustdoors
-**Posted:** 2026-03-19
+**Posted:** 2026-04-08
 
 Excellent question. I, for better or worse, get to fill in for the team, which I don't fight too much because I get to get refamiliarized with the field and sales life. As well as see how things are really being done. What tends to shock me is how tired the subs look at times. Life is hard, and though I always encourage them to not over book, they have to manage their own pace. I don't know what else to do about this. (we do onsite door replacement sales and installs)
 
 #### Reply 2
 
 **Author:** jrselectric
-**Posted:** 2026-03-20
+**Posted:** 2026-04-08
 
 This is a great question, I don't really have the answer at the moment. But I am going to try this next week and let you know what that looks for me.
 
 ---
 
-## 11. How do you handle unreliable employees in a home service business?
+## 25. How do you handle unreliable employees in a home service business?
 
 **Author:** philcastello (Contributor 2)
-**Posted:** 2026-03-18
-**Views:** 53 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-04-08
+**Views:** 110 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/how-do-you-handle-unreliable-employees-in-a-home-service-business/9555
 
 ### Content
 
-Hello! I run a Home Remodeling & Handyman business, and we're excited to share that we've recently expanded to include a Cleaning Division. We've noticed that in our area, many folks are eager for jobs but sometimes lack the commitment to follow through. How do you navigate this challenge? We've already offered competitive pay, which is quite high for our area, yet issues poor communication, missed appointments, and subpar work still pop up. I'm curious to hear how others have managed similar situations and what strategies you've found effective—whether it's offering career growth opportunities, enforcing strict communication policies, or even increasing wages further. Any advice or ideas would be greatly appreciated! CLEANING CONSTRUCTION FINDING EMPLOYEES GENERAL CONTRACTING GENERAL HIRING TIPS HANDYMAN OPERATING PROCEDURES SALARIES SUBCONTRACTING
+Hello! I run a Home Remodeling & Handyman business, and we're excited to share that we've recently expanded to include a Cleaning Division. We've noticed that in our area, many folks are eager for jobs but sometimes lack the commitment to follow through. How do you navigate this challenge? We've already offered competitive pay, which is quite high for our area, yet issues poor communication, missed appointments, and subpar work still pop up. I'm curious to hear how others have managed similar situations and what strategies you've found effective—whether it's offering career growth opportunities, enforcing strict communication policies, or even increasing wages further. Any advice or ideas would be greatly appreciated!
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** tylerpotter
-**Posted:** 2026-03-19
+**Posted:** 2026-04-08
 
 Adding filters in the hiring process has helped me. I'm not sure if you're talking about 1099's or W2's, but in regards to W2's, after I get resumes, I send them a 30 minute behavioral and cognitive assessment that gives me a bearing on who they are and their raw skillset. It's a great tool for me since I already have figured out what the best candidates would look on paper for the role I want. It also is an amazing filtering piece. Even if I their resume, if they don't take the assessment then I never even meet with them. I send it after I review the resume and prior to the first in person interview. Having ways for them to filter themselves out of the hiring process reduces the probability of getting people that. Another thing I've done is earlier on the process, I'll send them a text to setup a phone call interview. I'll confirm a date/time that works for them and I'll make sure to set it at a specific time :15 or 9:45. Then, I'll make sure to call them on the dot. If they don't answer then I mark that on their resume. This one isn't a deal breaker because life does happen but if someone doesn't prioritize the phone interview then something else is taking priority over their job and if it's not justifiable then they just filtered themselves out of the hiring process. One more thing, I found this book based on the theory of constraints. It really helps in structuring your thinking process of how to evaluate ideas and dig into any assumptions or company policies that may be restricting from a better outcome than what you're wanting. I've used these thinking processes to help a lot with my own business.
 
 #### Reply 2
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
 
 One thing we do, is if they want their full hourly rate, we require them to be on time, upload before after pics in to jobber, and upload notes. If they miss any of those things, their pay is reduced by $5/hr. Now my people aren't min wage so we have that flexibility. In Gusto I set it up as a bonus (also if they are sick or vacation pay, I don't pay the DYJ bonus rate. I'm not trying to take advantage, I give them lots of other perks). So if you can't show up, no sweat off my back. You don't get your pay. The other thing is you have to be militant about documenting these thing. You HAVE to write up everything. Sucks but it's a part of the game. We are located in California and this state makes it hard to fire people and not get sued. Another thing, if they are in their probationary period, it's a zero tolerance policy for the things that are important to you. I have guys that haven't been late in 8 months. You just started two weeks ago and are already late. Fire that person and set the precedent.
 
 ---
 
-## 12. What hiring or team development lesson made the biggest difference in your business?
+## 26. What hiring or team development lesson made the biggest difference in your business?
 
 **Author:** NJones (Contributor 3)
-**Posted:** 2026-03-10
-**Views:** 34 | **Likes:** 1 | **Comments:** 2
+**Posted:** 2026-04-08
+**Views:** 70 | **Likes:** 1 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-hiring-or-team-development-lesson-made-the-biggest-difference-in-your-busin/9290
 
 ### Content
 
-Building a strong team takes time. What’s one thing you’ve learned about hiring or developing people that made the biggest difference for your business? GENERAL HIRING TIPS
+Building a strong team takes time. What’s one thing you’ve learned about hiring or developing people that made the biggest difference for your business?
 
 ### Replies (2)
 
 #### Reply 1
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
 
 I definitely have gone through a lot of bad people to get to the good ones. I think the main thing is to fire quickly before it really negatively affects anything. Let this person know you have a zero tolerance for certain things (being late, unprofessionalism) and that they would be immediately terminated if any of those occur. Also having clear employment agreements. Actually I just listened to a really good podcast on this - The newest episode on contractor evolution. It's really helpful https://open.spotify.com/episode/6nwoKMtraEey14k5lROA7o?si=3073236f5c114d31
 
 #### Reply 2
 
 **Author:** roselvaggio
-**Posted:** 2026-03-19
+**Posted:** 2026-04-08
 
 Modifying our hiring process to align with our core values and using a score based interview process! I’m not sure why we didn’t consider this sooner, but it’s definitely made such a lasting impact on our retention and our team’s culture!
 
 ---
 
-## 13. What are dealbreakers for keeping someone around?
+## 27. What are dealbreakers for keeping someone around?
 
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-03-14
-**Views:** 72 | **Likes:** 5 | **Comments:** 6
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 157 | **Likes:** 5 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-are-dealbreakers-for-keeping-someone-around/9430
 
 ### Content
 
-We had a situation where we had a manager that was really good with clients, but was always 5-10 minutes late to appointments, and he struggled with using jobber (frustrating because jobber is so easy). So he was good face to face and the actual management of jobs but those two things he just couldn't grasp. Sooo I let him go after trying to work with him on it. Too harsh? I felt you could be the smoothest person ever but if you can't do the basics, it was going to lead to trouble down the road. I'd love to hear your opinions on different things you won't compromise on outside of the obvious ones (drinking on the job, being unprofessional etc). FINDING EMPLOYEES GENERAL HIRING TIPS TRAINING
+We had a situation where we had a manager that was really good with clients, but was always 5-10 minutes late to appointments, and he struggled with using jobber (frustrating because jobber is so easy). So he was good face to face and the actual management of jobs but those two things he just couldn't grasp. Sooo I let him go after trying to work with him on it. Too harsh? I felt you could be the smoothest person ever but if you can't do the basics, it was going to lead to trouble down the road. I'd love to hear your opinions on different things you won't compromise on outside of the obvious ones (drinking on the job, being unprofessional etc).
 
 ### Replies (6)
 
 #### Reply 1
 
 **Author:** Glenn
-**Posted:** 2026-03-17
+**Posted:** 2026-04-08
 
 Honestly, those both sound minor and fixable compared to the things I've experienced. I had an employee show up drunk. I had an employee steal from me. I had an employee call in sick with Covid when she didn't actually have it and was out running around. (I love Jobbers' GPS). Honestly, I think tardiness and technology fear can be addressed and trained.
 
 #### Reply 2
 
 **Author:** judithvirag
-**Posted:** 2026-03-14
+**Posted:** 2026-04-08
 
 BUILDER 1 I have to agree with you. For us reliablity is a core value and someone who is always late is not reliable. It is so hard to make the choice at times as they are "nice employees" but constantly disrespect company policies. As we grew I learned that I had to let go of these people.
 
 #### Reply 3
 
 **Author:** PestFreeCanada
-**Posted:** 2026-03-17
+**Posted:** 2026-04-08
 
 There are things you can teach people and things you can't. I think being on time is hard to navigate as personal life can interfere with that, but it can be worked on. Family, sleep patters, traffic and location should all be considered. And not being able to use technology, I think both could be taught and worked on. I had a guy who was always 30-45 minutes late as he had to drop off his daughter in the morning. I completely understood his issue and we came to the solution that we would start his schedule at 10am and work until 6pm. It would actually give him a but more time in the morning so he isn't rushing to get to a 9am call then his schedule starts backing up all day. There are important things you need that can't be taught, how to be personable, good communicator and smoothness. I personally would have worked on the troubling issues until I was pulling my hair out if I found someone who who checked more of the "unteachable" qualities.
 
 #### Reply 4
 
 **Author:** SkyHigh
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 I think when it's something teachable, you would definitely want to exhaust all options before letting them go. I feel with all the problems that can come from the hiring and firing and chances you are taking with a new person to have the same problems and more. At the same time, my biggest point, is be on time. To be early is on time, on time is late, and late is unacceptable. I understand things can happen from time to time, but if it's always happening, then there is a bigger issue needing addressed and problem some work on their morning routine. But you can only help so much, everyone has to pull their own weight and be willing to put in effort. So if you have someone willing to learn and grow keep them and work with them. But if they are not taking accountability for their actions and trying to improve, then I would say it's time to move on.
 
 #### Reply 5
 
 **Author:** Aatrades719
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 At A&A Trades & Acquisitions, LLC, dealbreakers for keeping someone on the team come down to integrity, accountability, and attitude. 1. Lack of Reliability: Not showing up on time, missing commitments, or failing to follow through on promises disrupts the whole operation. Consistency is non-negotiable. 2. Poor Work Ethic or Quality: Cutting corners, ignoring safety, or delivering substandard work undermines trust with clients and the team. We only keep people who take pride in doing the job right. 3. Disrespect or Negative Attitude: Teamwork is essential. Disrespecting coworkers, clients, or leadership, or bringing persistent negativity, creates a toxic environment we won’t tolerate. 4. Dishonesty or Lack of Accountability: Owning mistakes is part of growth. Blaming others, hiding errors, or bending the truth is a dealbreaker. Integrity is central to our culture. 5. Resistance to Learning or Improvement: Trades and business constantly evolve. Those unwilling to adapt, learn, or improve their skills limit both personal and team success. In short, we keep people who are dependable, professional, respectful, and committed to growth—and part ways with anyone who consistently undermines those core values.
 
 #### Reply 6
 
 **Author:** ThatHandymanVan
-**Posted:** 2026-03-18
+**Posted:** 2026-04-08
 
 For me it's three things: honesty, work integrity, and hustle. Somebody told me early that excuses are worthless and it changed how I operated. I'll give context when something goes wrong but there's a difference between that and just deflecting.
 
 ---
 
-## 14. What’s your formula for paying crews per job?
+## 28. What’s your formula for paying crews per job?
 
 **Author:** Sobtine (Contributor 2)
-**Posted:** 2026-03-10
-**Views:** 126 | **Likes:** 2 | **Comments:** 6
+**Posted:** 2026-04-09
+**Views:** 199 | **Likes:** 2 | **Comments:** 6
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/what%E2%80%99s-your-formula-for-paying-crews-per-job/9247
 
 ### Content
@@ -425,57 +1062,57 @@ Hey everyone — looking for some input from other home service business owners.
 #### Reply 1
 
 **Author:** judithvirag
-**Posted:** 2026-03-10
+**Posted:** 2026-04-09
 
 BUILDER 1 I googled your name and it looks you are in Canada, Ontario. We do have some subcontractors and then employees is most of our workforce. We pay by the hour but our subcontractors we first look at how long should the job take and we add all the extras taxes, CPP and EI. Usually a $25 per hour employee is around $32-33 for a subcontractor. Then based on this hourly rate we figure out how much the job should be.
 
 #### Reply 2
 
 **Author:** ApexJunk
-**Posted:** 2026-03-12
+**Posted:** 2026-04-09
 
 to judithvirag This is the exact rate I pay my workers, 33 an hour to start. I specialize in Junk Removal but have been transitioning to mobile home demolition
 
 #### Reply 3
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
+**Author:** HUGEHomePros
+**Posted:** 2026-04-09
 
 I struggle with this one. I think piece work would be much better for the employee and for the business but for our company it's really hard because we do so many different things. Even things that are somewhat similar are different ( a gate for one person isn't a gate for another). One thing we've done is a hybrid hourly model then use Protiv (which integrates with jobber) to give them a bonus for doing it faster with no all backs. That's still a work in progress though because they are still working out the kinks on their end.
 
 #### Reply 4
 
 **Author:** fybbros1
-**Posted:** 2026-03-15
+**Posted:** 2026-04-09
 
 Trying to start my business
 
 #### Reply 5
 
 **Author:** Alexandra_MMPCS
-**Posted:** 2026-03-18
+**Posted:** 2026-04-09
 
 to fybbros1 Hi, have you found your niche? As in what kind of business you'd to start? If so, have you grabbed your ein? If not, its free through the irs site unless you want to go through a company. After you've grabbed your ein you can start working your business depending on what type of business you have as some business start ups may need more paperwork done before you open your doors whetherstate, local, federal paperwork. Next, Llc through the state, or you can skip the ein and go straight to registering your llc. The same rules apply check for all docs you'll need, remember research, research, research your niche/ industry.
 
 #### Reply 6
 
 **Author:** Alexandra_MMPCS
-**Posted:** 2026-03-10
+**Posted:** 2026-04-09
 
 It depends on which way you're going with your business. 1 will your employees be w2 workers or 2 contract to gig. I have gig workers in which they are paid per job. Ex. Client repair- 350 gig worker (not employee) - 75 - 150 and business around 200+. Then you factor in labor , distance etc so those numbers would go up. Now, w2 is much different as they would work directly for you, and would get a base pay, hourly etc , insurance , workers comp, etc . I hope this helps with your question.
 
 ---
 
-## 15. Has anyone had success with group hiring in the trades?
+## 29. Has anyone had success with group hiring in the trades?
 
 **Author:** HauerPower (Contributor 2)
-**Posted:** 2026-03-17
-**Views:** 9 | **Likes:** 0 | **Comments:** 1
+**Posted:** 2026-04-09
+**Views:** 25 | **Likes:** 0 | **Comments:** 1
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/has-anyone-had-success-with-group-hiring-in-the-trades/9497
 
 ### Content
 
-For those of you that have implemented Group Hiring, what was the biggest success you had? What was the most number of candidates you interviewed in one session? INTERVIEW TIPS & QUESTIONS
+For those of you that have implemented Group Hiring, what was the biggest success you had? What was the most number of candidates you interviewed in one session?
 
 ### Replies (1)
 
@@ -488,57 +1125,57 @@ No Replies Be the first to
 
 ---
 
-## 16. Are you hiring for hands, or for long-term leadership?
+## 30. Are you hiring for hands, or for long-term leadership?
 
 **Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-03-10
-**Views:** 71 | **Likes:** 2 | **Comments:** 5
+**Posted:** 2026-04-09
+**Views:** 135 | **Likes:** 2 | **Comments:** 5
 **URL:** https://community.getjobber.com/discussions/hiring--team-forum/are-you-hiring-for-hands-or-for-long-term-leadership/9298
 
 ### Content
 
-Ever since we created a career ladder/org chart, we ask quarterly via survey how happy our team is. The majority of ours repeatedly state they wish to grow with the company and make it a career. However, our culture is extremely quiet. Thoughts? GENERAL HIRING TIPS OPERATING PROCEDURES
+Ever since we created a career ladder/org chart, we ask quarterly via survey how happy our team is. The majority of ours repeatedly state they wish to grow with the company and make it a career. However, our culture is extremely quiet. Thoughts?
 
 ### Replies (5)
 
 #### Reply 1
 
 **Author:** readysetorg
-**Posted:** 2026-03-12
+**Posted:** 2026-04-09
 
 Hi! What type of business are you in? Cleaning?
 
 #### Reply 2
 
 **Author:** roselvaggio
-**Posted:** 2026-03-14
+**Posted:** 2026-04-09
 
 to readysetorg Yes! Residential and commercial (and we just launched a pet care sub-brand last year!)
 
 #### Reply 3
 
 **Author:** NJones
-**Posted:** 2026-03-13
+**Posted:** 2026-04-09
 
 That is not necessarily a bad thing. Some teams are naturally quieter and more focused, especially in skilled trades. What matters more is whether people feel respected, supported, and see a path forward. If your team says they want to grow with the company and make it a career, that is a strong sign you are doing something right. A clear career ladder and checking in quarterly already shows you care about their future. Culture does not always have to be loud to be healthy. Sometimes a steady, respectful environment where people know their role and feel valued is exactly what keeps good people around.
 
 #### Reply 4
 
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
+**Author:** HUGEHomePros
+**Posted:** 2026-04-09
 
 I dropped this podcast on another thread but check it out - https://open.spotify.com/episode/6nwoKMtraEey14k5lROA7o?si=ec3deecdf2474818 It's all about this subject. One thing I'm working on right now is making a path forward for our guys. Lining out what entry level looks , what the next steps are, what the pay is for those, and how to achieve them. Then it makes their progress objective. I'm in a coaching program and am going to start on this document this week. It clearly lays it out so you don't have to think about it down the road. road map.jpg 273 KB
 
 #### Reply 5
 
 **Author:** roselvaggio
-**Posted:** 2026-03-14
+**Posted:** 2026-04-09
 
-to HUGEHandyman Love this! I’ll check it out!
+to HUGEHomePros Love this! I’ll check it out!
 
 ---
 
-## 17. What’s one thing you do to make your employees feel valued?
+## 31. What’s one thing you do to make your employees feel valued?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2026-03-10
@@ -560,7 +1197,7 @@ No Replies Be the first to
 
 ---
 
-## 18. What is one task you finally delegated, and wish you did sooner?
+## 32. What is one task you finally delegated, and wish you did sooner?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2026-03-03
@@ -659,7 +1296,7 @@ We have just recently acquired a stone and tile installation business. I used an
 
 ---
 
-## 19. How do you reduce employee turnover in a cleaning company?
+## 33. How do you reduce employee turnover in a cleaning company?
 
 **Author:** roselvaggio (Jobber Ambassador)
 **Posted:** 2026-03-03
@@ -723,7 +1360,7 @@ BUILDER 1 roselvaggio​ such a great question. While I am in the same "bucket" 
 
 ---
 
-## 20. Outside the box Employee Benefits?
+## 34. Outside the box Employee Benefits?
 
 **Author:** JessieClean (Contributor 3)
 **Posted:** 2025-04-02
@@ -920,7 +1557,7 @@ Do you have an ice machine? You need one.
 
 ---
 
-## 21. What hiring tactic has made the biggest difference in building your team?
+## 35. What hiring tactic has made the biggest difference in building your team?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2026-03-02
@@ -991,7 +1628,7 @@ I'm not 17 years in, less than 2, about to start trying to hire my first employe
 
 ---
 
-## 22. Seeking Shared VA
+## 36. Seeking Shared VA
 
 **Author:** Shan2024 (Contributor 2)
 **Posted:** 2025-04-02
@@ -1104,7 +1741,7 @@ You can use sites upwork and fiverr to try and find people to do VA work for you
 
 ---
 
-## 23. How to make sure you don't let the right people walk away?
+## 37. How to make sure you don't let the right people walk away?
 
 **Author:** PestFreeCanada (Contributor 5)
 **Posted:** 2026-03-02
@@ -1126,7 +1763,7 @@ No one solid is going to leave where they’re at to come work part-time, even i
 
 ---
 
-## 24. Are YOU a good employee, would you hire YOURESELF?
+## 38. Are YOU a good employee, would you hire YOURESELF?
 
 **Author:** PestFreeCanada (Contributor 5)
 **Posted:** 2025-12-02
@@ -1183,7 +1820,7 @@ As a Boss/Owner/Leader, you must lead by example. You should not and cannot expe
 
 ---
 
-## 25. Jobber Research: Break Tracking, Timesheet Labels, Commission Tracking
+## 39. Jobber Research: Break Tracking, Timesheet Labels, Commission Tracking
 
 **Author:** Ronen (Jobber Product Team)
 **Posted:** 2026-03-02
@@ -1205,7 +1842,7 @@ have been turned off for this discussion
 
 ---
 
-## 26. How do service businesses build accountability with field teams without constant oversight?
+## 40. How do service businesses build accountability with field teams without constant oversight?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-02-02
@@ -1241,7 +1878,7 @@ BUILDER 1 I myself struggle with this and would love to hear some other solution
 
 ---
 
-## 27. What challenges do business owners face when hiring family members?
+## 41. What challenges do business owners face when hiring family members?
 
 **Author:** Moss912 (Contributor 3)
 **Posted:** 2026-03-02
@@ -1319,7 +1956,7 @@ I'd say in general - I would not recommend it. You want to be able to shut off w
 
 ---
 
-## 28. How do you keep your crew motivated and paid when work slows down?
+## 42. How do you keep your crew motivated and paid when work slows down?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-12-02
@@ -1369,7 +2006,7 @@ Great question. Slow season used to stress me out, because when the schedule dri
 
 ---
 
-## 29. How do you determine when your team can take PTO when you have a large team?
+## 43. How do you determine when your team can take PTO when you have a large team?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-02
@@ -1398,7 +2035,7 @@ to FredHodgeJr Thanks for that feedback. Really solid advice on creating more st
 
 ---
 
-## 30. When to hire a project manager?
+## 44. When to hire a project manager?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-02
@@ -1455,7 +2092,7 @@ EnergizeUs
 
 ---
 
-## 31. How do you determine when your team can take PTO when you have a large team?
+## 45. How do you determine when your team can take PTO when you have a large team?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-09
@@ -1477,7 +2114,7 @@ No Replies Be the first to
 
 ---
 
-## 32. How do you help employees collect tips?
+## 46. How do you help employees collect tips?
 
 **Author:** Cloud9JC (Contributor 3)
 **Posted:** 2025-04-09
@@ -1625,7 +2262,7 @@ to Bjorn Hi Bjorn. Thanks again for the suggestion. I did a demo and they did of
 
 ---
 
-## 33. Why do home service businesses need SOPs, employee handbooks, and contracts?
+## 47. Why do home service businesses need SOPs, employee handbooks, and contracts?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-03-09
@@ -1675,7 +2312,7 @@ to RichardM RichardM​ thanks for this
 
 ---
 
-## 34. What's one small thing you do that REALLY helps team morale?
+## 48. What's one small thing you do that REALLY helps team morale?
 
 **Author:** berrycleanusa (Contributor 2)
 **Posted:** 2026-01-09
@@ -1711,7 +2348,7 @@ JOBBER COMMUNITY TEAM to judithvirag "Golden Plunger Award" what!! How does one 
 
 ---
 
-## 35. How do you balance kindness and strict standards as a business owner?
+## 49. How do you balance kindness and strict standards as a business owner?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-09
@@ -1733,7 +2370,7 @@ No Replies Be the first to
 
 ---
 
-## 36. When to hire a General Manager?
+## 50. When to hire a General Manager?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2026-01-09
@@ -1755,7 +2392,7 @@ No Replies Be the first to
 
 ---
 
-## 37. How did you know it was time to hire your first salesperson?
+## 51. How did you know it was time to hire your first salesperson?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-12-09
@@ -1784,7 +2421,7 @@ JOBBER COMMUNITY TEAM to RichardM Right! Doni's fantastic. 🙌 Thanks for tunin
 
 ---
 
-## 38. How do you pay your staff?
+## 52. How do you pay your staff?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-11-28
@@ -1806,7 +2443,7 @@ For my business, it depends on who they are and their circumstances. I have had 
 
 ---
 
-## 39. The Jobber Team is looking to chat with customers managing larger teams!
+## 53. The Jobber Team is looking to chat with customers managing larger teams!
 
 **Author:** Ronen (Jobber Product Team)
 **Posted:** 2025-10-28
@@ -1819,7 +2456,7 @@ JOBBER PRODUCT TEAM Hey everyone! Our Product Team is doing research to better u
 
 ---
 
-## 40. Anyone using an ESOP?
+## 54. Anyone using an ESOP?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -1841,7 +2478,7 @@ No Replies Be the first to
 
 ---
 
-## 41. How do you handle employees complaining about one another?
+## 55. How do you handle employees complaining about one another?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -1891,7 +2528,7 @@ JOBBER COMMUNITY TEAM to BrandenSewell Haha yeah I actually had a chat with a pe
 
 ---
 
-## 42. How to spot and hire top talent before your competitors do
+## 56. How to spot and hire top talent before your competitors do
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-10-28
@@ -1913,7 +2550,7 @@ No Replies Be the first to
 
 ---
 
-## 43. Weekend Work
+## 57. Weekend Work
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-10-28
@@ -1956,7 +2593,7 @@ BUILDER 1 to BrandenSewell Yes we do this as well. I the missed work replacement
 
 ---
 
-## 44. Who Was Your First Hire?
+## 58. Who Was Your First Hire?
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-10-28
@@ -1985,50 +2622,7 @@ BUILDER 1 Well, my first hire was family. It was a struggle, and if I could do i
 
 ---
 
-## 45. What Features Would Be Helpful for Dealing with Subcontractors on Your Team?
-
-**Author:** ryaantuttle (Jobber Ambassador)
-**Posted:** 2025-04-28
-**Views:** 260 | **Likes:** 1 | **Comments:** 4
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/what-features-would-be-helpful-for-dealing-with-subcontractors-on-your-team/2978
-
-### Content
-
-Subcontractors can be a powerful way to grow your service business—but managing them smoothly takes the right tools. From scheduling to paperwork to payments, things can get complicated fast if you're relying on spreadsheets or text threads. Here are a few key ideas to kick off the conversation: Insurance Certificate Tracking + Expiration Reminders Making sure your subcontractors are insured is a no-brainer—but keeping track of their certificates and renewal dates can be a hassle. A built-in feature that stores insurance docs and sends automatic reminders before they expire would help keep your business protected and organized. Built-in Payment Processing for Subcontractors Paying subs quickly and clearly is essential for maintaining good relationships. Imagine being able to approve their invoices and process payments right through Jobber—no more chasing emails or juggling payment apps. Subcontractor Availability Scheduling Knowing when your subs are available is half the battle. A shared calendar where subcontractors can input their availability would make job assignment way easier and help avoid scheduling conflicts before they happen. What would you to see added to help manage subcontractors better? Drop your ideas in the comments—👇 FINDING EMPLOYEES GENERAL CONTRACTING GENERAL HIRING TIPS OPERATING PROCEDURES REPORTING & BUSINESS INSIGHTS SUBCONTRACTING TRAINING
-
-### Replies (4)
-
-#### Reply 1
-
-**Author:** CyndallCarver
-**Posted:** 2025-04-28
-
-So is there a way to keep track of insurance certificates and send reminders of upcoming expiration dates?
-
-#### Reply 2
-
-**Author:** ryaantuttle
-**Posted:** 2025-10-28
-
-to CyndallCarver Not yet! However, I believe this feature will be added soon. Right now we set up a Google calendar with alerts set 1 month ahead of any certs expiring.
-
-#### Reply 3
-
-**Author:** awmcarp
-**Posted:** 2025-05-28
-
-Allowing them to see the job calendar and related job documents (prints, selections,...).
-
-#### Reply 4
-
-**Author:** jonathantreat
-**Posted:** 2025-09-28
-
-The ability to have better scheduling for longer-term remodel jobs that can be assigned to a subcontractor would be a great addition.
-
----
-
-## 46. What’s one red flag you always watch for during an interview?
+## 59. What’s one red flag you always watch for during an interview?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -2050,7 +2644,7 @@ JOBBER COMMUNITY TEAM Can't wait to tune into this episode! 🙌
 
 ---
 
-## 47. How do you retain great people?
+## 60. How do you retain great people?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-09-28
@@ -2100,7 +2694,7 @@ to 24C-C-G Hey 24C-C-G​, I recommend looking into Ryan Englin with Core Matter
 
 ---
 
-## 48. Podcast discussion: Stop Using Org Charts. Use This to Grow Faster.
+## 61. Podcast discussion: Stop Using Org Charts. Use This to Grow Faster.
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-09-28
@@ -2122,7 +2716,7 @@ No Replies Be the first to
 
 ---
 
-## 49. Subcontractors vs Direct Labor
+## 62. Subcontractors vs Direct Labor
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -2249,7 +2843,7 @@ I used to think it was hard to find great employees until I stopped blaming ever
 
 ---
 
-## 50. Feeling Stuck in the Busy-But-Broke Zone – How Did You Break Through?
+## 63. Feeling Stuck in the Busy-But-Broke Zone – How Did You Break Through?
 
 **Author:** MrBackflow (Contributor 3)
 **Posted:** 2025-07-28
@@ -2299,7 +2893,7 @@ I have an entire podcast addressing this. It is called the "Off the Ladder" podc
 
 ---
 
-## 51. Seeking Advice on Hiring – Best Practices?
+## 64. Seeking Advice on Hiring – Best Practices?
 
 **Author:** MrBackflow (Contributor 3)
 **Posted:** 2025-08-28
@@ -2321,7 +2915,7 @@ BUILDER 1 MrBackflow​ this is an amazing time when your business starts to gro
 
 ---
 
-## 52. Time Clock / Employee Time Tracking
+## 65. Time Clock / Employee Time Tracking
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-02-28
@@ -2378,7 +2972,7 @@ I would recommend implementing a system for accountability and discipline. For e
 
 ---
 
-## 53. Paid Time Off
+## 66. Paid Time Off
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-08-28
@@ -2414,50 +3008,7 @@ We do two weeks of PTO which is earned after 90 days. We give the two weeks and 
 
 ---
 
-## 54. Do You Train Your Team to Think or Just Work?
-
-**Author:** EnergizeUs (Jobber Ambassador)
-**Posted:** 2025-07-28
-**Views:** 186 | **Likes:** 1 | **Comments:** 4
-**URL:** https://community.getjobber.com/discussions/hiring--team-forum/do-you-train-your-team-to-think-or-just-work/5118
-
-### Content
-
-Every Monday, we hold a short training session with our team. We train on communication. leadership. & mindset. The reason being most tradespeople aren’t struggling because they can’t do the work. They’re struggling because they were never taught how to: Speak with clarity Handle conflict Lead a crew Represent the business professionally These tend to be the issues I see bottling up, either from our exit interviews or customer feed back or when things are misunderstood. Thats why I'm curious: Do you train soft skills with your crew? ANIMAL SERVICES APPLIANCE REPAIR ARBORIST AUTO DETAILING BONUS AND RETENTION PROGRAMS CHIMNEY SWEEP SERVICES CLEANING COACHING CONSTRUCTION DOOR SERVICES ELECTRICAL CONTRACTING FENCE SERVICES FINDING EMPLOYEES FIRING FLOORING GENERAL CONTRACTING GENERAL HIRING TIPS HANDYMAN HEALTH AND SAFETY HVAC INSTALLATION SERVICES INTERVIEW TIPS & QUESTIONS IRRIGATION SERVICES JOB DESCRIPTIONS JUNK REMOVAL LANDSCAPING LAWN CARE LOCKSMITH OPERATING PROCEDURES PAINTING PEST CONTROL PLUMBING POOL & SPA PRESSURE WASHING PROPERTY MAINTENANCE REFERRAL PROGRAMS REMODELING REPORTING & BUSINESS INSIGHTS ROOFING RV SERVICES SALARIES SNOW REMOVAL SUBCONTRACTING TRAINING
-
-### Replies (4)
-
-#### Reply 1
-
-**Author:** LauraWhalen
-**Posted:** 2025-07-28
-
-Definitely train them to think things through and do what is best for the company and the client. Keeping the clients happy is our number one priority as this nets my company repeat business and referrals.
-
-#### Reply 2
-
-**Author:** EnergizeUs
-**Posted:** 2025-07-28
-
-to LauraWhalen I love your example Thank you for that Is there anything you do specifically to help train your team? For example, how do they go about the opportunities because so many people come into work thinking let me just get this done with and move on. How do you train your team?
-
-#### Reply 3
-
-**Author:** judithvirag
-**Posted:** 2025-07-28
-
-BUILDER 1 As much as we can yes! And for the other times they are free to ask questions.
-
-#### Reply 4
-
-**Author:** EnergizeUs
-**Posted:** 2025-07-28
-
-to judithvirag I love the example that you are leaving. Especially leaving yourself open to give that training.
-
----
-
-## 55. Hiring Your First Employee – What Held You Back or Pushed You Forward?
+## 67. Hiring Your First Employee – What Held You Back or Pushed You Forward?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-07-28
@@ -2493,7 +3044,7 @@ BUILDER 1 to LauraWhalen Thank you Laura. We have our own job descirptions now. 
 
 ---
 
-## 56. Children as employees or contractors?
+## 68. Children as employees or contractors?
 
 **Author:** Aosei9822 (Contributor 2)
 **Posted:** 2025-06-28
@@ -2557,7 +3108,7 @@ This is real advice. Their work does not need to be hourly. Having them in a vid
 
 ---
 
-## 57. Hiring the Right People!
+## 69. Hiring the Right People!
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -2628,7 +3179,7 @@ to Leonard That's a very good idea, I'll definitely implement that Google review
 
 ---
 
-## 58. My biggest challenge finding reliable candidates.
+## 70. My biggest challenge finding reliable candidates.
 
 **Author:** hhhandyman760 (Contributor 2)
 **Posted:** 2025-05-28
@@ -2692,7 +3243,7 @@ I was in the same boat. I used to think the key to a great hire was simple: Work
 
 ---
 
-## 59. First Key Employee
+## 71. First Key Employee
 
 **Author:** Baylor1 (Contributor 2)
 **Posted:** 2025-06-28
@@ -2798,7 +3349,7 @@ This is what I would do. I would have the interview in 2 parts the first would b
 
 ---
 
-## 60. Most of Your Problems Are Communication Problems
+## 72. Most of Your Problems Are Communication Problems
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -2820,7 +3371,7 @@ No Replies Be the first to
 
 ---
 
-## 61. We Hired for Skill & We Got Burnt.
+## 73. We Hired for Skill & We Got Burnt.
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -2842,7 +3393,7 @@ No Replies Be the first to
 
 ---
 
-## 62. Everyone Wants to HIRE the “3–5 Year Guy” — But Why?
+## 74. Everyone Wants to HIRE the “3–5 Year Guy” — But Why?
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-07-28
@@ -2864,7 +3415,7 @@ No Replies Be the first to
 
 ---
 
-## 63. Thanking Our Employees Who Help Make the Company On The Daily
+## 75. Thanking Our Employees Who Help Make the Company On The Daily
 
 **Author:** AllLawns (Contributor 3)
 **Posted:** 2025-06-28
@@ -3012,7 +3563,7 @@ Does anyone use Applause or any other app? I am researching apps for team engage
 
 ---
 
-## 64. How to hire and set up payroll
+## 76. How to hire and set up payroll
 
 **Author:** laricus_a (Contributor 2)
 **Posted:** 2025-06-28
@@ -3097,7 +3648,7 @@ Gusto has been great for us! Easy to use, intuitive and simple. We can set up de
 
 ---
 
-## 65. Hiring employees
+## 77. Hiring employees
 
 **Author:** asllc (Contributor 3)
 **Posted:** 2025-06-28
@@ -3196,7 +3747,7 @@ to 419lawns We're are you located
 
 ---
 
-## 66. How do you get top employees in a rural community?
+## 78. How do you get top employees in a rural community?
 
 **Author:** ConfluenceHVAC (Contributor 2)
 **Posted:** 2025-06-28
@@ -3225,7 +3776,7 @@ to Rufusoregon Yes. I turn down work daily because I don't have the mechanical h
 
 ---
 
-## 67. Hiring Strategies – What’s Working for You?
+## 79. Hiring Strategies – What’s Working for You?
 
 **Author:** AbigayleJones (Contributor 2)
 **Posted:** 2025-06-28
@@ -3247,7 +3798,7 @@ No Replies Be the first to
 
 ---
 
-## 68. Finding clients
+## 80. Finding clients
 
 **Author:** BigandTall (Contributor 2)
 **Posted:** 2025-06-28
@@ -3269,7 +3820,7 @@ BUILDER 1 There already a lot of info here maybe: How to grow business | The Hom
 
 ---
 
-## 69. Poll: Safety Training
+## 81. Poll: Safety Training
 
 **Author:** SafetyCityLLC (Contributor 2)
 **Posted:** 2025-06-28
@@ -3291,7 +3842,7 @@ No Replies Be the first to
 
 ---
 
-## 70. Time sheets reporting
+## 82. Time sheets reporting
 
 **Author:** Derek1 (Contributor 3)
 **Posted:** 2025-06-28
@@ -3313,7 +3864,7 @@ No Replies Be the first to
 
 ---
 
-## 71. Onboarding Software for new hires
+## 83. Onboarding Software for new hires
 
 **Author:** totalkare (Contributor 2)
 **Posted:** 2025-02-28
@@ -3377,7 +3928,7 @@ We use CORFIX - it is in-vaulable to our business. They have custom forms etc, y
 
 ---
 
-## 72. Hiring the right person for growth
+## 84. Hiring the right person for growth
 
 **Author:** mcurley2 (Contributor 2)
 **Posted:** 2025-06-28
@@ -3448,7 +3999,7 @@ What about opening up some volunteer positions for people who may need community
 
 ---
 
-## 73. Staying in Business
+## 85. Staying in Business
 
 **Author:** TruRefreshers (Contributor 2)
 **Posted:** 2025-05-28
@@ -3470,7 +4021,7 @@ No Replies Be the first to
 
 ---
 
-## 74. Need advice on scaling
+## 86. Need advice on scaling
 
 **Author:** NewLandscaper (Contributor 2)
 **Posted:** 2025-04-28
@@ -3555,7 +4106,7 @@ Hi there, 2 suggestions that could be very helpful, is one, to implement one of 
 
 ---
 
-## 75. You Don’t Need More Hours — You Need the Right People
+## 87. You Don’t Need More Hours — You Need the Right People
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2025-05-28
@@ -3584,7 +4135,7 @@ Give me a shout CPP209​ https://calendly.com/ryaan-besthandymancompany/15min
 
 ---
 
-## 76. Hiring & Team
+## 88. Hiring & Team
 
 **Author:** Evan (Contributor 2)
 **Posted:** 2025-05-28
@@ -3655,7 +4206,7 @@ Hello my name is James me and my partner has a cleaning company in Jacksonville 
 
 ---
 
-## 77. What else? What is your secret sauce in hiring and retaining talent?
+## 89. What else? What is your secret sauce in hiring and retaining talent?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-05-28
@@ -3719,7 +4270,7 @@ to judithvirag So we and a few other companies did a soft survey with our people
 
 ---
 
-## 78. Building a Strong Team for Long-Term Growth”
+## 90. Building a Strong Team for Long-Term Growth”
 
 **Author:** Hwbdelivery (Contributor 4)
 **Posted:** 2025-04-28
@@ -3741,7 +4292,7 @@ No Replies Be the first to
 
 ---
 
-## 79. Commission Based Pay?
+## 91. Commission Based Pay?
 
 **Author:** HomeServicePro (Contributor 2)
 **Posted:** 2025-04-28
@@ -3840,7 +4391,7 @@ Check the new IRS changes to self employment. Last year they was making changes 
 
 ---
 
-## 80. How much do you currently pay for a virtual assistant?
+## 92. How much do you currently pay for a virtual assistant?
 
 **Author:** Jessica (Contributor 2)
 **Posted:** 2025-02-28
@@ -3890,7 +4441,7 @@ BUILDER 1 to Misscuai I advertised on Indeed specifically in Manila the capital 
 
 ---
 
-## 81. Employee Pay Rate
+## 93. Employee Pay Rate
 
 **Author:** markiecooks (Contributor 2)
 **Posted:** 2025-03-28
@@ -3919,7 +4470,7 @@ How about tracking how much they are owed for a certain time period?
 
 ---
 
-## 82. Workers Comp.
+## 94. Workers Comp.
 
 **Author:** MERTSPRODUCTS (Contributor 2)
 **Posted:** 2025-03-28
@@ -3955,7 +4506,7 @@ We had to make the jump much sooner then anticipated into being an W2 employer v
 
 ---
 
-## 83. Partial PTO Tracking?
+## 95. Partial PTO Tracking?
 
 **Author:** apexhomeworks (Contributor 2)
 **Posted:** 2025-02-28
@@ -3984,7 +4535,7 @@ to CleanbyVivi That's good to know! Thank you for your !
 
 ---
 
-## 84. Best job perks?
+## 96. Best job perks?
 
 **Author:** SummerHouseCC (Contributor 2)
 **Posted:** 2025-02-28
@@ -4069,7 +4620,7 @@ I have found that every employee has their own version of a love language. Not a
 
 ---
 
-## 85. Building and Keeping a Team Engaged
+## 97. Building and Keeping a Team Engaged
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-02-28
@@ -4119,7 +4670,7 @@ BUILDER 1 Love it
 
 ---
 
-## 86. How to recruit to a rural location
+## 98. How to recruit to a rural location
 
 **Author:** ConfluenceHVAC (Contributor 2)
 **Posted:** 2025-02-28
@@ -4162,7 +4713,7 @@ to ryaantuttle An Red Seal Refrigeration Mechanic and Gas Fitter with a good und
 
 ---
 
-## 87. Notifying Crew How Much To Be Paid Per Job
+## 99. Notifying Crew How Much To Be Paid Per Job
 
 **Author:** barktreeandland (Contributor 2)
 **Posted:** 2025-02-28
@@ -4198,7 +4749,7 @@ Hi barktreeandland, thanks for the question. Jobber is setup primarily to record
 
 ---
 
-## 88. Paying Subs
+## 100. Paying Subs
 
 **Author:** jsiandre (Contributor 2)
 **Posted:** 2025-02-28
@@ -4248,7 +4799,7 @@ to jsiandre Any time! Have the subcontractor set their rate for you and go from 
 
 ---
 
-## 89. Creating/Implementing Crew Compensation Program
+## 101. Creating/Implementing Crew Compensation Program
 
 **Author:** KeysTrees (Contributor 2)
 **Posted:** 2025-02-28
@@ -4298,7 +4849,7 @@ I'm eager to hear further ideas about tracking KPI's and compensating accordingl
 
 ---
 
-## 90. Seasonal Work
+## 102. Seasonal Work
 
 **Author:** Valerie (Contributor 2)
 **Posted:** 2025-02-28
@@ -4348,7 +4899,7 @@ Building a company culture that encourages employees to return for seasonal work
 
 ---
 
-## 91. System to handle subcontractors payments
+## 103. System to handle subcontractors payments
 
 **Author:** brandym (Contributor 2)
 **Posted:** 2025-02-28
@@ -4384,7 +4935,7 @@ Hey Brandy, thanks for the question. I suggest adding a transferable custom fiel
 
 ---
 
-## 92. Performance Reviews for your Employees?
+## 104. Performance Reviews for your Employees?
 
 **Author:** JoelGreiner1979 (Contributor 2)
 **Posted:** 2025-02-28
@@ -4420,7 +4971,7 @@ Our performance reviews are built around five key pillars, each designed to fost
 
 ---
 
-## 93. When do you know when to start hiring?
+## 105. When do you know when to start hiring?
 
 **Author:** GBPlumbing (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -4547,7 +5098,7 @@ When your schedule is at 80% capacity. That still gives you time to properly hir
 
 ---
 
-## 94. Hiring early? Benefit or hinderance?
+## 106. Hiring early? Benefit or hinderance?
 
 **Author:** peterz3g (Contributor 3)
 **Posted:** 2025-02-28
@@ -4590,7 +5141,7 @@ I find that I approach hiring with an all the time mentality now. I am always on
 
 ---
 
-## 95. Do you have a formula/method you use to calculate Christmas bonuses for your staff?
+## 107. Do you have a formula/method you use to calculate Christmas bonuses for your staff?
 
 **Author:** mowtownedmonton (Contributor 4)
 **Posted:** 2025-02-28
@@ -4612,7 +5163,7 @@ BUILDER 1 We have implemented a performance based Christmas bonus. We reward bas
 
 ---
 
-## 96. Subcontractor agreements
+## 108. Subcontractor agreements
 
 **Author:** wizards1 (Contributor 2)
 **Posted:** 2025-02-28
@@ -4669,7 +5220,7 @@ to bedellmgmt Correct! Legal team for everything lol
 
 ---
 
-## 97. Improving Internal Communication with Your Team
+## 109. Improving Internal Communication with Your Team
 
 **Author:** Erica_Krupin (Jobber Ambassador)
 **Posted:** 2025-02-28
@@ -4712,7 +5263,7 @@ Its also important to follow your org chart and chain of command. Highly recomme
 
 ---
 
-## 98. What perks or benefits do you offer your employees?
+## 110. What perks or benefits do you offer your employees?
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2025-02-28
@@ -4790,7 +5341,7 @@ to Kelsey_LBP They also provide a tool/clothing allowance.
 
 ---
 
-## 99. Employee Training Software
+## 111. Employee Training Software
 
 **Author:** seanroz (Contributor 4)
 **Posted:** 2025-02-28

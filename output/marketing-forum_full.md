@@ -1,39 +1,4267 @@
 # Jobber Community Forum - Marketing Forum
 
-Total Discussions: 137
+Total Discussions: 169
 
 ---
 
-## 1. Would You Use This?
+## 1. If not Me, then Who?
+
+**Author:** miecorp (Contributor 2)
+**Posted:** 2026-05-07
+**Views:** 1 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/if-not-me-then-who/10918
+
+### Content
+
+The Music In Everything Corporation (MIE Corp), also known as MIE Music Science and Technology, Inc., is a nonprofit organization dedicated to integrating instrumental music education with core STEM (Science, Technology, Engineering, and Mathematics) disciplines. Their mission is to explore the relationships between formal music instruction and various academic fields, aiming to empower modern learners by blending STEM and the arts. Promotional Trailer Key Initiatives and Programs: Music in Everything Program: Pronounced "ME," this program integrates instrumental music education with STEM curriculum content, fostering a holistic learning experience for students Fulbright Specialist Recognition: In 2021, MIE Music Science and Technology was selected for the Fulbright Specialist Roster, enabling participation in international projects to share expertise and enhance the capabilities of host institutions. Community Engagement: MIE Corp actively collaborates with educational leaders and offers various programs, including music technology courses, jazz combos, drum therapy, and recorder instruction, to promote the integration of music in education. Visit us on the Web: http://me@mie.ngo DONATE TO THE MOVEMENT https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6STMC8S9N8Q8&source=url
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 2. What kind of premium do you charge when its a job no one has been able to do or figure out before.
+
+**Author:** agentoly (Contributor 2)
+**Posted:** 2026-05-07
+**Views:** 16 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-kind-of-premium-do-you-charge-when-its-a-job-no-one-has-been-able-to-do-or-/10883
+
+### Content
+
+So I have a couple jobs im putting in bids for with no competition because of the fact no one can figure it out. Well I have a couple tools at my disposal that I believe can get the job done. One being the windows on the inside of an 11 story lobby for a major hotel in vegas. Since the tower was built no one has cleaned them. So they are bad. What can I do to make this the best payday possible. Without them saying they are not prepared for that kind of cost. But getting this done also secures me the highrise exterior contract. AnthonySalazar 17 hours ago I’d be careful about looking at it as “charging a premium because nobody else could figure it out.” Most clients don’t really care that other companies failed. What they care about is: risk liability disruption to operations whether you can actually complete the work safely and professionally Especially in your situation where the bigger opportunity sounds the exterior contract afterward. If it were me, I’d focus less on maximizing the first invoice and more on structuring the proposal intelligently. A few things I’d think through first: How much setup and testing time is involved? Is this realistically a one-night job, or could it turn into multiple nights? What happens if your initial process doesn’t work halfway through? What liability are you taking on working inside a hotel lobby? Will you need to shut down areas or work around guests? Do you need additional insurance, equipment, or protection measures? Those unknowns are usually where specialty jobs become unprofitable. Personally, I’d probably break the proposal into phases instead of presenting one large fixed number: testing / proof of concept production cleaning ongoing maintenance recommendations That gives the client smaller decision points and also protects you if the scope changes once work begins. I also wouldn’t frame the pricing around “nobody else can do this.” I’d frame it around: complexity access challenges labor hours specialty equipment risk mitigation minimizing disruption to hotel operations That comes across much more professionally from the client’s perspective. If the exterior contract is the real long-term opportunity, I’d keep relationship value in mind too. A lot of companies lose recurring high-value work because they try to maximize profit on the first job instead of building trust and securing the larger relationship.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-07
+
+I’d be careful about looking at it as “charging a premium because nobody else could figure it out.” Most clients don’t really care that other companies failed. What they care about is: risk liability disruption to operations whether you can actually complete the work safely and professionally Especially in your situation where the bigger opportunity sounds the exterior contract afterward. If it were me, I’d focus less on maximizing the first invoice and more on structuring the proposal intelligently. A few things I’d think through first: How much setup and testing time is involved? Is this realistically a one-night job, or could it turn into multiple nights? What happens if your initial process doesn’t work halfway through? What liability are you taking on working inside a hotel lobby? Will you need to shut down areas or work around guests? Do you need additional insurance, equipment, or protection measures? Those unknowns are usually where specialty jobs become unprofitable. Personally, I’d probably break the proposal into phases instead of presenting one large fixed number: testing / proof of concept production cleaning ongoing maintenance recommendations That gives the client smaller decision points and also protects you if the scope changes once work begins. I also wouldn’t frame the pricing around “nobody else can do this.” I’d frame it around: complexity access challenges labor hours specialty equipment risk mitigation minimizing disruption to hotel operations That comes across much more professionally from the client’s perspective. If the exterior contract is the real long-term opportunity, I’d keep relationship value in mind too. A lot of companies lose recurring high-value work because they try to maximize profit on the first job instead of building trust and securing the larger relationship.
+
+#### Reply 2
+
+**Author:** agentoly
+**Posted:** 2026-05-07
+
+to AnthonySalazar Thank you this was very helpful. I appreciate the time an effort you put into your answer. I am just a little over excited when it comes to my new business and how its doing. Slowing down to understand everything that goes into being an owner is a lot more than what I was used to worrying about. The labor payout.
+
+#### Reply 3
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-07
+
+to agentoly That's the beauty of being a business owner! You can do things however you and you have to solve bigger problems than when you're an employee. But that's why you get paid the big bucks.
+
+---
+
+## 3. Do you like using Jobber's Website?
+
+**Author:** threerelectric (Contributor 2)
+**Posted:** 2026-05-07
+**Views:** 5 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/do-you-like-using-jobbers-website/10900
+
+### Content
+
+I am using Jobbers website. I was just wondering if others are using it and how they are doing with it. Do you it, are your customers using it? I am trying to get my customers to use I am an Electrical contractor and some of our customers are contractors and we do constant jobs with them and they can see there bills. What kind of pictures are you putting up there?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 4. How to market a well known product for a not-so-well-known use?
+
+**Author:** MaximeMoreau (New Member)
+**Posted:** 2026-05-07
+**Views:** 6 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-market-a-well-known-product-for-a-not-so-well-known-use/10871
+
+### Content
+
+NEW MEMBER We have a ceramic coating company and we are branching into Home Services, a relatively untapped market, but ceramic coating has been so well known for vehicles we're trying to change the popular opinion that it's actually fantastic for home care as well. Windows, pool glass, shower glass -- it performs SO WELL! How can we showcase this?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-05-07
+
+JOBBER COMMUNITY TEAM Great questions, Maxime! The good news is that your service will sell itself once people see it in action, so build your strategy around proof. A few things worth exploring: Do you have a newsletter or email list with your existing customer base? They already trust you, and a simple "did you know we also do this?" can go a long way. Are you capturing before and after photos on every job? That's your most powerful marketing asset for this. And is the service offering clearly visible on your website? Local Facebook groups can also be a great low-cost way to test interest. Where are most of your leads coming from right now? That might help point to where to focus first.
+
+---
+
+## 5. How to grow a business on the side until you can go full-time?
+
+**Author:** Aaronmkl (Contributor 2)
+**Posted:** 2026-05-06
+**Views:** 36 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-grow-a-business-on-the-side-until-you-can-go-full-time/10848
+
+### Content
+
+Hey everyone, Aaron here with Latiolais’ Lawn Co. out of Lafayette, Louisiana 👋 I started my lawn and property maintenance business while working a full-time job during the week, and have been growing it through hard work, referrals, and trying to provide dependable service every time. Jobber has honestly helped take my business to another level with estimates, invoicing, scheduling, and keeping customers updated professionally. It’s helped me run smoother operations and build stronger relationships with customers. Excited to keep learning from everyone in this community and continue growing the business 👍 For those that started owner-operated, what helped y’all the most when making the jump toward full-time?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-05-07
+
+Well you already took the first step by getting Jobber - it's the easiest way to appear bigger than what you are when you have automations etc. To get more reach, early on I was a big fan of pay per lead platforms Thumbtack. This helps get money coming in and is easier to track if it's worth it or not. I remember spending $100-$150 on leads to make $1500-$2000 in a week. I was stoked on that! Keep your price low till you get enough reviews then give yourself a little bit of a raise. I'm not saying be crazy cheap but be on the lower end until you have enough reviews to give you the credibility of charging more.
+
+#### Reply 2
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-07
+
+I worked my full time job, scooped dog poop 7 days a week until the sun went down and did content creation for 3+ years before I grew large enough to quit my job and focus on my business full time. What really helped me grow was consistently being unreasonable with how much I was willing to serve my clients, leveraging their glowing testimonials on Facebook groups and ads, and being relentless on following up with leads and past customers. Just because someone says no today doesn't mean they won't need your services in the future. Also what helped me a lot was joining groups specific to my industry and meeting/speaking with other business owners who were dealing with the same crap (pun intended lol) I was dealing with. It makes you realize that a lot of the problems you run into someone has already solved that issue and that you're not alone in the struggle. Keep your nose to the grind stone, you'll be surprised with how far you can get if you don't give up!
+
+#### Reply 3
+
+**Author:** MaximeMoreau
+**Posted:** 2026-05-07
+
+NEW MEMBER Keep it up! A lot of businesses start as side-hustles until they grow out of it naturally.
+
+---
+
+## 6. Best lead generation for new painting businesses?
+
+**Author:** KevinElitePaint (Contributor 2)
+**Posted:** 2026-05-05
+**Views:** 30 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/best-lead-generation-for-new-painting-businesses/10800
+
+### Content
+
+What are the best methods for lead generation for a new painting business?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** Mohamed_Ch
+**Posted:** 2026-05-05
+
+Many new painting businesses may face challenges not necessarily with generating leads, but rather with enhancing their visibility and improving conversion rates If you’re not getting consistent jobs, it usually breaks down in 3 places: Local visibility: Your Google Business Profile is the highest ROI asset. If it’s not fully optimized and updated weekly (photos, reviews, posts), you’re invisible to people already searching. Authority + trust signals: Basic directory presence ( Yelp and similar sites) isn’t just for backlinks, it validates your business across the web. This impacts both rankings and conversion. Conversion system: Running ads without structure burns money. You need: – fast response (minutes, not hours) – proper tracking (calls + offline jobs) – a CRM Jobber to manage leads and follow-ups Many opportunities for revenue are often lost due to slow response times and insufficient follow-up, rather than a lack of leads. It may be beneficial to focus on improving these aspects before scaling advertising efforts. Otherwise, there is a risk of investing in ads without fully capitalizing on available opportunities.
+
+#### Reply 2
+
+**Author:** Dansgaragedoors
+**Posted:** 2026-05-07
+
+NEW MEMBER to Mohamed_Ch Yes great answer- Google Business Profile is everything, although we havent done the weekly posts do people really use the posts?
+
+#### Reply 3
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+I’ve been painting for over 10 years. For a new painting business, the best lead gen I’ve found is still knocking on doors in older neighborhoods. People respect someone who shows up and talks to them. The Nextdoor app is also really good, and building relationships with a few realtors has brought me a lot of work too.
+
+---
+
+## 7. What is driving your sales? What marketing is bringing you customers?
+
+**Author:** OKHappyatHome (Contributor 2)
+**Posted:** 2026-05-03
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-is-driving-your-sales-what-marketing-is-bringing-you-customers/10759
+
+### Content
+
+How are you marketing yourself? What is bringing you the most customers? Word of Mouth would be too of the list. But are you networking? Using AI in a unique way? Flyers? Paid ads? What is working for you?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** Dansgaragedoors
+**Posted:** 2026-05-07
+
+NEW MEMBER Referral and good reputation is the heavy hitter for us. We spread marketing on Yelp, LSA, Google Ads, and Meta ads. Still learning and figuring out true conversion rates. We did do some yard signage but don't think thats bringing many calls in. Whats working for you?
+
+---
+
+## 8. Sales Calls - How are You Stucturing Yours?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-05-04
+**Views:** 20 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/marketing-forum/sales-calls---how-are-you-stucturing-yours/10774
+
+### Content
+
+How do you all structure your sales calls when a lead comes in? Do you jump straight to a site visit, give ballpark pricing over the phone, or take a different approach? I'm curious how everyone handles that initial conversation before committing time to the property. Here's my process: my VA gathers information and photos first, and if it's a job that'll run longer than a day or two, I'll call them. I spend about sixty to seventy five percent of that call just discovering—how long they've been considering this, what they really need, the full picture. Then I give them a bracketed price and listen to their reaction. If it fits their budget, we move to scheduling a site visit. Now, some leads won't send pictures or details, and honestly, I'm not spending two to four hours wandering their house blind. So I charge a hundred and fifty dollar site visit fee in those cases. It filters for serious clients and respects my time. Curious to hear how you all approach this—what's working for you?
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+I your system — especially having your VA get the photos and info first. I do something pretty similar. I don’t wasting time either, so I also give a bracket price over the phone. I spend most of the call asking questions and listening. Once I throw out the price range, their reaction tells me everything I need to know. The $150 site visit fee is smart. I might steal that idea. If someone won’t send pictures, I’m not driving out there blind either. Good stuff.
+
+#### Reply 2
+
+**Author:** judithvirag
+**Posted:** 2026-05-06
+
+BUILDER 1 After Covid we moved to over the phone, email and online booking. When we receive a lead our sales rep follows up. We provide an estimate over the phone. If during the discussion any red flags come up (and we have a lot LOL) then we ask for pictures. If we would do all the quotes in person I would have to have another person driving around all day. I am sure my conversion rate would be better though.
+
+---
+
+## 9. How to get the maximum out of your bid on a job
+
+**Author:** agentoly (Contributor 2)
+**Posted:** 2026-05-04
+**Views:** 70 | **Likes:** 0 | **Comments:** 6
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-get-the-maximum-out-of-your-bid-on-a-job/10783
+
+### Content
+
+What's a way I can find out what a potential commercial property will pay for my service (window Cleaning)(for any trade) after you've already asked what's their budget and they have said "i dont know im not at my computer to tell you." travisshepherd 3 days ago When they hit me with the 'I don’t know, I’m not at my computer' line, I don’t ask again. I just give them a range. I’ll say something : 'Most buildings similar to yours usually run between $1,800 and $2,800 depending on how detailed they want it. Does that sound it’s in the ballpark, or are we completely off?' Nine times out of ten, they’ll tell you if it’s too high or too low. That’s how I figure out what they’re really willing to pay.
+
+### Replies (6)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-05
+
+I’ve run into this situation with property managers. That usually means one of two things: They genuinely don’t know They don’t want to anchor themselves too early Either way, waiting on their number puts you in a weak position. What’s worked better for me is flipping the conversation from “what’s your budget?” → “here’s how we price this.” Instead of chasing their number, I walk them through how I arrive at mine. For example, in my business (pet waste removal), I’ll break it down based on: Size of the property Frequency of service If they want only the common areas cleaned or if they need their pet waste stations maintained as well Problem areas that require extra attention For window cleaning, your version might look : Number of panes / buildings Accessibility (ground vs multi-story) Frequency (monthly vs quarterly vs one-time) Condition (maintenance clean vs heavy buildup) Doing it this way positions you as the professional. If they say they don’t know their budget, I’ll say something : “No problem, most of the properties I work with aren’t sure upfront either. What I can do is put together a couple options based on what I typically see for a property yours, and you can tell me what makes the most sense.” Then I’ll present 2–3 options, not one price: A baseline option (bare minimum to get the job done right) A standard option (what most people choose) A premium option (more frequent / more thorough / higher touch) This allows you to control the pricing conversation, you anchor the value of your service and you learn what they're willing to pay based on what they pick.
+
+#### Reply 2
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+When they hit me with the 'I don’t know, I’m not at my computer' line, I don’t ask again. I just give them a range. I’ll say something : 'Most buildings similar to yours usually run between $1,800 and $2,800 depending on how detailed they want it. Does that sound it’s in the ballpark, or are we completely off?' Nine times out of ten, they’ll tell you if it’s too high or too low. That’s how I figure out what they’re really willing to pay.
+
+#### Reply 3
+
+**Author:** HUGEHomePros
+**Posted:** 2026-05-05
+
+I don't think this would be the best approach personally. I think it'd be better to understand what your pricing needs to be to cover your expenses as a baseline then what you need to make the profit margin you need to make for growth then don't worry about what they are willing to pay. If they can't pay what you need to charge to grow your company, it's not a job you should be taking anyway. It's a good practice to think what kind of assets you will have in 5 years - will you have a shop? will you have a truck? will you have 10 trucks? What would it cost me to have those things? Then price for those right now (within reason). Obviously I'm not going to charge customers for a commercial building I don't have now or the private jet and butler I'll need to go to all my walk throughs, but we should all make our pricing for growth, not necessarily where we are in this moment in time. Other things we should be including in our budgets (then ultimately in our pricing are) - continuing education (coaching courses or conferences), education for our staff, employee benefits, good uniforms, wraps for our trucks, marketing, etc. This way if they accept the bid they are getting a fare price and you don't feel you low balled them.
+
+#### Reply 4
+
+**Author:** agentoly
+**Posted:** 2026-05-05
+
+to HUGEHomePros I completely agree. There is more that I think about in the first step of the three rule. In man hours when I put a third to admin and a third to the business. Considering does that third account for taxes, overhead, and profit margin. With a cushion on the man hours in case it goes over expected time. But if it doesn't that cushion is more that adds more twords the growth. So proper understanding the time it takes for the job to get done and having worst case scenario cushion helps me invest more into my business. Since there is very little overhead in window cleaning ( soap and water) i can stay pretty competitive not having to put a hard number twords what needs to be added on top of the third rule. So I want to move twords piece work so my guys can push themselves to get more done and make more money than an hourly person can in an 8 hour shift. Instead of moderately paced employees that think no matter what they complete is what they complete in 8 hours. I want them to make more money, I get a set rate to pay them, and more work gets completed
+
+#### Reply 5
+
+**Author:** agentoly
+**Posted:** 2026-05-05
+
+Ya I agree with that. When im making a blind bid I go by the 3 rule. 1 man hours and that being a third of the bid. 2 window count and difficulty. 3 gut feeling. I take all three and find the middle and that's my number
+
+#### Reply 6
+
+**Author:** agentoly
+**Posted:** 2026-05-05
+
+Ya that's always my hope when I pull that line out to them. Its just hard when im looking at what I believe is a $250,000 a year 4 year contract on the vegas **bleep** to not insult them or underbid myself and they say oh OK we will consider you at that price when really im 50k off. Im a new business and ive been doing highrise window cleaning and building maintenance for 20 years. And I have a lot of contacts and my foot in the door with these giant jobs. I maybe should have started smaller till I learned what the real pricing on these jobs are. But so far business is booming. Payroll and the frequency of pay is kicking me. But it just takes time.
+
+---
+
+## 10. How to get more customers without relying on ads or social media?
+
+**Author:** Metrowallflower (Contributor 2)
+**Posted:** 2026-05-04
+**Views:** 33 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-get-more-customers-without-relying-on-ads-or-social-media/10789
+
+### Content
+
+What’s the best ways to get more customers to shop with your amazing company besides ads and social media I’ve been struggling to come up with new ways to bring in new customers to http://www.METROWALLFLOWER.com ig @metrowallflowers
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** AnthonySalazar
+**Posted:** 2026-05-05
+
+Some of my highest quality customers I've gotten didn't come from ads, they came from positioning and direct relationships. Instead of trying to outspend competitors, I wrote a short book specifically for property managers in my niche. It wasn’t complicated—just a clear breakdown of a problem they deal with and how to solve it. Then I had it printed via Kindle Direct Publishing. Now when I meet a prospect, I’m handing them a physical book with my name on it. And that changes the entire conversation. You’re no longer “another company” You’re the person who literally wrote the book on the subject You instantly stand out in a sea of generic outreach And because it’s physical, it doesn’t get lost in an inbox or buried in DMs. It sits on their desk. That one move positioned me as an authority way faster than any ad ever did. On your instagram, you say "We Frame Memories". You could make a small booklet of some of your best Wall Art and the story behind each piece, and then have a bunch of copies that you give out to your previous customers as a "Thank you" gift and as a way for them to send you referrals. It's a lot easier to get referrals from someone when you give them a physical item to give away instead of just a flyer/business card etc. Maybe make one version of your book for Moms and all the Mom/children Wall art you have, one for Dads etc. It just depends on who is your ideal customer that you want to continue advertising to and working with.
+
+#### Reply 2
+
+**Author:** travisshepherd
+**Posted:** 2026-05-05
+
+For MetroWalllflower, door hangers in neighborhoods are still one of the best moves. People love unique personalized gifts. Also, build relationships with local funeral homes and churches — those are perfect for memorial gifts your photo flower vases. And don’t sleep on wedding photographers and planners. A lot of people want custom photo gifts after weddings.
+
+---
+
+## 11. Stop What Your Doing and Order Tap Cards for Google Reviews
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-05-04
+**Views:** 28 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/stop-what-your-doing-and-order-tap-cards-for-google-reviews/10775
+
+### Content
+
+I want to share something that's genuinely moved the needle for us: tap cards for reviews. Here's how it works. After a client's thrilled with their job, our technicians say something , 'It'd be amazing if you could leave us a five star review—it's super important to our business. And if you mention my name and add a photo of the project, I get a bonus.' Most people say yes right away. Then the technician pulls out their phone and says, 'Actually, can you pull yours out too? I can connect you to our Google page right now.' What's been incredible is we've gotten reviews across all our service types—big jobs, small jobs, property management inspections—literally every interaction. The key is timing and genuine satisfaction. If a client's already raving about the work, that's your moment to ask. Obviously there's nuance; you need to make sure they actually loved what you did. But when they're excited, the barrier to leaving a review disappears when you make it that easy, right then and there. I'll link the tap cards below—not something I profit from, just genuinely recommend them. Tap Tag Review Card with QR | Google, Trustpilot, TripAdvisor Reviews
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 12. Ask-an-Expert: Free Social Media Audit
+
+**Author:** kasyallen (Contributor 4)
+**Posted:** 2025-09-08
+**Views:** 47 | **Likes:** 16 | **Comments:** 182
+**URL:** https://community.getjobber.com/discussions/marketing-forum/ask-an-expert-free-social-media-audit/5455
+
+### Content
+
+Check out Kasy's Top Learnings from reviewing 50+ social media accounts! 👀 Hey friends! I’m Kasy Allen, and I’ll be your Ask-an-Expert sidekick in the Jobber Community starting August 13th. We’re diving into all things social media: what’s working, what’s not, and how to make your page pull in the right clients without making you want to throw your phone into the void. With 20+ years in digital marketing (yep, before TikTok dances were a thing) and a heart for helping small, local businesses grow, I’ll be offering bite-sized, personalized audits of your socials... think: quick wins, smart tweaks, and zero fluff. Here’s how to jump in: 👉 Drop ONE social link in the comments (Facebook, Instagram, or TikTok) and starting August 13th, I'll spend the week auditing your socials. 👉 I’ll give you feedback on: First impression (bio, visuals, all that jazz) Your content strategy (what’s landing, what needs a refresh) How well you’re showing up for your local community You’ll walk away with tips you can actually do something with (no 80-slide webinars required). 💡Heads up: I’ll review the first link you drop so I can give each person thoughtful, no-BS feedback. Can’t wait to dig in and help you turn scrolls into sales. Let’s do this! 👊 🔺 Please note: Due to the high level of interest in this session, Kasy may not be able to complete every review. She'll do her best to get through as many as possible, prioritizing those submitted earliest. Thanks for understanding—and thanks for showing up in such a big way! (This post will be closed on August 19 at 5:00 pm MST)
+
+### Replies (182)
+
+#### Reply 1
+
+**Author:** BlueSkies
+**Posted:** 2025-09-08
+
+im going to regret this (and then get over it and be happy about this.) https://www.facebook.com/BlueSkiesLawnCare
+
+#### Reply 2
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to BlueSkies Hello BlueSkies! First Impression Positive: Strong local presence and a personable brand that comes across as approachable. Quick Fix: Update the cover photo. Christmas lights in summer can confuse first impressions; use a fresh lawn care image that reflects the current season and core services. Content Strategy Positive: On-camera appearances are a great strength - your personality connects well with the audience. Seasonal lawn tips are driving strong engagement. Quick Fix: Add more before/after shots to showcase the visible results of your work. Lawn care is highly visual, and transformation content will set you apart. Community Presence Positive: You’re building connection by showing up authentically and offering helpful tips. There’s a strong base to grow from. Quick Fix: Review analytics to identify top-performing content and double down on those formats. Explore cross-promotions with local businesses and highlight customer testimonials or community events. Quick Win Checklist Replace cover photo with a seasonal lawn care image Post consistent before/after project photos Review analytics to find top-performing content Seek out 1–2 local business partners for cross-promotion Introduce customer testimonials or spotlights into the content mix 💡 Pro Tip: You’ve already nailed relatability and trust. The next step is making your content more instantly recognizable: before/after visuals paired with a consistent seasonal look will give you both credibility and stopping power in the feed.
+
+#### Reply 3
+
+**Author:** GregSemones
+**Posted:** 2025-09-08
+
+to BlueSkies Much Appreciated!!
+
+#### Reply 4
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+From Blurry Covers to Brand Personality: Top Lessons Learned This Week Thank you to everyone who shared their pages this week! I’m sorry I couldn’t get to all of them, but wow, there were some clear patterns that popped up across the ones I did review. I’ll be pulling together a full Top 10 Post soon, but for now, here are the biggest takeaways from this round of audits: Blurry covers are everywhere. First impressions matter! Facebook cover size is 820 x 360 px. Half-filled bios = half-baked SEO. Too many Intros and About sections don’t list service area, services, or contact info. Local SEO begins here. AI is running wild. A lot of businesses are posting straight AI-generated content without editing. It shows. Take 2 minutes to make it your own voice. Your brand personality is what makes you memorable, not a wall of generic AI emojis. Human content wins. The posts that stood out were team photos, community involvement, and behind-the-scenes - not just Canva templates. Consistency is king. Once-a-month posting is too light, 10x-a-day is too heavy. The sweet spot is usually 2-3 solid posts per week, with variety. So here’s my question to you all: What’s the #1 thing you’re taking away for your own page?
+
+#### Reply 5
+
+**Author:** EnergizeUs
+**Posted:** 2025-09-08
+
+@willmbetances on Instagram
+
+#### Reply 6
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to EnergizeUs Hello Will! Thanks for being the first to comment - ready to get this started? Let's go! First Impression Positive: You’ve established instant authority with a verified blue check and strong follower count, and your intro content makes it clear what you’re about - people know they’re in the right place from the start. Engagement is strong, and the electrical niche is clearly defined, giving you a solid foundation to grow your coaching brand. Showing up on video also adds a layer of trust and relatability. Quick Fix: Fill out your highlight boxes with clear, branded categories Education, Podcast, Growing a Business, and Behind-the-Scenes, so new visitors can dive deeper into your content. Developing brand guidelines - colors, fonts, tone, and even music style - will help shape your coaching identity, while color blocking or branded imagery can make your grid instantly recognizable and stop scrollers in their tracks. Content Strategy Positive: Consistency is your biggest strength. You’re producing video content regularly, and your captions are clean, easy to read, and written in the same language your audience uses. It’s clear you’re editing them to feel authentic: light on emojis and free of unnecessary clutter. Most posts are landing well, and your teaching content boosts your authority and credibility both socially and from a broader EEAT (experience, expertise, authority, trust) perspective. Quick Fix: To level up, consider experimenting with your music choices and narrowing them into a “brand sound” once your guidelines are set. The AI-generated images are fine for testing, but they do read as AI... mix in real-life photos and branded graphics to see what resonates most. The final layer of growth is structure: create an editorial calendar that balances education, coaching insights, industry commentary, and client wins so your feed becomes both valuable and varied. Community Presence Positive: You’ve built a genuine community in your sweet spot with electricians, and the engagement you’re getting from peers and respected voices in your industry (Contractor Rhino included) validates your credibility. Quick Fix: The next step is to amplify those partnerships and collaborations more visibly on your feed. At the same time, take a step back to define your ideal follower persona. Who exactly are they? What is their biggest pain point? And what transformation are they hoping to achieve by following you? Once this picture is crystal clear, every caption, story, and video can speak directly to that person, deepening connection and driving growth. Quick Win Checklist Fill out highlight categories with branded topics Develop brand guidelines (colors, fonts, tone, music style) Add color blocking or branded imagery for feed consistency Create an editorial calendar to balance content themes Double down on EEAT posts: teaching, industry commentary, and news features 💡 Pro Tip: You’ve already got trust and authority in your niche. Now it’s about making your content instantly recognizable in-feed and dialing in the systems to scale it.
+
+#### Reply 7
+
+**Author:** Acmanonline
+**Posted:** 2025-09-08
+
+@acman_swfl on instagram
+
+#### Reply 8
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Acmanonline First Impression Positive: Love that you’re using color blocking in your feed, that’s completely on point to build a strong brand on social media. Quick Fix: Spell out that service area to help improve searchability – what does SWFL stand for? Content Strategy Positive: Your video content is strong… keep showing up on camera! Quick Fix: You only have 13 posts and the timing is a bit spaced out. Consider building an editorial calendar to help with keeping things consistent. Community Presence Positive: The “family owned” mention already builds trust it positions you as local, reliable, and personable. Quick Fix: Tap into local engagement: highlight a client’s cooling setup or collaborate with nearby businesses (even shout out a local real estate agent or supplier partner). Quick Win Checklist Strong use of color blocking makes the brand instantly recognizable in-feed. Spelling out your service area (instead of “SWFL”) will boost searchability and make it clearer for new visitors, but if your audience recognizes SWFL, definitely keep it! Video content is engaging and positions you as the face of the brand. Posting is a bit sporadic; an editorial calendar will help you keep momentum and stay top-of-mind. You can strengthen local ties further by featuring client installs or partnering with other local businesses for cross-promotion. 💡 Pro Tip: Your videos already give you a strong personal brand edge - lean into short, educational “did-you-know” style clips to stay top-of-mind and easy to share.
+
+#### Reply 9
+
+**Author:** roliespenning
+**Posted:** 2025-09-08
+
+Verde_cleaning on instagram
+
+#### Reply 10
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to roliespenning First Impression Positive: Your visual branding is lovely - those green accents and team photos give a vibrant, unified feel to your feed. Quick Fix: Try subtle color blocking in your posts to increase scroll-stopping impact - think bold green backdrops or accent panels that align with your brand palette. Content Strategy Positive: Seeing the owner shine through in videos builds authenticity and connection... keep it up. Quick Fix: You’re using AI-generated captions, which is okay, but make sure every post reflects you: edit AI content to sound more your voice, and trim back emojis for clarity. Community Presence Positive: Those location notes in your intro clarify who you serve which is great for trust and local connection. Quick Fix: Engagement is lower than expected for your follower count. Curious if Facebook is getting you more engagement? Run a local giveaway (e.g. “Tag a friend who needs a free eco-clean!”) to spark interaction. Partnering with nearby businesses can also boost reach. Quick Win Checklist Add branded color blocking to create visual consistency and stop-the-scroll moments. Edit AI-generated content to reflect your voice and trim back emojis. Maintain video content with the owner front and center. Partner with local businesses for shared posts and audience crossover. Test a local giveaway to increase interaction and visibility.
+
+#### Reply 11
+
+**Author:** RooCrew
+**Posted:** 2025-09-08
+
+@kangaroocontractingnanaimo on Instagram
+
+#### Reply 12
+
+**Author:** noelpainting
+**Posted:** 2025-09-08
+
+to RooCrew https://www.facebook.com/share/1YoxUJos72/
+
+#### Reply 13
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to noelpainting First Impression Positive: Branded cover photo with a clear tagline makes it obvious you’re a painting company. Quick Fix: The image is a bit pixelated, and it looks a stock photo of a family painting their own house, which might unintentionally encourage DIY instead of hiring you. Swap it for a high-quality image of your work or team. Content Strategy Positive: Consistent branding across posts shows professionalism and polish. Quick Fix: Right now, the feed is ad after ad, which can turn followers off from engaging. Add variety with team photos, before/after transformations, project progress shots, and short videos. An editorial calendar can help create that balance and build engagement. Community Presence Positive: You’re showcasing reviews, which builds trust with potential customers. Quick Fix: Engagement is minimal likely because the content feels sales-heavy. Incorporate local stories, behind-the-scenes moments, and posts that invite conversation. Also, add your location to the intro for better local SEO and clarity. Quick Win Checklist Replace cover photo with a high-quality image of your own work or team. Add team photos, project before/afters, and in-progress shots to humanize the brand. Break up ad-heavy posting with community-focused or educational content. Build an editorial calendar to ensure a mix of content types. Include your location in the intro for better visibility in local searches.
+
+#### Reply 14
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to RooCrew First Impression Positive: Beautiful photography starting June 18 really elevates the quality of your feed... looks you may have upgraded your camera, and it shows. Quick Fix: Strengthen your intro by replacing “and more” with a specific service or benefit. Make every word count in that prime real estate. Content Strategy Positive: You’ve got a few videos in the mix, and your captions are clean; in other words, no sign of overused emojis or AI content. Quick Fix: Add variety with before/after shots, reviews, and team photos to help followers connect with your work and your people. Build an editorial calendar to post consistently and start growing engagement. Community Presence Positive: Location is clearly listed, which helps local customers know you serve their area. Quick Fix: Engagement is low, likely due to the small follower base. Check your analytics to find which posts perform best and double down on those formats. Partner with other local businesses or community pages for cross-promotion to help increase reach. Quick Win Checklist Replace “and more” in your intro with a clear, specific service or unique selling point. Add before/after photos, client reviews, and team shots for trust-building content. Create an editorial calendar to post consistently and boost engagement. Review analytics to identify and replicate top-performing post types. Collaborate with local businesses for mutual exposure and more shares.
+
+#### Reply 15
+
+**Author:** katrina_dynamic
+**Posted:** 2025-09-08
+
+https://www.instagram.com/dynamicheatandcool/ thank you!!
+
+#### Reply 16
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to katrina_dynamic Hey Katrina, I love what you're doing here, this is a great example of what to do to make your page SHINE! First Impressions This is the perfect example of turning something that could be seen as “boring” into binge-worthy content. The page is visually cohesive, inviting, and encourages me to hit “play” on your videos immediately. Your use of video + community focus is exactly the formula we teach small businesses. We just launched a similar “featured local businesses” series and, you, saw amazing engagement - it works. Owner & team photos? Gold. They make you approachable, trustworthy, and human. Branded Highlights (especially that Before/After) are stellar - clean, consistent, and easy to navigate. Photography & video quality are high, which instantly elevates the brand. For anyone else reading this: This is exactly how you turn service-industry social media from “meh” to memorable. Content Strategy Engagement is strong, which tells me you’re already hitting the right notes with your audience. I don’t see obvious “dead weight” posts (content that gets little to no interaction). That’s rare, keep up what’s working. Emoji usage varies: some posts have a lot, others none. Consistency helps reinforce your tone. If you’re using AI to draft and then editing before posting (smart move), just keep an eye on overuse so the captions stay natural. I noticed the keywords at the bottom of posts. While this is the ole' SEO tactic to get eyes, it can also feel spammy. Test weaving those keywords into your captions naturally instead. Font choices are great. The cursive accent with your main font is a subtle but effective marketing move. Just make sure the cursive emphasizes the most important word(s) in the graphic so it reinforces your message visually. Community Presence You’re showing up for your community, and it’s paying off. The local business highlight videos are epic. Getting the owner on camera is a huge win. Most owners hide from the lens, but they’re the best people to connect with the audience. Little moments “Cute Overalls” posts are genius, they’re relatable, seasonal, and still keep your brand subtly in frame. Lean even more into your brand colors. Bold, consistent color blocking (similar to how Thomas Plumbing does it, https://www.instagram.com/thomasplumbingnc/) makes your posts instantly recognizable in a busy feed. Quick Win Checklist: Keep producing community-focused video content Test integrating keywords naturally in captions instead of listing them Tighten emoji use for a consistent brand tone Ensure cursive font highlights the key takeaway word in each graphic Explore more bold brand color blocking for extra visual pop 💡 Pro Tip: You’ve already nailed the hardest part - getting people to care. Now it’s about sharpening those small brand details so every scroll-stopper is instantly recognizable as you.
+
+#### Reply 17
+
+**Author:** Van
+**Posted:** 2025-09-08
+
+https://www.facebook.com/trusthomecomfort/ Thank you!
+
+#### Reply 18
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Van First Impression Positive: You’re clearly showing real HVAC work being done, no stock here, which makes your brand feel authentic. Quick Fix: The current cover image is blurry, off-color, and doesn’t align with your branding. Replace it with a crisp, branded photo (logo, team in uniform, or a finished install). That’ll make a stronger professional first impression. Content Strategy Positive: Love that you’re using video, before/afters, and reviews - that’s the right mix to build trust. Quick Fix: Right now, it looks reviews are being auto-posted one after another, which comes across as spammy and lowers engagement. Balance those reviews with branded posts, project photos, and educational tips. Consistency with variety will help re-engage your followers. Community Presence Positive: “Keeping families comfortable since 2014” is a great trust signal, and your natural photos are much stronger than stock - keep using them. Quick Fix: Add your location to the intro to help local customers find you faster. Also, make the tone more personal; right now, it feels a little stale. Try weaving in community partnerships, team features, or local shoutouts to spark interaction. Quick Win Checklist Replace blurry cover photo with a sharp, branded image (logo + team or install). Mix up your posting with a balance of review content, project photos, educational tips, and branded visuals. Use natural team photos instead of stock to show authenticity. Add location to the intro for better local search visibility. Freshen up the intro tone to sound more personal and approachable. Experiment with community-based posts (partner tags, local event mentions) to build engagement.
+
+#### Reply 19
+
+**Author:** ryanstoerrle
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1CJoKbP3QU/
+
+#### Reply 20
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to ryanstoerrle Hey Ryan, thanks for stopping by - let's do this! First Impression Positive: The current cover image signals that you work with commercial properties, which is a plus. Quick Fix: The image is dark and reads more window cleaning than parking lot services. Swap it for a bright shot of a freshly striped, sealed, or repaired parking lot to instantly communicate what you do. Content Strategy Positive: Great variety of content, mixing before/after videos, images of the owner, real project work, and community involvement. That builds trust and shows you’re local. Quick Fix: Watch the AI-generated content style. Too many emojis or one-size-fits-all captions sound generic. Edit AI content into your own voice so it feels human and true to your brand. Community Presence Positive: Love that you’re sharing reviews, team photos, and posts about supporting local foundations. That local vibe is working, and the shares prove people value it. Quick Fix: Engagement in comments is low, but you’re getting solid shares. Lean into local connections by tagging partners and clearly stating your location. Update your intro to include your service area, and make sure your address lists city and state, not just street and zip. Quick Win Checklist Replace the dark cover image with a bright before/after of a finished commercial lot. Edit AI-generated captions to sound your voice and reduce emoji overuse. Keep posting project before/afters and community involvement content. Tag local businesses and partners to boost engagement and shares. Update intro and address to include city and state for better local search visibility.
+
+#### Reply 21
+
+**Author:** Alyssa_W
+**Posted:** 2025-09-08
+
+@allfencecompanyinc on instagram
+
+#### Reply 22
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Alyssa_W First Impression Positive: Your bio makes it clear you’re a trusted fencing company with over 40 years of experience and free quotes - that’s instant credibility. Quick Fix: Add branded highlight covers aligned with your fencing aesthetic (wood, metal, gates) so visitors immediately see your identity and services at a glance. Content Strategy Positive: You showcase your completed work well, and it really highlights your craftsmanship and attention to detail. Quick Fix: Add more variety: before/after shots, team introductions, or quick “how we did it” videos. That balance keeps followers engaged and tells a fuller story of your business. Community Presence Positive: You emphasize your years of service and your Mid Peninsula presence, which builds strong local trust. Quick Fix: Boost local connection by tagging neighborhoods, encouraging clients to share their finished fences, or mentioning local events/landmarks. This will help increase shares and visibility. Quick Win Checklist Add branded highlight covers for a more polished look. Post more before/after images, behind-the-scenes content, and team features. Use project visuals to tell a story (e.g., “before we started” vs. “after install”). Tag local clients, neighborhoods, or partners to boost your shares. Create a simple posting rhythm ( “Fence Friday” or “Team Tuesday”) to stay consistent.
+
+#### Reply 23
+
+**Author:** IronwoodHavens
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1AuRZjVLVD/?mibextid=wwXIfr
+
+#### Reply 24
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to IronwoodHavens Hello, Ironwood Havens, let's get started! First Impression Positive: Great cover image that instantly communicates what you do with outdoor coverings in wood and steel. Quick Fix: However, the image is blurry... swap it for a higher-resolution or professional photo that matches the quality of your work. Content Strategy Positive: Love that your very first photo is of the owner and his son - that’s instant connection and relatability. Bonus points for the branded hat and shirt. Your mix of local stories, project photos, and community involvement is driving strong engagement. Quick Fix: Add more before/after shots and consistent team photos. You’ve got a great foundation of engaging content, and these extras will help you skyrocket your reach and credibility even further. Community Presence Positive: With over 1k followers, you’re clearly resonating with your local audience. Family photos, team shots, tradeshow appearances, and local connections are gold - people love this kind of authentic content. Quick Fix: Update your intro to include your location so new visitors know exactly where you work. Also, consider whether your listed service areas are accurate (Oklahoma, Missouri, Fort Worth, Dallas, Kansas, Arkansas). If you do serve multiple locations, create a profile for each one to maximize local SEO and visibility. Quick Win Checklist Replace blurry cover photo with a crisp, professional image of your best project. Keep mixing in personal/family/team content with project photos. Add more before/after shots to highlight transformations. Post regular team photos to humanize the brand. Update intro with your location, and ensure service areas are accurate. Create separate location profiles if you truly serve multiple states/regions.
+
+#### Reply 25
+
+**Author:** PillarAndPine
+**Posted:** 2025-09-08
+
+https://m.facebook.com/PillarandPineLLC/
+
+#### Reply 26
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to PillarAndPine First Impression Positive: Your cover image is beautifully branded with strong use of colors and a clear showcase of your services. Quick Fix: The house image is a little blurry; swap it for a higher-quality photo that matches the professional look of your brand. Content Strategy Positive: The rebrand looks fantastic, well done! That’s a story worth sharing with your 1.1k followers so they understand the “why” behind it. Quick Fix: Stop Nice Job from auto-posting reviews in bulk. When 10 reviews flood the feed at once, they push out the good content and feel spammy. Build an editorial calendar and post consistently (even two posts a week) to keep your audience engaged. Community Presence Positive: A healthy, local follower base of 1.1k is gold! These aren’t bought followers, they’re your community and potential clients. With giveaways and the right mix of content, you can spark interest and engagement. Quick Fix: Engagement is low because posting is inconsistent. Share more local-focused content, such as project highlights, your rebrand story, and community involvement. Add your location and street address to the About section so your page screams “We’re local!” Quick Win Checklist Replace the slightly blurry house image with a crisp, professional project photo. Share the story of your rebrand to connect with your audience. Turn off Nice Job auto-posting and manually spotlight reviews for more impact. Build an editorial calendar with at least 2 posts per week. Add location details and a full address in your About section for local SEO. Lean into giveaways, local stories, and project highlights to increase engagement.
+
+#### Reply 27
+
+**Author:** KFarlin
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1C4YzXccfE/?mibextid=wwXIfr
+
+#### Reply 28
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to KFarlin Hey Pros in Pink, let's do this! First Impression Positive: Love the big parking lot in your cover photo - makes it instantly clear that you handle paving and asphalt services. Profile pic of your branded hat on a paved lot is clever and works in place of a logo pic. Quick Fix: The cover image is blurry. Swap it for a higher-resolution photo; even phone shots are often crisp enough if well-lit. Content Strategy Positive: Pros in pink? Veteran-owned family business? That’s instant love and standout branding. Your team photos, videos, dogs-in-hats, and playful content make your trade fun and relatable... a rare and powerful combo. Quick Fix: When you post photos without context, it leaves me guessing. Add captions that explain what’s happening and tie it back to your service. Don’t forget CTAs “Want to learn more? Link in comments.” An editorial calendar can also help you keep fresh ideas flowing instead of leaning too much on reshares. Community Presence Positive: You’re showing personality, fun, and local pride, which makes people want to root for you. That’s branding magic. Quick Fix: Engagement is low, but the potential is huge. Get out in the community more: network, share local businesses, and tag partners or clients to drive shares. Mention your services directly in your intro (so people know at a glance), and add your street address in the About section for stronger local SEO. Quick Win Checklist Replace blurry cover photo with a crisp, high-res project shot. Keep leaning into your fun pink branding and playful content style. Add context and CTAs to every post to drive clicks and engagement. Create an editorial calendar to balance fresh content with reshares. Partner with and tag local businesses to increase reach and shares. Update the intro to include your service and add your full street address to the About section for local SEO.
+
+#### Reply 29
+
+**Author:** Tidalwash
+**Posted:** 2025-09-08
+
+https://www.facebook.com/tidalwash
+
+#### Reply 30
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Tidalwash Hello Tidal Wash! First Impression Positive: Cover image is clear and instantly shows what you do - no guessing needed. The logo and name are strong. Quick Fix: Follower count is low (59 when I checked), but you’ve got to start somewhere - let’s build on it! Content Strategy Positive: Loved your detailed post teaching about paint oxidation, educational content that is 🔥. Before/afters are GOLD, keep them coming. Quick Fix: With long posts, add a TL;DR at the bottom and move your CTA into the first comment. Add more team photos and videos so people see the humans behind the results. Watch AI-written content and overuse of emojis: always edit to make it sound you. Community Presence Positive: You’ve got strong visuals (before/afters especially), and that’s exactly what people want to see. Quick Fix: Engagement is low. Start mixing in more content variety (education + community + team), network with local businesses, and support others online/offline to spark engagement. Quick Win Checklist Update your intro to include your service area Use your exact business name for consistency & SEO (the intro name is different from the main name) Add your street address for local SEO Switch Gmail to a branded business email Keep before/after content rolling, but mix in team and community posts Add TL;DR to long posts & drop your CTA in the first comment
+
+#### Reply 31
+
+**Author:** Keciol312
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/19RRzrTV3b/?mibextid=wwXIfr
+
+#### Reply 32
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Keciol312 First Impression Positive: I that you can clearly see it’s a cleaning company right away. The logo is easy to read and has that “clean” aesthetic - perfect fit for a cleaning brand. Quick Fix: The cover image is blurry (you’re not alone, I’ve seen this in a lot of these audits). The ideal Facebook cover size is 820 px wide x 312 px tall. Canva makes this super easy to size and keep crisp. Also, add more to the Featured Section… think services, awards, or community highlights. That’s prime real estate for first impressions. Finally, update your Intro to include both your services and location. Content Strategy Positive: Nice mix of reviews, before/after shots, videos, and deals - this gives your audience different ways to connect with you. Quick Fix: Posting is inconsistent. Keep working toward a rhythm with 1–2 posts per week so you stay top-of-mind and build momentum. Community Presence Positive: You’re building momentum by growing your audience to over 300, now’s the time to find what sparks their interest. Quick Fix: Engage more with the community: interact with local businesses, share content from partners your clients may also enjoy, and weave in more of YOU in your posts (team highlights, behind-the-scenes, etc.). Do a content audit to see which posts get the best response and lean harder into those wins. Quick Win Checklist Resize cover image to 820 x 312 px and make it crisp Expand Featured Section with services, awards, and community highlights Update Intro to include services + location Stick to consistent posting rhythm (1–2 per week) Engage locally: tag or share nearby businesses, collaborate, and cross-promote Do a content audit to double down on top-performing post types Show more of your team + personality in posts 💡 Pro Tip: Launch a “Client Spotlight” or “Community Shoutout” series featuring a client’s freshly cleaned space or highlight a local business you work with. It’s authentic, strengthens ties, and keeps you rooted in the community.
+
+#### Reply 33
+
+**Author:** PetesWindow
+**Posted:** 2025-09-08
+
+@petes.windowwashing on instagram. Thanks!
+
+#### Reply 34
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to PetesWindow First Impression Positive: Wow, this is another one I’m adding to my list of favorites - way to be on brand! Beautifully done. You’ve nailed the color, imagery, logo, and layout that makes people pause and click to read the story. The intro nails it too: clear on what you do, where you do it, and bonus points for showing off those 450 five-star reviews. Simple, effective, and strong. Quick Fix: Add the remaining highlight bubbles to fill out your profile. This is prime real estate to showcase services, testimonials, or behind-the-scenes moments for new visitors. Content Strategy Positive: Great mix of videos, reviews, and before/after content that shows credibility and the quality of your work. Quick Fix: Posting consistency is where you can level up. Get an editorial calendar and stick with it… you’ve got killer branding and a heck of an audience, so feed them the content they’re looking for on a reliable schedule. Community Presence Positive: Your credibility statements (“fastest growing in Utah,” “450+ reviews”) build immediate trust, and when you do post, your audience engages (they’re already tuned in and responding). Quick Fix: Step more into community networking: engage with other Utah businesses, share local partners, and sprinkle in more personality (team stories, behind-the-scenes). You’ve got a big platform, now deepen the community side of it. Quick Win Checklist Add missing highlight bubbles to round out your profile Build and stick to an editorial calendar for consistent posting Keep leaning into video + before/after mix, but increase frequency Highlight more local connections (partners, Utah pride, client spotlights) Share more of your team and personality to build brand relatability 💡 Pro Tip: Launch a recurring “Behind the Squeegee” series — quick Reels of satisfying window cleans, funny team moments, or tips for streak-free glass. It’ll play perfectly with your branding and give followers more reasons to engage between service posts.
+
+#### Reply 35
+
+**Author:** Tyler06
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1CrtLe1ADf/?mibextid=wwXIfr
+
+#### Reply 36
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Tyler06 First Impression Positive: You immediately come across as professional and experienced: clean visuals, crisp branding, and clarity that you're a tree services company. The logo and layout are solid. Knowing you've got “over 20 years of experience” is also a powerful credibility boost. Quick Fix: Add profile “Features” (Stories pinned to the top) to showcase your core offerings Tree Trimming, Hedge Shaping, Testimonials or Contact Info. And consider refreshing the cover image to something high-quality and representative of your work (e.g., completed projects or team shots). Content Strategy Positive: You’ve got a nice mix of content with posts that show your services (hedge trimming, tree removal) and include clear calls to action ("Message us for a free quote today!"), which is great for driving engagement. Quick Fix: Your posting consistency could use polish. Start using a content calendar to post regularly and build momentum: updates on project progress, tips for tree care, or “before & after” transformations would work beautifully. Community Presence Positive: You position yourselves as experienced and trustworthy with messaging and video of the incredible work you’re doing. Your posts hint at some audience interaction, but I bet that with more consistency and a mix of content, you can see a boost. Quick Fix: Boost local engagement by tagging or collaborating with other local businesses (landscapers, nurseries, realtors). You could also ask customers for testimonials directly in a post or highlight a business you partnered with on a job. This will deepen local ties and lift visibility. Quick Win Checklist Add Story Highlights for Services, Testimonials, Contact Info Use a crisp, uncluttered cover image showing your work or team Build and commit to a content calendar for regular posting Mix in educational content (tree care tips, project showcases) Tag and partner with local businesses to strengthen regional presence Encourage and feature customer feedback or local collaborations Add your location to the intro and fill it out in the about section – this helps with local SEO 💡 Pro Tip: Host a “Tree Tip Tuesday” series… short posts or quick videos giving seasonal tree care tips (pruning, disease prevention, etc.). It positions you as a helpful local expert and keeps content regular and useful.
+
+#### Reply 37
+
+**Author:** tonycolumbus
+**Posted:** 2025-09-08
+
+This is an awesome thing you are doing to help the community! https://www.facebook.com/columbushomesolutions/ THANK YOU!!!
+
+#### Reply 38
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to tonycolumbus Rapid Quick Win Checklist – Columbus Home Solutions (North Little Rock, AR) Clarify Your Location. Make sure your Facebook “About” or header mentions North Little Rock & surrounding areas so customers instantly know where you serve. Promote Experience & Values. You’ve got “almost two decades of experience” and a strong focus on transparency, showing up on time, and treating customers family - spotlight this more prominently in your cover image or posts. Showcase Projects with Visuals. Posts “popcorn ceiling removal” and remodel sneak peeks are great—keep adding before/after transformations to show impact and grab attention. Streamline Posting Strategy. Your content is strong; now give it consistency. A simple content calendar with project reveals, tips, and testimonials will keep momentum going. Deepen Local Engagement. Tag local partners or suppliers, collaborate with nearby businesses (designers, realtors), and feature customer shoutouts to grow recognition and reach. 💡 Pro Tip: Start a recurring “Transformation Tuesday” series: share side-by-side before/afters of projects. It’s eye-catching, easy to create, and positions you as the go-to local expert.
+
+#### Reply 39
+
+**Author:** Jessie
+**Posted:** 2025-09-08
+
+Facebook.com/pnwscrubs
+
+#### Reply 40
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Jessie- Rapid Quick Win Checklist Update Cover Image. Swap in a high-quality shot of pressure washing in action and increase the logo size so the words are more readable. Clear Branding. The name makes it obvious this is a pressure washing business - great clarity! Intro Improvements. The intro already includes service type and area, keep that front and center. Featured Section. Add more featured images to showcase services, community ties, or standout projects. Content Mix. Local images, videos, and team highlights are great. Love that it’s women-owned and proud - lean into that! Before & After Content. Videos are strong, but try adding side-by-side still images for quick visual impact. Engagement Wins. People are liking and sharing authentic, real content more than ads... keep giving them that! Community Presence. More local partnering and networking would strengthen community visibility. Value Props. Keep highlighting “women-owned” as a differentiator. Show More YOU. Your audience clearly responds well to personality-driven posts. More videos and images of YOU = more connection and engagement. 💡 Pro Tip: Launch a recurring “Satisfying Wash Wednesday” post: quick before/after clips or side-by-side transformations. These are thumb-stoppers in the feed and play perfectly to your brand.
+
+#### Reply 41
+
+**Author:** cindywiBFC
+**Posted:** 2025-09-08
+
+https://www.facebook.com/bestfencecincinnati Thanks!! :)
+
+#### Reply 42
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to cindywiBFC Rapid Quick Win Checklist – Best Fence Cincinnati (Cincinnati, OH) Refine Intro/Bio. Ensure your intro clearly states: “Fence installation in Cincinnati, OH,” and highlights your key offerings: residential and commercial fencing (wood, vinyl, aluminum, chain-link). Promote Value Props. Spotlight your trust-building credentials “licensed & insured,” “free estimates,” and “warranty-backed workmanship” right in posts or pinned content. Showcase Material Benefits. Posts “why we build wood privacy fences with cedar” are solid, consider using more of these educational tidbits to reinforce expertise. Leverage Before & After Visuals. Great for engagement, pair more side-by-side photography of completed jobs with client quotes or quick descriptions for maximum impact. Highlight Local Service Area. Make it obvious in posts and bio that you serve Cincinnati and neighboring counties – this helps boost local trust and searchability. Boost Local Partnerships. Tag or collaborate with local home service businesses, landscapers, or materials suppliers to widen your reach and build community presence. 💡 Pro Tip: Add a “Materials Spotlight” mini-series where you break down the pros and cons of different fencing options (wood vs. vinyl vs. aluminum vs. chain link). Keep it short and visual (carousel, side-by-side, or quick video). This positions you as the go-to expert, helps clients feel educated, and makes your feed valuable to people who are still in the “deciding phase” of their project.
+
+#### Reply 43
+
+**Author:** Gannthemann
+**Posted:** 2025-09-08
+
+I’m eager to see what you have to say! https://www.facebook.com/profile.php?id=61573537650866
+
+#### Reply 44
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Gannthemann Rapid Quick Win Checklist Upgrade Cover Image. Replace the rooftop photo with a stronger visual, either a dramatic before/after split or a service action shot on one side and branding on the other. Refine Intro & About. Add specific city/town names to the intro (unless you really serve all of Western WA). Fill out the “About” section fully to help with ranking and searchability. Add Featured Section. Use Featured images and create photo albums with your best before/afters so visitors immediately see your results. Leverage Video Strength. You already have great video footage featuring YOU, before/afters, and clear demonstrations of what you do. Keep doubling down as this is what sets you apart. Control the Feed. Pause NiceJob auto-posting so it doesn’t overwhelm your page with filler content. Curated posts will perform stronger. Audience Growth. Even with a small audience, engagement is solid - great start! Build on that by interacting with local businesses, jumping into local forums, and inviting people who engage with your content to follow the page. Ads can also help grow reach strategically. Momentum Matters. Keep the mix of authenticity, service proof, and YOU in your content - your audience clearly responds well when it feels real. 💡 Pro Tip: Create a “Pinned Intro Post” with a short video of YOU explaining what you do, where you serve, and why people choose you. It’ll be the first thing new visitors see, tying all your strengths together in one powerful, evergreen post.
+
+#### Reply 45
+
+**Author:** BlakeGeswein
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/18T64VdHPL/?mibextid=wwXIfr
+
+#### Reply 46
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to BlakeGeswein Rapid Quick Win Checklist – Geswein Lawn Maintenance Upgrade Cover & Logo. Replace the blurry cover (currently just the logo) with a bold green visual that pops: think lush lawn imagery or a branded before/after. Expand the logo size a bit so the words are more readable. Refine Intro & About. Add the location directly into the intro and fully complete the About section for better visibility and ranking. Build Albums. Create albums showcasing before/afters, project highlights, and services so people in the “shopping stage” can easily browse. Nice job already using the Featured section! Post Consistently. Keep the audience engaged with a steady rhythm. An editorial calendar will help organize ideas and prevent long gaps in posting. Showcase Proof. Landscaping thrives on visuals; do more before/after side-by-sides. Add in videos, team shots, and quick lawn care tips to show expertise and personality. Think Brand Evolution. Using the family name works while you’re small, but as you grow, start positioning as a brand for stronger recognition and scalability. 💡 Pro Tip: Launch a “Transformation Tuesday” series by sharing one jaw-dropping before/after lawn each week. It’s simple, powerful social proof that keeps followers looking forward to your posts.
+
+#### Reply 47
+
+**Author:** oasiscleans
+**Posted:** 2025-09-08
+
+Amazing! Looking forward to your insight. https://www.instagram.com/oasiscleans/
+
+#### Reply 48
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to oasiscleans First Impression Love the consistent brand colors and fonts, you’ve clearly put thought into your visual identity. That’s a strong foundation, so keep it. The AI-generated imagery and graphics are overused right now. You’re not alone; tons of businesses are leaning on AI art, but that’s exactly why this is your chance to stand out. Show your team, your clients, your spaces. Real-life content builds trust in a way AI never will. Ease up on emojis and em dashes, too many can make captions feel busy and harder to read. You don’t need that many hashtags. Pick 5–8 that are hyper-relevant to your service, location, and ideal client. Invest in professional photography, even if it’s just a quarterly shoot, and mix it with candid team shots. Shift the balance from selling to storytelling. Our home service company (also offering cleaning) sees the best engagement from: Quick cleaning tips Showing the time saved for clients Highlighting our community involvement Your website content looks great - the reviews and service details are gold. Share them regularly, but swap the stock imagery for local photos to deepen trust. Content Strategy Follower count is low now, and that’s okay. Growth starts with connection, not just posting volume. Share more of you: your people, your process, your why. The porch pirate video? Wild. That’s the kind of real-life content people remember. Build more posts around actual stories that. You’re posting regularly, which is great, but make each post work harder: Start with a hook (“Ever had THIS happen?”) Tie it back to your audience’s life (“Here’s how we prevent supply theft & keep your home stocked.”) Add a simple CTA (“Need help keeping your space spotless? Let’s chat.”) Community Presence Partner with local businesses - think realtors, property managers, other service businesses - and tag them in posts. Try Facebook in addition to Instagram. Local FB groups can drive more awareness and trust than IG alone. Share customer reviews as posts, not just website content. Add a photo of the actual space you cleaned for that client. Right now, your feed feels one long sales pitch. Sales posts are fine, but they need to be sprinkled in with tips, stories, behind-the-scenes, and community highlights. Quick Win Checklist: Swap AI-heavy posts with local photography Cut hashtags to 5–8 relevant ones Post 1 cleaning tip & 1 behind-the-scenes per week Share 1 customer review per week (with photo) Engage in 2–3 local FB groups weekly 💡 Pro Tip: The online community you build is the same one you’ll meet in person. Post you’re talking to your neighbor over coffee, not you’re shouting from a billboard.
+
+#### Reply 49
+
+**Author:** SepTechCanada
+**Posted:** 2025-09-08
+
+https://www.facebook.com/SepTech Thank you! Greg Douglas
+
+#### Reply 50
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to SepTechCanada Hey Greg, we've got some work to do! Rapid Quick Win Checklist – SepTech Cover & Branding. Strong cover photo with bold red/black branding on clean white looks professional and makes it clear you’re about septic system repair. Double-check whether “Canada” is meant to signal national service; if not, narrow to Alberta/Ardrossan for clarity. Intro & About. Rewrite the intro to clearly state services + location (“Septic system repair and maintenance in Ardrossan, Alberta”). Fully fill out the About section, especially the description, to boost trust and search ranking. Featured & Albums. Add a Featured section and photo albums for before/afters, project highlights, or service breakdowns. This makes the page feel active and gives shoppers something to browse. Posting Rhythm. Right now, it’s only NiceJob auto-posts once a month with no real updates since 2023. Pause the auto-posts (they clutter the feed) and build a consistent manual posting schedule (even 1x per week is a huge step up). Audience & Engagement. With 379 followers and no recent engagement, the community side has gone stale. Rebuild by sharing authentic posts (team shots, project updates, tips), and start commenting and interacting in local community groups to get fresh eyes on the page. Momentum. You’ve got the branding locked in; now it’s about being consistent, real, and locally visible again to bring this page back to life. 💡 Pro Tip: Kickstart engagement with a “We’re Back” post or video featuring YOU and your team, show a recent project, and invite followers to comment with questions about septic care. It resets the feed, sparks conversation, and signals the page is active again.
+
+#### Reply 51
+
+**Author:** SepTechCanada
+**Posted:** 2025-09-08
+
+to kasyallen Thank you! This mostly re-inforces what I've been saying. I think real and authentic (and active!) beats polished and perfect for social posts and interactions. That's what we need to do and you've highlighted that, among other things, for me here.
+
+#### Reply 52
+
+**Author:** micahevents
+**Posted:** 2025-09-08
+
+https://www.facebook.com/MicahEventProduction?mibextid=ZbWKwL
+
+#### Reply 53
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to micahevents Rapid Quick Win Checklist – Micah Event Production Polish Cover & Logo. The cover image is clear and branded, but the cursive font is hard to read at that size. Shrink the logo slightly or balance it with an event photo on one side for context. This will keep the branding strong but make it easier to read at a glance. Intro & About. Current intro (“help anyone’s dream event become a reality”) is fine, but it’s missing location and services. Add your city and specific event types (weddings, corporate, parties). Fully fill out the About section and address for credibility and searchability. Featured & Albums. Only one featured video from 2023 - refresh this, stat! As an event planning company, you should be showcasing albums for weddings, corporate events, private parties, and styled shoots. Hire a videographer for polished highlight reels. Content Strategy. Gorgeous photography is a strength - lean into it! But watch for overuse of emojis and Canva graphics (they can cheapen the aesthetic). You’ve had more than four events this summer - show them off! Create an editorial calendar for consistent posting and add more of YOU into the feed. Engagement. Currently, there is next to no engagement - there are tons of opportunities to ignite that feed! Share personal content (behind-the-scenes planning moments, team intros), tag venues/vendors, and engage with local businesses to start conversations. Brand Lift. The foundation is solid, but the overall presence could benefit from a branding revamp and relaunch, incorporating consistent visuals, regular posts, and a strong voice that matches your stunning event work. 💡 Pro Tip: Create an “Event Spotlight” series where each post walks through one event: start with the client’s vision, share behind-the-scenes planning, then reveal the final look with a photo album or short video. This tells a story, positions you as a creative partner, and builds excitement in your feed.
+
+#### Reply 54
+
+**Author:** Derek1
+**Posted:** 2025-09-08
+
+https://www.instagram.com/anderson.lawn.care20 hello, this is Derek Anderson, the owner of Anderson Lawn Care!
+
+#### Reply 55
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Derek1 Rapid Quick Win Checklist – Anderson Lawn Care Clarify Branding & Bio. The profile bio highlights “The Anderson Difference” - trustworthiness, equipment, local focus. That’s great! Make sure the bio also includes your exact service area (e.g. city/town names) to help local discovery and show who you serve. Post Frequency. Content is sparse, but you know this. Time to kick off a REBOOT! Boost consistency using a simple editorial calendar with a mix of reel, photo, and story content formats - even 1x/week is better than going completely hush. Showcase Visual Impact. You’ve got solid visuals uniforms and “stripes on point” mulching - those are strong! Add more before/after photo carousels to highlight real transformations, especially around seasonal services. Highlight Personality & Team. You’ve got great service shots, but don’t forget to sprinkle in the people behind the work. Show off the team, behind-the-scenes moments, or even a quick selfie-style clip sharing a lawn care tip. Adding more of your voice makes the brand feel approachable and keeps followers connected to the humans behind the mowers. Engagement & Community. Interaction is minimal (1–8 likes, no comments). Encourage engagement with call-to-actions polls, “tag someone who needs this,” or asking questions “Your lawn anniversary?” on stories. Strategic Use of Reels. The reels are good, use them more intentionally with strong captions and local hashtags #YourTownLawnCare to boost visibility in your area. 💡 Pro Tip: Launch a weekly “Lawn Tip Tuesday Reel” where you share one quick lawn care tip ( stripe maintenance, mulching, or mowing height). Pair it with a short how-to clip and invite followers to comment their lawn questions. That kind of doneness in your feed builds utility AND keeps your account top of mind.
+
+#### Reply 56
+
+**Author:** Patriotgutters
+**Posted:** 2025-09-08
+
+https://m.facebook.com/PatriotSeamlessGutters/
+
+#### Reply 57
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Patriotgutters Rapid Quick Win Checklist – Patriot Seamless Gutters Cover Image Refresh. Love the branded team-hanging-from-a-gutter shot - it's fun and memorable... but it’s blurry. Swap in a higher-resolution version so it hits as hard as the message. Intro & About. Already solid: “Full service gutter company, serving Berks, Carbon, Lehigh, and Schuylkill counties since 2009.” Just make sure the About section is fully built out (description, services, contact); for example, you currently have "Specializing in residential and commercial installations" as the description, and there is space for up to 3,000 characters - fill it up! Albums. Nice job, you already have albums (rare to see on FB!). Next step: add before/after transformations to really showcase the difference your work makes. Featured Section. Currently, the Featured Section has one post from 2023 - freshen this up with recent installs or testimonials so visitors see current work first. Content Rhythm. Posting regularly and mixing in local events + photos of your team is fantastic. Keep that going! Polish Content. Tone down on AI-heavy content and emoji overload by giving posts a quick edit before publishing. Keeps your feed professional and approachable. Hashtag Strategy. Great move putting hashtags in the first comment. This keeps captions clean and helps engagement. Keep it up. Team Culture. Congrats to Dave on 5 years 🎉! Those milestones are gold for humanizing the brand. Keep sharing team wins and workaversaries. Community & Culture. Solid strategy showcasing your team culture and local events. It encourages real engagement, shows you’re rooted in the community, and it’s clearly working for you. Keep leaning into that! 💡 Pro Tip: Create a “Team Tuesday” or “Milestone Monday” series - short posts celebrating crew anniversaries, funny install moments, or team shoutouts. Builds pride internally and connection externally.
+
+#### Reply 58
+
+**Author:** Exclusivecool
+**Posted:** 2025-09-08
+
+oh boy! https://www.facebook.com/share/1JMe3S9gwu/?mibextid=wwXIfr
+
+#### Reply 59
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Exclusivecool We got this - let's do it! Rapid Quick Win Checklist – Exclusive Cooling Solutions Cover & Logo. Love the team-in-uniform cover pic (great culture + branding), but FB is cutting off their heads and it’s blurry. Swap in a crisp shot that fits the FB dimensions. Logo’s neon blue + orange on black background really pops - keep that boldness front and center. Intro & About. Strong intro: “Trusted HVAC provider in Southwest Florida…” with location list - perfect! Now add your street address and fully fill out the About section for extra trust + ranking power. Featured & Albums. Easy wins here... your Featured section is empty. Add posts about your story, community work, or awards. Create albums for installs, maintenance jobs, and before/afters so shoppers can browse. Content Strategy. Blue check = credibility ✅. Tagging locations in posts = smart ✅. Posting regularly = solid ✅. But… it took some scrolling to find a personal post (congrats on the new baby!). Keep sprinkling in more YOU alongside the Canva ads. Engagement & Community. Engagement is on the low side. Run a content audit to see what actually gets traction, then double down on that style of content. (Spoiler: it’s usually the authentic, human posts.) Brand Personality. Feels this is family-owned... lean harder into that. People want to connect with real local families, not just polished ads. 💡 Pro Tip: Launch a recurring “Cool Crew Spotlight” with short posts about your team members, milestones ( that new baby), or funny behind-the-scenes moments. It builds relatability, boosts engagement, and keeps the brand human.
+
+#### Reply 60
+
+**Author:** MiaDuke
+**Posted:** 2025-09-08
+
+So excited!! https://www.facebook.com/Dukestree1
+
+#### Reply 61
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to MiaDuke Me too - this one is good, well done! Rapid Quick Win Checklist – Duke’s Tree Service & GOT MOWED 406 Business Identity Clarity. Decide whether this is one business or two. If it’s two (tree service and lawn care), each should have its own Facebook profile, Google Business Profile, and possibly separate websites (or at least a subdomain). If it’s one business, then make sure the name is updated consistently everywhere online (FB page, website, Google Business Profile, Yelp, BBB, directories) as “Duke’s Tree Service & GOT MOWED 406.” Local SEO works best when the name is exact and uniform across all platforms. Cover & Visuals. Excellent cover photo: clear, branded, and shows both services (chainsaw/tree cutting + freshly cut lawn). Perfect way to show exactly what you do at a glance. Intro & About. About section is filled out (yay!), but you’ve got up to 3,000 characters available for that description (not the intro - that's a very brief section). Use that space to add depth: services, years of experience, certifications, values, and even a call-to-action with contact info. Featured & Albums. Featured section has 3 posts, but 2 are from previous years. Update this with current projects, testimonials, or milestones. Albums are in place (woohoo!), now expand with: Before & Afters (tree removals, stump grinding, lawn transformations) Community Involvement (events, sponsorships, volunteer work) Team Highlights (celebrations, anniversaries, baby announcements) Content Frequency. You’re posting regularly - keep it up! A seasonal content calendar can help layer in timely posts (storm prep, winter snow removal, spring cleanup). Show the People. Fantastic use of team photos and behind-the-scenes content, it builds authenticity and community. Huge congrats to Jeremiah & Juliann on the new baby! 🎉 This kind of personal content makes the business feel human and relatable. Engagement & Community. You’re tagging local businesses and sharing their content - this is a strong local strategy! The next step is to do a content audit: look at which posts get the most likes/comments/shares, and lean harder into those themes with an editorial calendar built around proven winners. 💡 Pro Tip: Your mix of services + personality already makes you stand out. Try a recurring “Local Shoutout Saturday” to highlight a local business, partner, or community event each week. It’s simple, strengthens local ties, and encourages cross-promotion (hello, new followers!).
+
+#### Reply 62
+
+**Author:** Peregrinaplumb
+**Posted:** 2025-09-08
+
+Hello!! I would love to get an audit! Here is companies instagram. https://www.instagram.com/peregrinaplumbing?igsh=dHkxa2dnNWI4b2Rt&utm_source=qr
+
+#### Reply 63
+
+**Author:** Peregrinaplumb
+**Posted:** 2025-09-08
+
+to Peregrinaplumb Never got a , but sure a lot of spam email lol. Would love to get a review thank you!
+
+#### Reply 64
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Peregrinaplumb Hello, Friend! Looks we hit the jackpot with posts here - whew! Alright, rolling up my sleeves… let’s do this! Rapid Quick Win Checklist – Peregrina Plumbing Company Inc. Logo & Business Name. Strong, clean, readable logo - great branding. The profile name currently reads: “Peregrina Plumbing Company Inc. | Class A VA Plumbing Contractor.” For local SEO, pick one clear identity and stick with it everywhere online. If “Class A VA Plumbing Contractor” is a tagline/keyword, use it in bios and posts, not in the official business name. Consistency matters most: the same business name on Instagram, Google Business Profile, website, Yelp, BBB, etc. Intro & Highlights. Good job listing your service in the intro, but add your location (e.g., Alexandria, VA). Highlights currently show 4. Maximize by adding up to 7 customer-friendly categories, such as Before & After, Services, Team, Reviews, Community, Projects, and Tips. Content Strategy. Posts are frequent, on-brand, and edited before posting (👏 no AI dump). Consider adding a TL;DR to long captions. Heavy hashtags? Fine, just move them into the first comment to keep captions clean. Do a content audit to ID “dead posts” (low engagement) vs. “on fire” posts (high engagement). Curious if word overlays on IG reels are pulling their weight; IG usually favors clean visuals more than TikTok. Engagement. Strong following (2,700+!) and posting consistently - beautiful! Tons of ads, though... balance with more community engagement posts (local tags, partnerships, nonprofits, local events). Right now, ads may be crowding out connection. Team & Personality. You're showing up in videos/images - excellent. Next step: share the love with the team (spotlights, behind-the-scenes, culture posts). Family-owned? Lean into that, it builds local trust and relatability. Next-Level Growth. With 507 posts already, you’re not in beginner mode. Time for refinement: do a content audit to fine-tune your mix, trim what isn’t working, and lean harder into the styles and formats that are driving engagement. 💡 Pro Tip: Start a recurring “Plumbing Tip Tuesday” series with quick, practical reels (10–15 sec) with captions “Avoid this $500 repair — here’s how 👇”. It’s easy to produce, builds authority, and keeps you showing up consistently in the feed with value and personality.
+
+#### Reply 65
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Peregrinaplumb Hello, Friend! Looks we hit the jackpot with posts here, whew! Alright, rolling up my sleeves… let’s do this! Rapid Quick Win Checklist – Peregrina Plumbing Logo & Business Name. Strong, clean, readable logo - great branding. The profile name currently reads: “Peregrina Plumbing Company Inc. | Class A VA Plumbing Contractor.” For local SEO, pick one clear identity and stick with it everywhere online. If “Class A VA Plumbing Contractor” is a tagline/keyword, use it in bios and posts, not in the official business name. Consistency matters most: the same business name on Instagram, Google Business Profile, website, Yelp, BBB, etc.. Intro & Highlights. Good job listing your service in the intro, but add your location (e.g., Alexandria, VA). Highlights only show 4 right now — maximize by adding up to 7 with customer-friendly categories : Before & After, Services, Team, Reviews, Community, Projects, Tips. Content Strategy. Posts are frequent, on-brand, and edited before posting (👏 no AI dump). Consider adding a TL;DR to long captions. Heavy hashtags? Fine, just move them into the first comment to keep captions clean. Do a content audit to ID “dead posts” (low engagement) vs. “on fire” posts (high engagement). Curious if word overlays on IG reels are pulling their weight... IG usually favors clean visuals more than TikTok. Engagement. Strong following (2,700+!) and posting consistently = great. Tons of ads, though: balance with more community engagement posts (local tags, partnerships, nonprofits, local events). Right now, ads may be crowding out connection. Team & Personality. Owner shows up in videos/images - excellent! Next step: share the love with the team (spotlights, behind-the-scenes, culture posts). Family-owned? Lean into that, it builds local trust and relatability. Next-Level Growth. With 507 posts already, you’re not in beginner mode. Time for refinement: do a content audit to fine-tune your mix, trim what isn’t working, and lean harder into the styles and formats that are driving engagement. 💡 Pro Tip: Start a recurring “Plumbing Tip Tuesday” series: quick, practical reels (10–15 sec) with captions “Avoid this $500 repair - here’s how 👇”. It’s easy to produce, builds authority, and keeps you showing up consistently in the feed with value and personality.
+
+#### Reply 66
+
+**Author:** AnthonySalazar
+**Posted:** 2025-09-08
+
+Hey Kasy! Great to see you after working on Jobber Summit together Here is my social: https://facebook.com/salazarscoops
+
+#### Reply 67
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to AnthonySalazar Hello Friend! So good to see you here and active in the community. 🤩 Ready for this? Let's gooooo! First Impressions Your smiling face as the top image? Love it. Nothing makes a small business more approachable than showing the human behind it. Keep that front and center. If your official business name isn’t “Salazar Scoops – Pet Waste Removal Service”, shorten it to just Salazar Scoops. This helps with local SEO and keeps things clean (pun intended). Check out Moz Local, we use it for Wheatley Creek and it’s great at spotting small but important local listing details that boost visibility. Location in the intro? Service area filled out? Complete “About” section? That’s Facebook algorithm gold - good to go there! Your website looks fantastic and you’re already using strong, trustworthy imagery. First impressions say: “I can work with this guy.” Content Strategy Your video content is strong, and you’ve already taken the leap many small businesses are scared of - keep it going! If you haven’t yet, run a 6-month content audit to find your winning content: That local news story? Massive engagement. The dog pic? Crowd favorite. Humorous posts? Always a win. Double down on what’s resonating. If a certain post type gets more shares, make that a recurring series. You and (I’m guessing) your partner appear often in your posts, which builds trust. Now, take it one step further: tie those personal moments back to how you serve your community one scoop at a time. Try collaborative posts with other local businesses (e.g., “Here’s how Salazar Scoops and [Business X] keep our community cleaner, safer, and happier.”) Visually, bring in more green: it’s natural, ties to lawns, and makes your feed more consistent. I see minimal AI use (good choice), now lean even harder into your voice and tone. Keep it consistent across captions, graphics, and videos. And when using AI, yep… maybe ease up a bit on the emojis so the focus stays on your message. Consider building a custom GPT to help you generate on-brand captions quickly. I’ve got tips if you want to try it. Community Presence Honestly? You’re already doing an awesome job here. Partnering with local businesses, posting about community events, and running things the back-to-school giveaway, that’s exactly how you turn followers into loyal customers. You’ve found a way to bring humor and personality to a topic that’s not exactly dinner conversation… and it works. You’ve made 💩 approachable, and people remember that. Keep leaning into fun, relatable posts. They’re your best entry point into conversations that lead to customers. Quick Win Checklist: Update business name for SEO clarity Run a 6-month engagement audit and identify your top 3 content types Post 1–2 more green-heavy visuals per week Create a recurring “Community + Service” series Keep video at the heart of your strategy 💡 Pro Tip: You’re not just in the waste removal business, you’re in the “make life easier and cleaner” business. Everything you post should connect back to that feeling.
+
+#### Reply 68
+
+**Author:** NuWaveGarages1
+**Posted:** 2025-09-08
+
+https://www.facebook.com/NuwaveGarages/
+
+#### Reply 69
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to NuWaveGarages1 Rapid Quick Win Checklist for NuWave Garages Cover & Visuals. Image is clean and clear with a garage floor + bright blue logo - solid branding. Try a split cover image with before/after + logo overlay to instantly show transformation. Intro & About. Great job listing service area (Denver, Front Range, Northern CO). Add keywords "garage floor concrete coatings" for stronger SEO. About section is filled out (woohoo!), but rewrite in a friendlier, more approachable voice. Featured & Albums. Featured section = ✅. Albums = 🚫. Big opportunity here to create albums Before & After Floors, Color Options, Behind the Scenes, Team in Action, and Happy Customers to help people who are shopping. Posting & Content. Posting regularly builds great momentum! Love the “color of the week” posts, behind-the-scenes, and after shots. Add more before/after sliders (these stop the scroll) and team pics to build a connection. Edit AI-heavy posts before publishing. Engagement. Engagement is low, likely because Canva-heavy posts feel too polished. Keep it simple with one killer before/after image per post. Reels are your strongest play - lean into them. Brand Personality. Feels a little stale. You’re Colorado-based - show more of that! Share your local story, behind-the-scenes moments, and lifestyle posts. Update your email to a branded business email (instant credibility boost). 💡 Pro Tip. Engagement grows when people connect with PEOPLE. Add your team, your story, and some Colorado pride to bring this profile to life.
+
+#### Reply 70
+
+**Author:** Premierofloors1
+**Posted:** 2025-09-08
+
+@premierofloors on Instagram
+
+#### Reply 71
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Premierofloors1 Rapid Quick Win Checklist – Premiero Floors Bio & Branding Clarity. Your bio says: “Bringing beautiful hardwood floors to Northeast Ohio. NWFA Certified Wood Flooring Professional. ‘Excellence You Can Stand On’.” That’s solid. Keep it, but consider adding your exact city or counties served to sharpen local searchability (e.g., “Serving Middlefield & surrounding communities”). On point branding with logo, highlights, and imagery - love it! Highlights. Highlights are a must! Create more Story Highlights Before & After, Testimonials, Behind the Scenes, Color Swatches, etc., so visitors can quickly browse your strengths. Before & After Visuals. Love the swipe-enabled transformation posts ( the Red Oak refinish and engineered hardwood reel) - that’s gold for visual impact. Keep doing these! They grab attention and show real value. Storytelling Through Quotes & Reels. Nice touch using a motivational quote to kick off Monday. Reels showing full project transformations (install to finish) also reinforce your craftsmanship. Keep weaving in voice, emotion, and story. Posting Style & Frequency. You’ve got both swipe posts and reels - diversifying formats is smart. If your reel count matches the engagement, you’re on the right track. Consider adding short captions summarizing the project outcome (TL;DR style). Engagement & Hashtags. Dial into local reach with hashtags #MiddlefieldOH, #OhioHardwoodFloors, #WoodFloorRefinish. Clean up your captions visually by placing hashtags in the first comment for clarity and reach. Brand Personality & Differentiators. Your NWFA certification is a standout. Your behind-the-scenes reels, team shots, and beautiful photography really add warmth and trust to the brand - well done! 💡 Pro Tip: Launch a “Swipe Story Saturday” where each week you share one dramatic before & after (slider or reel) with a short caption , “This old floor went from dull to dazzling - swipe for the glow-up!” It’s scroll-stopping and consistent content gold.
+
+#### Reply 72
+
+**Author:** Jonfri
+**Posted:** 2025-09-08
+
+https://m.facebook.com/profile.php?id=100085654652474
+
+#### Reply 73
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Jonfri Rapid Quick Win Checklist – 24/7 Electrical Services and Repairs Cover & Visuals. Current cover photo is a blurry shot of the trucks with logos. It works, but could be stronger. Try swapping in an image with a team member in a branded shirt or a split-style cover (half logo, half action shot of work being done). This gives clarity and personality. Intro & About Section. Make sure your Intro and About section clearly spells out both services (e.g., generator installs, panel upgrades, wiring, etc.) and location (city + surrounding area). This helps with SEO and customer trust. You’ve got up to 3,000 characters for the About description - use that real estate to your advantage. Featured & Albums. There’s currently one featured album - great start! Add more albums so potential customers can window shop visually: Panel Upgrades (before/after) Generator Installations Lighting Projects Team in Action Content Mix & Frequency. You’re posting regularly with clear service-focused updates - solid! The next step is weaving in more behind-the-scenes shots or quick troubleshooting tips. That helps humanize your brand and keeps the feed balanced between sales and connection. Engagement & Community Interaction. Engagement is modest. Spark conversation by asking simple questions (“Would you back up your whole house with a generator or just the essentials?”). This encourages comments and shows your expertise while inviting dialogue. Brand Personality. So far, your page is service-focused. To add more warmth and build trust, highlight family ownership, your team culture, or community involvement. People want to know who they’re hiring, not just what they’re hiring for. 💡 Pro Tip: Create a recurring content series “Fix-It Friday” where you post one quick repair, upgrade, or install story each week. Keeps you consistent, easy to follow, and establishes you as the local go-to electrician.
+
+#### Reply 74
+
+**Author:** Brandon1
+**Posted:** 2025-09-08
+
+https://www.instagram.com/muddypawslandscaping?igsh=ZXVwY3p2eWh0cmcz FB Muddy Paws Landscaping llc
+
+#### Reply 75
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Brandon1 Rapid Quick Win Checklist – Muddy Paws Landscaping Cover & Visuals. Instead of a logo, the profile pic features two dogs - a perfect match for the name and instantly likable. But for branding recognition, a clean, consistent logo needs to live here. You can still use the dogs in content, but the profile picture should match your brand identity. Currently, I had to scroll to find the actual logo and colors, which signals a need for a cohesive branding strategy. Bio & Highlights. No highlights at all - that’s a missed opportunity! At minimum, add: Before/After transformations Services (landscaping, hardscaping, lawn maintenance) Team & Dogs (lean into the “Muddy Paws” theme - people love pets) Community (collabs with other businesses, local events) Content & Frequency. Posts are all over the place with no consistent strategy. Double posts (same content twice) need to be cut back... one is enough. Reels are happening - great! But they feel random. That’s okay for authenticity, but they’d pop so much more with a posting strategy + light branding overlay (consistent fonts, colors, or watermark). Engagement & Community. Engagement is low. But you're tagging and sharing other local businesses, which is a smart move to expand reach. Now it needs to be paired with audience-building habits: commenting back, following local groups, tagging locations, and maybe running an ad or two. Branding & Identity. No clear branding thread runs through the feed. With a logo, color palette, and posting structure, the whole page will look more professional while keeping the approachable “local dog-loving landscaper” vibe. An editorial calendar will solve most of these issues: consistency + intentionality = growth. 💡Pro Tip: Dogs are already in your name and your feed. Use them as mascots! Create a recurring content series “The Paw-Approved Project of the Week” or “Muddy Monday Makeovers” featuring before/afters. It’s fun, it’s on-brand, and it makes you instantly memorable.
+
+#### Reply 76
+
+**Author:** JennEchevarria
+**Posted:** 2025-09-08
+
+https://facebook.com/qualityconnectionsmelbourne Thank you so much, although, BlueSkies, I'm a bit scared.
+
+#### Reply 77
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to JennEchevarria Nothing to be scared of, we got this! Let's go! Rapid Quick Win Checklist – Quality Connections Electrical Services Cover & Visuals. Cover image (trucks in front of a new build) is on-brand, but a bit grainy. Swap in a high-res version or create a split design (half trucks, half action shot of a tech at work). That way it shows both the culture and the service. Intro & About Section. Current intro: “Brevard’s Local Electrical Contractor Serving God’s Community One Connection at a Time! ⚡️” Beautiful sentiment! Keep the mission-driven voice, but consider expanding it by adding “Melbourne, FL" to the beginning. The About section is missing the description and full street address - both are must-haves for credibility and local SEO. Featured & Albums. Featured section posts are outdated (2023/2022). Refresh with recent projects, customer testimonials, or storm-prep tips. Albums are missing - easy win! Suggested sets: Before & After Panels / Service Work Generator Installs & Backup Systems Lighting Projects (indoor & outdoor) Team / Community Work Content Frequency & Strategy. Posting is consistent - love it! Keep the seasonal calendar ideas (storm prep, holiday lighting, etc.), but watch the AI-heavy posts. They feel templated: edit before posting so it sounds natural and true to your brand. Brand Personality & Engagement. Right now, it’s service-forward but not very people-forward. Add behind-the-scenes clips, staff spotlights, “day in the life” shots. That builds more trust and connection than Canva graphics alone. Community & Local Reach. Engagement is modest. Lean into polls, questions, or local tags (“Who else lost power in Suntree last night?”). And highlight community work - it pairs perfectly with your faith-driven intro. 💡 Pro Tip: Replace one “salesy” post each week with a quick “Tip from the Toolbox”... simple advice about breakers, outlets, or surge protection. It gives value, sparks shares, and keeps you top-of-mind without feeling an ad.
+
+#### Reply 78
+
+**Author:** ecconstruction
+**Posted:** 2025-09-08
+
+Looking forward to it, thanks Kasy. We're a local business so I'm always interested in ways to improve our visibility in our community. https://www.facebook.com/EalyConstruction
+
+#### Reply 79
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to ecconstruction Do you even need me here?! This is straight 🔥 - seriously adding it to my favorites list! Let's do this! Rapid Quick Win Checklist – Ealy Construction Cover & Visuals. Beautiful, clean cover photo of a completed remodel that instantly communicates quality and professionalism. Crisp logo in profile pic: easy to read, clear branding win. Consider rotating cover images seasonally (kitchens, bathrooms, exteriors) to show range and keep it fresh. Intro & About Section. Intro is fine as is, but you could work in SEO-heavy keywords “kitchen remodels” and “bathroom remodels” to help with ranking. Fact, I just did a keyword research audit and those keywords get just as much search as "remodeling." The About description is way too short right now. Facebook gives you 3,000 characters, use it! Expand with: Your service specialties (kitchen remodels, bathroom remodels, full home transformations) Locations served Your unique approach (craftsmanship, attention to detail, design/build process) Community involvement and why clients love working with you Featured & Albums. No Featured posts yet - easy win! Add: A “wow” project (before/after reel or gallery) A client testimonial A community project or award highlight Albums: 👏 STUNNING. They’re laid out Pinterest-style, categorized, and totally binge-worthy. To anyone reading this: this is how albums should be done. Content Frequency & Strategy. Posts are consistent and the photography is superb. High-quality visuals, real content (no AI), and well-done reels. Honestly, it looks a marketing pro is behind this - it’s that good. Keep it up! Brand Personality & Engagement. The only piece missing is you. Show more of the people behind the projects: owner updates, team shots, and behind-the-scenes moments. Clients connect with faces as much as finished projects, so this is the area to lean into next. Community & Local Reach. Engagement is solid, but more interactive posts could take it further. Simple questions “Which backsplash would you choose?” or “Modern or traditional: what’s your style?” encourage comments and boost visibility. 💡 Pro Tip: Turn those stunning project albums into micro-stories. Instead of just dropping photos, walk people through the “before, during, and after” with captions that highlight challenges solved or client wins. It builds narrative, makes your work more relatable, and gets way more engagement than pictures alone.
+
+#### Reply 80
+
+**Author:** Davinwesley
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1B5U5mP1jk/?mibextid=wwXIfr
+
+#### Reply 81
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Davinwesley Rapid Quick Win Checklist – Lighthouse Lawn Care Services Cover & Visuals. Clever logo - love it! Bright green lawn on the cover image is gorgeous, but it’s blurry and that random tree smack in the middle is distracting. Swap it for a crisp, high-quality photo (bonus if it includes a branded truck or team member). Intro & About. Intro is just a list of services right now; make it more welcoming. Add a tagline and weave in your top services with the service area. Beef up the About section by including the full street address (not just city/state), switch to a branded email, and use that 3,000-character description space to tell your story. Featured Posts & Albums. No featured posts and no albums = missed opportunity. Add featured posts that highlight your best work, testimonials, or community involvement. Create albums : Before & After Transformations, Team in Action, Seasonal Lawns, Community Work. Content Frequency. Posting is sporadic (December → June → August). Time to create a content calendar. Current posts are foggy images with minimal content... you're skipping the AI fluff which is great, but inject energy, branding, and strategy into what you're posting. Think: weekly tips, client shoutouts, project highlights. Engagement & Community. Engagement is basically nonexistent, but you can start small with just one post a week to kick it off: tag local businesses, share local events, comment on partner posts. Build that reciprocity. Brand Personality. People don’t just hire lawn care, they hire people. Show your team, behind-the-scenes moments, even the “oops, it rained all day” reality. Add some human touch, and it’ll instantly feel more approachable. 💡 Pro Tip: Start with a simple “Lawn Tip Tuesday” or “Fresh Cut Friday” series - it's easy, predictable content that gets people used to engaging with you week after week.
+
+#### Reply 82
+
+**Author:** KassieYLHP
+**Posted:** 2025-09-08
+
+https://www.facebook.com/YourLocalHandyPeople
+
+#### Reply 83
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to KassieYLHP Rapid Quick Win Checklist – Your Local Handy People, LLC Cover & Visuals. Love that the team is front and center in logo gear, it makes your first impression feel personal and trustworthy. Quick fix: swap out the blurry photo for a crisp shot that keeps those smiling faces. Your logo is already a win: a house with a heart? Welcoming and memorable! Intro & About Section. The business name is clear and professional. Add an intro! This is prime real estate to showcase your services and location, boosting your visibility in search and making it clear what you do. Fill in that About description (you’ve got 3,000 characters to play with). Right now, your category is “Portable Building Service,” which is a little… random. “Handyman” is a much better fit for SEO and accuracy. Featured & Albums. The Featured section exists (yay!), but 2 of the 3 posts are from previous years. Freshen it up! You’re already using albums (👏 most small businesses forget this) - keep building them out with before/afters, seasonal projects, and team/community highlights. Posting & Content Mix. Consistent reels + posts = well done! Love the heartstring-tugging community reel with the owner - that’s the stuff that makes people call YOU. Wall-painting logo machine reel? Mind blown... that’s how you stop the scroll. Keep leaning into behind-the-scenes, team, and community content, it’s relatable and powerful. Engagement & Community. Sharing other local business listings = chef’s kiss 🤌. That builds goodwill and strengthens your local presence. Engagement isn’t massive yet, but consistency + relatability = steady growth. You’re showing up, and it is working. Brand Personality. Your vibe is nailed: local, approachable, and welcoming. Next-level step: improve photography and videography. Easier said than done, but even simple upgrades (better lighting, clearer shots, a branded background) can elevate your already-strong presence. 💡 Pro Tip: Don’t underestimate your owner presence. You’ve already proven it works. Commit to 1–2 posts a month where the owner (or team members) talk directly to the camera, sharing quick tips, local shoutouts, or project walk-throughs. It’s low-cost, high-trust content that converts curious scrollers into actual customers.
+
+#### Reply 84
+
+**Author:** JLong64
+**Posted:** 2025-09-08
+
+https://www.facebook.com/p/Pura-Softwash-61556808626564/ Look forward to hearing from you.
+
+#### Reply 85
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to JLong64 Rapid Quick Win Checklist – Pura Softwash Cover and Visuals. The drone powerwashing logo is clever, simple, and instantly communicates the service. It’s a strong visual identity. The cover image, however, is blurry. While the idea of using a simple sentence paired with a house graphic is solid, the quality needs to be improved. A sharp, high-quality before-and-after shot of a house would make a much stronger impression. Intro and About. The intro currently doesn’t communicate enough. It needs to include both the services (such as soft washing, roof cleaning, and power washing) and the service area to strengthen local SEO and help potential customers quickly know if you serve their location. The About section is incomplete and should be fully filled out. This means adding a full description, branded email, physical address, and a few sentences on why the company is different - whether that’s eco-friendly practices, unique drone technology, or being family-owned. Featured and Albums. There are no featured posts or photo albums right now. This is an easy win. Add two or three featured posts that highlight your best work, before-and-after shots, or even a team spotlight. Albums should also be created to help potential customers browse by project type. Suggested albums include: Before & After, Roof Cleaning, Driveways & Patios, Meet the Team, and Community Work. Content and Posting Frequency. The posting consistency is excellent - daily posts show commitment and energy. However, the content is heavy on before-and-after shots, which are effective, but it would be helpful to mix things up. Consider adding reels with timelapses, process videos, or even “oddly satisfying” cleaning clips that are popular online. Team introductions and educational tips about the difference between soft washing and pressure washing would also add value. Watch out for AI-heavy content. Editing or avoiding that will keep your brand voice authentic and trustworthy. I was hoping to see more drone footage - that's such a cool service! Engagement and Community Connection. With only a handful of followers, engagement is naturally low. That’s not a concern yet... every page starts small. The focus should be on growth strategies. Partnering with local businesses for cross-promotion, tagging neighborhoods or HOAs, running small contests, and joining community groups to share cleaning tips (not just ads) will help build awareness. Brand Personality. Currently, the page lacks a clear explanation of why someone should choose Pura Softwash over other providers. This is where brand personality comes in. Share your story: are you family-owned, veteran-owned, or using eco-friendly products? Do you take pride in being a local service that cares about the community? Highlighting these elements helps customers connect with the people behind the business. 💡Pro Tip. Leverage the “oddly satisfying” trend in short-form video. Before-and-after cleaning is one of the most popular social media formats. Short, 15–30 second clips with upbeat music can be pushed to Facebook Reels, Instagram Reels, and TikTok, giving you access to a much wider audience and building brand recognition quickly.
+
+#### Reply 86
+
+**Author:** AAAFamily
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/16o7u24yEi/?mibextid=wwXIfr
+
+#### Reply 87
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to AAAFamily Rapid Quick Win Checklist - AAA Lawn Cover & Logo. The crisp logo works, but the “AAA” detail disappears at first glance. Widening the spacing or tweaking the color would help visibility. The cover image should be swapped for a wide, horizontal lawn shot - show off those big, beautiful lawns instead of a close-up that doesn’t capture the scope of your work. Intro & About. The intro is missing a service area: add “serving [your town/county/region]” for better local SEO. The About section needs serious attention: add your street address, a clear and friendly description of what you do, a branded business email, and definitely a website. (Pro tip: roughly 80% of home service leads can come from websites when paired with strong SEO.) Featured & Albums. None are set. Adding featured posts and albums (before/afters, team, services) is an easy credibility booster that makes your page look more complete and trustworthy. Posting & Content. Posting a couple of times a month is a good baseline, but consistency is key. Build an editorial calendar with a mix of post types: before/after, reels, community shoutouts, tips, and team spotlights. Right now, the content feels repetitive and AI copy/paste - make sure every post is edited into your voice before publishing. Engagement & Community. Small audience means engagement is low, but that’s an opportunity. Show more team faces, tell your story, and partner with local businesses or tag other community groups to build reach. Engagement grows fastest when you’re part of local conversations. Brand Personality. Right now, there isn’t one. Everything’s just “green.” A branding strategy would bring your company to life: what makes AAA different? Family-owned? Eco-friendly? Lightning-fast? Lean into those traits and let your visuals and captions reflect them. 💡 Pro Tip: Pick one “signature content type” that becomes your thing weekly lawn tip Tuesday or 5-second before/after Friday. That consistency makes people recognize and remember you, and it gives them a reason to come back for your posts.
+
+#### Reply 88
+
+**Author:** Kfrancisco
+**Posted:** 2025-09-08
+
+First State Tree Service, LLC on Facebook and Instagram! Thank you.
+
+#### Reply 89
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Kfrancisco Rapid Quick Win Checklist - First State Tree Service, LLC Cover and Logo. The cover image is strong, showing the semi with the logo alongside another truck and trees. It makes the business clear at a glance: tree service. To strengthen it, consider adding a simple tagline overlay such as “Professional Tree Service | Serving [City/Area].” This instantly reinforces both what you do and where you do it. Intro and About. There is no intro and the city/state is missing from the address. This is a major issue for local SEO, as search engines use this information to verify and rank your business in your local area, including on social media. Updating the About section fully is critical. Use the space to highlight your services, mention specific locations served, and naturally incorporate keywords “tree removal,” “tree trimming,” and “emergency tree service.” Don’t forget to include your full street address, branded business email, and website link if available. Featured and Albums. Currently, there are no featured posts and no albums. These are easy wins. Albums such as “Before & After Jobs,” “Equipment in Action,” “Meet the Team,” and “Community Projects” help build trust with potential clients. Featured posts should be updated regularly and used to highlight your best work, promotions, or testimonials. Content and Posting. Posting is consistent, and branding images with the logo or vehicles is a good practice. However, the content itself often comes across as copied-and-pasted AI text, which feels robotic. It’s important to edit posts into your own voice to reflect authenticity. Add more variety into the mix: behind-the-scenes moments, safety tips, customer testimonials, before-and-after transformations, and poll-style posts that invite audience participation. Engagement and Community. Engagement is minimal, but with a small audience, that’s expected. To grow this, consider collaborating with other local businesses such as landscapers, builders, or realtors. Cross-promotion helps both sides. You could also launch small contests, for example, a “best yard transformation” photo contest with a discount prize, to encourage shares and comments. Brand Personality. The brand comes across as clean and professional, especially with the logo and vehicle presentation. What’s missing is the human side. Show the team in action, share personal stories, and explain why you do this work. Customers want to connect with people, not just trucks and logos. Adding this personal touch builds long-term loyalty. 💡Pro Tip: Don’t just show what you do - show how it feels. When posting before-and-afters, add a quick sentence about how the homeowner reacted or how the job changed their property. “Safer yard for the kids,” “opened up their mountain view,” or “protected the house before winter storms” gives context that sparks emotion and helps potential clients imagine what you can do for them.
+
+#### Reply 90
+
+**Author:** chrisriley_apc
+**Posted:** 2025-09-08
+
+https://www.facebook.com/AdvancedPowerCleaning
+
+#### Reply 91
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to chrisriley_apc Rapid Quick Win Checklist – Advanced Power Cleaning First Impressions. The cover image, logo, and name immediately make it clear that this is a power cleaning company. The logo is fun and recognizable, and the branding ties together well. The only drawback is that the cover photo is slightly blurry; swapping it out for a crisp version would make that great first impression even stronger. Intro & About Section. Add your service area to the intro to help with local SEO and visibility. The category “local business” could be updated to something more specific, if available ( “Power Washing Service”). Also, make sure the About section is fully filled out with address, email, description, and website. This helps with credibility and discoverability. Featured Posts & Albums. Your featured posts are well done - this is an easy win and you’ve already nailed it. But no albums yet; those would allow you to showcase before/afters, team culture, or service categories in an organized way. Content & Posting Frequency. You’re posting multiple times a day - seriously impressive consistency! But the question is: what’s connecting with the audience? Right now, it looks the content leans heavily on promotion and visuals, but lacks a personal touch. Keep the before/after photos, reels, and even Canva-style ads, but mix in more audience-focused content: quick cleaning tips, customer shoutouts, or behind-the-scenes stories. That reel of your team golfing was gold - that’s the human interaction people want to see more of. Engagement & Community Interaction. Engagement is low, which makes sense with a smaller following. To grow, identify the post types that do get reactions (likes, comments, or shares) and double down on those. Partner with local businesses, tag clients (with permission), and collaborate with community events or charities to help boost reach. Brand Personality. The red logo and team uniforms show up consistently, which is good for brand recognition. But brand personality goes deeper than color. Right now, it feels more a sales channel than a story. Share why you started, what makes your approach different, and highlight customer experiences. Watch out for AI-generated content... it’s easy to spot and can drain authenticity. Editing and adding your voice will go a long way. 💡Pro Tip. You’re already posting a lot, so instead of more content, aim for better-performing content. Take a week, look at your past 20–30 posts, and see which ones had the most likes, comments, or shares. Use those as your baseline to build an 80/20 rule strategy: 80% of your content should be modeled after what already works, and 20% can be experiments. This shift will help you grow engagement without burning out on endless posting.
+
+#### Reply 92
+
+**Author:** Miazo
+**Posted:** 2025-09-08
+
+https://www.instagram.com/210poolsolution/
+
+#### Reply 93
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to Miazo Rapid Quick Win Checklist – 210 Pool Solution Profile Visual & Bio. The bio does its job: it’s clear and includes both services and location, which is strong. Still, you could punch it up a bit with a catchier line to grab attention, but no biggie since the essentials are there. No highlights yet - get those going! Use branded covers, and since you’ve almost nailed a patterned color block already (impressive, that’s tough to pull off), you can make them pop with variety. Don’t limit yourself to just your logo in those color blocks... mix in quotes, service names, or even playful text to add personality. Content & Posting Strategy. Your 3D pool designs are cool and definitely a differentiator. Keep those coming! But balance them with more team photos - people want to see the humans behind the builds. It builds trust and connection. Some posts have just hashtags without a real caption - this is a missed opportunity. Give your audience context, a story, or even a quick tip alongside the visuals. Skip the raw AI copy-paste feel; edit it into your voice so your brand personality shines through. Engagement & Audience Growth. For the size of your following, you’re putting out quality content, and the overall vibe is professional. The next level comes from building engagement by layering in community connections, sharing client testimonials, and showing behind-the-scenes moments. Brand Personality. You’ve got the professional look locked down. Now it’s about weaving in more of your brand story: team moments, client reactions, and fun little touches that make you memorable. That’s where you’ll stand out in a crowded market. 💡Pro Tip. Think of your captions as mini billboards. Even one short sentence : “This is how we turn a backyard dream into a staycation paradise” before dropping the hashtags will dramatically improve readability and connection.
+
+#### Reply 94
+
+**Author:** supreme_greens
+**Posted:** 2025-09-08
+
+https://www.facebook.com/SupremeGreensofSWFL/
+
+#### Reply 95
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to supreme_greens Rapid Quick Win Checklist – Supreme Greens of SWFL Cover & Logo. The cover image is fun, colorful, and playful with that wide stretch of green turf. While it’s just a bit blurry, it still works. To make an even stronger impact, consider replacing it with a sharp before/after transformation. The logo is gorgeous, crisp, and memorable - great work here. Intro & About Section. The intro is excellent; it highlights the services, the service area, and the fact that the company is “Led by Women.” That’s unique and powerful; no need to touch it. The About section, however, should be beefed up with a complete description and the full street address. This boosts credibility and local SEO. Also, update the business category to “lawn care” (or equivalent) would be more fitting than the default. Featured Posts & Albums. Featured posts are in place and look great! Albums, however, are missing. Adding albums “Before & After Installs,” “Pet-Friendly Turf,” “Putting Greens,” and “Poolside Transformations” would give clients an easy way to browse your work and instantly build trust. Content & Posting. Content quality is solid, but the captions are showing signs of AI copy/paste. Edit those before posting to keep your voice authentic and personal. You’ve already got strong visuals, pair them with human, conversational captions that show expertise and personality. Engagement & Community. Engagement is limited right now, but that’s expected with a smaller audience. Keep leaning into reels, before/afters, and storytelling posts. Partner with other local businesses and highlight community projects to widen your reach. Brand Personality. Visually, the branding is strong. Now, take it a step further by sharing the story behind the woman-led business, client testimonials, and your team in action. That mix of professionalism and personal connection will set you apart. 💡Pro Tip. Start a “Why Turf?” educational series where you post quick reels or carousel posts answering common questions: pet-friendliness, drainage, durability, and eco-benefits. Position yourself not just as an installer, but as the go-to turf expert in Southwest Florida.
+
+#### Reply 96
+
+**Author:** FreshStart
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/17BEes42rT/
+
+#### Reply 97
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to FreshStart Rapid Quick Win Checklist - Fresh Start Housekeeping First Impressions. The name and logo make it clear this is a housekeeping company, but the cover photo needs work. It’s blurry, and the background wall looks unfinished (possibly drywall - scrolled down and saw it loaded, it's a glare!). A clean, bright, staged home shot would instantly elevate credibility. The logo words are tiny - consider using just the icon for a stronger visual punch in the profile picture. Intro & About Section. The intro is short and catchy, “A Clean Tomorrow starts today!” but it’s missing critical SEO power. Add services (housekeeping, deep cleans, move-in/move-out) and service area (towns, counties). The About section, however, is fully completed and thorough - this is rare to see and impressive! It’s a solid foundation that gives you a leg up on competitors. Featured & Albums. No featured posts or albums - this is a quick win! Use featured posts to highlight core services, seasonal promos, or a personal story. Albums could showcase before/after transformations, team highlights, or seasonal projects. Content & Posting. Posting shows promise. Local, community-focused posts ( Walking to End Alzheimer’s) are fantastic and resonate deeply. Reels and personal photos add authenticity. However, copy-paste AI content with excessive emojis is dragging the tone down. It feels robotic, which undercuts trust. Edit AI output into a more natural, human-sounding voice. An editorial calendar would bring structure and consistency. Engagement & Growth. Engagement is low, but that’s normal for a small audience. To build momentum: Post more personal/team photos. Collaborate with local businesses for shares and exposure. Encourage clients to tag you in photos or reviews. Run referral or community-based campaigns (e.g., spotlighting client success stories). Brand Personality. Right now, the brand personality gets lost behind generic AI posts. You need to show who you are - why you started, your values, and your personal approach to housekeeping. You can still use AI, but you should train it with your brand voice so it produces content that sounds YOU, not a chatbot. 💡Pro Tip. Don’t just show clean homes - show the feeling of clean. Capture client reactions, the sense of relief, or even short testimonials. People don’t just buy “housekeeping,” they buy the peace of mind it brings.
+
+#### Reply 98
+
+**Author:** EZBreezyAir
+**Posted:** 2025-09-08
+
+Love this--great service offer! Thank you! This is our Instagram: https://www.instagram.com/ezbreezyair/
+
+#### Reply 99
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to EZBreezyAir Hello, Friend - adding this to another one of my favs! Rapid Quick Win Checklist – EZ Breezy Heating & Cooling Profile & Branding. The profile image is clean and recognizable. The logo pops and instantly communicates the service. The website is listed, the service description is clear, and the account is easy to identify... no confusion about who you are or what you do. You could add your exact service location for clarity, but I'm also assuming your audience understands what "East Valley" location is, which means algorithms will too. Highlights & Pinned Posts. Huge win here. The Story Highlights are all filled out with branded covers and clear labels - this is rare and done really well. Plus, your pinned posts keep the most important content front and center. This tells new visitors exactly what they need to know. Content & Strategy. Posting schedule? Solid. You’re active, consistent, and making use of color blocking in your grid - bravo! That visual consistency catches the eye and gives a professional feel. Funny posts keep the audience engaged, and you’re editing AI-generated content so it feels human - double win! Your reels with the owner, tips, how-to’s, and “Little Ryker” moments make the feed relatable and credible - all of which also build a strong community. Engagement. For the size of your audience, engagement is strong. People are liking, commenting, and connecting with the content you put out. That’s proof your strategy is working. The next step is scaling your audience so more people see the good stuff... collaborations with local businesses, hashtag optimization, or even running a small ad campaign could help accelerate growth. Brand Personality. This is where you shine. HVAC is often considered a “boring” industry, but your page is anything but. Between humor, personal touches, and educational content, you’ve built a personality that makes people want to click around and keep watching. This is exactly how you stand out in a competitive service market. Well done, friend! 💡Pro Tip. Do a quick content audit. Find out which posts are getting the most traction and lean into the 80/20 rule: post 80% of what’s already working and 20% experimental content. That way, you keep feeding your audience what they love while continuing to test fresh ideas that might unlock even bigger growth.
+
+#### Reply 100
+
+**Author:** ClearShineAdmin
+**Posted:** 2025-09-08
+
+https://www.facebook.com/ClearShineNaturalStoneRestoration
+
+#### Reply 101
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to ClearShineAdmin Rapid Quick Win Checklist - Clear Shine Natural Stone Restoration First Impressions. Whoa, finally a clear cover image! The design works well: logo, three strong images of stone work, and a list of stone types with locations. Combined with the crisp logo and straightforward name, visitors instantly know this is about stone restoration. That clarity is a big win. Intro & About Section. The intro is missing an opportunity to boost local SEO: add your service area to help customers (and algorithms) find you faster. The About page should be fully filled out with a complete description, branded email, and address to strengthen credibility and rankings. Featured Posts & Albums. There’s just one featured post right now. Fill out all three spots to make this section impactful. No albums are present either: before/after transformations and project galleries would be a great way to showcase expertise. Content & Posting Strategy. Posting is consistent, but the tone leans heavily on ads and testimonials. While those are useful, mix in more customer-focused content: Show how your services make a homeowner’s life easier (time saved, beauty restored, property value increased). Add behind-the-scenes shots of the restoration process. Share maintenance tips to position yourself as the go-to expert. Canva is fine for some graphics, but right now the feed looks too templated and “salesy.” Balance it with authentic photos, storytelling, and edited (not raw copy/paste) AI-generated content. Some posts even go out with no captions at all... make sure every image has supporting context. Engagement & Audience. The audience is tiny, so low engagement is expected. Don’t stress over that yet - focus instead on content variety, storytelling, and local networking to grow reach. Brand Personality. Brand visuals are consistent - the logo and color appear on posts - but personality doesn’t shine through. Developing a branding strategy will help you move beyond “just polished posts” into a recognizable voice and character that draws people in. 💡Pro Tip. Turn your before-and-after transformations into short video reels. Add a quick voiceover or caption that explains what problem the stone had (etching, stains, dullness) and how you solved it. These not only build credibility but also make your services feel indispensable to anyone scrolling by.
+
+#### Reply 102
+
+**Author:** AlexUrbanLeaf06
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1CAsj6tn3E/?mibextid=wwXIfr
+
+#### Reply 103
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to AlexUrbanLeaf06 Hello, East Texas Friend! Rapid Quick Win Checklist - Urban Leaf Lawn Care First Impressions. The current cover image with the sign is practical - it shows the logo, phone number, and services - but the blurry quality hurts credibility. A crisp, wide lawn photo would instantly showcase results and draw in potential clients. The logo itself works but is getting lost; resizing and tightening it up in Canva would make it pop. Intro & About Section. The intro is strong, but it’s missing local SEO juice. Add “Nacogdoches” so locals immediately know you’re their lawn care team. The About section is thin - filling out address, contact info, and description will boost visibility in searches and trustworthiness with customers. Featured Content & Albums. Right now, you’ve got one featured post that is outdated. Freshen it up and consider highlighting three at a time: team highlights, top before/afters, or testimonials. Albums are a blank canvas here; create collections “Before & After Lawns,” “Meet the Team,” and “Community Projects.” Content & Posting Frequency. The video quality is excellent - clean and sharp. The variety is great too: team shirts with logos, behind-the-scenes, before/afters, and reels. The weak spot is frequency: once a month won’t cut it. Aim for at least once a week, and use an editorial calendar to plan a healthy mix of educational, promotional, and community posts. Engagement & Growth. The shares and engagement you’re getting are proof that the content resonates. Imagine the lift if you consistently showed up and started collaborating with local businesses. Cross-tagging and co-promotions can help double your audience reach with very little extra effort. Brand Personality. The use of AI copy-paste is dulling your personality. Instead of letting generic content carry the voice, edit or rewrite it in your own tone - whether that’s playful, helpful, or community-centered. This will give Urban Leaf Lawn Care a recognizable personality that clients connect with. 💡Pro Tip. You’ve already nailed video quality. Next step? Turn those high-quality clips into micro-reels and pin them to the top of your page. A 10–15 second reel with a dramatic before/after or a fun team moment will grab attention instantly and keep your best content visible to new visitors.
+
+#### Reply 104
+
+**Author:** RobinFL
+**Posted:** 2025-09-08
+
+https://www.facebook.com/foreverlawn.ncgeorgia/ Looking forward to your advice!
+
+#### Reply 105
+
+**Author:** kasyallen
+**Posted:** 2025-09-08
+
+to RobinFL Rapid Quick Win Checklist - ForeverLawn North Central Georgia Cover & Logo. What in the AI is that cover image? 😆 It’s clear, creepy, and kinda cool - if that’s part of your brand personality, run with it! The main image looks a park and not your actual logo. Make the logo the star of your profile so people instantly connect the visuals with your brand. Albums & Featured Content. Yeehaw, you actually have albums! That’s a rare win in these audits. Keep building on that by adding more specific collections: before/after installs, pet turf projects, playgrounds & sports fields. Content Style. Sharing customer testimonials is great - keep that up. But, the AI-generated content you’re copy-pasting without edits? It’s holding you back. Edit it, add your tone, and make it sound YOU. That extra effort is what makes people stop scrolling. Engagement & Audience. With around 400 followers, you’re off to a solid start. But engagement is flat. It’s time for a content audit: look at your last 10–20 posts, see which ones actually sparked reactions or shares, and double down on those. Cut out the fluff that doesn’t connect. Brand Personality & Community. I had to scroll to find one photo with your team. That should be a red flag. People want to see the humans behind the turf. Make it a goal to feature more photos of you, your crew, and your role in the community. That’s what builds trust and gives you a real brand personality beyond just the product. 💡Pro Tip. Launch a “Meet the Team Monday” or “Community Spotlight Friday” series. Short, casual posts that introduce your people or highlight local partnerships can give your audience a reason to engage, and they’ll do way more for your brand personality than another AI stock caption.
+
+#### Reply 106
+
+**Author:** DixonSecurity
+**Posted:** 2025-09-08
+
+https://www.facebook.com/UtahSpyShop
+
+#### Reply 107
+
+**Author:** BSCKelly
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/16mdZsizbM/
+
+#### Reply 108
+
+**Author:** DarianATstewco
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1BJkdm7a2q/?mibextid=wwXIfr
+
+#### Reply 109
+
+**Author:** staymadclean
+**Posted:** 2025-09-08
+
+IG: staymadclean
+
+#### Reply 110
+
+**Author:** GregSemones
+**Posted:** 2025-09-08
+
+https://www.facebook.com/profile.php?id=61562200274001
+
+#### Reply 111
+
+**Author:** Trifectasite
+**Posted:** 2025-09-08
+
+Love to hear what you would have to suggest! https://www.facebook.com/share/1EUt9r6zqZ/?mibextid=wwXIfr
+
+#### Reply 112
+
+**Author:** SOCOAdmin
+**Posted:** 2025-09-08
+
+https://www.facebook.com/search/top?q=soco%20outdoor%20solutions
+
+#### Reply 113
+
+**Author:** BlazingStars
+**Posted:** 2025-09-08
+
+Go easy on me https://www.instagram.com/blazingstars_landscapedesign?igsh=ZnU5dHRpNzh0d2k4&utm_source=qr
+
+#### Reply 114
+
+**Author:** Derekswegle18
+**Posted:** 2025-09-08
+
+https://www.instagram.com/habitat_hardwoodfloors?igsh=MWljOXdheTBjZG5lbg%3D%3D&utm_source=qr
+
+#### Reply 115
+
+**Author:** valley_patios-g
+**Posted:** 2025-09-08
+
+@valleypatios on Instagram. Thank you!
+
+#### Reply 116
+
+**Author:** klep51
+**Posted:** 2025-09-08
+
+https://www.facebook.com/jdogcarpetcleaningpottstown
+
+#### Reply 117
+
+**Author:** Cecismaids
+**Posted:** 2025-09-08
+
+https://www.facebook.com/cecismaids/ thank you!
+
+#### Reply 118
+
+**Author:** bluebirdwindows
+**Posted:** 2025-09-08
+
+https://www.facebook.com/bluebirdwindowcleaningVA/ Thank you so much in advance!
+
+#### Reply 119
+
+**Author:** Jhamilton
+**Posted:** 2025-09-08
+
+http://www.facebook.com/593parkplace.com
+
+#### Reply 120
+
+**Author:** Patricia
+**Posted:** 2025-09-08
+
+https://www.facebook.com/yoursafewaterfanatics
+
+#### Reply 121
+
+**Author:** Dtatum1973
+**Posted:** 2025-09-08
+
+instagram tatumcustompainting.com
+
+#### Reply 122
+
+**Author:** ReneeHall
+**Posted:** 2025-09-08
+
+https://www.facebook.com/CoastalCreationsFLA
+
+#### Reply 123
+
+**Author:** ValueFencingPVC
+**Posted:** 2025-09-08
+
+https://www.facebook.com/valuefencingpvc/
+
+#### Reply 124
+
+**Author:** Htaylor
+**Posted:** 2025-09-08
+
+Hi Kasy! Thank you in advanced for your time and for any feedback that you have! https://www.instagram.com/beautifuldaycc/
+
+#### Reply 125
+
+**Author:** TaylorK
+**Posted:** 2025-09-08
+
+@roofingsolutionsltd - Instagram https://www.facebook.com/profile.php?id=61556351100125 - facebook
+
+#### Reply 126
+
+**Author:** AncientOaks
+**Posted:** 2025-09-08
+
+https://www.facebook.com/ancient.oaks.2025
+
+#### Reply 127
+
+**Author:** Helganne
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/p/16jTs2MhMs/
+
+#### Reply 128
+
+**Author:** EllieJeffrey
+**Posted:** 2025-09-08
+
+instagram @silverbacktreeworks
+
+#### Reply 129
+
+**Author:** coastalclarity
+**Posted:** 2025-09-08
+
+https://www.instagram.com/coastalclaritysd/ Thank you!
+
+#### Reply 130
+
+**Author:** alicecabinets
+**Posted:** 2025-09-08
+
+https://www.facebook.com/AliceWoodworking
+
+#### Reply 131
+
+**Author:** MrsB2025
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/18KoMaNuw5/
+
+#### Reply 132
+
+**Author:** DustTillDawnAU
+**Posted:** 2025-09-08
+
+Hi Kasy, Would love a review, nearly at the 6 month stage and would love a 3rd party unbiased review! IG: Dusttilldawnau Facebook: Dust Till Dawn (Add cleaning on the end if it doesn't come up) Tiktok: Dusttilldawnau Thank you for your time, I look forward to hopefully having a review!
+
+#### Reply 133
+
+**Author:** Chinook
+**Posted:** 2025-09-08
+
+https://www.facebook.com/chinookhydroseeding
+
+#### Reply 134
+
+**Author:** TheLawnSlayers
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/19P4bZTHMY/?mibextid=wwXIfr
+
+#### Reply 135
+
+**Author:** PSCowner
+**Posted:** 2025-09-08
+
+@pacificsolarcare on Instagram
+
+#### Reply 136
+
+**Author:** polizzottiph
+**Posted:** 2025-09-08
+
+https://www.instagram.com/polizzottiplumbingandheating?igsh=OWVzYjBib2gweWlu&utm_source=qr
+
+#### Reply 137
+
+**Author:** jacobprice1982
+**Posted:** 2025-09-08
+
+Thank you! Sandusky River Valley Power Washing LLC www.facebook.com/srvpowerwashing
+
+#### Reply 138
+
+**Author:** ColtonVanguard
+**Posted:** 2025-09-08
+
+https://www.instagram.com/vanguardmechanical/ Thank you.
+
+#### Reply 139
+
+**Author:** EliseR
+**Posted:** 2025-09-08
+
+Instagram @herbelise.wellness
+
+#### Reply 140
+
+**Author:** hawksviewdfw
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/16johrdtRH/
+
+#### Reply 141
+
+**Author:** KristenAble
+**Posted:** 2025-09-08
+
+https://www.facebook.com/ablechimney Thank you!
+
+#### Reply 142
+
+**Author:** justinorellana
+**Posted:** 2025-09-08
+
+@electropreneur
+
+#### Reply 143
+
+**Author:** justinorellana
+**Posted:** 2025-09-08
+
+to justinorellana On instagram
+
+#### Reply 144
+
+**Author:** harleyconstable
+**Posted:** 2025-09-08
+
+https://www.instagram.com/shepparton_cleaning_service?igsh=MWIwbGkwMnU0bnNxcQ==
+
+#### Reply 145
+
+**Author:** GAMorris
+**Posted:** 2025-09-08
+
+Https://facebook.com/victorylawnandoutdoo/
+
+#### Reply 146
+
+**Author:** GAMorris
+**Posted:** 2025-09-08
+
+I apologize for sending in this format. M other attempts didnt link corectly. Looking forward to the feedback. Please ignore the previous I sent. It links to a random page and i do not know why. https://www.bing.com/ck/a?!&&p=91f3101c10011437192f02af55f3a7c2c008b10a1bd359ad94625e31f5c56481JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=11e25458-0993-629f-33f2-47e6087363be&psq=Victory+Lawn+%26+Outdoor&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3ZpY3RvcnlsYXduYW5kb3V0ZG9vci8&ntb=1
+
+#### Reply 147
+
+**Author:** Amesseth2003
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1JR5btbvpE/?mibextid=wwXIfr
+
+#### Reply 148
+
+**Author:** VCP
+**Posted:** 2025-09-08
+
+@vancustomplumbing on Instagram
+
+#### Reply 149
+
+**Author:** RyanS
+**Posted:** 2025-09-08
+
+https://www.facebook.com/wisconsinexteriors1 Excited for this....
+
+#### Reply 150
+
+**Author:** BucknerFence
+**Posted:** 2025-09-08
+
+https://www.facebook.com/Bucknerfenceco
+
+#### Reply 151
+
+**Author:** cleanoutdrains
+**Posted:** 2025-09-08
+
+https://www.instagram.com/cleanoutdrains/ Thank you!
+
+#### Reply 152
+
+**Author:** dcornelius7169
+**Posted:** 2025-09-08
+
+https://www.facebook.com/profile.php?id=61561093384894
+
+#### Reply 153
+
+**Author:** knights
+**Posted:** 2025-09-08
+
+https://www.instagram.com/knightsofcleaning/
+
+#### Reply 154
+
+**Author:** GTPPBGC
+**Posted:** 2025-09-08
+
+@palmbeachgrillcenter on facebook.
+
+#### Reply 155
+
+**Author:** Mathers
+**Posted:** 2025-09-08
+
+Would love to hear your input, Kasy. Thank you! https://www.facebook.com/comfortawning
+
+#### Reply 156
+
+**Author:** abrennecke
+**Posted:** 2025-09-08
+
+EV Plug Pros - Thank you! https://www.facebook.com/profile.php?id=100073164082778
+
+#### Reply 157
+
+**Author:** intrepidms
+**Posted:** 2025-09-08
+
+https://www.facebook.com/IntrepidMS/
+
+#### Reply 158
+
+**Author:** greenscholars
+**Posted:** 2025-09-08
+
+@greenscholarslawncare fb greenscholars IG
+
+#### Reply 159
+
+**Author:** randysmith92
+**Posted:** 2025-09-08
+
+https://www.facebook.com/EliteIntExSolutions Elite IntEx Solutions
+
+#### Reply 160
+
+**Author:** aboveandbeyond9
+**Posted:** 2025-09-08
+
+IG: @aboveandbeyondwashanddetail
+
+#### Reply 161
+
+**Author:** BluePineWorks
+**Posted:** 2025-09-08
+
+Looking forward to learning what changes need to be made. https://www.facebook.com/BluePineWorksLLC
+
+#### Reply 162
+
+**Author:** BPAzzienda
+**Posted:** 2025-09-08
+
+Azzienda.Inc on instagram
+
+#### Reply 163
+
+**Author:** readysetorg
+**Posted:** 2025-09-08
+
+https://www.instagram.com/p/DNTRbz7umtd/ Thanks in advance! <3
+
+#### Reply 164
+
+**Author:** Kabbott08
+**Posted:** 2025-09-08
+
+@DoItRightDrainage doitrightdrainage.com
+
+#### Reply 165
+
+**Author:** Lynn
+**Posted:** 2025-09-08
+
+https://www.instagram.com/screensofnorcal/
+
+#### Reply 166
+
+**Author:** Scoop
+**Posted:** 2025-09-08
+
+Check out the Facebook Page for Scoop, Scoop and Away! Thanks! https://www.facebook.com/ScoopAndAway
+
+#### Reply 167
+
+**Author:** Renovationdudes
+**Posted:** 2025-09-08
+
+Facebook.com/renovationdudes
+
+#### Reply 168
+
+**Author:** Jbscurbing
+**Posted:** 2025-09-08
+
+@jbscustomcurbing (Instagram) @jbscustomcurbing (Facebook)
+
+#### Reply 169
+
+**Author:** eciskris
+**Posted:** 2025-09-08
+
+https://www.facebook.com/share/1YLW1KwnZ9/
+
+#### Reply 170
+
+**Author:** ksawyersc
+**Posted:** 2025-09-08
+
+Facebook - https://www.facebook.com/SawyerServicesSC
+
+#### Reply 171
+
+**Author:** Robertsons
+**Posted:** 2025-09-08
+
+https://www.facebook.com/robertsonsplumbing/
+
+#### Reply 172
+
+**Author:** TrustedElectic
+**Posted:** 2025-09-08
+
+https://www.facebook.com/185492737970611/ https://www.instagram.com/trustedelectricco/ https://www.youtube.com/@TRUSTEDELECTRIC
+
+#### Reply 173
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-08
+
+Love this! BrandenSewell on Instagram https://www.instagram.com/brandensewell?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== Also have my personal website. www.brandensewell.com
+
+#### Reply 174
+
+**Author:** HighlanderEM
+**Posted:** 2025-09-08
+
+https://www.facebook.com/highlanderelectromech/ Thank you!
+
+#### Reply 175
+
+**Author:** SabasRuiz
+**Posted:** 2025-09-08
+
+Thank you so much! 🙏🏽 https://www.facebook.com/share/1SvCir2fZZ/?mibextid=wwXIfr
+
+#### Reply 176
+
+**Author:** OneAZCleaning
+**Posted:** 2025-09-08
+
+IG OneAZCleaning
+
+#### Reply 177
+
+**Author:** Jorge3Hernandez
+**Posted:** 2025-09-08
+
+https://www.instagram.com/smarthandymeninmiami?igsh=MWhrYjQ2empxYzBwaQ%3D%3D&utm_source=qr
+
+#### Reply 178
+
+**Author:** Joshua_C3
+**Posted:** 2025-09-08
+
+https://www.instagram.com/corredorandthreesonsllc/
+
+#### Reply 179
+
+**Author:** RayL
+**Posted:** 2025-09-08
+
+This is great - https://www.facebook.com/AZPreferredWindowCleaning/
+
+#### Reply 180
+
+**Author:** NinjaScoopz
+**Posted:** 2025-09-08
+
+https://www.facebook.com/628784523641308
+
+#### Reply 181
+
+**Author:** cleanoutdrains
+**Posted:** 2025-09-08
+
+https://www.instagram.com/cleanoutdrains/
+
+#### Reply 182
+
+**Author:** akmprlandscapes
+**Posted:** 2025-09-08
+
+@mprlandscapes on Instagram
+
+---
+
+## 13. Physical Advertising
+
+**Author:** PinnacleNW (Contributor 2)
+**Posted:** 2026-04-30
+**Views:** 32 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/physical-advertising/10668
+
+### Content
+
+Hey everybody, my name is Daniel. I’m currently looking to expand and grow my business. I have done paid Marketing on Meta and Google with some success, but I’m also wondering for anyone who’s in the contracting and remodeling space if they ever do door hangers, mailers flyers and yard signs and what kind of return they see on those I’ve had some people tell me they see great return but not in the same industry as me if you do any of these and you do remodeling, I would love to hear your input
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** ryaantuttle
+**Posted:** 2026-05-01
+
+Those can work really well, but the mistake most guys make is treating them as one-off tactics instead of building a full marketing funnel. Door hangers, mailers, and yard signs aren’t magic on their own. They work best when they’re tied into your digital marketing. For example: Yard signs build local awareness and social proof Door hangers and mailers keep you in front of the same neighborhoods Then your Google and Meta ads reinforce that when those homeowners search or scroll Now you’re not relying on one touch, you’re everywhere they look. That’s where the real ROI comes from. In remodeling especially, people usually need multiple touchpoints before they reach out. If you’re going to do physical advertising, make sure it connects to your digital funnel: QR codes or links driving to a landing page Retargeting ads hitting the same neighborhoods Consistent branding across print and online The goal isn’t just physical marketing. It’s building a complete, multi-channel system that works together. The guys who say it “doesn’t work” usually ran it in isolation or didn’t stay consistent long enough.
+
+---
+
+## 14. Looking for testers
+
+**Author:** Chris (Contributor 3)
+**Posted:** 2026-04-30
+**Views:** 14 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/looking-for-testers/10672
+
+### Content
+
+I’ve been building a web app for the past 10 months that integrates with jobber. It transforms keeping up with your lead follow ups and sales ops and automates tasks. Comment some features you would love to see and let me know if you’d be interested in hearing about it.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 15. What are the best marketing strategies beyond Thumbtack and Yelp?
+
+**Author:** KICC (Contributor 2)
+**Posted:** 2026-04-20
+**Views:** 206 | **Likes:** 2 | **Comments:** 10
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-the-best-marketing-strategies-beyond-thumbtack-and-yelp/10362
+
+### Content
+
+Good day everyone, I am looking for feedback on better marketing ideas for my HVACR company. I tried the useless thumbtack, and am using Yelp with Google currently but not getting much for results on closures. Any suggestions would be welcomed.
+
+### Replies (10)
+
+#### Reply 1
+
+**Author:** michael090
+**Posted:** 2026-04-20
+
+Good day, From what you described, it’s not just a traffic issue—it’s likely a conversion and follow-up problem. A lot of HVAC businesses get leads from platforms Yelp and Google but lose them due to slow response times or no structured follow-up. As a digital marketer and CRM specialist, I help service businesses capture, track, and convert more of the leads they’re already getting—through automated follow-ups, better booking systems, and simple pipelines that turn inquiries into paying jobs. If you’re open, I can share a quick breakdown of what might be leaking opportunities in your current setup.
+
+#### Reply 2
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-22
+
+I'm not really an expert BUT in my opinion you have to start with the free infastructure type things first, then work your way in to paid spaces. Is your GMB optimized (meaning do you have services, products, business hours extended, uploading geo tagged pictures etc). Then is your website SEO optimized (jobber just had a really good pod on this). After that, set up your tracking for google. They were basically talking about optimizing your AEO for AI search engines which is where the majority of people will be in 2-3 years. Personally, I feel networking would be your best bet for more solid leads. THere's so much competition in the HVAC space that would be your best bet to stand apart from the crowd. Also take an objective look at you branding and messaging.
+
+#### Reply 3
+
+**Author:** MoisesCabriales
+**Posted:** 2026-04-24
+
+to HUGEHomePros Hey Hugehomepros, Question, what does AEO mean? And also in what ways can one network more to gain customers?
+
+#### Reply 4
+
+**Author:** judithvirag
+**Posted:** 2026-04-28
+
+BUILDER 1 to MoisesCabriales MoisesCabriales​ AEO stands for Answer Engine Optimization. It is a digital marketing strategy. It structures content so that AI tools can easily find, understand, trust, and cite a brand as a direct answer to user queries. AI tools include ChatGPT, Google Gemini, Perplexity, and voice assistants. Networking for me is trying to pick events where my ideal client hangs out. We do residential cleaning and it is somewhat a luxury service, so I hang out where high level executvies are and women events.
+
+#### Reply 5
+
+**Author:** MoisesCabriales
+**Posted:** 2026-04-29
+
+to judithvirag Thank you for the advice!
+
+#### Reply 6
+
+**Author:** roselvaggio
+**Posted:** 2026-04-25
+
+We recently realized how much money we were leaving on the table using Google Local Service Ads- the inquiry is searching for a service and they tend to book with the first person who answers the phone. If we miss that initial call, 90% of the time it's lost. We HAVE just hired someone who builds out automations for GLSA to ensure every warm lead is replied to within seconds. I will circle back to see if that changes our conversion rate from GLSA!
+
+#### Reply 7
+
+**Author:** KICC
+**Posted:** 2026-04-27
+
+to roselvaggio Thank you and please let me know how it turns out. This yelp and Google Adds is good for only getting client lists and not much on closure assistance for requests.
+
+#### Reply 8
+
+**Author:** DropZoneCleanUp
+**Posted:** 2026-04-27
+
+to roselvaggio I would love to know who you hired to implement that? It is a challenge we also have.
+
+#### Reply 9
+
+**Author:** roselvaggio
+**Posted:** 2026-04-29
+
+to DropZoneCleanUp Happy to connect you! Feel free to send me a DM with your email address :)
+
+#### Reply 10
+
+**Author:** Lytvynenko
+**Posted:** 2026-04-30
+
+It's something simple but not something many realize. While you are using marketing apps - Thumbtack, Yelp, Angi's List, Google etc. You are evaluating the performance of those apps and how many leads they are giving you. In the meantime, those companies are also evaluating your business. Meaning, if your response rate / profile / cost / reviews are not up to their standard, you will get much less leads, if any. Thumbtack is very profitable as all the others I mentioned. It's how you use them that makes all of a difference.
+
+---
+
+## 16. Google Ads vs LSA — how is everyone actually using these?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-13
+**Views:** 239 | **Likes:** 1 | **Comments:** 8
+**URL:** https://community.getjobber.com/discussions/marketing-forum/google-ads-vs-lsa-%E2%80%94-how-is-everyone-actually-using-these/10143
+
+### Content
+
+Here's where I'm at: I run both Google Ads and Local Services Ads (LSA) for my business. On paper, that sounds I've got it figured out. In practice, it feels a bit throwing money at two different machines and hoping one of them spits out jobs. I don't always know which one a new customer came from, and I'm honestly not confident my settings on either are dialed in the way they should be. Obviously the LSA is something I pay for on an individual basis. I just feel I never get any jobs out of these. Does this hurt me to kill these ads all together? Then google ads I have no idea. I feel I get a lot of leads from google in general but I don't know how much of that is my website vs the ads. How do you guys approach these?
+
+### Replies (8)
+
+#### Reply 1
+
+**Author:** Roger
+**Posted:** 2026-04-14
+
+LSA is easy to track because it uses a Google forwarding number, and you can clearly see which customers came from those leads directly in your dashboard. For Google Ads vs. your website, you need to set up proper tracking. On my end, I still use Jobber forms to collect leads, but now Jobber gives you options to better identify where each lead is coming from. One option is to create multiple forms so you can tell the difference based on which form was submitted. Another option is to track the source of the form submission so it gets added to your lead source automatically. In my case, I modify the URL using UTM parameters, : ?utm_source=web&source=website ?utm_source=yelp&source=referral You can customize these however you want—Google Ads, Yelp, Facebook, etc. That way, when a client submits the form, Jobber already shows you exactly where the lead came from. Also, keep in mind that form performance depends on the source. Simpler forms usually convert better—especially on platforms Facebook, where people don’t want to fill out long forms. If you feel your forms url are too long, you can create simple forwarding links yourdomain.com/yelp that redirect to the correct tracked URL. You can do the same for every source you want to track.
+
+#### Reply 2
+
+**Author:** winnovations
+**Posted:** 2026-04-19
+
+to Roger
+
+#### Reply 3
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-15
+
+I hired a marketing company that tracks all this for me and we review a report every few months. Keyword searches are another thing to pay attention to. These can be changed or new words added as needed to make sure people are finding you when they are looking for their service. The key that I found was to make yourself stand out somehow, set your standards higher and make sure you can communicate that well. I didn't know anything about Google ads before this and I am admittedly still very unsure what it all means but I do know that some leads have come in that I have closed. I have a good situation where 1 lead can easily turn into $600-1000 so paying $150-300 a month, even to get 2-3 leads is really good for me.
+
+#### Reply 4
+
+**Author:** readysetorg
+**Posted:** 2026-04-15
+
+I'm with you on this in that I'm not a google ads expert, yet I do pay for advertising there. I just assume I need to be paying for ads to keep my team busy and to stay at the top of the list when customers are out there seaching. Sorry I don't have much advice for you. Mainly commenting to follow this post :)
+
+#### Reply 5
+
+**Author:** michael090
+**Posted:** 2026-04-15
+
+Honestly, this is super common—running both without clear tracking just burns money, so I’d start by properly separating and tracking each lead source, then pause whichever isn’t producing real jobs, and if you want, I can help you clean up the setup so you actually know what’s working and what’s not.
+
+#### Reply 6
+
+**Author:** judithvirag
+**Posted:** 2026-04-17
+
+BUILDER 1 We hired a company to do this for us as it seems a black hole to me. I rather outsource it so I can focus on other things that I am good at. I don't have time to educate myself on every change that Google makes :) We run both as well.
+
+#### Reply 7
+
+**Author:** FredHodgeJr
+**Posted:** 2026-04-17
+
+You don’t have a Google Ads vs LSA problem, you have a tracking and attribution problem. Right now you’re guessing, and guessing equals wasted spend. Before you even think about shutting anything off, understand that killing LSA or Google Ads without data is firing a sales rep because you feel they’re not closing. You need proof, not opinions. At a minimum, you should have unique tracking numbers for your Google Ads, Google Local Services Ads, and your website (organic), along with a call tracking system and proper tagging inside Jobber so every lead is accounted for. The reality is LSA only works if you answer calls live, book quickly, and consistently generate reviews. If you’re missing calls, letting them go to voicemail, or slow to respond, Google will simply stop sending you leads. On the Google Ads side, the fact that you said you’re getting leads but don’t know whether they’re coming from ads or your website is a major red flag. What’s likely happening is your SEO and Google Business Profile are doing the heavy lifting, while your ads are either cannibalizing traffic you would have gotten anyway or quietly underperforming. Until you start tracking key metrics leads per channel, cost per lead, close rate, and revenue per lead, you’re flying blind. Once you have that visibility, it becomes very clear what’s actually working, what needs to be cut, and where you should be doubling down.
+
+#### Reply 8
+
+**Author:** Rafa
+**Posted:** 2026-04-30
+
+Really valuable thread, glad I'm not the only one trying to make sense of this. I've been running something similar for a few months now. Separate landing pages per city, each with its own form, and every submission gets tagged automatically with the source. So I can tell pretty clearly what's coming from where. And honestly… almost nothing comes through the paid landing pages. Meanwhile the main organic page converts regularly, with no campaigns behind it. I'm not 100% sure what to make of it yet. Could be the landing pages, could be the offer, could be something about how cleaning customers actually behave when they find you through an ad versus finding you on their own. But it's got me wondering if the form is even the right ask for paid traffic in this type of service. Maybe they want to call. Maybe they go find you on Maps instead. Has anyone actually cracked form conversions from search campaigns in residential cleaning specifically? Or have most of you moved toward LSA for that reason? Genuinely trying to figure out the next move here.
+
+---
+
+## 17. When did you start leveling up your content?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-04-29
+**Views:** 25 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/when-did-you-start-leveling-up-your-content/10620
+
+### Content
+
+I've been thinking a lot lately about how I used to just record content in the moment, and how that worked for quite some time. Things have since grown and there seems to be more opportunity than before. I really don't want to keep figuring it out as I go. At what point did you realize you needed to level up the quality of your social media?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-29
+
+Honestly it's more about quantity than quality. It's about showing up for people consistently. I think it's more important to not lose your voice through your content by not having someone else do it for you. You just gotta find a style that you can manage the editing from. I'd pepper that in with a video person doing a produced video every couple months. I would say try to pay attention to what gets engagement and do more of that but not to put the pressure on yourself that every video needs to change the world. It's not that.
+
+---
+
+## 18. Building My Cultural High Tea / High Coffee Business — What Lead Tactics Work Best
+
+**Author:** desiretreats (Contributor 2)
+**Posted:** 2026-04-19
+**Views:** 69 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/building-my-cultural-high-tea--high-coffee-business-%E2%80%94-what-lead-tactics-work-bes/10350
+
+### Content
+
+Hi everyone, I’m Desiree — I’m currently building Desire Treats, a mobile High Tea & High Coffee fusion service inspired by African, Caribbean, and Latin culture. I’m based in Edmonton and still in the early stages, but a recent win for me was finalizing my Passport Menu and getting my mobile setup ready for private events and office bookings, with plans to expand into yacht‑style experiences and warm‑climate markets in the future. One thing that really shaped my business direction is my Passport Menu concept — offering destination‑inspired desserts paired with curated tea and coffee flights. Customers can explore different cultural flavors and collect digital stamps to unlock rewards. I’ll be expanding the Passport Menu with dishes as the business grows, and I’m also exploring partnerships with existing commercial kitchens to help me get started operationally. Long‑term, my goal is to take Desire Treats into Florida and eventually expand across warmer countries Mexico, Central America, and South America, where cultural fusion and outdoor experiences thrive. As I prepare to launch, I’d love to learn from others here: What lead tactics have brought you the highest‑quality clients for mobile or event‑based services (including higher‑end markets corporate events or yachts)? Referrals, partnerships, ads, community groups, or something else? I’m also shaping my business model to stay accessible. Long‑term, I want to create options that support people facing financial barriers while still maintaining consistent pricing and a sustainable service. My goal is to build a business that grows while helping others grow too. Appreciate any insights as I get ready to roll things out.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** michael090
+**Posted:** 2026-04-19
+
+Desiree — great concept. Your “Passport Menu” is the real hook, so focus on getting it in front of decision-makers, not the masses. Best tactics for high-quality clients: Partnerships (event planners, corporate offices, venues) they already have your buyers Referrals ask every happy client and make it easy/rewarding Invite-only tastings one good demo can land multiple bookings Skip broad ads early. Sell the experience, not just tea. Also, keep your brand premium first you can add accessibility later without weakening your positioning.
+
+#### Reply 2
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-23
+
+This sounds a really cool idea. Very unique and interesting. I wish you all the best and can't wait to hear some updates!
+
+#### Reply 3
+
+**Author:** roselvaggio
+**Posted:** 2026-04-29
+
+I always tell people who ask that networking has been the biggest game-changer for my high-ticket clients. Building those relationships and being out in the community (putting a face to a name!) has never steered me wrong. I joined a networking group 4 years ago and based on those relationships, they make up about 9% of our total revenue. Best of luck, I can't wait to hear more!
+
+---
+
+## 19. If you had to start all over again, what would you do to market your business?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-21
+**Views:** 82 | **Likes:** 2 | **Comments:** 4
+**URL:** https://community.getjobber.com/discussions/marketing-forum/if-you-had-to-start-all-over-again-what-would-you-do-to-market-your-business/10387
+
+### Content
+
+I had a fellow contractor from a networking group ask me this, and I didn't know how to answer. When I first started, Thumbtack was amazing but now that my prices are higher, it's not as effective. Google is obviously king but I'm still trying to figure out how effective the ads vs organic SEO really are. If you had to start all over again with limited funds, what strategy would you use? What allocation of funds would you do if you have multiple that you ?
+
+### Replies (4)
+
+#### Reply 1
+
+**Author:** arrowheadBC
+**Posted:** 2026-04-22
+
+I would brand my business as a single entity. just build decks or just frame houses. I messed up by doing all things. Now I stay busy but it's hard finding employees and skilled guys
+
+#### Reply 2
+
+**Author:** roselvaggio
+**Posted:** 2026-04-29
+
+We didn't have a GMB profile the first 4 years of operating. I would focus more on GMB and organic SEO. Once we realized this (4 years in), it changed the trajectory of our company. I would also spend more time building the brand identity because now we are rebuilding it :)
+
+#### Reply 3
+
+**Author:** judithvirag
+**Posted:** 2026-04-22
+
+BUILDER 1 Finding a great name for the business - not to my liking - but to google liking :)
+
+#### Reply 4
+
+**Author:** julie
+**Posted:** 2026-04-23
+
+JOBBER COMMUNITY TEAM to judithvirag Clean Club Calgary is ✨ iconic ✨ 🙌
+
+---
+
+## 20. Any of you - OVER automated? Where's the Line
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-25
+**Views:** 43 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/any-of-you---over-automated-wheres-the-line/10541
+
+### Content
+
+I was thinking about this as I'm reconfiguring our sales intake system. We are about to implement a system that will automate a lot of follow up and keep nudging people that haven't responded. I'm trying to do the same with email, and occasionally will send voice texts also. But when is it too much and you've lost the human touch? I definitely don't want to take the personality out of my business. Where have you drawn the line in your own business to keep the machine from running the whole thing?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-04-29
+
+I agree! We have automated so much using GHL and Zapier, but the actual scheduling is human (our office manager). We have even automated our jot forms after each appointment, but then also implemented a Client Success Specialist to reach out via call/text. Being in the home service industry, I am also looking into "emotional hospitality" training so that the human touch within homes is unforgettable. Unfortunately automation and AI are going to be as regular as the internet in these coming years and our consumers will value humanity over technology!
+
+---
+
+## 21. What advice do you have for starting a new service business?
+
+**Author:** rjackson1 (Contributor 2)
+**Posted:** 2026-04-20
+**Views:** 79 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-advice-do-you-have-for-starting-a-new-service-business/10368
+
+### Content
+
+Hi everyone! I'm Ryan with Jackson Site Services. Just starting out as a skid steer services business in Central Oklahoma and about to bid my first driveway install and maintenance contracts. What advice does anyone have for both just getting started and first jobs? What's the best advice you were ever given?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-21
+
+Congrats on taking your first and most important step ... just starting! When you first start out, you will probably need to be the best price to get money coming in and reviews on your GMB page. Once you get a good number of reviews, you can start to raise your prices. Early on, be an excellent communicator. Give daily updates, confirmation your team is on their way, take lots of pictures, and make sure to walk them through their project at the end. Then ask for a video testimonial. They will be more likely to give you that when you are small that. Best advise I ever got was to simplify my pricing. For us, we were spending a lot of time trying to figure out prices hourly. Just figure out your day rate per guy, then build your estimates based off of that. It will save you some time and a few head aches.
+
+#### Reply 2
+
+**Author:** JMBuck78
+**Posted:** 2026-04-22
+
+Hi I’ve been in the same type field as your starting now for over 20 years and the absolute best advice I can give you is always do what you say your going to do. Example if you tell a customer you’re going to show up at 8:00 in the morning, then show up at 8:00. If by chance you’re not going to make it by 8:00, then make a courtesy call. Another example, you tell a customer that you’re going to bring in two loads of stone for the driveway. Then by all means bring in two loads of stone. Telling a customer one thing and then doing another will be your worst enemy. Try not to promise more than you can deliver or even promising more than the job needs. When your trying to sell your business and yourself to a potential customer, it’s so easy to promise the world and that could definitely be the factor of getting the job but when you promise something and then do not follow up on that promise then your credibility goes out the window. So just do what you say you’re going to do and work hard and you will be okay. Thanks
+
+#### Reply 3
+
+**Author:** jasoncoai
+**Posted:** 2026-04-26
+
+One of the most critical steps when starting a new service business is ensuring your digital infrastructure is sound.Most new owners rely on 'rented land' Facebook or third-party platforms, but the true path to being found today is optimizing for AI systems. The wave of GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization) is coming.To be seen first by AI assistants ( ChatGPT or Gemini) when customers search for your services, you *need* to own your own website.At Chaotically Organized AI, we build raw HTML websites to ensure maximum speed and technical sovereignty so that your business is seen first. If anyone needs a website or a digital audit, feel free to message me.
+
+---
+
+## 22. Thinking about marketing systems like a Letter Boxed puzzle
+
+**Author:** hellench (Contributor 2)
+**Posted:** 2026-04-24
+**Views:** 22 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/thinking-about-marketing-systems-like-a-letter-boxed-puzzle/10499
+
+### Content
+
+Hi everyone, This is an interesting way of thinking about marketing it reminds me of the game Letter Boxed where you have limited letters around a square and the challenge is to connect them in the most efficient sequence possible. In a similar way marketing in Jobber often feels working within constraints: limited time, budget and attention multiple touchpoints that need to connect smoothly and the goal of turning scattered interactions into a clear customer journey What stands out in both cases is that success is not just about doing more it is about building efficient chains that reduce friction. For example strong systems often look : a simple but consistent follow up flow a reliable referral loop and a well optimised online presence that feeds everything else It feels less adding complexity and more finding the cleanest solution path through constraints. Curious how others here approach this do you ever think of your marketing setup as a kind of puzzle where the goal is to reduce steps and connect everything more cleanly?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-25
+
+I mapped out the customer journey, where leads come from, what happens and when, then addresses the friction points from then on. I used that diagram for different marketing companies so they can visually understand what's happening. I think this is probably the most valuable exercise I've done. I continually look at it too. Just to make sure it's still consistent.
+
+---
+
+## 23. Expertise is there, but how do we get the first KEC clients?
+
+**Author:** chris772 (Contributor 2)
+**Posted:** 2026-04-18
+**Views:** 46 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/expertise-is-there-but-how-do-we-get-the-first-kec-clients/10327
+
+### Content
+
+My husband has 3 years of Kitchen Exhaust Cleaning expertise, but we are new to the marketing side. As we launch Flores Pro Hoods, we need advice on: What’s the best way to get that first restaurant to say "yes"? Repeat Business: How do you keep them on a recurring schedule? Customer Happiness: What small thing makes a manager loyal to you for life? He knows how to do the work—I’m just trying to help him find it! Any tips for a new startup?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-04-22
+
+JOBBER COMMUNITY TEAM There are awesome questions to be asking early. Just a few thoughts to share: For your first few clients, start local and go direct. I would personally walk into restaurants, introduce myself and the business, and lead with the compliance angle. Most restaurants are legally required to have appliances cleaned on a schedule, so you're not selling them something extra, you're solving a real obligation they already have 🙌 For repeat business, lock in a service schedule from day one. And make it easy for them to say yes by offering a simple recurring plan. Customer happiness? Reliability and communication 100%. If you make the manager's life easy, you're several steps closer to a loyal client Best of luck! And let us know how your business journey is going, would love to follow along
+
+---
+
+## 24. Ask-an-Expert: FREE Google Business Profile Reviews. Is Your Profile Costing You Jobs?
+
+**Author:** PhilRisher (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 13 | **Likes:** 3 | **Comments:** 75
+**URL:** https://community.getjobber.com/discussions/marketing-forum/ask-an-expert-free-google-business-profile-reviews-is-your-profile-costing-you-j/9967
+
+### Content
+
+Your Google Business Profile (GBP) is often the first thing a customer sees, and most of them are losing jobs because of it without even knowing. Hey, I'm Phil Risher, business educator and owner of Phlash Consulting. I've spent years helping home service pros get found on Google and turn profile views into booked jobs, and this week, I'm here to help you do the same. From April 15 - 21, drop your GBP link in the comments, and I'll give you personalized feedback on: What's missing or hurting your visibility Quick wins that can turn more views into real leads How you can optimize your profile with Jobber Not sure if your profile is even the problem? Ask me anything! I'm here all week. Your next customer is already Googling. Let's make sure you show up! 🔻 Please note: Due to the high level of interest in this session, I may not be able to complete every review. I’ll do my best to get through as many as possible, prioritizing those submitted earliest. Thanks for understanding, and thanks for showing up in such a big way! (This post will be closed on April 21 at 5:00 pm MST)
+
+### Replies (75)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+Hey Phil, as someone who knows so little about this stuff, I would love for you to take a look at mine. I have hired a marketing company to push ads for me but I still only understand the absolute minimum of what they are doing. I'd love to know more about what I could be doing or what I could ask my marketing team to be doing! Thanks for doing this, what a great idea for Jobber to have you here for all of us. https://share.google/SE3189P8WPIffJD5X
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2026-04-10
+
+JOBBER COMMUNITY TEAM to PestFreeCanada Hey Daniel! Drop your Google Business profile link
+
+#### Reply 3
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to PestFreeCanada Hey PestFree Canada check out my review here: https://www.loom.com/share/d13da2889f1a4f37b1a09f16107d8d2b
+
+#### Reply 4
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-17
+
+to PhilRisher Hey Phil. Thank you so so much for doing this. Amazing! I can't say enough how much I appreciate it.
+
+#### Reply 5
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to PestFreeCanada sure thing
+
+#### Reply 6
+
+**Author:** beegonejunk
+**Posted:** 2026-04-09
+
+https://maps.app.goo.gl/RrECk5GPMuHd959C8?g_st=ic would love your feedback. Thanks!
+
+#### Reply 7
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to beegonejunk Hey Bee Gone Junk here is my review of your GBP https://www.loom.com/share/aefd662ed13047139abc5b151cd95a60
+
+#### Reply 8
+
+**Author:** Roger
+**Posted:** 2026-04-09
+
+Please check on mine https://share.google/LU4voaLaFTCFkplmZ
+
+#### Reply 9
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to Roger Hey Roger, good starting point, lots of areas to get more leads for your business from your great starting point! https://www.loom.com/share/7e78898eea254d3c80501ecc727e8ab1 If you want to discuss further, schedule some time here: https://phlashconsulting.com/contact-us/
+
+#### Reply 10
+
+**Author:** Roger
+**Posted:** 2026-04-18
+
+to PhilRisher crazy i just create the products yesterday! Keep in mind in your review you got another website mine is https://nwtreesinc.com/ is the same site as my google profile. Thanks!
+
+#### Reply 11
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to Roger Hey Roger want to make sure you saw this.
+
+#### Reply 12
+
+**Author:** noahg
+**Posted:** 2026-04-10
+
+Noah's Arc Welding- mobile welding and fabrication https://share.google/icMyPDXaigyHXheiJ
+
+#### Reply 13
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to noahg Hey Noah's Arc Welding, here is my gbp feedback: https://www.loom.com/share/8ebe0e199bbd4d8e9faf00cddb0255e7
+
+#### Reply 14
+
+**Author:** Jgoodnight
+**Posted:** 2026-04-10
+
+https://maps.app.goo.gl/34CjZaQpsDRaKRYHA?g_st=ic
+
+#### Reply 15
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to Jgoodnight Hey Goodnight Gutters. Here is a the quick feedback on your gbp https://www.loom.com/share/0561fbb6e0b44c6ebb11fc586bd1a378
+
+#### Reply 16
+
+**Author:** Humblehero
+**Posted:** 2026-04-10
+
+My website is designed by jobber - business profile on Google is good but can be better, please let me know humble hero solutions.com
+
+#### Reply 17
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to Humblehero Hey Humble Hero here is the feedback on your GBp: https://www.loom.com/share/baa64d045c204992ad28dab96cd106de
+
+#### Reply 18
+
+**Author:** Lemarc
+**Posted:** 2026-04-10
+
+https://share.google/cvEmxRnyxgj99wRmG
+
+#### Reply 19
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to Lemarc Hey LeMarc here is my feedback for you! Lots of opportunity here: https://www.loom.com/share/e3c423df4ef04d2fb0a61080a89490f1
+
+#### Reply 20
+
+**Author:** Lessentheloads
+**Posted:** 2026-04-11
+
+Very much lookin forward to hearing the feedback! Thanks so much Phil! https://share.google/EFtXYrhjVW9QhkvPb
+
+#### Reply 21
+
+**Author:** PhilRisher
+**Posted:** 2026-04-16
+
+to Lessentheloads Hey there here is my feedback! really great start: https://www.loom.com/share/f050c139fd3a43808220a621bf94b4de
+
+#### Reply 22
+
+**Author:** Greencollar
+**Posted:** 2026-04-11
+
+https://share.google/HIRg387U4oEfx1u0b
+
+#### Reply 23
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to Greencollar Hey Green Collar Services here is my feedback: https://www.loom.com/share/4bfc1988ea334f92aef31c35b9edf734
+
+#### Reply 24
+
+**Author:** nmluxe
+**Posted:** 2026-04-14
+
+Hi Phil, really appreciate you offering this, I could use your expertise on something a bit more urgent than optimization. Our Google Business Profile is currently locked/suspended, and it’s directly impacting our ability to generate leads. Here’s what we’ve already done: Submitted a reinstatement request multiple times Provided all requested legal documentation (LLC docs, insurance, etc.) Went through Google’s AI review process, still denied with no clear explanation Hired an Upwork expert who escalated via the Google Business Community — no resolution At this point, we’re stuck in a loop with no visibility into why we’re being denied or what specifically needs to be corrected. We’re a legitimate, locally owned residential & commercial cleaning company operating in Florida, and we can't collect reviews or advertise because of this issue. My ask: Have you seen this situation before where everything is submitted correctly but still denied? Is there a way to escalate beyond the standard reinstatement process or trigger a manual review? Are there specific red flags (address, service area setup, categories, etc.) that commonly cause this that we should revisit? Happy to share our profile link or details if that helps. Appreciate any direction you can provide — this is a major bottleneck for us right now.
+
+#### Reply 25
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to nmluxe yes https://www.loom.com/share/cda96b1a84c74e45ba7a53c6bae718ee
+
+#### Reply 26
+
+**Author:** nmluxe
+**Posted:** 2026-04-18
+
+to PhilRisher thanks phil appreciate the review and guidance 🙏
+
+#### Reply 27
+
+**Author:** b4whatley
+**Posted:** 2026-04-15
+
+Thank you for this Phil! I would appreciate your feed back and suggestions! https://www.google.com/search?q=Whatley+Solutions&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQsxMjI0MzM1ajBqN6gCCLACAfEF52uVC3beZKvxBedrlQt23mSr&sourceid=chrome&ie=UTF-8
+
+#### Reply 28
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to b4whatley here is my feedback: https://www.loom.com/share/351f1a1598794d69add4370a7ddb2056 lots of opportunity here! happy to talk more about how to grow your business: https://phlashconsulting.com/contact-us/
+
+#### Reply 29
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to b4whatley hey there just want to make sure you saw this :)
+
+#### Reply 30
+
+**Author:** besttexgardens
+**Posted:** 2026-04-15
+
+Best Tex Gardens https://share.google/J4hGX700qd5UuCEuB
+
+#### Reply 31
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to besttexgardens hey there here is my feedback https://www.loom.com/share/a48807515fdd49e285353ef89a1f1b1c
+
+#### Reply 32
+
+**Author:** ArrowsFour
+**Posted:** 2026-04-15
+
+https://share.google/gj5YEXxlKPwOU9o0y
+
+#### Reply 33
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to ArrowsFour Hey guys here is my feedback: https://www.loom.com/share/7a17c4714ddf44c8aa1ec874b045c0a7
+
+#### Reply 34
+
+**Author:** EpicCleans87401
+**Posted:** 2026-04-15
+
+Hi thank you so much for offering this I was just talking about how I needed so on-site on GBS this morning I hope you can get to mine! THANK you Jeannie Schiess Epic Cleans LLC https://maps.app.goo.gl/ceYwLLQaD1qqXGJj8?g_st=ic
+
+#### Reply 35
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to EpicCleans87401 here is my feedback: https://www.loom.com/share/df6d1d39bb2b4d63bf85d4d960826a45
+
+#### Reply 36
+
+**Author:** rubenvargas
+**Posted:** 2026-04-15
+
+https://share.google/KDAOxXEa49pnqmuiK
+
+#### Reply 37
+
+**Author:** PhilRisher
+**Posted:** 2026-04-17
+
+to rubenvargas lots of opportunity here: https://www.loom.com/share/3bad6bb81a8748ed8f527a6958037024 would love to talk more about your business and see if we can help you grow: https://phlashconsulting.com/contact-us/
+
+#### Reply 38
+
+**Author:** Whiteway
+**Posted:** 2026-04-16
+
+https://share.google/yTAJaY1OonBDFw6Im Thanks for doing this. Very interested in hearing what you think! Much appreciated
+
+#### Reply 39
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to Whiteway here is my feedback: https://www.loom.com/share/b15ba57bc38748ebbf55e6990d98ee8f
+
+#### Reply 40
+
+**Author:** sunshineokc
+**Posted:** 2026-04-16
+
+Hey Phil, thanks for any insights you can share! https://share.google/TSDeeST9Uq3rySXEM
+
+#### Reply 41
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to sunshineokc here is my feedback: https://www.loom.com/share/98c391c389b34a6cbf99cd86a07ad7c9 happy to hop on a call and show you more in depth if its helpful: https://phlashconsulting.com/contact-us/
+
+#### Reply 42
+
+**Author:** angeloofgrynpad
+**Posted:** 2026-04-16
+
+Hi Phil! I am new here and would love to be considered for a review and thank you so much for doing this. Link: https://maps.app.goo.gl/gfZLZaVKgGwTQiyM8 All the best and thank you!
+
+#### Reply 43
+
+**Author:** PhilRisher
+**Posted:** 2026-04-18
+
+to angeloofgrynpad here is my feedback: https://www.loom.com/share/10a1142352f746d592dc2f7c2971c34f
+
+#### Reply 44
+
+**Author:** angeloofgrynpad
+**Posted:** 2026-04-18
+
+to PhilRisher Hi Phil! First of all, thank you again for doing this! Appreciate the time and effort you poured into looking into our website. We have noted the points for improvement on our website and for GBP you have mentioned. We just had a rebrand and overhaul of the website so we'll be addressing these improvements soon. Let us know how we can help you in return of your favor. Again, appreciate all you've done for us and for the rest here that took your offer. All the best!
+
+#### Reply 45
+
+**Author:** supremeroooterp
+**Posted:** 2026-04-16
+
+Hey Phil, hope you’re doing well. I saw you offer Google Business Profile reviews—would you be able to take a look at ours and give us some feedback? I’d really appreciate it. Google Business Profile link: https://share.google/a2nFPs2XScYItkOwc
+
+#### Reply 46
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to supremeroooterp Hey Supreme here is my audit: https://www.loom.com/share/e76d00b890bc4f2e87fe2557d8725258 lots of opportunity to grow here! happy to hop on a call and show you other strategies: https://phlashconsulting.com/contact-us/
+
+#### Reply 47
+
+**Author:** Bincleanit
+**Posted:** 2026-04-16
+
+https://share.google/BQfwuzKo8PWXMBY8J
+
+#### Reply 48
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to Bincleanit hey there here is your audit: https://www.loom.com/share/fdbf582320ee47c4b6ff8f7ab713720a
+
+#### Reply 49
+
+**Author:** MeganAlbrecht
+**Posted:** 2026-04-17
+
+Hi Phil! Thank for providing this opportunity. We're always looking for feedback. https://share.google/qmZ7FM2on5KPHj8cA
+
+#### Reply 50
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to MeganAlbrecht Hey Megan here is my feedback: https://www.loom.com/share/b358fc7247af405fa0b80f853ccc8e95
+
+#### Reply 51
+
+**Author:** blackshieldlabs
+**Posted:** 2026-04-18
+
+blackshield-labs.com
+
+#### Reply 52
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to blackshieldlabs hey there was not able to locate a google business profile for you. If you have one can you share it here please
+
+#### Reply 53
+
+**Author:** bluepelicanpool
+**Posted:** 2026-04-20
+
+Thanks for providing an outside look. I’ve been in business for years now but mainly worked off of referrals and am working on building a better representation of what my current customers say in person. Blue Pelican Pools https://share.google/UHzMHpLAOVuVMdqZa
+
+#### Reply 54
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to bluepelicanpool Hey there here is your audit: https://www.loom.com/share/9160c4e42b4e40a38ba2d6053fe916f9
+
+#### Reply 55
+
+**Author:** bluepelicanpool
+**Posted:** 2026-04-21
+
+to PhilRisher That is extremely helpful and gives me great action items to move on. Thank you for taking the time.
+
+#### Reply 56
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to bluepelicanpool sure thing
+
+#### Reply 57
+
+**Author:** Sahaj
+**Posted:** 2026-04-21
+
+Hi Phil, this is such a generous offering, thank you! We are Brighter Space Cleaning Co in Ottawa, Canada. Our Google link: https://g.page/r/Ce7lqyt6UPncEAE/review
+
+#### Reply 58
+
+**Author:** PhilRisher
+**Posted:** 2026-04-21
+
+to Sahaj Hey there here is your audit: https://www.loom.com/share/2df89174a441474783c3f37da268dac8
+
+#### Reply 59
+
+**Author:** GoldenRays
+**Posted:** 2026-04-21
+
+Hey Phil, I'd love for a review of mine. Looking for what I can do to make it stronger and some tips and tricks on how to manage it better. Thanks! https://share.google/JO8NOTR8Ii6NTjj6w
+
+#### Reply 60
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to GoldenRays hey Golden Rays, here is my audit: https://www.loom.com/share/2153604af63846a5af2c8c92563bcc15
+
+#### Reply 61
+
+**Author:** BLaflammeWeldin
+**Posted:** 2026-04-21
+
+Good afternoon, I can’t seem to get my business page on google as a gbp and I would the help if possible.
+
+#### Reply 62
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to BLaflammeWeldin all good whats your website or business name?
+
+#### Reply 63
+
+**Author:** hshoosier
+**Posted:** 2026-04-21
+
+https://share.google/cAnZMAnYnFt5PtLiD Here is our link (I think I did it correctly. Please let me know if I didn't) Thank you!
+
+#### Reply 64
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to hshoosier Hey guys here is my feedback: https://www.loom.com/share/826d4eb5854343589351a07616156ed8
+
+#### Reply 65
+
+**Author:** hellench
+**Posted:** 2026-04-22
+
+Hi Phil, Really appreciate you offering this super helpful for small business owners trying to improve their visibility on Google. Here’s my Google Business Profile link insert GBP link here I would be grateful if you could take a look and let me know: What’s holding it back from ranking better locally Any quick improvements I can make for more calls/leads Whether my categories and services are properly optimized Also curious if you see any common mistakes most home service businesses overlook when setting up GBP. Thanks again for doing this looking forward to your feedback!
+
+#### Reply 66
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to hellench hey there I do not see your link in here.
+
+#### Reply 67
+
+**Author:** Full-spectrum
+**Posted:** 2026-04-22
+
+Hello phill any feedback on my google page would be great im a new company and my google has only been up about a month. https://maps.app.goo.gl/MaSnbfubp3U5JyzR8https://maps.app.goo.gl/MaSnbfubp3U5JyzR8
+
+#### Reply 68
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to Full-spectrum here is my feedback: https://www.loom.com/share/ccc883aa5fc046fc9051b3f132690590
+
+#### Reply 69
+
+**Author:** Full-spectrum
+**Posted:** 2026-04-22
+
+to PhilRisher Great advice, thank you, Phill!
+
+#### Reply 70
+
+**Author:** Full-spectrum
+**Posted:** 2026-04-22
+
+to Full-spectrum https://www.google.com/search?q=full+spectrum+outdoor+landscaping&client=ms-android-tmus-us-rvc3&hs=NrP&sca_esv=d42760043365d063&sxsrf=ANbL-n4yQ-SxHF_a79-5vhAXl5DSv_B0aA%3A1776779782566&ei=BoLnacOcIs2n0PEPzYjOqQg&biw=384&bih=695&oq=full+spectrum+outdoor+land&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhpmdWxsIHNwZWN0cnVtIG91dGRvb3IgbGFuZCoCCAAyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBUj4KlDqCVifFnABeAGQAQCYAaEBoAHOBaoBAzAuNbgBAcgBAPgBAZgCBqAC_QXCAgoQABiwAxjWBBhHwgIaEC4YsAMY5QQY2AIYuAYYyAMY2gYY3AbYAQHCAhoQLhiwAxjlBBi4BhjYAhjIAxjaBhjcBtgBAcICFxAuGLADGLgGGNgCGMgDGNoGGNwG2AEBwgILEAAYgAQYkQIYigXCAgYQABgWGB7CAgsQABiABBiGAxiKBZgDAIgGAZAGDroGBAgBGBmSBwMxLjWgB88isgcDMC41uAf5BcIHBTItNC4yyAcsgAgA&sclient=mobile-gws-wiz-serp#ebo=0
+
+#### Reply 71
+
+**Author:** ChrisPlumb
+**Posted:** 2026-04-22
+
+Hey Phil here’s my profile not sure if you can get to it but would love your thoughts. Also I am in the process of changing the address to an office I just rented so any advice for a smooth transition on that front? https://g.page/r/CcWgUe77d3z_EBM/review
+
+#### Reply 72
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to ChrisPlumb here is my feedback: https://www.loom.com/share/e39dce14b1eb430a97630d4e87af9f8c
+
+#### Reply 73
+
+**Author:** redrockes
+**Posted:** 2026-04-22
+
+Would love your honest feedback! https://share.google/Sqc2NWh0DeWPdAB8E
+
+#### Reply 74
+
+**Author:** PhilRisher
+**Posted:** 2026-04-22
+
+to redrockes hey there here is my feedback: https://www.loom.com/share/cc2454e60e7e4876915fb41454405792
+
+#### Reply 75
+
+**Author:** JakobM
+**Posted:** 2026-04-22
+
+Hey Phil, might be a bit late to this but thought id drop mine here for my newish epoxy flooring business. Thanks! https://share.google/xDgJDnKLinkA6Lgmg
+
+---
+
+## 25. What information did you get from you Google Profile review?
+
+**Author:** PestFreeCanada (Contributor 5)
+**Posted:** 2026-04-17
+**Views:** 29 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-information-did-you-get-from-you-google-profile-review/10279
+
+### Content
+
+First off thank you Jobber and Phil for doing this. What an amazing thing for you guys to do for us. For those of you who got a review, what did you learn about your profile to strengthen it? I hope we can all compile here and we can all read through and make our GBP that much stronger! I learned that I for sure need more photos on there and I need to link my social media pages.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 26. What are the best ways to market a cabinet painting business on a budget?
+
+**Author:** DenverPainter12 (Contributor 2)
+**Posted:** 2026-04-15
+**Views:** 68 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-the-best-ways-to-market-a-cabinet-painting-business-on-a-budget/10192
+
+### Content
+
+For years I have relied on mostly flyers and word of mouth for my general interior/exterior paint contracting business, I'm starting another off-shoit company to specialize in cabinet painting, given the more specific nature of my targeting is there more efficient ways to advertise my services and grow my brand while being somewhat cost efficient?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-04-15
+
+JOBBER COMMUNITY TEAM Congrats on starting a second company! If not already, I would first set up a Google Business Profile account and use keywords "cabinet painting [your city]" in your description. People searching "cabinet painters near me" have a higher chance of finding your GBP before your website. Another easy and cost effective strategy is post before and after content on your instagram, facebook, and local facebook groups. (Could even offer a "first job discount" to get your foot in the door. And add a referral incentive for those customers. A few other ideas that come to mind are to offer your painting services as an add-on with your general interior/exterior services + partner with adjacent trades kitchen renovators, realtors, and interior designers. Sending you the best of luck!
+
+#### Reply 2
+
+**Author:** michael090
+**Posted:** 2026-04-15
+
+Best single move: run highly targeted Google Ads just for “cabinet painting + your city” with a strong before/after portfolio and call tracking it captures people already searching, and I’d be happy to work with you to set this up properly so you’re not wasting spend.
+
+#### Reply 3
+
+**Author:** Steve-Timber
+**Posted:** 2026-04-16
+
+Was curious if anyone has actually had any solid leads with Google ads or if it was just bots.
+
+---
+
+## 27. Has anyone landed a customer from showing up in an AI search result?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-04-15
+**Views:** 24 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/has-anyone-landed-a-customer-from-showing-up-in-an-ai-search-result/10191
+
+### Content
+
+JOBBER COMMUNITY TEAM If you've gotten a new customer after showing up in AI search tools ChatGPT, what do you think is driving it? Your 5-star reviews? Your site? Something else? In this episode of Masters of Home Service, PhilRisher​ talks about: How AI search decides which service companies to recommend The 7 steps to rank higher in AI search Why your content and online presence matter more than ever Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Want to put these tips into action? Download the 7-step AI search checklist for this episode. Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 28. Effective Marketing Campaigns?
+
+**Author:** julie (Jobber Community Team)
+**Posted:** 2025-05-08
+**Views:** 31 | **Likes:** 7 | **Comments:** 22
+**URL:** https://community.getjobber.com/discussions/marketing-forum/effective-marketing-campaigns/32
+
+### Content
+
+JOBBER COMMUNITY TEAM Can you share a successful marketing campaign or promotion that significantly boosted your business visibility and sales?
+
+### Replies (22)
+
+#### Reply 1
+
+**Author:** ryaantuttle
+**Posted:** 2025-05-08
+
+We leveraged Jobbers new marketing tool and ran email campaigns to sign people up for our monthly maintenance program and were able to sign-up (2) new customers with the click of a mouse!
+
+#### Reply 2
+
+**Author:** julie
+**Posted:** 2025-05-08
+
+JOBBER COMMUNITY TEAM to ryaantuttle That's awesome to hear! It's amazing how powerful email campaigns can be, especially with the right tools.
+
+#### Reply 3
+
+**Author:** Stapleton
+**Posted:** 2025-05-08
+
+to ryaantuttle I wish that in my first 2 seasons i would have thought to take email information. Is there anyway for me to have access to a list of local business emails? Or do i have to do it old school and search for each one individually? The goal would be to fast track this process and send out a massive email campaign.
+
+#### Reply 4
+
+**Author:** Handyman111
+**Posted:** 2025-05-08
+
+Locally if you utilize the app next door it helps tremendously for service workers
+
+#### Reply 5
+
+**Author:** Dreadist
+**Posted:** 2025-05-08
+
+to Handyman111 How do you manage to do it on nextdoor? I got silenced for 48 hours because of "spam" lol even though it says in their terms I can advertise my business on the feed
+
+#### Reply 6
+
+**Author:** kbeaty
+**Posted:** 2025-05-08
+
+to Dreadist Are you using a business account or personal account?
+
+#### Reply 7
+
+**Author:** ryaantuttle
+**Posted:** 2025-05-08
+
+to Handyman111 I've heard the same, too!
+
+#### Reply 8
+
+**Author:** ELCSavannah
+**Posted:** 2025-05-08
+
+The best things we have done have been by using word of mouth and credits for current clients. Teaming up with local vendors and companies doing community events. Also by using google reviews to push out more client engagement seeing that we have a high ranking there.
+
+#### Reply 9
+
+**Author:** julie
+**Posted:** 2025-05-08
+
+JOBBER COMMUNITY TEAM to ELCSavannah Love how you're combining word of mouth with community events and Google reviews. Do you find teaming up with local vendors has boosted your visibility in a big way? Would be great to hear more about your approach!
+
+#### Reply 10
+
+**Author:** Chris
+**Posted:** 2025-05-08
+
+Once a week, I pull a "Job Follow-up email report" from Jobber's Clients reports. We filter out all of the clients who rated us 10's and do a microsoft word mail merge with a template I created that points those clients straight to our google review page via a hyperlinked picture of a button. Doing this has helped us capture more google reviews.
+
+#### Reply 11
+
+**Author:** ShlomoS
+**Posted:** 2025-05-08
+
+Networking within our national industry association has served us very well. we have picked up so many clients referred t us from collogues out of state.
+
+#### Reply 12
+
+**Author:** AidenStrehle
+**Posted:** 2025-05-08
+
+to ShlomoS How did you guys pick up a national industry association? This seems a great idea I'd to get apart of.
+
+#### Reply 13
+
+**Author:** BadgerHauling
+**Posted:** 2025-05-08
+
+Being active in the community! Most community orgs have massive followers. I have picked a few that I am passionate about their cause. Participation in community and non-profit events is a great way to get your name out there. Be consistent! It builds trust.
+
+#### Reply 14
+
+**Author:** BadgerHauling
+**Posted:** 2025-05-08
+
+We ran a check in campaign in Jobber and within 24 hours we closed 1 sale and reengaged with 2 more clients! Love it
+
+#### Reply 15
+
+**Author:** David_Moerman
+**Posted:** 2025-05-08
+
+We had great success running our email campaign through Jobber Campaigns!
+
+#### Reply 16
+
+**Author:** kbeaty
+**Posted:** 2025-05-08
+
+If you are looking for ideas to incorporate into your marketing, I highly suggest - marketingexamined.com I use it to spark ideas and/or for structure in certain cases.
+
+#### Reply 17
+
+**Author:** ApexTreeCompany
+**Posted:** 2025-05-08
+
+Great Question, Last year we invested in locally focused SEO services with Kilvington Digital Marketing, they have provided a consistent ROI of over 800% month over month. Highly recommend SEO with a good partner that knows what they are doing. We are a small 2 man team that now is booked out a month in advance every month and through Jobber we are actually able to see the convertibility of those leads, close to 85% every month with one month being at 100% conversion of leads in. Quality leads that convert, no better spend.
+
+#### Reply 18
+
+**Author:** julie
+**Posted:** 2025-05-08
+
+JOBBER COMMUNITY TEAM to ApexTreeCompany Wow, that’s an incredible success story—an 800% ROI and 85-100% lead conversion is no small feat! 🎉 It’s amazing to hear how locally focused SEO and the right partner Kilvington Digital Marketing helped you grow as a two-person team. And seeing those conversions through Jobber? Even better! Thanks for sharing your experience—it’s super inspiring for others looking to maximize their marketing efforts. 🙌
+
+#### Reply 19
+
+**Author:** Jeff
+**Posted:** 2025-05-08
+
+Marketing can be easy, just know that you are your own cheerleader and no one can promote you better then YOU. Be the lead don't pay for leads. I'm not saying paying for leads is a bad thing, but if you don't have a system in place to make those leads into 3, then 9 then 27 than most likley your not going to level up very well. Our course specially designed for electrical contractors works just as well for HVAC, PLUMBER etc. www.The360Electric.com Combine that with CRM and Jobbers marketing tool and you have covered traditional to digital marketing. Go from zero to 360 faster
+
+#### Reply 20
+
+**Author:** RonnieMarketing
+**Posted:** 2025-05-08
+
+The marketing strategy that works for most local business includes website SEO, Google Maps along with Google Ads. This is the same strategy to we utilize to help our clients grow their business by 2X over the course of 12-16 months. You can also include email marketing to retarget previous clients which is another great strategy with a great ROI.
+
+#### Reply 21
+
+**Author:** CitadelRoofers
+**Posted:** 2025-05-08
+
+Hey Julie— we partnered with a “growth partner” and get access to direct call leads now which has been huge. We only pay for qualified calls from homeowners instead of ads, ad managers, form leads, chasing people down, direct mail, word of mouth etc
+
+#### Reply 22
+
+**Author:** POHServices
+**Posted:** 2026-04-13
+
+This may seem a bit old school, but joining the local Chamber of Commerce is a quick way to join an existing community of local vendors in your field and laterally similar fields. They tend to host business boosting events for tradesmen. This especially helps if you have the type of personality to market yourself.
+
+---
+
+## 29. Content Creation - what has worked for you?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-04-10
+**Views:** 65 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/content-creation---what-has-worked-for-you/10017
+
+### Content
+
+In Q1 - I made it a goal to start recording content for our social media pages. Any tips/tricks for a newbie?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** Moly
+**Posted:** 2026-04-10
+
+JOBBER COMMUNITY TEAM As someone who's worked in social for more than a decade and talked to a lot of small business owners about it, my #1 piece of advice is to figure out what kind of content you can make that's 'easy' and not super time intensive. When you first start out every post will take a good amount of time, but working on something for hours or days and then having it fall flat (bc social is so volatile!) will be really demotivating and there's so much risk you'll give up! Assuming you're making content to reach new customers, I would think of 2-3 post 'types' you can easily make and post 2-3x a week, even 1x a week to start would be a win if you can be consistent. A couple ideas I have as a potential customer of yours: Show me behind the scenes: A quick 30-60 second selfie style video explaining things - Wonder what the different coloured wires mean? What different voltages mean What you shouldn't plug into a regular plug What power surges mean for your electronics and how to prevent them Remember to ALWAYS start with a hook. The first 2-3 seconds are most important (the sentences above would be hooks you could use to intro each video) Before and after photos or progress photos to remind me what I can hire you for in case I have something lingering on my to-do list: Carousels (multiple photos you swipe through) are being pushed on Instagram and TikTok right now, so you could show the start of a job, a photo during, a photo at the end. And put some simple text on the photo explaining what I'm seeing. Customer testimonials/reviews laid on top of a photo (photo could be of a worksite, an overhead shot of your tools, etc.) Good luck and have fun!
+
+#### Reply 2
+
+**Author:** jrselectric
+**Posted:** 2026-04-10
+
+to Moly This was so so helpful!! Thank you so much for this valuable information. Who would’ve thought 5+ years ago we’d need to be content creators too!!
+
+#### Reply 3
+
+**Author:** roselvaggio
+**Posted:** 2026-04-10
+
+I am an amateur with marketing but I have found some luck on tiktok in the last year (+3000 followers in 9 months!). The first 3 seconds needs to grab the attention of your ideal viewer. Videos that surpass 40-ish seconds don't perform as well because viewers want punchy and to the point. From a business standpoint, our clients love seeing the team behind the scenes, it invokes emotion and familiarity within our brand. Raw content versus stock imagery will always outperform! Create a spreadsheet or a calendar with days of the week and what you're attempting to provide (education, humor, celebrations, announcements, etc.) Hope this helps!
+
+---
+
+## 30. What offer(s) do you use to seal the deal?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-04-08
+**Views:** 23 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-offers-do-you-use-to-seal-the-deal/9973
+
+### Content
+
+JOBBER COMMUNITY TEAM What offer actually wins you jobs? Discounts, guarantees, referral credits—what's working for you? In this episode of Masters of Home Service, Savannah Revis breaks down: How to make your offer easy to say yes to Building your offer around customer pain points Backing your offer with real numbers (not guesswork) Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 31. How to generate revenue during the slow winter season?
+
+**Author:** AmberATF (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 64 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-generate-revenue-during-the-slow-winter-season/9852
+
+### Content
+
+Hey everyone! I work for a fence installation company in Michigan. We typically have to layoff our workers from around January to March, not solely due to a lack of work as we have the ability to install all year round, but due to a lack of cash flow as the work is typically slower and smaller, less profitable jobs. This year I'm trying to be proactive (my first year GM'ing here) by establishing a savings account but we're looking at other possible sources of revenue through the winter that may help us stay busy and lessen the chance of layoff. Plowing is off the table because there's too many other companies around here doing that as well as our trucks not being able to handle the wear and tear. We've considered dock building, making signs, or powder coating but we're just not sure that those would actually help bring in cash through the winter. I was just wondering if anyone else has some ideas that worked for them or might work for a fence company? Thank you! :)
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 I have heard of a landscaping business that they do small renovations in the winter time to keep revenue but more importantly to keep full time employees rather than seasonal.
+
+#### Reply 2
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+Yes, Handyman services are HUGE right now with the ageing population. I know a deck builder here in Toronto that is keeping his guys busy with small repairs, installations and even 1-2 larger jobs throughout the winter. This does require a specific skillset but if you can leverage that you'll do well!
+
+#### Reply 3
+
+**Author:** julie
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM Hey Amber, love that you're thinking proactively about this in your first year as a GM. I found a few links that might be helpful for your situation! Master of Home Service podcast episode called Navigate The Off-Season With Confidence What Do Landscapers Do in the Winter? 19 Fall & Winter Landscaping Services to Keep a Steady Income (landscape specific BUT not limited to!) 22 Best Seasonal Business Ideas for Aspiring Entrepreneurs
+
+---
+
+## 32. Crash Reconstruction: A Critical Field Service for Truth and Safety
+
+**Author:** Crodymi (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 49 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/marketing-forum/crash-reconstruction-a-critical-field-service-for-truth-and-safety/9882
+
+### Content
+
+Crash reconstruction may not be the first service people think about, but it plays an important role in safety, accountability, and helping people move forward after serious vehicle incidents. At Crodymi LLC, I provide mobile crash investigation support, vehicle black box/EDR data retrieval, diagnostics, and forensic analysis to help determine what happened in a collision. That work can help attorneys, insurers, businesses, and individuals make informed decisions based on evidence rather than guesswork. What I value most about this field is that it combines hands-on technical work, problem-solving, and service. Sometimes that means traveling to inspect a vehicle, preserving critical data, documenting evidence, or helping explain complex findings in a way clients can understand. In many cases, accurate reconstruction can make a real difference in resolving disputes, improving safety awareness, and supporting fair outcomes. I would love to connect with other Jobber community members who provide field-based or technical services. What are some of the biggest challenges you face in building trust with clients when your work is highly specialized?
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+That sounds a really interesting career not most people would think of. What got you into that?
+
+#### Reply 2
+
+**Author:** Crodymi
+**Posted:** 2026-04-08
+
+What got me into it was a mix of public service, investigation, and a genuine interest in figuring out how things happen. I spent years in law enforcement working in accident investigation and reconstruction, and over time I realized how much good, evidence-based analysis can do for people after a serious crash.What really kept me in the field is that it sits at the intersection of technology, problem-solving, and service. Every case is different, and the work can involve scene evidence, vehicle damage, black box/EDR data, diagnostics, and human factors. I enjoy being able to turn complex information into clear findings that help clients, attorneys, insurers, and others make informed decisions.
+
+---
+
+## 33. Automation to extract job photos from "closed" jobs.
+
+**Author:** BHS (Contributor 3)
+**Posted:** 2025-08-08
+**Views:** 443 | **Likes:** 0 | **Comments:** 12
+**URL:** https://community.getjobber.com/discussions/marketing-forum/automation-to-extract-job-photos-from-closed-jobs-/5256
+
+### Content
+
+I want to extract our "closed" job photos via automation so we can repurpose those for SMM, GBP Post, and other marketing activities. Does anyone have any experience with this that they could share?
+
+### Replies (12)
+
+#### Reply 1
+
+**Author:** techguysimon
+**Posted:** 2025-08-08
+
+Exactly! With all of the integrations at your disposal in Zapier and their AI features sky is the limit once we get the data exported.
+
+#### Reply 2
+
+**Author:** BHS
+**Posted:** 2025-08-08
+
+techguysimon​ You've got me very excited about the possibilities. I'll DM you to discuss working together further.
+
+#### Reply 3
+
+**Author:** techguysimon
+**Posted:** 2025-08-08
+
+to BHS BHS​ Awesome! I look forward to working with you!
+
+#### Reply 4
+
+**Author:** techguysimon
+**Posted:** 2025-08-08
+
+Hey BHS​ , I’ve tackled similar projects and can whip up a custom Zapier integration with Jobber to seamlessly extract those photos and stash them in a Google Drive folder for your marketing magic! It’s a step up from the default integration, unlocking the photos with a simple short flow. If Zapier isn’t your vibe, I’ve also built similar integrations running code on cloud providers AWS, Google Cloud, & Cloudflare. Hit me up if you want to dive into the details!
+
+#### Reply 5
+
+**Author:** BHS
+**Posted:** 2025-08-08
+
+to techguysimon Thanks for the . So, if I'm understanding this correctly, it's doable, and if I use Zapier, then that would allow me to create other downstream Zaps to further automate my desired workflow?
+
+#### Reply 6
+
+**Author:** Aswath
+**Posted:** 2025-08-08
+
+to BHS BHS​ Here, In the zap, you should still write code graphql api to extract the photos and then send downstream
+
+#### Reply 7
+
+**Author:** techguysimon
+**Posted:** 2025-08-08
+
+to Aswath Aswath​ This is exactly with the custom integration action that I'm talking about does.
+
+#### Reply 8
+
+**Author:** risingphoenix
+**Posted:** 2026-04-08
+
+to techguysimon I would love to use this automation! What do you need from me?
+
+#### Reply 9
+
+**Author:** AswathVeersoft
+**Posted:** 2026-04-08
+
+to risingphoenix After extraction of the photos, what do you do further. Do you do further downstream integrations? If so with what ?
+
+#### Reply 10
+
+**Author:** JobCapturePro
+**Posted:** 2026-05-02
+
+Hey guys, I'm curious if you all have figured out a straightforward way to do this! Looking to build a integration flow for our software that takes those job photos to create Check-ins that post automatically to the website posting/GBP posting/social.
+
+#### Reply 11
+
+**Author:** BHS
+**Posted:** 2026-05-04
+
+to JobCapturePro API+Zapier
+
+#### Reply 12
+
+**Author:** Mohamed_Ch
+**Posted:** 2026-05-04
+
+I’ve built similar flows with Jobber using API/Zapier and n8n, an "open source automation tool", to automatically pull photos from closed jobs and store them in Google Drive or cloud storage for reuse in GBP posts and social media. It’s definitely doable with a clean integration layer if the data access is set up correctly.
+
+---
+
+## 34. How To Track Commission Plans in Your Business for Jobber
+
+**Author:** Daichi (Contributor 4)
+**Posted:** 2025-11-08
+**Views:** 136 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-track-commission-plans-in-your-business-for-jobber/7344
+
+### Content
+
+Hi Everyone, I run a lawncare/landscaping business and more recently started Crew Insight (A Jobber marketplace App). Right now, the app is focused on KPI's and metrics but many of our users have asked about commission tracking. We've built out a small MVP and a waitlist to see how we can prioritize features and the roll out. I'd love to hear what types of commission plans people have right now, and how they're tracking it. We want to make it simple to build out your commission plan, track the calculations, and give your employees a real time view into their performance. If anyone's interested in chatting or signing up for the beta, you can do so here: https://crew-insight.com/waitlist
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** winnovations
+**Posted:** 2026-04-19
+
+Daichi, huge respect for what you're building with Crew Insight. We’ve seen a lot of users struggling with that exact bridge between Jobber and real-time performance tracking. While you’re tackling the MVP for commissions, we’ve been deep-diving into the 'Data Integrity' side—specifically fixing the tax rounding issues in QuickBooks/Xero and adding a GPS Audit layer to verify those productivity metrics you track. I’d love to chat about how our financial stability layer could potentially feed cleaner data into your KPI engine. There’s a lot of room for us to solve the 'Excel nightmare' together for the community.
+
+---
+
+## 35. Putting in the work, but no clients yet. What would you do in my shoes?
+
+**Author:** jose-miami (Contributor 3)
+**Posted:** 2025-07-08
+**Views:** 13 | **Likes:** 11 | **Comments:** 28
+**URL:** https://community.getjobber.com/discussions/marketing-forum/putting-in-the-work-but-no-clients-yet-what-would-you-do-in-my-shoes/4371
+
+### Content
+
+I recently started my pool service business here in Miami. I’ve been working hard to get it off the ground, created a clean competitive website, post regularly on social media, and even hand out handwritten cards door to door. But despite all that, I’m still struggling to find clients. I know the pool industry is highly competitive here. For those of you with more experience, what helped you get customers early on? Thanks in advance 🙏 Also, if you're in Miami and ever want to connect in person, I’d be happy to meet up and exchange insights. You can find my contact info on my website: https://sapphirepools.co globalsvcs 9 months ago I completely understand how you're feeling. I’ve been there myself. In the cleaning industry, I marketed hard and still saw little return at first. What started to shift things for me was developing a personable elevator pitch and putting myself in places where I could genuinely connect with people, local Chamber of Commerce events, festivals, Wine after Dark, and any setting that allowed for real conversations. Truth be told, when you’re in those types of settings, the first question that usually comes up is “So, what do you do?” What I learned quickly is that people do business with people they . Time and time again, I’ve seen clients stick with vendors who were just "okay" because they had built a personal connection. And while you and I both know we provide professional, timely, and top-quality work, at the end of the day, we’re in a service-based industry, which means we’re selling something intangible. At the start, all you have is your word. So, keep marketing, but make sure you're also selling yourself first, your personality, your integrity, and your dependability. People remember how you made them feel. If they you, they’ll trust what you offer. I follow a simple model, not grammatically perfect, but it works: ABS (Always Be Selling). Have a strong elevator pitch and keep networking. That personal connection can open doors that marketing alone can’t. Keep pushing. Warm Regards
+
+### Replies (28)
+
+#### Reply 1
+
+**Author:** globalsvcs
+**Posted:** 2025-08-08
+
+I completely understand how you're feeling. I’ve been there myself. In the cleaning industry, I marketed hard and still saw little return at first. What started to shift things for me was developing a personable elevator pitch and putting myself in places where I could genuinely connect with people, local Chamber of Commerce events, festivals, Wine after Dark, and any setting that allowed for real conversations. Truth be told, when you’re in those types of settings, the first question that usually comes up is “So, what do you do?” What I learned quickly is that people do business with people they . Time and time again, I’ve seen clients stick with vendors who were just "okay" because they had built a personal connection. And while you and I both know we provide professional, timely, and top-quality work, at the end of the day, we’re in a service-based industry, which means we’re selling something intangible. At the start, all you have is your word. So, keep marketing, but make sure you're also selling yourself first, your personality, your integrity, and your dependability. People remember how you made them feel. If they you, they’ll trust what you offer. I follow a simple model, not grammatically perfect, but it works: ABS (Always Be Selling). Have a strong elevator pitch and keep networking. That personal connection can open doors that marketing alone can’t. Keep pushing. Warm Regards
+
+#### Reply 2
+
+**Author:** GreenThumb777
+**Posted:** 2025-08-08
+
+to globalsvcs I EMPHATICALLY agree. Coming from a background of sales/ customer service. I feel that I was putplaced at those jobs then, to help me in my own business now. I to look at it as if, every job and experience that I've gone through in LIFE, was meant for me to apply to being my own boss. Life as DEFINITELY humbled me and made me stronger. Great energy your way
+
+#### Reply 3
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to globalsvcs Thank you for your help, I agree, we're the best marketing, how you act with clients neighbors, how you dress, etc. Always be selling, I love it. Thanks again.
+
+#### Reply 4
+
+**Author:** cutoncecrew
+**Posted:** 2025-08-08
+
+alot of people said, definitely get in front of people. Smile, laugh, make them feel good and show that you’re a stand up guy. Online presence is great but when someone meets you in person theres an energetic exchange that seals the deal. One time I walked into a store to buy some soil, with no business cards, no website, didn’t even have insurance at the time and simply asked if they needed any work done. The lady said no and asked if I had a card because maybe someone in her neighborhood might need something. I wrote my number on a piece of their receipt paper and walked away proud that I put myself out there but also certain they weren’t going to call me. About a month later I get a call from them that has lead to thousands of $$$ worth of ongoing work and a great relationship.
+
+#### Reply 5
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to cutoncecrew There you go, that story alone says a lot. Thank you for your help
+
+#### Reply 6
+
+**Author:** EnergizeUs
+**Posted:** 2025-08-08
+
+You’re doing everything right — the website, the local cards, the social posts. Sometimes it’s not about trying harder, it’s about assessing where you stand and making a few key adjustments. I’d love to help you with that. We’re in South Florida a few times a year visiting contractors we work with and host solar courses down south, we also work with Patrick Pitt and David, and I’d be happy to connect while we’re down there. I also have a few solid connections in the area I can introduce you to that might open some doors for you. Appreciate what you’re building — it shows.
+
+#### Reply 7
+
+**Author:** ryaantuttle
+**Posted:** 2025-08-08
+
+Work for free for a portion of your projects !!! Prove yourself!! That will easily get the word out my man.
+
+#### Reply 8
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-08
+
+to ryaantuttle I love this idea. Not everything has a dollar sign on it. Sometimes you have to look at the opportunity costs of doing things this. Very smart.
+
+#### Reply 9
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to ryaantuttle Great advice, did this to earn the first clients. Thanks Ryan
+
+#### Reply 10
+
+**Author:** WindowsAndMore
+**Posted:** 2025-08-08
+
+At the backbone of your business and being a business owner, i believe having a solid door knocking marketing plan would help you connect to even more people than you can imagine. if you are at ground zero. 100 doors per day with having an intention of selling! Make sure you are selling at the doors! don't be satisfied with leaving your card, engage with your customers and make them a lifetime customer by having them earn YOUR card! Good luck.
+
+#### Reply 11
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to WindowsAndMore Great advice, I'll try with 100 houses or so, but my fear is the area I serve is high end, and might be sensible to having someone knocking.
+
+#### Reply 12
+
+**Author:** FredHodgeJr
+**Posted:** 2025-08-08
+
+You are on the right track. I would join a networking group to rub elbows with other local business owners. Look up Letip, BNI or the local Chamber of Commerce. They are usually free for the first 1-2 meetings and you can see which you have the most synergy with.
+
+#### Reply 13
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-08
+
+to FredHodgeJr Spot on advice. Community and relationships are the game changer.
+
+#### Reply 14
+
+**Author:** GreenThumb777
+**Posted:** 2025-08-08
+
+First, Welcome to entrepreneurs world lol. Seriously, I find word of mouth and showing your work helps in a highly competitive industry. Don't forget great customer service is everything. Even if the customer is wrong, educate them in your response. Great energy to you
+
+#### Reply 15
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to GreenThumb777 Thank you for your advice
+
+#### Reply 16
+
+**Author:** CliftonP
+**Posted:** 2025-08-08
+
+Easey Peazy. One word solution. Multifamily, Buiy some cheap duckies and bring a couple business cards and then start cold calling. Pools are underserviced. Good Luck!
+
+#### Reply 17
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to CliftonP Thanks for your help
+
+#### Reply 18
+
+**Author:** BHS
+**Posted:** 2025-08-08
+
+Have you thought about partnering with lawn companies? You could have them send out a discount offer to their clients for your service, and in exchange, you provide them with a referral fee for any client who signs up for your weekly service. The nice thing about lawn companies, at least in my area, is that they tend to focus on specific areas to build their clientele (neighborhoods, subdivisions), which reduces travel time between jobs. I'd imagine the same applies to your business, too.
+
+#### Reply 19
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to BHS I've thought about it, I do it with realtors, might start doing it with lawn care too, i have contact with some of them in the area. Great advice, thanks for your help
+
+#### Reply 20
+
+**Author:** GreenThumb777
+**Posted:** 2025-08-08
+
+Excellent
+
+#### Reply 21
+
+**Author:** inamkhan3435
+**Posted:** 2025-09-08
+
+If I were in your shoes, I’d focus on personal networking. Join local groups BNI, refine your pitch, and sell yourself—your integrity and passion. People buy from those they trust. Offer discounted work to build reviews and referrals. Keep your online presence active, but remember, real connections drive real results. Be visible, follow up, and stay consistent. Momentum will build. Keep going!
+
+#### Reply 22
+
+**Author:** inankhan3453
+**Posted:** 2025-09-08
+
+You're on the right track—now focus on in-person networking, refine your elevator pitch, and offer free consultations to show value. Build your local presence with Google Business, social groups, and community events. Ask for referrals and track what gets results. Consistency + real connection = clients. Be visible, helpful, and genuine. Clients will come when people trust and remember you.
+
+#### Reply 23
+
+**Author:** BrandenSewell
+**Posted:** 2025-09-08
+
+My recommendation is to join local networking groups, attend networking events, and get involved in your community. Building community and relationships will help. Talk to other home service professionals and realtors who already meet with your ideal clients. Join BNI and your local chamber. Best wishes. We talk about this a lot on my podcast too..."Off the Ladder" podcast!
+
+#### Reply 24
+
+**Author:** jose-miami
+**Posted:** 2026-01-08
+
+to BrandenSewell Thanks for the advice Branden
+
+#### Reply 25
+
+**Author:** JMG_Pools
+**Posted:** 2026-04-18
+
+I remember when I first started, I struggled as well, I did the same thing made flyers went door to door, but what I learned to do was go and follow pool company trucks and the house they would stop at I would then knock on the door (I know this sounds **bleep** but I had to start somewhere) after doing this for about a week I had a small 6-10 pool route then the rest was word of mouth neighbors of family members of my clients would call and ask if I could take on more pools and thats how I got my company started. Dont give up stay on the grind there is nothing better than working for your self being your own boss.
+
+#### Reply 26
+
+**Author:** shelter
+**Posted:** 2025-09-08
+
+I need an virtual assistant to manager my job. Contact me
+
+#### Reply 27
+
+**Author:** BrandenSewell
+**Posted:** 2026-01-08
+
+jose-miami​ how has this been going for you? Has business picked up? If so, what do you attribute it to? If not, how can we further help you? -Door hangers at current clients when you do a service -Yard signs -Vehicle wrap -Professional appearance -What makes you and your brand stick out? -Do you have a mascot for your business?
+
+#### Reply 28
+
+**Author:** Moly
+**Posted:** 2026-01-08
+
+JOBBER COMMUNITY TEAM Hey there, jose-miami​, curious if you’ve seen some successes in the last 6 months? We’re rooting for you!
+
+---
+
+## 36. Sweat equity
+
+**Author:** Christoph (Contributor 3)
+**Posted:** 2025-06-08
+**Views:** 661 | **Likes:** 8 | **Comments:** 10
+**URL:** https://community.getjobber.com/discussions/marketing-forum/sweat-equity/3756
+
+### Content
+
+Building a pressure washing business with sweat equity. I've been leaving flyers and tear aways at local businesses. About to post some on local Facebook groups, is there any additional advice for adding customers but keeping it local and personal. I am hoping to build a locally recognized company... patriot Pressure Washing, PPW!
+
+### Replies (10)
+
+#### Reply 1
+
+**Author:** FredHodgeJr
+**Posted:** 2025-06-08
+
+This is my 21st year own a pressure washing business. You're off to a good start by using sweat equity and hitting the streets with flyers and tear-aways. To keep building local and personal connections, expand your reach by posting in local Facebook groups, not just advertising, but offering value, engaging in comments, and showing before-and-after photos. Set up a Google Business Profile right away and start collecting detailed 5-star reviews from happy customers to boost local search visibility. Build referral relationships with other trades that have similar clients, who can send consistent business your way. Brand everything from your vehicle to your shirts to establish recognition and trust. Make sure you invest in a website and SEO. After each job, flyer 20–30 nearby homes with a “We Just Cleaned Your Neighbor’s Property” message. You can also tap into local networking groups to connect and get your name out there. Keep stacking those wins, stay consistent, and you’ll build a locally recognized brand the community trusts. Check out TheProcessCEO
+
+#### Reply 2
+
+**Author:** Christoph
+**Posted:** 2025-06-08
+
+to FredHodgeJr I have been trying local Facebook groups with little success so far. I do need to request for some reviews on my Google business. I'm trying to spread brand awareness but I've been financially limited so far. Lawn signs and shirts are next on my list. Any other advice is greatly appreciated.
+
+#### Reply 3
+
+**Author:** FredHodgeJr
+**Posted:** 2025-06-08
+
+to Christoph On FB: Join every single town page in your service area. This time of year especially people are posting looking for our services. I'm in close to 100 local town pages and seeing 10+ requests a day. Make sure your response shows some value, example we try to leverage our 800+ Google reviews.
+
+#### Reply 4
+
+**Author:** AdamP
+**Posted:** 2025-06-08
+
+Door hangers in high end neighborhoods, Suggest soft wash on roofs to get rid of moss. And do the copper treatment on peak
+
+#### Reply 5
+
+**Author:** Ancientcity887
+**Posted:** 2025-06-08
+
+We see a better ROI on direct mail marketing. Higher end clients should be presented with a professional letter recommending your service to the area. Id include you do a lot of work in their general area and will be in the area for the next few weeks. be professional, short and provide a quality letter.
+
+#### Reply 6
+
+**Author:** Christoph
+**Posted:** 2025-06-08
+
+to Ancientcity887 Super relevant and appreciated advice! I've been trying to spread awareness and this approach seems a smart move. Thank you
+
+#### Reply 7
+
+**Author:** Christoph
+**Posted:** 2025-06-08
+
+Guess I've been low on my community groups. I'm going to start seeking out more, my online presence has been lacking! Thank you
+
+#### Reply 8
+
+**Author:** LakeErieSuds
+**Posted:** 2025-07-08
+
+I'm in the prepping stage of starting my own power washing company. I think if your also able to shop small in your area, those other small business will know about you and support you. See if you have a local print shop in your city that you can get business cards or door hangars from. Just an idea. I think social media, especially Facebook can really help. At least that's My mindset as I prepare.
+
+#### Reply 9
+
+**Author:** MRBUBBLES
+**Posted:** 2025-07-08
+
+I have Been in business for 13 years (Mr. Bubbles Power Washing) and I think the best strategy for new people coming in is 2 fold: first you have to have an optimized GMB page with lots SEO and keyword friendly posts. Lots of things you can do here, post pictures, answer reviews properly and above everything else, stay consistent; second, make sure you establish a solid, boots on the ground marketing strategy for your company: yard signs, professional uniforms, postcards and marketing on your vehicle would be a good start. Reach out if you need help!
+
+#### Reply 10
+
+**Author:** PPWD2026
+**Posted:** 2026-04-16
+
+to MRBUBBLES Mr Bubble am in the Tampa area and would love to do a one to one with you. Let me know if you are available. Thanks I have seen the videos!
+
+---
+
+## 37. Profits
+
+**Author:** westsidedred2 (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 60 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/profits/9504
+
+### Content
+
+How much profit is a quota?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** donaldinchesjr
+**Posted:** 2026-04-14
+
+I try to put 33 percent bank to the company for grow and overhead the rest is profit
+
+---
+
+## 38. How to get big commercial accounts
+
+**Author:** Turfsamurai (Contributor 3)
+**Posted:** 2025-07-08
+**Views:** 12 | **Likes:** 12 | **Comments:** 20
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-get-big-commercial-accounts/4134
+
+### Content
+
+I have a lot of residential clients I have been thinking about getting commercial lawn accounts how do I go about doing so. RichardM 7 months ago Let me start off by asking "Why do you want to break into the commercial market?" The best way to kickstart your journey in the commercial sector is to take it step by step. Look for a local restaurant, a charming mom-and-pop shop, or a gas station. These types of businesses often have excellent visibility, and you’ll want to deliver outstanding service that makes a lasting impression. If you have the client’s permission and it's in accordance with local regulations, consider putting up a small sign on their property to promote your commercial grounds maintenance services. Starting big, means going in big. I have seen many lawn care/maintenance companies go from easily handling 200 - 300 lawns per week and then they land a 400 unit condo property and everything goes sideways. what ryaantuttle​ said, it'll feel you are running a whole other company. Commercial clients expectations are vastly different from residential ones. Some things to consider: You'll need to carry higher liability insurance - increased premiums In Canada you'll need to provide valid WSIB information. In the states you'll need to similar state specific workers' compensation program You may need another crew, equipment, vehicle, and trailer to facilitate added accounts Lots of commercial clients will only allow mows between certain times/days You will not get your receivables as quick as you . Be prepared to wait at least 30+ days If you are Gung-ho to get this commercial ship in orbit then you need to do some research and work: Price out insurance policies that allow commercial clients. Some commercial accounts here in Ontario, Canada require 6-8 million dollar liability coverage Shop your competition. Find out who is doing what and how good are they doing it? Knowing this bit of info will allow you to approach Property managers, store managers, and owners Advertise on your website your new commercial division. Emphasize the points TheWiFiGuy​ expressed Make meetings with Property Management Companies. You'll be surprised how easy it is to make a quick meet and great. Property managers are always on the lookout for better talent at a competitive price. Remember that their contractors make them look good With all of that said there are advantages to having commercial clients: Stay in one place - Find communities that allow you to park and work for an extended period. Condominiums, gated communities, and large commercial properties are perfect examples of areas where you can achieve zero drive time. By doing so, your productivity can skyrocket Payday is better - Because of commercial client expectations, they payday is usually always higher One equals more - Once you get one commercial client and you blow them away with your quality and frictionless service ( TheWiFiGuy​ ) you'll find yourself quoting your next commercial client If there's one guiding principle I'd love for you to embrace, it's this: "Never compromise on quality to hurry your business forward." Choosing that route may seem tempting, but it can lead you into unexpected challenges, and you might find yourself struggling when you least expect it. Remember, building a strong foundation with quality is what truly sets you up for long-term success! Good luck!
+
+### Replies (20)
+
+#### Reply 1
+
+**Author:** RichardM
+**Posted:** 2025-10-08
+
+Let me start off by asking "Why do you want to break into the commercial market?" The best way to kickstart your journey in the commercial sector is to take it step by step. Look for a local restaurant, a charming mom-and-pop shop, or a gas station. These types of businesses often have excellent visibility, and you’ll want to deliver outstanding service that makes a lasting impression. If you have the client’s permission and it's in accordance with local regulations, consider putting up a small sign on their property to promote your commercial grounds maintenance services. Starting big, means going in big. I have seen many lawn care/maintenance companies go from easily handling 200 - 300 lawns per week and then they land a 400 unit condo property and everything goes sideways. what ryaantuttle​ said, it'll feel you are running a whole other company. Commercial clients expectations are vastly different from residential ones. Some things to consider: You'll need to carry higher liability insurance - increased premiums In Canada you'll need to provide valid WSIB information. In the states you'll need to similar state specific workers' compensation program You may need another crew, equipment, vehicle, and trailer to facilitate added accounts Lots of commercial clients will only allow mows between certain times/days You will not get your receivables as quick as you . Be prepared to wait at least 30+ days If you are Gung-ho to get this commercial ship in orbit then you need to do some research and work: Price out insurance policies that allow commercial clients. Some commercial accounts here in Ontario, Canada require 6-8 million dollar liability coverage Shop your competition. Find out who is doing what and how good are they doing it? Knowing this bit of info will allow you to approach Property managers, store managers, and owners Advertise on your website your new commercial division. Emphasize the points TheWiFiGuy​ expressed Make meetings with Property Management Companies. You'll be surprised how easy it is to make a quick meet and great. Property managers are always on the lookout for better talent at a competitive price. Remember that their contractors make them look good With all of that said there are advantages to having commercial clients: Stay in one place - Find communities that allow you to park and work for an extended period. Condominiums, gated communities, and large commercial properties are perfect examples of areas where you can achieve zero drive time. By doing so, your productivity can skyrocket Payday is better - Because of commercial client expectations, they payday is usually always higher One equals more - Once you get one commercial client and you blow them away with your quality and frictionless service ( TheWiFiGuy​ ) you'll find yourself quoting your next commercial client If there's one guiding principle I'd love for you to embrace, it's this: "Never compromise on quality to hurry your business forward." Choosing that route may seem tempting, but it can lead you into unexpected challenges, and you might find yourself struggling when you least expect it. Remember, building a strong foundation with quality is what truly sets you up for long-term success! Good luck!
+
+#### Reply 2
+
+**Author:** ryaantuttle
+**Posted:** 2025-11-08
+
+to RichardM Great post, Richard!
+
+#### Reply 3
+
+**Author:** ryaantuttle
+**Posted:** 2025-07-08
+
+I would suggest testing that market out first by setting up 1-2 accounts at a discounted rate to see if it's something thats within your service offering. When you mix markets, you almost end up running (2) separate companies believe it or not. We stopped doing commercial work years ago because we were spending too much money trying to crack into a completely different market. Just a suggestion.!
+
+#### Reply 4
+
+**Author:** BrandenSewell
+**Posted:** 2025-11-08
+
+to ryaantuttle I this advice. Sticking to what you do best and not getting distracted is a good practice. Different service offerings can be very nuanced and slow you down.
+
+#### Reply 5
+
+**Author:** Protrapperty
+**Posted:** 2025-07-08
+
+Doing commercial work in my back round is better/easier. The pay may be net 30 witch isn't fun sometimes. I suggest just going in talking to who ever is in charge about what you would to provide. Just really don't be afraid to go talk to people and building a condition with. Find out when others contracts are up and note that for when the contract is up. Also get name and email and phone number to follow up with.
+
+#### Reply 6
+
+**Author:** MBailey94
+**Posted:** 2025-07-08
+
+You may want to consider government contracts in your state nd local areas. I actually help my clients get set up to secure some of those contracts and depending on what area you are in, they may be more frecuent in how often those services are procured.
+
+#### Reply 7
+
+**Author:** Turfsamurai
+**Posted:** 2025-07-08
+
+to MBailey94 What source would I have to go on or website i looked all over internet.
+
+#### Reply 8
+
+**Author:** MBailey94
+**Posted:** 2025-07-08
+
+to Turfsamurai Depending on what state you are in you can google the state you're in procurement (example: Virginia Procurement) and you want to look for open bid opportunities on their site. From there, you should be able to search keywords in your industry. If you need additional help or support, shoot me a message and we can set up some time for me to walk you through it.
+
+#### Reply 9
+
+**Author:** edentree
+**Posted:** 2025-10-08
+
+to Turfsamurai bidnetdirect.com
+
+#### Reply 10
+
+**Author:** MizzLopez316
+**Posted:** 2025-07-08
+
+to MBailey94 How do you help get tired clients in? I would to know.
+
+#### Reply 11
+
+**Author:** CharlesW
+**Posted:** 2025-11-08
+
+to MBailey94 I am defiantly looking into this. and would love any help possible.
+
+#### Reply 12
+
+**Author:** FredHodgeJr
+**Posted:** 2025-07-08
+
+I would join commerial organizations with property and faciltiies managers. We joined CAI, IREM, BOMA, Apartment Association, IFMA and more. This has given us the ability to become 70% Commercial for our exterior cleaning company. I would also build out a commercial page on your website.
+
+#### Reply 13
+
+**Author:** SunshineWindows
+**Posted:** 2025-07-08
+
+If you are asking how to get them specifically, cold emails/cold calls to facilities titles or property managers is the most direct route to starting conversations with them.
+
+#### Reply 14
+
+**Author:** edentree
+**Posted:** 2025-10-08
+
+to SunshineWindows have you had success with this method? if so, who do you use?
+
+#### Reply 15
+
+**Author:** TheWiFiGuy
+**Posted:** 2025-07-08
+
+I find that commercial clients don’t simply want better pricing; they want better/frictionless service. If you sell yourself as reliable, easy to communicate with, proactive and can come in just a few dollars less, you’ll be an enticing consideration. Ask the potential client what their current provider could do better. If you can realistically improve on the pain points, clearly articulate why and how. In person meetings can be problematic as everyone is busy. Offering a freebie or discounted service to a client at a large complex can be the best advertising you can get. But you’ll need to have your game face on while on site.
+
+#### Reply 16
+
+**Author:** RichardM
+**Posted:** 2025-10-08
+
+to TheWiFiGuy "frictionless service" Love that! Using it.
+
+#### Reply 17
+
+**Author:** 
+**Posted:** 2025-07-08
+
+419lawns There are several 3rd party National companies for commercial work. You must have WC, Comm Auto and General Liability. DMG is one of them. Case, and MSA.
+
+#### Reply 18
+
+**Author:** EnergizeUs
+**Posted:** 2025-08-08
+
+Bigger commercial jobs usually involve project managers especially for chains or national accounts. These folks are working regionally, not just locally. If you're aiming for franchise customers or large organizations, LinkedIn has been the best move for us. It’s where a lot of that B2B communication and networking happens. We leaned into that early and landed a $2.2 million, 2-year contract with a nationwide solar company, all from relationship-building and positioning on LinkedIn. Have you tapped into that network yet? Are you connecting with others who are already doing this kind of work? Would love to hear how it goes, proud of you.
+
+#### Reply 19
+
+**Author:** Nantucket
+**Posted:** 2025-11-08
+
+For me, I just walk into the business and talk to whoever is in charge, maybe it’s a general manager or even if they have a facilities department maybe the manager of that depart who would handle such accounts. It’s sales. Go in there and build some rapport and tell them how you can be valuable. Maybe there’s some improvements you would suggest after some recon at the property you are selling. Commercial property management companies. Just kinda throwing some ideas out there.
+
+#### Reply 20
+
+**Author:** psi01
+**Posted:** 2026-04-12
+
+I appreciate the info, iam looking to grow my commercial clientele
+
+---
+
+## 39. How can I re-build my business from ground zero?
+
+**Author:** JeremyLesser86 (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 106 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-can-i-re-build-my-business-from-ground-zero/9640
+
+### Content
+
+Hi my name is Jeremy Lesser, I am the Business Owner/CEO of a small residential painting and home improvements business. I have been in business since 2022. After about a year or so of being in business, I about called it quits and started doing Maintenance Engineering. Well having my own business doing what I love to do the most which is drywall and painting, has been a dream of mine since I first started doing drywall and painting 15+ years ago. I want my business to succeed. I have a perpetual LLC. for my business, so I would to build my business back and Lord willing watch it grow this time. I have more patience and knowledge in it. How can I build my business with zero income and zero revenue? I have been applying for grants. Please help! Thank you and God Bless. ~Jeremy Lesser~
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** roselvaggio
+**Posted:** 2026-04-08
+
+Start simple: Cash first: sell high-ticket one-time services Lock in recurring or referral on every job = rebook opportunity Hire for attitude, train the skill One solid SOP, repeat it perfectly Track 3 numbers: leads, close rate, job value Everything else is noise early on.
+
+#### Reply 2
+
+**Author:** JeremyLesser86
+**Posted:** 2026-04-08
+
+(417) 571-5302
+
+#### Reply 3
+
+**Author:** jrselectric
+**Posted:** 2026-04-08
+
+Besides trying to get funding - I would just do good old facebook/instagram advertising, word of mouth referrals, small jobs for friends who can help refer you and boost you on social media.
+
+---
+
+## 40. What's everyone doing for marketing right now? How do you market your business?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 166 | **Likes:** 1 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/marketing-forum/whats-everyone-doing-for-marketing-right-now-how-do-you-market-your-business/9696
+
+### Content
+
+Curious to see what other trades do. Currently, in my Electrical business most of it is word of mouth/referral. We do not do much marketing and need to get better at doing this.
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** CanopyPartners
+**Posted:** 2026-04-08
+
+We work in High-Rise condo buildings offering window services so often we reach out to board / managers of the building talk to engineers get approval for presentations in the building. This allows us face to face expo style presentations with potential clients (unit owners). We also do occasional mailings but yes, a lot of what we do is also word of mouth and references from past customers. I feel in today's world everyone is bombarded with emails and text messages they just ignore most of it. The best way is finding a way or create an event to get in front of potential customers in person in a live interactive setting. Maybe sponsor some event in the community you want to work in for example in our area many sponsors will do a trunk or treat event during Halloween; hand out candy to kids and in the meantime socialize and passively talk to their parents about your services. Branding and Name recognition is what you want when they go looking for someone offering what you offer, you could also have some small handouts a brochure or something they can take with them. Try to be creative and support some good causes in the communities you are looking to work in.
+
+#### Reply 2
+
+**Author:** jrselectric
+**Posted:** 2026-04-08
+
+to CanopyPartners That was a really smart idea!
+
+#### Reply 3
+
+**Author:** ShaneKetterman
+**Posted:** 2026-04-08
+
+jrselectric​ Not using any automated marketing anymore becuase peope are burnt out on getting "promos"....but I did just post about something I'm finding that IS working http://www.thunderheadengage.com and it should be in the Jobber marketplace soon :)
+
+#### Reply 4
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 We are a residential cleaning company. Google ads, SEO works well. One thing that is very interesting that we are starting to get great engaged leads through AI platforms. I am amazed as to how much people are believing AI referrals.
+
+#### Reply 5
+
+**Author:** jrselectric
+**Posted:** 2026-04-08
+
+to judithvirag Can you explain the leads through AI platforms, what do you mean by that?
+
+#### Reply 6
+
+**Author:** jrselectric
+**Posted:** 2026-04-08
+
+I want to get more activity on this post. Can others drop their marketing tips below?
+
+#### Reply 7
+
+**Author:** OdHoneyBee
+**Posted:** 2026-04-08
+
+We do commercials and residential honeybee removals, from structures. We are exploring paid marketing routes now but our traffic has been 100% organic, so far. We started off doing the removals ourselves, got to the point that there were more jobs that we could take and started the referral/lead acquisition side. Eventually, that became too much and we stopped doing the removals and focused on connecting customers to high quality removal specialists. This was purely a passion project that we have done since 2016 and never charged for our services. We shifted gears, last year, to treat this more a business because we realize there is value but also a cost that was coming out of our pocket more and more each year.
+
+---
+
+## 41. How many people are currently Google Guaranteed?
+
+**Author:** jrselectric (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 46 | **Likes:** 1 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-many-people-are-currently-google-guaranteed/9853
+
+### Content
+
+We went through the process of becoming verified and Google Guaranteed, but the leads from google are super expensive. I know you can set a budget, but they just do not seem worth it. Have others had good luck using this platform?
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+For me, I started to use it through a marketing agency. They walked me through everything and I am see the rewards of it. The way my business works I am making $400-$800 for a job that I have paid $5-$23 for. I see am amazing return on it and each call has the potential to turn into many more by word of mouth. It for sure is a numbers game depending on how you look at it though...March I paid $170 to Google, but got 3 good paying calls from it.
+
+#### Reply 2
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 Hit and miss. But it plays into how Google is going to rank you when people are seacrching and you come out higher.
+
+---
+
+## 42. Would You Use This?
 
 **Author:** ShaneKetterman (Contributor 2)
-**Posted:** 2026-03-29
-**Views:** 9 | **Likes:** 0 | **Comments:** 2
+**Posted:** 2026-04-08
+**Views:** 64 | **Likes:** 0 | **Comments:** 2
 **URL:** https://community.getjobber.com/discussions/marketing-forum/would-you-use-this/9822
 
 ### Content
 
-Hey, I'm sure we all use the same marketing tools to send to our customers, but to be honest, that's not actually building any sort of relationship. I myself get them and delete them. Money on the table is when a customer does not come back, remember you, or gets sick of the marketing. Enter something radically different. Ever heard of relationship automation? I'll give you an example. Current SMS/Email: "Hey Mike! Just a friendly reminder — we're running a spring AC special. 15% off if you book this week!" — Jerry, Acme Plumbing (our customers delete this) Relationship Automation: "Hey Mike! Did you see the Broncos schedule just dropped? They open at home Sept 7 — here's the link if you want to grab tickets early: broncos.com/schedule" — Jerry, Acme Plumbing That will BLOW their minds and they will forward that, refer work, etc. Another example? "Hi Sarah! Time for your annual tune-up. Book now and save 10%! →" - Mike, Comfort Air HVAC "Hey Sarah! How's Cooper settling in? Found this great puppy training guide specifically for goldens — a friend swore by it: akc.org/golden-puppy-guide" — Mike, Comfort Air HVAC I'd love to know your thoughts. Traditional marketing is dead. This is next-level stuff that has real ROI. ADVERTISING CAMPAIGNS DIGITAL MARKETING STRATEGIES EMAIL MARKETING HOW TO GROW YOUR BUSINESS MARKETING SUITE
+Hey, I'm sure we all use the same marketing tools to send to our customers, but to be honest, that's not actually building any sort of relationship. I myself get them and delete them. Money on the table is when a customer does not come back, remember you, or gets sick of the marketing. Enter something radically different. Ever heard of relationship automation? I'll give you an example. Current SMS/Email: "Hey Mike! Just a friendly reminder — we're running a spring AC special. 15% off if you book this week!" — Jerry, Acme Plumbing (our customers delete this) Relationship Automation: "Hey Mike! Did you see the Broncos schedule just dropped? They open at home Sept 7 — here's the link if you want to grab tickets early: broncos.com/schedule" — Jerry, Acme Plumbing That will BLOW their minds and they will forward that, refer work, etc. Another example? "Hi Sarah! Time for your annual tune-up. Book now and save 10%! →" - Mike, Comfort Air HVAC "Hey Sarah! How's Cooper settling in? Found this great puppy training guide specifically for goldens — a friend swore by it: akc.org/golden-puppy-guide" — Mike, Comfort Air HVAC I'd love to know your thoughts. Traditional marketing is dead. This is next-level stuff that has real ROI.
 
 ### Replies (2)
 
 #### Reply 1
 
 **Author:** HandyManCEO
-**Posted:** 2026-04-02
+**Posted:** 2026-04-08
 
-NEW MEMBER This idea is interesting. I can comfortably relate to some clients and create stuff this that is genuine, then with others I just have little in common and it would seem silly or forced. I think your examples would seem forced when coming from me. And then there's the logistics. If this is going to work it would need to be tailored to each client's interests. That's a lot of effort for each relationship. I would more likely respond to an automated reminder that it has been a year since I had something done that I should do yearly than a text or email that has nothing to do with the context of my relationship with that person. In fact, I think more than one or two random subject texts or emails would probably have me hiding or stopping their communication entirely. I would really love to see some real data on this. I realize I am not just everyone else, but without hard data showing great results I would not risk my professional relationship status by trying to market I am their buddy, even if the logistics weren't extremely difficult. -TJS
+This idea is interesting. I can comfortably relate to some clients and create stuff this that is genuine, then with others I just have little in common and it would seem silly or forced. I think your examples would seem forced when coming from me. And then there's the logistics. If this is going to work it would need to be tailored to each client's interests. That's a lot of effort for each relationship. I would more likely respond to an automated reminder that it has been a year since I had something done that I should do yearly than a text or email that has nothing to do with the context of my relationship with that person. In fact, I think more than one or two random subject texts or emails would probably have me hiding or stopping their communication entirely. I would really love to see some real data on this. I realize I am not just everyone else, but without hard data showing great results I would not risk my professional relationship status by trying to market I am their buddy, even if the logistics weren't extremely difficult. -TJS
 
 #### Reply 2
 
 **Author:** ShaneKetterman
-**Posted:** 2026-04-02
+**Posted:** 2026-04-08
 
 to HandyManCEO Thanks so much for the ! Yeah, there's really good data to show that reminders get deleted and don't lead to referrals so that's money on the table. With this, it's super simple and takes about 30 seconds to either import the information, or, you get a daily reminder to call in and just dictate it. I see your point though. The difference here is based on reciprocity. Marketing missed this and that's why it's better to give more than take. When we sent out texts with reminders and "deals" they become noise. That's what is happening. But, when you do something truly remarkable, even a simple text that is thoughtful, then they refer, they remember, etc. It's a signal to noise ratio and you become the signal, not the noise. But I would love to provide some hard data! I can say without a doubt if I received something that was personal and thoughtful, I would refer and rehire that person/company in an instant. But the other stuff I get? I delete.
 
 ---
 
-## 2. Winter Work Ideas
+## 43. Rewards system
+
+**Author:** Go2Girl (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 17 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/rewards-system/9847
+
+### Content
+
+Hi! I am looking to add a rewards system for my clients, dollar for dollar, and they can redeem their points for a product. Does anyone have a way to easily track the points? My business is too big to do it manually with a spreadsheet. Thanks
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 44. Send Jim - Who's Using It Successfully?
+
+**Author:** HUGEHomePros (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 13 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/send-jim---whos-using-it-successfully/9836
+
+### Content
+
+Hey Jobber Fam! I've been using send Jim to send out neighbor mailers after we've done jobs and haven't seen any success whatsoever. My idea was to pair that with direct Facebook marketing campaigns so that there's a higher likelihood they will see us multiple times but I've seen really low success rate with it. If you are using Send Jim, Dope Marketing, or whatever automated mailing campaigns successfully, Can you share some of your strategy? Also, if you've tried a couple of them, do you have a preference for one over the other? I love that Jobber integrates with these and makes it easy but I feel I'm missing something to make these successful.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 45. How do you scale without burning out? 
+A quick summery of 10x is better than 2x
+
+**Author:** ZacRadcat (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 72 | **Likes:** 2 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-scale-without-burning-out-a-quick-summery-of-10x-is-better-than-2x/9658
+
+### Content
+
+How do you scale without burning out? A quick summery of 10x is better than 2x Most people assume that growing a business 2x is the “safe” and realistic path, while 10x growth sounds extreme, risky, or even unrealistic. But in 10x Is Easier Than 2x, Dan Sullivan and Benjamin Hardy argue the exact opposite: 2x growth is actually harder—and often more dangerous—than 10x growth. Why 2X Growth Is a Trap When you aim for 2x, you typically try to: Do more of what you’re already doing Take on more clients Work longer hours Add complexity without changing the system This leads to incremental growth, but also: Burnout Lower-quality decision-making More “okay” clients instead of great ones A heavier, more complicated business The book explains that 2x thinking keeps you stuck in your current identity. You’re just scaling your existing problems. Why 10X Is Actually Easier 10x forces a completely different mindset. You can’t 10x by working harder—you have to: Eliminate the majority of what you’re doing Delegate or automate everything that isn’t your unique strength Ruthlessly focus on what truly drives results Instead of asking: “How can I do more?” You start asking: “What should I stop doing entirely?” That’s the shift. The Key Concept: “Unique Ability” One of the most powerful ideas in the book is focusing on your Unique Ability—the work that: You’re best at You enjoy the most Creates the highest value Example from the Book: They describe entrepreneurs who dramatically scale their businesses not by adding more responsibilities, but by cutting 80–90% of their tasks and focusing only on their highest-leverage activities. For example: A business owner stops doing operations, admin, and low-level sales They focus only on: High-value relationships Vision Deal-making That’s where exponential growth comes from. The 80/20 Rule—Taken Further The book builds on the classic Pareto Principle (80/20 rule) and pushes it even further. Instead of stopping at: 20% of inputs → 80% of results They challenge you to go deeper: 4% of inputs → 64% of results Eventually → 1% of activities create the majority of outcomes Example: A company might realize: 80% of their revenue comes from 20% of clients But then discover: A handful of clients (maybe 5%) generate most of the profit So instead of chasing more customers, they: Drop low-value clients Double down on their best ones Increase pricing and service quality Quality Over Quantity (Where It Gets Interesting) This is where the book really stands out. Most businesses focus on: Getting more leads Closing more jobs Increasing volume But Sullivan and Hardy argue: Growth doesn’t come from more clients—it comes from better clients. Example from the Book: They highlight entrepreneurs who: Cut their client base in half Raised their prices Focused only on ideal clients The result? Less stress Higher margins Better outcomes Faster growth This flips the traditional mindset: 2x thinking = more volume 10x thinking = better selection Elimination Is the Real Growth Strategy One of the most counterintuitive ideas in the book: “If you want 10x results, you need to eliminate 80% (or more) of what you currently do.” This includes: Tasks Clients Projects Even opportunities Example: An entrepreneur may: Stop offering multiple service types Focus on one highly profitable niche Build systems around that niche Instead of being everything to everyone, they become: The best at one thing for the right people Identity Shift: The Real Barrier The biggest obstacle to 10x growth isn’t strategy—it’s identity. To grow 10x, you have to: Let go of being “busy” Stop identifying as the person who does everything Become the person who decides what matters Example: The book shares cases where entrepreneurs: Stop attending unnecessary meetings Remove themselves from day-to-day operations Build teams that operate without them They don’t just change what they do—they change who they are in the business. Final Takeaway The core message of 10X Is Easier Than 2X is simple but powerful: 2x growth = more effort, more complexity, more problems 10x growth = less but better, simpler, more focused If you want exponential results: Do less Choose better Focus only on what truly moves the needle Why This Matters (Especially for Service Businesses) For a business a handyman or service company, this translates directly: Stop chasing every job Focus on: Higher-value projects Better clients (realtors, repeat customers, premium work) Build systems that remove you from low-value work Price based on value, not time That, according to Dan Sullivan and Benjamin Hardy, is how you scale without burning out.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM Hey Zac, this is such a valuable breakdown. Thanks for sharing this with the community. Have you started applying any of this to your own business? If so, would love to hear what's changed for you.
+
+#### Reply 2
+
+**Author:** ZacRadcat
+**Posted:** 2026-04-08
+
+Hey Julie! Great question. Our company is Radical Handyman. We went from zero to $300k in year one, then to $650k in year two, and then up to $2.6 million in year three. That's a pretty steady 2x for us, but as has been said, "scaling just scales your problems." We have been fighting that the whole time. It hasn't felt growth. Everyone always says how great we seem to be doing, but in reality, we've been on the brink of a total collapse for months. We had to trim down and work hard to establish who we are and who we best need to serve. We discovered this book a couple of months ago, and immediately began implementing some of the key principles. As a result, we have slowly begun to crawl out of the hole we dug for ourselves. Even the mindset shift from one customer set to actively pursuing a completely different group has dramatically changed our bottom line. Within a few months of making those changes, we have gone from a team of 9 down to a team of 7 and have laser-focused in on our ideal clientele. The result is that we are no longer running a constant deficit, debts are quickly being paid off, and the employees are happier. It's still in the beginning stages, but already we can see these principles working which is exactly why I wanted to share some of the key takeaways from the book. It's tough to find time to read, which is why when you take the time, it's important to use on good stuff...10x is good stuff
+
+#### Reply 3
+
+**Author:** julie
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM to ZacRadcat Zac, this is incredible! Thank you for sharing that so openly and honestly. Going from near collapse to clarity in a matter of months... holy moly. That's not just a business win, that's a total transformation. The fact that you're not just summarizing the book but practicing and living it makes this post 10x more valuable for everyone reading it. This is exactly the kind of real, behind-the-scenes story this community needs more of. Rooting for you guys at Radical Handyman 🙌
+
+---
+
+## 46. Geo location
+
+**Author:** Aldo5217 (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 49 | **Likes:** 0 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/geo-location/9712
+
+### Content
+
+We have couple issues with jobber, maybe just not using correctly. we have 20 users aprox. each user makes there own estimates and Invoices from Jobber from where they log in etc..., why is that they have to select their names on the invoices and estimates, How to make it so is automatically. Also I understand the software is cable of using Geo location, if they are at a address or client per happens, Why is that all customers come up for address, would be ideal for the location that the job is being done, for that location come up as a first option for customer name? Does any one knows? Thanks for all the Help
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** jade
+**Posted:** 2026-04-08
+
+Hey Aldo! Thank you for the questions! I believe you are referring to the "salesperson" feature on the quotes and invoices. This feature is set up this way for tracking and reporting. All companies are different, and some may have technicians who do not fully own that scope of work - this is why it is an option. This also comes in handy if an employee is absent, and another one needs to create a quote on their behalf. It sounds you are hoping for that section to be automatically selected based on the person who is logged in. I think that is valuable feedback, and I am happy to share it with our Product Development team! For your second question, I am not quite sure what you are referring to. I recommend reaching out to our Success Team. I think a phone call would be best to explain your request, and they would be happy to help you out with any features or workarounds! You can give them a call at 888-721-1115 ext 1.
+
+---
+
+## 47. Has anyone hired a commission-based sales rep for their business?
+
+**Author:** kpm (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 403 | **Likes:** 5 | **Comments:** 15
+**URL:** https://community.getjobber.com/discussions/marketing-forum/has-anyone-hired-a-commission-based-sales-rep-for-their-business/9400
+
+### Content
+
+Has anyone hired a commission based sales rep for their landscaping company? Looking to grow our company and it’s getting harder to handle all the requests in a timely enough manner, but same time we aren’t busy enough to have another crew lead. Looking to weigh options and interested in feedback on how it’s worked for others.
+
+### Replies (15)
+
+#### Reply 1
+
+**Author:** HauerPower
+**Posted:** 2026-04-08
+
+Landscaping and Electrical are similar because the range and type of jobs can vary so much by volume, product type, and labour for the jobs. Are you looking to Have someone just bring in leads or have someone quote jobs?
+
+#### Reply 2
+
+**Author:** kpm
+**Posted:** 2026-04-08
+
+to HauerPower We're looking for someone who can bring in leads and quote jobs.
+
+#### Reply 3
+
+**Author:** HauerPower
+**Posted:** 2026-04-08
+
+Following! We hired an outside sales rep internally and it came with alot of pros and cons. The biggest takeaway was a solid process. Where are you in your journey in the sales expansion of your company?
+
+#### Reply 4
+
+**Author:** kpm
+**Posted:** 2026-04-08
+
+to HauerPower We’re currently in the early stages putting feelers out there and looking for feedback that have gone through this step before.
+
+#### Reply 5
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+One way you could do it is give them a percentage of gross profits over a certain theshold - that way you make sure the jobs they are selling are profitable. For example: 1) Gross Profit Bonus Measured quarterly using QuickBooks financials. - Tiers: * 50%–52% GP: 0.25% of Gross Profit * 52%–55% GP: 0.50% of Gross Profit * 55%–57% GP: 0.75% of Gross Profit * 57%+ GP: 1.00% of Gross Profit This was for an ops manager position. Basically had a base salary then there is no cap on the amount they can make using these calculations. I don't know how sales reps would that but it could be a hybrid model.
+
+#### Reply 6
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 Yes we have a part time sales rep for 2 years now. She has salary and a commission based on what type of cleaning she sells.
+
+#### Reply 7
+
+**Author:** FredHodgeJr
+**Posted:** 2026-04-08
+
+For our exterior cleaning company we give our sales reps a base pay plus commissions. The total amount equals 10% of their sales. Everyone always talks about commission only sales people but I haven't found that to be realistic but I also want to incentivize them so the combo works out well for us.
+
+#### Reply 8
+
+**Author:** BwilliamsHVAC
+**Posted:** 2026-04-08
+
+Have you checked out SalesAI.com. I know a lot of people are using them to get after people that called and they never connected with to get them on the calendar. maybe the first step towards growth is winning more with the lead volume already flowing?
+
+#### Reply 9
+
+**Author:** CanopyPartners
+**Posted:** 2026-04-08
+
+I'm doing this type of thing in Chicagoland but for window services not landscaping, I'm open to connect and have some availability for cooperation/collaboration for symbiotic overlapping opportunities in Chicagoland: (example: flooring; doors; blinds/shades etc..) I'm already helping people with windows and people often ask me all the time "do you know someone that does this or that... and I'm I can be this guy for you" If I have the right connections which I am slowly building.
+
+#### Reply 10
+
+**Author:** vossreno
+**Posted:** 2026-04-08
+
+I’m in the kitchen and bath business, and one of our subcontractors who handles gutters and flashing has a full-time, commission-only sales rep that we work with. It’s been very successful for them. I’m not in the same exact line of work, but hopefully my experience can still help in some way. I recently tried hiring a commission-based sales rep myself, and the position stayed open for a long time. I was only able to fill it after I changed the structure to include a base pay along with a competitive commission rate. It was honestly a little scary for me to make that change, but he’s eager to learn and seems to be adapting quickly to our processes. I’ve even received a few compliments from clients after they worked with him. I do still believe commission-based sales can be a great model because it takes a lot of pressure off the business owner. However, if someone can’t reliably support themselves on commission alone, they may try to juggle multiple jobs or not give your position their full focus. That’s ultimately why I had to adjust the pay structure to attract the right person. Of course, every situation is different, so take my experience with a grain of salt—but I hope it helps
+
+#### Reply 11
+
+**Author:** Jamie-Miller
+**Posted:** 2026-04-08
+
+to vossreno Howdy Vossreno, out of curiosity what are the salary and commission rates your offering? For the commission only gutter guy, it’ll obvi have to be higher rate so what’s that % look to be appealing enough? thx.
+
+#### Reply 12
+
+**Author:** vossreno
+**Posted:** 2026-04-08
+
+to Jamie-Miller Yea unsure what the gutter guy gets paid, but we did $25/hr plus 5% commission and a company truck to be an experienced and lead technician.
+
+#### Reply 13
+
+**Author:** Jamie-Miller
+**Posted:** 2026-04-08
+
+to vossreno Thx for the . curious too more so at the commission rate only that the gutter guy is getting if you are able to inquire. If not, no biggie. thx again Vossreno
+
+#### Reply 14
+
+**Author:** judithvirag
+**Posted:** 2026-04-08
+
+BUILDER 1 We have a part time sales rep. Part salary and part commission. We are a residential cleaning business. Works out well. She follows up on all the leads until they tell us to buzz off :)
+
+#### Reply 15
+
+**Author:** HilltopAdOS
+**Posted:** 2026-04-08
+
+Before committing to a sales rep, worth asking what's actually happening with your current lead volume. If calls and requests are coming in but not converting fast enough, a rep won't fix that. The bottleneck is response time and qualification, not sales skill. A lot of landscaping companies in your position find that tightening up the front end, faster follow-up, better intake questions on the first contact, pre-qualifying before a quote visit, frees up enough of the owner's time to handle more volume without adding headcount yet. Once you've got that dialed in, then a rep makes sense because you're giving them warm, qualified leads instead of asking them to chase cold ones. If you do go the rep route, the base plus commission structure others mentioned here is the right call. Commission only sounds good on paper but you get part-time attention.
+
+---
+
+## 48. Which social media platforms work best for marketing a local service business?
+
+**Author:** adlgado (Contributor 2)
+**Posted:** 2026-03-08
+**Views:** 241 | **Likes:** 2 | **Comments:** 7
+**URL:** https://community.getjobber.com/discussions/marketing-forum/which-social-media-platforms-work-best-for-marketing-a-local-service-business/9141
+
+### Content
+
+Managing partner here for Rene & Son's Landscaping, Inc. in Wheeling IL. Was just wondering and trying to get everyone's input on this. I'm 25 and when it comes to social media marketing I am kind of at a loss. Is Facebook still a thing that a lot of people use? I have FB but barely use it. I know older generations use Facebook but to what extent. Should I be focusing my marketing more toward Instagram or tik tok? I mean as we continue to move forward should our focus shift into different marketing trends. Should the focus be more on Google marketing or Yelp? Do people still use Yelp?
+
+### Replies (7)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-03-08
+
+You definitely need to have your GMB page dialed in. If you don't know what you need to do, ask chat gpt. That has to be optimized (pictures, videos, services, products, etc etc). Jobber has had a few podcasts on that so definitely look in to it. For social media - you really need to just be posting consistently on all of them. If you make something for IG, post it on tik tok and you tube. If you post on IG, is automatically puts in on Facebook. The main thing to keep in mind, your page needs to be appealing to your avatar customer. If you're trying to bring in business (and not just follows) you need to have customer testimonials, videos of your projects, videos of you specifically, picture carosels, literally all of it. And you need to be consistent! Is it a lot? Yes! Sometimes I go 5 days without posting because I'm getting my butt kicked but be as consistent as you can. Another trick I've tried to get followers is pay for boosting posts. You can pinpoint the audience you are looking for and boost it. Pick the area you serve and people that what you're selling and boost it. Facebook marketing is also good but they have whole programs on how to market there. I can put you on to something that if you have some money to invest in your education but follow the advice above, know it's not an overnight fix, and you should be ok.
+
+#### Reply 2
+
+**Author:** NJones
+**Posted:** 2026-03-08
+
+Facebook still works really well for us because it reaches all age groups, especially homeowners who are making buying decisions. Our biggest drivers have been: 1. Facebook marketing 2. Google presence and reviews 3. Instagram for showcasing work TikTok can be good for exposure, but Facebook and Google tend to bring in more local paying customers. At the end of the day though, quality work and strong Google reviews are the best marketing.
+
+#### Reply 3
+
+**Author:** Ogun
+**Posted:** 2026-03-08
+
+For starters do you have a Google Business page? I think you should use all the major social media platforms and see which ones have the best response for your business.
+
+#### Reply 4
+
+**Author:** PestFreeCanada
+**Posted:** 2026-03-08
+
+I read an article lately that Boomers are starting to move a lot of money into the next generation of small business. They have ageing homes and a lot are looking to downsize which would require a lot of blue collar work to either maintain or prepare for a sale. A lot of those Boomers are on Facebook. So I would say you should know your demographic, know who your customers are and find out where they are. Where they are looking for contractors. From the article I also took that Boomers have heard the news about the Chinese government involvement with TikTok and don't trust the platform due to historically bad relations with China and the West. They trust Facebook and Google as a homegrown company and still use it quite consistently. You can make your own decisions about that comment though! I will try and find that article and post it for everyone because it was very interesting. Get a good Google profile and ask for as many reviews as you can. Start a Facebook page and post some interesting things on there. I am a dinosaur when it comes to social media, but I committed myself to stepping it up in 2026! If I can do it, anyone can.
+
+#### Reply 5
+
+**Author:** TheGlowGetter
+**Posted:** 2026-03-08
+
+At Jobber Summit on Wednesday, Cheryl had an awesome session about boosting your presence in local Facebook groups. Post as often as you're allowed to and make your posts eye-catching. She said group members will start to recognize you if you post often, therefore they're more likely to recommend you. I joined a ton of local groups in the markets we service and started posting. We'll see what happens but the older generation is definitely on Facebook so still use it as a marketing tool!
+
+#### Reply 6
+
+**Author:** roselvaggio
+**Posted:** 2026-04-08
+
+I think it depends on your industry. We’re able to really personalize our brand through Instagram and reels, but a lot of of our business comes in from local Facebook Neighbourhood groups.
+
+#### Reply 7
+
+**Author:** ChrisGagnon
+**Posted:** 2026-04-08
+
+Know your audience, choose the right channel to reach them, and the message you want to communicate.
+
+---
+
+## 49. How Do You Raise Prices Without Losing Loyal Customers?
+
+**Author:** FredHodgeJr (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 101 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-raise-prices-without-losing-loyal-customers/9442
+
+### Content
+
+At some point every service business needs to adjust pricing as costs increase, but it can feel uncomfortable when you have long-time clients who have been with you for years. Have you found an effective way to raise prices while maintaining those relationships? Do you typically: • Give advance notice • Phase increases in over time • Offer loyalty incentives • Or simply reset pricing across the board? Interested to hear what approaches have worked well for others.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** Aatrades719
+**Posted:** 2026-04-08
+
+A&A Trades & Acquisitions, LLC, raising prices without losing loyal customers comes down to transparency, value, and communication. 1. Communicate Clearly and Early: Let customers know why prices are changing before it happens. Be honest about rising costs, improved services, or investments in better equipment and safety. People respect transparency. 2. Emphasize Value: Show that the increase isn’t just a number—it’s tied to higher quality, faster turnaround, safer practices, or better results. When clients see the benefit, they’re more willing to invest. 3. Reward Loyalty: Offer loyal customers perks priority scheduling, bundled services, or small discounts to show appreciation for their long-term support. 4. Gradual Adjustments: If possible, phase in increases instead of making a sudden jump. This helps customers adjust without feeling shocked or undervalued. 5. Maintain Exceptional Service: Reputation is everything. Continuing to deliver consistent, high-quality work reinforces that your service is worth every dollar. In short, when price changes are communicated openly, tied to real value, and paired with appreciation for loyalty, most customers will understand—and continue to choose your business.
+
+#### Reply 2
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+I agree with this guy ^^^ Let them know this is happening and why it's happening. Let them know a few times. When they reach out for a job tell them, "hey we increased our rates because of X Y and Z but I can give you this job at our old rate (or at a discount) because we are so grateful for the support you gave us to get this far. You should be showing up in their emails weekly or monthly anyway so they'll be used to hearing from you. Also come from it from the persepective of this increased rate is what it takes to get it done, not I need more money for myself. I had a mentor once tell me - "the main function of a business, is to STAY IN BUSINESS". You can't do that if you aren't charging enough.
+
+#### Reply 3
+
+**Author:** roselvaggio
+**Posted:** 2026-04-08
+
+For recurring cleaning, we have found a 30-day notice works for us- this gives them the opportunity to think it over/find a new company if they’re not okay with it. We do highlight via email the value and importance of our reliability and professionalism and include reasons why. We never raise the cost astronomically (industry standard is 4-10%). We typically only raise rates annually.
+
+---
+
+## 50. How fast are you sending estimates right now?
+
+**Author:** Lisa (Jobber Community Team)
+**Posted:** 2026-04-08
+**Views:** 129 | **Likes:** 0 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-fast-are-you-sending-estimates-right-now/9518
+
+### Content
+
+JOBBER COMMUNITY TEAM How quickly do you respond when a lead requests a quote? What tools are you using to speed up the process? In this episode of Masters of Home Service,​ ryaantuttle​ and WiringByron​ break down: Why faster replies win you more jobs (and boost close rates by 30%) How online booking and video calls help you quote without site visits How quote templates, automation, and AI speed up estimates to minutes Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts.
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** WiringByron
+**Posted:** 2026-04-08
+
+https://linktr.ee/Wiringbyron Thanks for having us on the podcast, Jobber! If anyone has any questions or wants to talk about Jobber or anything at all, please reach out to me any time.
+
+#### Reply 2
+
+**Author:** readysetorg
+**Posted:** 2026-04-08
+
+I try to respond as fast as humanly possible, haha. If I can call them right away, I do. Sometimes it scares people how fast we are, but those are the people who end up booking. I use a Zapier integration that sends an automated email right away saying someone will reach out within 24 hours. Then I follow up with a call (or a text to set up a call) and only after I've spoken to them on the phone, do I send a follow up email recaping our process, pricing, and listing availability. This has seemed to work really well for us. Curious what others do!
+
+#### Reply 3
+
+**Author:** Lisa
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM to readysetorg I really how intentional your process is! Pairing that quick automation with a personal follow-up, then a simple recap after the call just feels really solid. Speed clearly works in your favor! Thanks for sharing this.
+
+---
+
+## 51. How to Stand Out I
+
+**Author:** ZacRadcat (Contributor 3)
+**Posted:** 2026-04-08
+**Views:** 24 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-stand-out-i/9660
+
+### Content
+
+This may seem incredibly simple, but in our world of millions of marketing options I think it's important to just go back to the basics. Two service companies I have worked with in the past couple years have seen strong and consistent growth with a tiny or even non-existent marketing budget. How? Word of mouth referral. I'm not saying paid marketing isn't important, it very much is! But there are some free things all great companies, specifically service companies should be doing all the time. So... Answer your phone. Communicate Clearly and Professionally Show up on time. Do what you said you’d do. Do great work People give money to people they . So be likable. Be honest above all else. And when in doubt, always remember the golden rule; "Do unto others what you would have them do unto you." You do those things and you will always have businesses. Fail to do those things and you will fail. How big your business scales is determined by many other factors, but those basic principles are essential.
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** 
+**Posted:** 
+
+No Replies Be the first to
+
+---
+
+## 52. How do you explain a failed inspection to a client when the issue is minor?
+
+**Author:** HauerPower (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 102 | **Likes:** 1 | **Comments:** 3
+**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-explain-a-failed-inspection-to-a-client-when-the-issue-is-minor/9499
+
+### Content
+
+What's your favorite way to let your client know that an inspection failed over something silly?
+
+### Replies (3)
+
+#### Reply 1
+
+**Author:** PestFreeCanada
+**Posted:** 2026-04-08
+
+I offer my clients a 12 month warranty on my pest control service (rodents) if they agree to have me complete all the exclusion work I recommend. Then I kill off what ever population is in the house and walk away...95% of the time. If they see activity after 2 weeks that is pretty much me saying I missed something and failed the inspection. It's not my favourite way but its my only way. People are never angry or upset because the current population is going to be lessened, and everyone knows what a persistent mouse can do. I will show up again and make sure I do a good second inspection and ensure nothing was missed. A second pass of the house in the opposite direction or from a different angle does sometimes help anyway.
+
+#### Reply 2
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+You need to have rock solid contracts to set this up well and it needs to be very visible. Then when something fails, it needs to be addressed with a phone call and you need to break the news to them professionally. Let them react - listen to them being frustrated then let them know whatever the consequences of that are. For us, if they didn't give us enough info and we can't do any work, we charge them $250 for the failed visit. I explain this isn't so I make money, in fact I don't make anything on that. It's so I can pay my guys who planned their day around their job and now can't work because they were on the schedule taking the place of another job. Usually hearing the humanity behind it softens the blow.
+
+#### Reply 3
+
+**Author:** jrselectric
+**Posted:** 2026-04-08
+
+I think it depends what the issue was. If its something that I overlooked, I would take accountability and tell them I will rectify the issue (We are only human). Sometimes also, I tell them certain inspectors look for certain things and even though we follow the minimum safety requirements which is the code book, the authority having jurisdiction (*inspector) can requests more work be done. Then I would obviously not charge for paying the inspector again and/or any minor issue that comes up.
+
+---
+
+## 53. What are some unique ways you’re using Jobber email campaigns for?
+
+**Author:** roselvaggio (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 47 | **Likes:** 2 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-some-unique-ways-you%E2%80%99re-using-jobber-email-campaigns-for/9456
+
+### Content
+
+I need to be more intentional with client newsletters, and we only seem to use the email campaigns when trying to fill the schedule. Our office manager has been working on an automated email campaign for lost leads. I’m curious to hear what others are using it for!
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+I use this function for a few different things: Weekly newsletter. I love that it's not overly complicated to put a simple educational email together. I have an SOP for my team to choose a subject, use job pictures from Jobber and use Chat GPT to make a newsletter Post job follow up after 60 days - It's literally called, "How's everything looking" and just touches base with the customers. A lot of people don't respond but they know we are thinking about them. I also have this set up in jobber text automations. I don't abide by the no new is good news, I to get in front of it. Invoice follow ups - if we aren't getting paid, you can't bug them too much Pre job info - for certain jobs we send a prep email. What to expect, who to talk to etc.
+
+---
+
+## 54. Should Home Service Companies Charge Minimum Service Fee?
+
+**Author:** FredHodgeJr (Jobber Ambassador)
+**Posted:** 2026-04-08
+**Views:** 93 | **Likes:** 2 | **Comments:** 2
+**URL:** https://community.getjobber.com/discussions/marketing-forum/should-home-service-companies-charge-minimum-service-fee/9443
+
+### Content
+
+Many home service businesses run into situations where customers request small jobs that only take 10–20 minutes but still require travel time, setup, and administrative work. Some companies implement a minimum service fee to make sure those jobs remain profitable, while others worry it may scare away potential customers. For those in the home service industry: • Do you charge a minimum service fee? • If so, what is your minimum and how did you determine it? • How do customers typically respond when they hear there is a minimum? • Have you found it helps filter out unprofitable jobs? Curious how others approach this balance between profitability and customer experience.
+
+### Replies (2)
+
+#### Reply 1
+
+**Author:** TurfT
+**Posted:** 2026-04-08
+
+I run a lawn care business and I do charge a minimum service fee. Even if a job only takes a few minutes, there is still travel time, setup, and admin involved. The exact minimum really depends on your industry and your costs, so the key is knowing your numbers and making sure the minimum at least covers travel, time, and overhead. In terms of customer reactions, some people will decline when they hear there’s a minimum, and that’s okay. In my experience it’s better to be consistent and confident in your pricing rather than making exceptions that don’t make sense for the business. I’ve also found that maintaining a minimum helps filter out jobs that would otherwise be unprofitable. It allows you to focus on work that makes sense for both the customer and the business.
+
+#### Reply 2
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+1000% you need a minimum. How you figure this out is really understanding your numbers. For us, we used to do a 1/4 day min charge. What I found out is people were trying to run my guys around to get as much out of us as they can. I would net less than $100 of profit on those jobs then we would have call backs because my guys were rushed then poof there goes the profits. Then we raised our min to a half day - $500. You know what? People still tried to run us around but at least my guys had the time to actually repair the issues. People complain it's expensive ... so is my cost of doing business! One thing I started doing is I found a comparable business with a lower minimum that would be ok with lower value you jobs. So we send them referrals and they pay us a fee for it. Boom problem solved.
+
+---
+
+## 55. What’s the best way to manage and track leads in Jobber?
+
+**Author:** Annie-eccs (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 227 | **Likes:** 2 | **Comments:** 9
+**URL:** https://community.getjobber.com/discussions/marketing-forum/what%E2%80%99s-the-best-way-to-manage-and-track-leads-in-jobber/9345
+
+### Content
+
+Hi! I have searched all throughout old conversations to try and see if anyone else has run into the same challenge I'm currently facing and read some good advice but I wanted to see if anyone had anything new to add. I'm looking for a way to actually track leads, whether that be in jobber with request titles, tags, or custom fields OR integrating a whole separate lead management software. I don't leads to stay in the new request stage until an assessment is schedule as I do not provide in home estimates. Does anyone have any workarounds they use in jobber for better tracking lead stages and a better system to track when you need to call, text, follow up etc. Or if you found a better integration option. Thank you!!
+
+### Replies (9)
+
+#### Reply 1
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+Jobber is rolling out a pipeline feature that basically makes a kanban view of what NJones just described. We are in the process of integrating Go High Level with jobber which can automatically move people through and drop them in to different automation sequences. There is a prebuilt mod called Snipey lead that had a lot of these mostly set up and you just have to tweak them. The integration between Jobber and Snipey is done through a bunch of zapier zaps. Kind of a pain to set up but once you get it going, it takes all you jobber stuff and super charges it. I don't think it's realistic for Jobber to be excellent at everything (although they are certainly trying) so you have to explore some of the integrations to make you business seamless. SnipeyLead | Convert More Home Service Leads Into Sales
+
+#### Reply 2
+
+**Author:** Annie-eccs
+**Posted:** 2026-04-08
+
+to HUGEHomePros Yes, I saw the pipeline feature coming tbd. I actually just signed up for the free trial oh GHL to see if that can help, but haven't had time to fully dive in. I agree, it's not realistic haha. It would be nice to have a one stop shop so I am looking into integrations. GHL looks great just not sure if I need to pay someone to help me build it out. Thanks for sharing!
+
+#### Reply 3
+
+**Author:** HUGEHomePros
+**Posted:** 2026-04-08
+
+to Annie-eccs I'm FOR SURE paying someone to set it up haha You'll waste so much time doing it. Check out the snipey leads thing - they have some basic functions already done and instructional videos. The reason I'm paying is, they want snipey to be the primary sales CRM but I want everything to start in jobber so some of the integrations need to be customized. I have a contact for someone if you want to talk to an expert on setting it up.
+
+#### Reply 4
+
+**Author:** Annie-eccs
+**Posted:** 2026-04-08
+
+to HUGEHomePros Hahaha! Absolutely! Will do - thank you! I'm looking into several options, zoho too. I might circle back with you on the contact, thanks!
+
+#### Reply 5
+
+**Author:** NJones
+**Posted:** 2026-04-08
+
+What has worked well for us is keeping it simple and creating clear stages inside the system. Instead of leaving everything in new request, move leads through a few defined steps new lead, contacted, waiting on client, scheduled, and closed. That way you can see exactly where everyone sits. Tags or custom fields can also help track where the lead came from so you know what marketing is working. For follow ups we rely on tasks or reminders tied to the request, so nothing falls through the cracks. The biggest thing is making sure every lead gets moved to the next stage quickly, so the pipeline stays clean and easy to review.
+
+#### Reply 6
+
+**Author:** Annie-eccs
+**Posted:** 2026-04-08
+
+to NJones Thanks for sharing! So you have access to sales pipeline? I dont anymore.
+
+#### Reply 7
+
+**Author:** Annie-eccs
+**Posted:** 2026-04-08
+
+to NJones Thank you! That's exactly what I am looking for but unfortunately Jobber hasn't made that available on my plan. I ended up finding a free solution called Trello and integrated it with Zapier (free version) if anyone else was struggling me.
+
+#### Reply 8
+
+**Author:** JHTS
+**Posted:** 2026-04-08
+
+I have been on the pipeline trial. I think it is quite good, but I do need to put more effort into learning it completely. For me, it gives a quick overview of where I need to put daily efforts - is it chasing old quotes - are they commercial or domestic, do I need to follow up with the team on bookings etc. For me it works.
+
+#### Reply 9
+
+**Author:** FredHodgeJr
+**Posted:** 2026-04-08
+
+The new pipeline feature has been great! We have added some of our own categories which helps a lot.
+
+---
+
+## 56. Marketing
+
+**Author:** AJSanMiguel (Contributor 2)
+**Posted:** 2026-04-08
+**Views:** 37 | **Likes:** 1 | **Comments:** 1
+**URL:** https://community.getjobber.com/discussions/marketing-forum/marketing/9246
+
+### Content
+
+Hello, what methods have you guys found that work the best to market a service-based company?
+
+### Replies (1)
+
+#### Reply 1
+
+**Author:** julie
+**Posted:** 2026-04-08
+
+JOBBER COMMUNITY TEAM Hey! I found a post that asks a similar question in case it's helpful: Which social media platforms work best for marketing a local service business? | Home Service Community - 9141
+
+---
+
+## 57. Winter Work Ideas
 
 **Author:** AmberATF (Contributor 2)
 **Posted:** 2026-03-31
@@ -55,108 +4283,7 @@ BUILDER 1 I have heard of a landscaping business that they do small renovations 
 
 ---
 
-## 3. How many people are currently Google Guaranteed?
-
-**Author:** jrselectric (Contributor 3)
-**Posted:** 2026-03-31
-**Views:** 5 | **Likes:** 1 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-many-people-are-currently-google-guaranteed/9853
-
-### Content
-
-We went through the process of becoming verified and Google Guaranteed, but the leads from google are super expensive. I know you can set a budget, but they just do not seem worth it. Have others had good luck using this platform?
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** judithvirag
-**Posted:** 2026-04-01
-
-BUILDER 1 Hit and miss. But it plays into how Google is going to rank you when people are seacrching and you come out higher.
-
----
-
-## 4. What's everyone doing for marketing right now? How do you market your business?
-
-**Author:** jrselectric (Contributor 3)
-**Posted:** 2026-03-24
-**Views:** 57 | **Likes:** 1 | **Comments:** 6
-**URL:** https://community.getjobber.com/discussions/marketing-forum/whats-everyone-doing-for-marketing-right-now-how-do-you-market-your-business/9696
-
-### Content
-
-Curious to see what other trades do. Currently, in my Electrical business most of it is word of mouth/referral. We do not do much marketing and need to get better at doing this. DIGITAL MARKETING STRATEGIES EMAIL MARKETING PRINTED MARKETING SOCIAL MEDIA MARKETING
-
-### Replies (6)
-
-#### Reply 1
-
-**Author:** CanopyPartners
-**Posted:** 2026-03-25
-
-We work in High-Rise condo buildings offering window services so often we reach out to board / managers of the building talk to engineers get approval for presentations in the building. This allows us face to face expo style presentations with potential clients (unit owners). We also do occasional mailings but yes, a lot of what we do is also word of mouth and references from past customers. I feel in today's world everyone is bombarded with emails and text messages they just ignore most of it. The best way is finding a way or create an event to get in front of potential customers in person in a live interactive setting. Maybe sponsor some event in the community you want to work in for example in our area many sponsors will do a trunk or treat event during Halloween; hand out candy to kids and in the meantime socialize and passively talk to their parents about your services. Branding and Name recognition is what you want when they go looking for someone offering what you offer, you could also have some small handouts a brochure or something they can take with them. Try to be creative and support some good causes in the communities you are looking to work in.
-
-#### Reply 2
-
-**Author:** jrselectric
-**Posted:** 2026-03-26
-
-to CanopyPartners That was a really smart idea!
-
-#### Reply 3
-
-**Author:** ShaneKetterman
-**Posted:** 2026-03-29
-
-jrselectric​ Not using any automated marketing anymore becuase peope are burnt out on getting "promos"....but I did just post about something I'm finding that IS working http://www.thunderheadengage.com and it should be in the Jobber marketplace soon :)
-
-#### Reply 4
-
-**Author:** judithvirag
-**Posted:** 2026-03-25
-
-BUILDER 1 We are a residential cleaning company. Google ads, SEO works well. One thing that is very interesting that we are starting to get great engaged leads through AI platforms. I am amazed as to how much people are believing AI referrals.
-
-#### Reply 5
-
-**Author:** jrselectric
-**Posted:** 2026-03-26
-
-to judithvirag Can you explain the leads through AI platforms, what do you mean by that?
-
-#### Reply 6
-
-**Author:** jrselectric
-**Posted:** 2026-03-31
-
-I want to get more activity on this post. Can others drop their marketing tips below?
-
----
-
-## 5. Rewards system
-
-**Author:** Go2Girl (Contributor 3)
-**Posted:** 2026-03-31
-**Views:** 6 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/rewards-system/9847
-
-### Content
-
-Hi! I am looking to add a rewards system for my clients, dollar for dollar, and they can redeem their points for a product. Does anyone have a way to easily track the points? My business is too big to do it manually with a spreadsheet. Thanks
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 6. Marketing for a Growing Landscaping Company (When You’re Still Wearing All the Hats)
+## 58. Marketing for a Growing Landscaping Company (When You’re Still Wearing All the Hats)
 
 **Author:** CHY (Contributor 2)
 **Posted:** 2026-03-26
@@ -178,518 +4305,7 @@ I'm not a landscaper but I do have a higher ticket average so I understand a lit
 
 ---
 
-## 7. Send Jim - Who's Using It Successfully?
-
-**Author:** HUGEHandyman (Jobber Ambassador)
-**Posted:** 2026-03-31
-**Views:** 4 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/send-jim---whos-using-it-successfully/9836
-
-### Content
-
-Hey Jobber Fam! I've been using send Jim to send out neighbor mailers after we've done jobs and haven't seen any success whatsoever. My idea was to pair that with direct Facebook marketing campaigns so that there's a higher likelihood they will see us multiple times but I've seen really low success rate with it. If you are using Send Jim, Dope Marketing, or whatever automated mailing campaigns successfully, Can you share some of your strategy? Also, if you've tried a couple of them, do you have a preference for one over the other? I love that Jobber integrates with these and makes it easy but I feel I'm missing something to make these successful.
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 8. How do you scale without burning out? 
-A quick summery of 10x is better than 2x
-
-**Author:** ZacRadcat (Contributor 2)
-**Posted:** 2026-03-24
-**Views:** 31 | **Likes:** 2 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-scale-without-burning-out-a-quick-summery-of-10x-is-better-than-2x/9658
-
-### Content
-
-How do you scale without burning out? A quick summery of 10x is better than 2x Most people assume that growing a business 2x is the “safe” and realistic path, while 10x growth sounds extreme, risky, or even unrealistic. But in 10x Is Easier Than 2x, Dan Sullivan and Benjamin Hardy argue the exact opposite: 2x growth is actually harder—and often more dangerous—than 10x growth. Why 2X Growth Is a Trap When you aim for 2x, you typically try to: Do more of what you’re already doing Take on more clients Work longer hours Add complexity without changing the system This leads to incremental growth, but also: Burnout Lower-quality decision-making More “okay” clients instead of great ones A heavier, more complicated business The book explains that 2x thinking keeps you stuck in your current identity. You’re just scaling your existing problems. Why 10X Is Actually Easier 10x forces a completely different mindset. You can’t 10x by working harder—you have to: Eliminate the majority of what you’re doing Delegate or automate everything that isn’t your unique strength Ruthlessly focus on what truly drives results Instead of asking: “How can I do more?” You start asking: “What should I stop doing entirely?” That’s the shift. The Key Concept: “Unique Ability” One of the most powerful ideas in the book is focusing on your Unique Ability—the work that: You’re best at You enjoy the most Creates the highest value Example from the Book: They describe entrepreneurs who dramatically scale their businesses not by adding more responsibilities, but by cutting 80–90% of their tasks and focusing only on their highest-leverage activities. For example: A business owner stops doing operations, admin, and low-level sales They focus only on: High-value relationships Vision Deal-making That’s where exponential growth comes from. The 80/20 Rule—Taken Further The book builds on the classic Pareto Principle (80/20 rule) and pushes it even further. Instead of stopping at: 20% of inputs → 80% of results They challenge you to go deeper: 4% of inputs → 64% of results Eventually → 1% of activities create the majority of outcomes Example: A company might realize: 80% of their revenue comes from 20% of clients But then discover: A handful of clients (maybe 5%) generate most of the profit So instead of chasing more customers, they: Drop low-value clients Double down on their best ones Increase pricing and service quality Quality Over Quantity (Where It Gets Interesting) This is where the book really stands out. Most businesses focus on: Getting more leads Closing more jobs Increasing volume But Sullivan and Hardy argue: Growth doesn’t come from more clients—it comes from better clients. Example from the Book: They highlight entrepreneurs who: Cut their client base in half Raised their prices Focused only on ideal clients The result? Less stress Higher margins Better outcomes Faster growth This flips the traditional mindset: 2x thinking = more volume 10x thinking = better selection Elimination Is the Real Growth Strategy One of the most counterintuitive ideas in the book: “If you want 10x results, you need to eliminate 80% (or more) of what you currently do.” This includes: Tasks Clients Projects Even opportunities Example: An entrepreneur may: Stop offering multiple service types Focus on one highly profitable niche Build systems around that niche Instead of being everything to everyone, they become: The best at one thing for the right people Identity Shift: The Real Barrier The biggest obstacle to 10x growth isn’t strategy—it’s identity. To grow 10x, you have to: Let go of being “busy” Stop identifying as the person who does everything Become the person who decides what matters Example: The book shares cases where entrepreneurs: Stop attending unnecessary meetings Remove themselves from day-to-day operations Build teams that operate without them They don’t just change what they do—they change who they are in the business. Final Takeaway The core message of 10X Is Easier Than 2X is simple but powerful: 2x growth = more effort, more complexity, more problems 10x growth = less but better, simpler, more focused If you want exponential results: Do less Choose better Focus only on what truly moves the needle Why This Matters (Especially for Service Businesses) For a business a handyman or service company, this translates directly: Stop chasing every job Focus on: Higher-value projects Better clients (realtors, repeat customers, premium work) Build systems that remove you from low-value work Price based on value, not time That, according to Dan Sullivan and Benjamin Hardy, is how you scale without burning out.
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** julie
-**Posted:** 2026-03-25
-
-JOBBER COMMUNITY TEAM Hey Zac, this is such a valuable breakdown. Thanks for sharing this with the community. Have you started applying any of this to your own business? If so, would love to hear what's changed for you.
-
-#### Reply 2
-
-**Author:** ZacRadcat
-**Posted:** 2026-03-27
-
-Hey Julie! Great question. Our company is Radical Handyman. We went from zero to $300k in year one, then to $650k in year two, and then up to $2.6 million in year three. That's a pretty steady 2x for us, but as has been said, "scaling just scales your problems." We have been fighting that the whole time. It hasn't felt growth. Everyone always says how great we seem to be doing, but in reality, we've been on the brink of a total collapse for months. We had to trim down and work hard to establish who we are and who we best need to serve. We discovered this book a couple of months ago, and immediately began implementing some of the key principles. As a result, we have slowly begun to crawl out of the hole we dug for ourselves. Even the mindset shift from one customer set to actively pursuing a completely different group has dramatically changed our bottom line. Within a few months of making those changes, we have gone from a team of 9 down to a team of 7 and have laser-focused in on our ideal clientele. The result is that we are no longer running a constant deficit, debts are quickly being paid off, and the employees are happier. It's still in the beginning stages, but already we can see these principles working which is exactly why I wanted to share some of the key takeaways from the book. It's tough to find time to read, which is why when you take the time, it's important to use on good stuff...10x is good stuff
-
-#### Reply 3
-
-**Author:** julie
-**Posted:** 2026-03-27
-
-JOBBER COMMUNITY TEAM to ZacRadcat Zac, this is incredible! Thank you for sharing that so openly and honestly. Going from near collapse to clarity in a matter of months... holy moly. That's not just a business win, that's a total transformation. The fact that you're not just summarizing the book but practicing and living it makes this post 10x more valuable for everyone reading it. This is exactly the kind of real, behind-the-scenes story this community needs more of. Rooting for you guys at Radical Handyman 🙌
-
----
-
-## 9. Geo location
-
-**Author:** Aldo5217 (Contributor 2)
-**Posted:** 2026-03-25
-**Views:** 23 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/geo-location/9712
-
-### Content
-
-We have couple issues with jobber, maybe just not using correctly. we have 20 users aprox. each user makes there own estimates and Invoices from Jobber from where they log in etc..., why is that they have to select their names on the invoices and estimates, How to make it so is automatically. Also I understand the software is cable of using Geo location, if they are at a address or client per happens, Why is that all customers come up for address, would be ideal for the location that the job is being done, for that location come up as a first option for customer name? Does any one knows? Thanks for all the Help
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** jade
-**Posted:** 2026-03-26
-
-Hey Aldo! Thank you for the questions! I believe you are referring to the "salesperson" feature on the quotes and invoices. This feature is set up this way for tracking and reporting. All companies are different, and some may have technicians who do not fully own that scope of work - this is why it is an option. This also comes in handy if an employee is absent, and another one needs to create a quote on their behalf. It sounds you are hoping for that section to be automatically selected based on the person who is logged in. I think that is valuable feedback, and I am happy to share it with our Product Development team! For your second question, I am not quite sure what you are referring to. I recommend reaching out to our Success Team. I think a phone call would be best to explain your request, and they would be happy to help you out with any features or workarounds! You can give them a call at 888-721-1115 ext 1.
-
----
-
-## 10. Has anyone hired a commission-based sales rep for their business?
-
-**Author:** kpm (Contributor 3)
-**Posted:** 2026-03-13
-**Views:** 219 | **Likes:** 5 | **Comments:** 15
-**URL:** https://community.getjobber.com/discussions/marketing-forum/has-anyone-hired-a-commission-based-sales-rep-for-their-business/9400
-
-### Content
-
-Has anyone hired a commission based sales rep for their landscaping company? Looking to grow our company and it’s getting harder to handle all the requests in a timely enough manner, but same time we aren’t busy enough to have another crew lead. Looking to weigh options and interested in feedback on how it’s worked for others. HOW TO GROW YOUR BUSINESS LANDSCAPING LAWN CARE LEAD GEN PROPERTY MAINTENANCE REFERRALS SALES TRAINING
-
-### Replies (15)
-
-#### Reply 1
-
-**Author:** HauerPower
-**Posted:** 2026-03-13
-
-Landscaping and Electrical are similar because the range and type of jobs can vary so much by volume, product type, and labour for the jobs. Are you looking to Have someone just bring in leads or have someone quote jobs?
-
-#### Reply 2
-
-**Author:** kpm
-**Posted:** 2026-03-25
-
-to HauerPower We're looking for someone who can bring in leads and quote jobs.
-
-#### Reply 3
-
-**Author:** HauerPower
-**Posted:** 2026-03-13
-
-Following! We hired an outside sales rep internally and it came with alot of pros and cons. The biggest takeaway was a solid process. Where are you in your journey in the sales expansion of your company?
-
-#### Reply 4
-
-**Author:** kpm
-**Posted:** 2026-03-13
-
-to HauerPower We’re currently in the early stages putting feelers out there and looking for feedback that have gone through this step before.
-
-#### Reply 5
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
-
-One way you could do it is give them a percentage of gross profits over a certain theshold - that way you make sure the jobs they are selling are profitable. For example: 1) Gross Profit Bonus Measured quarterly using QuickBooks financials. - Tiers: * 50%–52% GP: 0.25% of Gross Profit * 52%–55% GP: 0.50% of Gross Profit * 55%–57% GP: 0.75% of Gross Profit * 57%+ GP: 1.00% of Gross Profit This was for an ops manager position. Basically had a base salary then there is no cap on the amount they can make using these calculations. I don't know how sales reps would that but it could be a hybrid model.
-
-#### Reply 6
-
-**Author:** judithvirag
-**Posted:** 2026-03-14
-
-BUILDER 1 Yes we have a part time sales rep for 2 years now. She has salary and a commission based on what type of cleaning she sells.
-
-#### Reply 7
-
-**Author:** FredHodgeJr
-**Posted:** 2026-03-14
-
-For our exterior cleaning company we give our sales reps a base pay plus commissions. The total amount equals 10% of their sales. Everyone always talks about commission only sales people but I haven't found that to be realistic but I also want to incentivize them so the combo works out well for us.
-
-#### Reply 8
-
-**Author:** BwilliamsHVAC
-**Posted:** 2026-03-16
-
-Have you checked out SalesAI.com. I know a lot of people are using them to get after people that called and they never connected with to get them on the calendar. maybe the first step towards growth is winning more with the lead volume already flowing?
-
-#### Reply 9
-
-**Author:** CanopyPartners
-**Posted:** 2026-03-16
-
-I'm doing this type of thing in Chicagoland but for window services not landscaping, I'm open to connect and have some availability for cooperation/collaboration for symbiotic overlapping opportunities in Chicagoland: (example: flooring; doors; blinds/shades etc..) I'm already helping people with windows and people often ask me all the time "do you know someone that does this or that... and I'm I can be this guy for you" If I have the right connections which I am slowly building.
-
-#### Reply 10
-
-**Author:** vossreno
-**Posted:** 2026-03-17
-
-I’m in the kitchen and bath business, and one of our subcontractors who handles gutters and flashing has a full-time, commission-only sales rep that we work with. It’s been very successful for them. I’m not in the same exact line of work, but hopefully my experience can still help in some way. I recently tried hiring a commission-based sales rep myself, and the position stayed open for a long time. I was only able to fill it after I changed the structure to include a base pay along with a competitive commission rate. It was honestly a little scary for me to make that change, but he’s eager to learn and seems to be adapting quickly to our processes. I’ve even received a few compliments from clients after they worked with him. I do still believe commission-based sales can be a great model because it takes a lot of pressure off the business owner. However, if someone can’t reliably support themselves on commission alone, they may try to juggle multiple jobs or not give your position their full focus. That’s ultimately why I had to adjust the pay structure to attract the right person. Of course, every situation is different, so take my experience with a grain of salt—but I hope it helps
-
-#### Reply 11
-
-**Author:** Jamie-Miller
-**Posted:** 2026-03-25
-
-to vossreno Howdy Vossreno, out of curiosity what are the salary and commission rates your offering? For the commission only gutter guy, it’ll obvi have to be higher rate so what’s that % look to be appealing enough? thx.
-
-#### Reply 12
-
-**Author:** vossreno
-**Posted:** 2026-03-25
-
-to Jamie-Miller Yea unsure what the gutter guy gets paid, but we did $25/hr plus 5% commission and a company truck to be an experienced and lead technician.
-
-#### Reply 13
-
-**Author:** Jamie-Miller
-**Posted:** 2026-03-26
-
-to vossreno Thx for the . curious too more so at the commission rate only that the gutter guy is getting if you are able to inquire. If not, no biggie. thx again Vossreno
-
-#### Reply 14
-
-**Author:** judithvirag
-**Posted:** 2026-03-25
-
-BUILDER 1 We have a part time sales rep. Part salary and part commission. We are a residential cleaning business. Works out well. She follows up on all the leads until they tell us to buzz off :)
-
-#### Reply 15
-
-**Author:** HilltopAdOS
-**Posted:** 2026-03-25
-
-Before committing to a sales rep, worth asking what's actually happening with your current lead volume. If calls and requests are coming in but not converting fast enough, a rep won't fix that. The bottleneck is response time and qualification, not sales skill. A lot of landscaping companies in your position find that tightening up the front end, faster follow-up, better intake questions on the first contact, pre-qualifying before a quote visit, frees up enough of the owner's time to handle more volume without adding headcount yet. Once you've got that dialed in, then a rep makes sense because you're giving them warm, qualified leads instead of asking them to chase cold ones. If you do go the rep route, the base plus commission structure others mentioned here is the right call. Commission only sounds good on paper but you get part-time attention.
-
----
-
-## 11. How can I re-build my business from ground zero?
-
-**Author:** JeremyLesser86 (Contributor 2)
-**Posted:** 2026-03-21
-**Views:** 38 | **Likes:** 0 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-can-i-re-build-my-business-from-ground-zero/9640
-
-### Content
-
-Hi my name is Jeremy Lesser, I am the Business Owner/CEO of a small residential painting and home improvements business. I have been in business since 2022. After about a year or so of being in business, I about called it quits and started doing Maintenance Engineering. Well having my own business doing what I love to do the most which is drywall and painting, has been a dream of mine since I first started doing drywall and painting 15+ years ago. I want my business to succeed. I have a perpetual LLC. for my business, so I would to build my business back and Lord willing watch it grow this time. I have more patience and knowledge in it. How can I build my business with zero income and zero revenue? I have been applying for grants. Please help! Thank you and God Bless. ~Jeremy Lesser~ ADVERTISING EMAIL MARKETING GENERAL CONTRACTING HANDYMAN HOW TO GROW YOUR BUSINESS PAINTING PRINTED MARKETING PROPERTY MAINTENANCE REMODELING REVIEWS SOCIAL MEDIA MARKETING WEBSITES
-
-### Replies (2)
-
-#### Reply 1
-
-**Author:** JeremyLesser86
-**Posted:** 2026-03-21
-
-(417) 571-5302
-
-#### Reply 2
-
-**Author:** jrselectric
-**Posted:** 2026-03-24
-
-Besides trying to get funding - I would just do good old facebook/instagram advertising, word of mouth referrals, small jobs for friends who can help refer you and boost you on social media.
-
----
-
-## 12. How Do You Raise Prices Without Losing Loyal Customers?
-
-**Author:** FredHodgeJr (Jobber Ambassador)
-**Posted:** 2026-03-14
-**Views:** 48 | **Likes:** 1 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-raise-prices-without-losing-loyal-customers/9442
-
-### Content
-
-At some point every service business needs to adjust pricing as costs increase, but it can feel uncomfortable when you have long-time clients who have been with you for years. Have you found an effective way to raise prices while maintaining those relationships? Do you typically: • Give advance notice • Phase increases in over time • Offer loyalty incentives • Or simply reset pricing across the board? Interested to hear what approaches have worked well for others. PRICING STRATEGIES
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** Aatrades719
-**Posted:** 2026-03-18
-
-A&A Trades & Acquisitions, LLC, raising prices without losing loyal customers comes down to transparency, value, and communication. 1. Communicate Clearly and Early: Let customers know why prices are changing before it happens. Be honest about rising costs, improved services, or investments in better equipment and safety. People respect transparency. 2. Emphasize Value: Show that the increase isn’t just a number—it’s tied to higher quality, faster turnaround, safer practices, or better results. When clients see the benefit, they’re more willing to invest. 3. Reward Loyalty: Offer loyal customers perks priority scheduling, bundled services, or small discounts to show appreciation for their long-term support. 4. Gradual Adjustments: If possible, phase in increases instead of making a sudden jump. This helps customers adjust without feeling shocked or undervalued. 5. Maintain Exceptional Service: Reputation is everything. Continuing to deliver consistent, high-quality work reinforces that your service is worth every dollar. In short, when price changes are communicated openly, tied to real value, and paired with appreciation for loyalty, most customers will understand—and continue to choose your business.
-
-#### Reply 2
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
-
-I agree with this guy ^^^ Let them know this is happening and why it's happening. Let them know a few times. When they reach out for a job tell them, "hey we increased our rates because of X Y and Z but I can give you this job at our old rate (or at a discount) because we are so grateful for the support you gave us to get this far. You should be showing up in their emails weekly or monthly anyway so they'll be used to hearing from you. Also come from it from the persepective of this increased rate is what it takes to get it done, not I need more money for myself. I had a mentor once tell me - "the main function of a business, is to STAY IN BUSINESS". You can't do that if you aren't charging enough.
-
-#### Reply 3
-
-**Author:** roselvaggio
-**Posted:** 2026-03-24
-
-For recurring cleaning, we have found a 30-day notice works for us- this gives them the opportunity to think it over/find a new company if they’re not okay with it. We do highlight via email the value and importance of our reliability and professionalism and include reasons why. We never raise the cost astronomically (industry standard is 4-10%). We typically only raise rates annually.
-
----
-
-## 13. How fast are you sending estimates right now?
-
-**Author:** Lisa (Jobber Community Team)
-**Posted:** 2026-03-18
-**Views:** 63 | **Likes:** 0 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-fast-are-you-sending-estimates-right-now/9518
-
-### Content
-
-JOBBER COMMUNITY TEAM How quickly do you respond when a lead requests a quote? What tools are you using to speed up the process? In this episode of Masters of Home Service,​ ryaantuttle​ and WiringByron​ break down: Why faster replies win you more jobs (and boost close rates by 30%) How online booking and video calls help you quote without site visits How quote templates, automation, and AI speed up estimates to minutes Video provider requires cookies to play the video. Accept to continue or watch it directly on the provider's site. Accept Never miss an episode of Masters of Home Service. Subscribe on Apple, Spotify, or wherever you get your podcasts. ELECTRICAL CONTRACTING GENERAL CONTRACTING HANDYMAN HOW TO GROW YOUR BUSINESS LEAD GEN SALES TRAINING
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** WiringByron
-**Posted:** 2026-03-24
-
-https://linktr.ee/Wiringbyron Thanks for having us on the podcast, Jobber! If anyone has any questions or wants to talk about Jobber or anything at all, please reach out to me any time.
-
-#### Reply 2
-
-**Author:** readysetorg
-**Posted:** 2026-03-18
-
-I try to respond as fast as humanly possible, haha. If I can call them right away, I do. Sometimes it scares people how fast we are, but those are the people who end up booking. I use a Zapier integration that sends an automated email right away saying someone will reach out within 24 hours. Then I follow up with a call (or a text to set up a call) and only after I've spoken to them on the phone, do I send a follow up email recaping our process, pricing, and listing availability. This has seemed to work really well for us. Curious what others do!
-
-#### Reply 3
-
-**Author:** Lisa
-**Posted:** 2026-03-19
-
-JOBBER COMMUNITY TEAM to readysetorg I really how intentional your process is! Pairing that quick automation with a personal follow-up, then a simple recap after the call just feels really solid. Speed clearly works in your favor! Thanks for sharing this.
-
----
-
-## 14. How to Stand Out I
-
-**Author:** ZacRadcat (Contributor 2)
-**Posted:** 2026-03-24
-**Views:** 14 | **Likes:** 1 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-stand-out-i/9660
-
-### Content
-
-This may seem incredibly simple, but in our world of millions of marketing options I think it's important to just go back to the basics. Two service companies I have worked with in the past couple years have seen strong and consistent growth with a tiny or even non-existent marketing budget. How? Word of mouth referral. I'm not saying paid marketing isn't important, it very much is! But there are some free things all great companies, specifically service companies should be doing all the time. So... Answer your phone. Communicate Clearly and Professionally Show up on time. Do what you said you’d do. Do great work People give money to people they . So be likable. Be honest above all else. And when in doubt, always remember the golden rule; "Do unto others what you would have them do unto you." You do those things and you will always have businesses. Fail to do those things and you will fail. How big your business scales is determined by many other factors, but those basic principles are essential.
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 15. How do you explain a failed inspection to a client when the issue is minor?
-
-**Author:** HauerPower (Contributor 2)
-**Posted:** 2026-03-17
-**Views:** 41 | **Likes:** 1 | **Comments:** 3
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-do-you-explain-a-failed-inspection-to-a-client-when-the-issue-is-minor/9499
-
-### Content
-
-What's your favorite way to let your client know that an inspection failed over something silly? CONSTRUCTION
-
-### Replies (3)
-
-#### Reply 1
-
-**Author:** PestFreeCanada
-**Posted:** 2026-03-17
-
-I offer my clients a 12 month warranty on my pest control service (rodents) if they agree to have me complete all the exclusion work I recommend. Then I kill off what ever population is in the house and walk away...95% of the time. If they see activity after 2 weeks that is pretty much me saying I missed something and failed the inspection. It's not my favourite way but its my only way. People are never angry or upset because the current population is going to be lessened, and everyone knows what a persistent mouse can do. I will show up again and make sure I do a good second inspection and ensure nothing was missed. A second pass of the house in the opposite direction or from a different angle does sometimes help anyway.
-
-#### Reply 2
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
-
-You need to have rock solid contracts to set this up well and it needs to be very visible. Then when something fails, it needs to be addressed with a phone call and you need to break the news to them professionally. Let them react - listen to them being frustrated then let them know whatever the consequences of that are. For us, if they didn't give us enough info and we can't do any work, we charge them $250 for the failed visit. I explain this isn't so I make money, in fact I don't make anything on that. It's so I can pay my guys who planned their day around their job and now can't work because they were on the schedule taking the place of another job. Usually hearing the humanity behind it softens the blow.
-
-#### Reply 3
-
-**Author:** jrselectric
-**Posted:** 2026-03-21
-
-I think it depends what the issue was. If its something that I overlooked, I would take accountability and tell them I will rectify the issue (We are only human). Sometimes also, I tell them certain inspectors look for certain things and even though we follow the minimum safety requirements which is the code book, the authority having jurisdiction (*inspector) can requests more work be done. Then I would obviously not charge for paying the inspector again and/or any minor issue that comes up.
-
----
-
-## 16. What are some unique ways you’re using Jobber email campaigns for?
-
-**Author:** roselvaggio (Jobber Ambassador)
-**Posted:** 2026-03-14
-**Views:** 25 | **Likes:** 2 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/what-are-some-unique-ways-you%E2%80%99re-using-jobber-email-campaigns-for/9456
-
-### Content
-
-I need to be more intentional with client newsletters, and we only seem to use the email campaigns when trying to fill the schedule. Our office manager has been working on an automated email campaign for lost leads. I’m curious to hear what others are using it for! EMAIL MARKETING
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
-
-I use this function for a few different things: Weekly newsletter. I love that it's not overly complicated to put a simple educational email together. I have an SOP for my team to choose a subject, use job pictures from Jobber and use Chat GPT to make a newsletter Post job follow up after 60 days - It's literally called, "How's everything looking" and just touches base with the customers. A lot of people don't respond but they know we are thinking about them. I also have this set up in jobber text automations. I don't abide by the no new is good news, I to get in front of it. Invoice follow ups - if we aren't getting paid, you can't bug them too much Pre job info - for certain jobs we send a prep email. What to expect, who to talk to etc.
-
----
-
-## 17. Should Home Service Companies Charge Minimum Service Fee?
-
-**Author:** FredHodgeJr (Jobber Ambassador)
-**Posted:** 2026-03-14
-**Views:** 43 | **Likes:** 2 | **Comments:** 2
-**URL:** https://community.getjobber.com/discussions/marketing-forum/should-home-service-companies-charge-minimum-service-fee/9443
-
-### Content
-
-Many home service businesses run into situations where customers request small jobs that only take 10–20 minutes but still require travel time, setup, and administrative work. Some companies implement a minimum service fee to make sure those jobs remain profitable, while others worry it may scare away potential customers. For those in the home service industry: • Do you charge a minimum service fee? • If so, what is your minimum and how did you determine it? • How do customers typically respond when they hear there is a minimum? • Have you found it helps filter out unprofitable jobs? Curious how others approach this balance between profitability and customer experience. PRICING STRATEGIES
-
-### Replies (2)
-
-#### Reply 1
-
-**Author:** TurfT
-**Posted:** 2026-03-15
-
-I run a lawn care business and I do charge a minimum service fee. Even if a job only takes a few minutes, there is still travel time, setup, and admin involved. The exact minimum really depends on your industry and your costs, so the key is knowing your numbers and making sure the minimum at least covers travel, time, and overhead. In terms of customer reactions, some people will decline when they hear there’s a minimum, and that’s okay. In my experience it’s better to be consistent and confident in your pricing rather than making exceptions that don’t make sense for the business. I’ve also found that maintaining a minimum helps filter out jobs that would otherwise be unprofitable. It allows you to focus on work that makes sense for both the customer and the business.
-
-#### Reply 2
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-20
-
-1000% you need a minimum. How you figure this out is really understanding your numbers. For us, we used to do a 1/4 day min charge. What I found out is people were trying to run my guys around to get as much out of us as they can. I would net less than $100 of profit on those jobs then we would have call backs because my guys were rushed then poof there goes the profits. Then we raised our min to a half day - $500. You know what? People still tried to run us around but at least my guys had the time to actually repair the issues. People complain it's expensive ... so is my cost of doing business! One thing I started doing is I found a comparable business with a lower minimum that would be ok with lower value you jobs. So we send them referrals and they pay us a fee for it. Boom problem solved.
-
----
-
-## 18. What’s the best way to manage and track leads in Jobber?
-
-**Author:** Annie-eccs (Contributor 2)
-**Posted:** 2026-03-12
-**Views:** 106 | **Likes:** 2 | **Comments:** 9
-**URL:** https://community.getjobber.com/discussions/marketing-forum/what%E2%80%99s-the-best-way-to-manage-and-track-leads-in-jobber/9345
-
-### Content
-
-Hi! I have searched all throughout old conversations to try and see if anyone else has run into the same challenge I'm currently facing and read some good advice but I wanted to see if anyone had anything new to add. I'm looking for a way to actually track leads, whether that be in jobber with request titles, tags, or custom fields OR integrating a whole separate lead management software. I don't leads to stay in the new request stage until an assessment is schedule as I do not provide in home estimates. Does anyone have any workarounds they use in jobber for better tracking lead stages and a better system to track when you need to call, text, follow up etc. Or if you found a better integration option. Thank you!! CLEANING
-
-### Replies (9)
-
-#### Reply 1
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
-
-Jobber is rolling out a pipeline feature that basically makes a kanban view of what NJones just described. We are in the process of integrating Go High Level with jobber which can automatically move people through and drop them in to different automation sequences. There is a prebuilt mod called Snipey lead that had a lot of these mostly set up and you just have to tweak them. The integration between Jobber and Snipey is done through a bunch of zapier zaps. Kind of a pain to set up but once you get it going, it takes all you jobber stuff and super charges it. I don't think it's realistic for Jobber to be excellent at everything (although they are certainly trying) so you have to explore some of the integrations to make you business seamless. SnipeyLead | Convert More Home Service Leads Into Sales
-
-#### Reply 2
-
-**Author:** Annie-eccs
-**Posted:** 2026-03-14
-
-to HUGEHandyman Yes, I saw the pipeline feature coming tbd. I actually just signed up for the free trial oh GHL to see if that can help, but haven't had time to fully dive in. I agree, it's not realistic haha. It would be nice to have a one stop shop so I am looking into integrations. GHL looks great just not sure if I need to pay someone to help me build it out. Thanks for sharing!
-
-#### Reply 3
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-14
-
-to Annie-eccs I'm FOR SURE paying someone to set it up haha You'll waste so much time doing it. Check out the snipey leads thing - they have some basic functions already done and instructional videos. The reason I'm paying is, they want snipey to be the primary sales CRM but I want everything to start in jobber so some of the integrations need to be customized. I have a contact for someone if you want to talk to an expert on setting it up.
-
-#### Reply 4
-
-**Author:** Annie-eccs
-**Posted:** 2026-03-14
-
-to HUGEHandyman Hahaha! Absolutely! Will do - thank you! I'm looking into several options, zoho too. I might circle back with you on the contact, thanks!
-
-#### Reply 5
-
-**Author:** NJones
-**Posted:** 2026-03-13
-
-What has worked well for us is keeping it simple and creating clear stages inside the system. Instead of leaving everything in new request, move leads through a few defined steps new lead, contacted, waiting on client, scheduled, and closed. That way you can see exactly where everyone sits. Tags or custom fields can also help track where the lead came from so you know what marketing is working. For follow ups we rely on tasks or reminders tied to the request, so nothing falls through the cracks. The biggest thing is making sure every lead gets moved to the next stage quickly, so the pipeline stays clean and easy to review.
-
-#### Reply 6
-
-**Author:** Annie-eccs
-**Posted:** 2026-03-13
-
-to NJones Thanks for sharing! So you have access to sales pipeline? I dont anymore.
-
-#### Reply 7
-
-**Author:** Annie-eccs
-**Posted:** 2026-03-19
-
-to NJones Thank you! That's exactly what I am looking for but unfortunately Jobber hasn't made that available on my plan. I ended up finding a free solution called Trello and integrated it with Zapier (free version) if anyone else was struggling me.
-
-#### Reply 8
-
-**Author:** JHTS
-**Posted:** 2026-03-14
-
-I have been on the pipeline trial. I think it is quite good, but I do need to put more effort into learning it completely. For me, it gives a quick overview of where I need to put daily efforts - is it chasing old quotes - are they commercial or domestic, do I need to follow up with the team on bookings etc. For me it works.
-
-#### Reply 9
-
-**Author:** FredHodgeJr
-**Posted:** 2026-03-14
-
-The new pipeline feature has been great! We have added some of our own categories which helps a lot.
-
----
-
-## 19. Marketing
-
-**Author:** AJSanMiguel (Contributor 2)
-**Posted:** 2026-03-10
-**Views:** 23 | **Likes:** 1 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/marketing/9246
-
-### Content
-
-Hello, what methods have you guys found that work the best to market a service-based company?
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** julie
-**Posted:** 2026-03-19
-
-JOBBER COMMUNITY TEAM Hey! I found a post that asks a similar question in case it's helpful: Which social media platforms work best for marketing a local service business? | Home Service Community - 9141
-
----
-
-## 20. Marketing Funnels - What are you using?
+## 59. Marketing Funnels - What are you using?
 
 **Author:** HUGEHandyman (Jobber Ambassador)
 **Posted:** 2026-03-19
@@ -711,7 +4327,7 @@ No Replies Be the first to
 
 ---
 
-## 21. What 3rd Party SMS service do folks use for sending mass / bulk texts to their clients?
+## 60. What 3rd Party SMS service do folks use for sending mass / bulk texts to their clients?
 
 **Author:** Kyle_Klevjer (Contributor 3)
 **Posted:** 2026-03-17
@@ -754,7 +4370,7 @@ I've been using Chiirp - It's ok. It's $350/month and it has a lot of capability
 
 ---
 
-## 22. Restarting a 25-Year Landscape Business in a New City — Best Marketing Strategies Today?
+## 61. Restarting a 25-Year Landscape Business in a New City — Best Marketing Strategies Today?
 
 **Author:** Jettmiff (Contributor 2)
 **Posted:** 2026-03-16
@@ -790,7 +4406,7 @@ Hi, utilize social media such as Facebook, tiktok, and more. That's where you ca
 
 ---
 
-## 23. Which marketing strategies have brought you the best customers?
+## 62. Which marketing strategies have brought you the best customers?
 
 **Author:** JorgeAAH16 (Contributor 2)
 **Posted:** 2026-03-10
@@ -840,29 +4456,7 @@ Google! Jobber works with NiceJob and due to this, we now have over 450 five-sta
 
 ---
 
-## 24. Profits
-
-**Author:** westsidedred2 (Contributor 2)
-**Posted:** 2026-03-17
-**Views:** 9 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/profits/9504
-
-### Content
-
-How much profit is a quota? ADVERTISING CAMPAIGN GENERATOR CAMPAIGNS CLEANING GENERAL CONTRACTING HANDYMAN HOW TO GROW YOUR BUSINESS LAWN CARE PRESSURE WASHING PRICING STRATEGIES SALES TRAINING
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 25. Your Top 3 KPI's
+## 63. Your Top 3 KPI's
 
 **Author:** HauerPower (Contributor 2)
 **Posted:** 2026-03-17
@@ -884,7 +4478,7 @@ No Replies Be the first to
 
 ---
 
-## 26. Advertisement
+## 64. Advertisement
 
 **Author:** nchiamaka168 (Contributor 2)
 **Posted:** 2026-03-15
@@ -906,7 +4500,7 @@ JOBBER COMMUNITY TEAM Hi there, welcome to the community! Thanks for starting a 
 
 ---
 
-## 27. Do you have a Instagram Business account? How are you utilizing tools built within it?
+## 65. Do you have a Instagram Business account? How are you utilizing tools built within it?
 
 **Author:** PestFreeCanada (Contributor 5)
 **Posted:** 2026-03-07
@@ -970,7 +4564,7 @@ Couldn’t agree more! Very good points
 
 ---
 
-## 28. Mitigation, mold remediation, clean air demolition.
+## 66. Mitigation, mold remediation, clean air demolition.
 
 **Author:** Stevepoolguy (Contributor 2)
 **Posted:** 2026-03-10
@@ -992,7 +4586,7 @@ No Replies Be the first to
 
 ---
 
-## 29. Why Simple Marketing Works for Service Businesses — Less Is More!
+## 67. Why Simple Marketing Works for Service Businesses — Less Is More!
 
 **Author:** Apex-solutionz (Contributor 2)
 **Posted:** 2026-03-09
@@ -1021,149 +4615,7 @@ JOBBER COMMUNITY TEAM Simplicity in marketing is something many service business
 
 ---
 
-## 30. Automation to extract job photos from "closed" jobs.
-
-**Author:** BHS (Contributor 3)
-**Posted:** 2025-08-02
-**Views:** 307 | **Likes:** 0 | **Comments:** 9
-**URL:** https://community.getjobber.com/discussions/marketing-forum/automation-to-extract-job-photos-from-closed-jobs-/5256
-
-### Content
-
-I want to extract our "closed" job photos via automation so we can repurpose those for SMM, GBP Post, and other marketing activities. Does anyone have any experience with this that they could share? ADVERTISING DIGITAL MARKETING STRATEGIES LEAD GEN SEO SOCIAL MEDIA MARKETING
-
-### Replies (9)
-
-#### Reply 1
-
-**Author:** techguysimon
-**Posted:** 2025-08-02
-
-Exactly! With all of the integrations at your disposal in Zapier and their AI features sky is the limit once we get the data exported.
-
-#### Reply 2
-
-**Author:** BHS
-**Posted:** 2025-08-02
-
-techguysimon​ You've got me very excited about the possibilities. I'll DM you to discuss working together further.
-
-#### Reply 3
-
-**Author:** techguysimon
-**Posted:** 2025-08-02
-
-to BHS BHS​ Awesome! I look forward to working with you!
-
-#### Reply 4
-
-**Author:** techguysimon
-**Posted:** 2025-08-02
-
-Hey BHS​ , I’ve tackled similar projects and can whip up a custom Zapier integration with Jobber to seamlessly extract those photos and stash them in a Google Drive folder for your marketing magic! It’s a step up from the default integration, unlocking the photos with a simple short flow. If Zapier isn’t your vibe, I’ve also built similar integrations running code on cloud providers AWS, Google Cloud, & Cloudflare. Hit me up if you want to dive into the details!
-
-#### Reply 5
-
-**Author:** BHS
-**Posted:** 2025-08-02
-
-to techguysimon Thanks for the . So, if I'm understanding this correctly, it's doable, and if I use Zapier, then that would allow me to create other downstream Zaps to further automate my desired workflow?
-
-#### Reply 6
-
-**Author:** Aswath
-**Posted:** 2025-08-02
-
-to BHS BHS​ Here, In the zap, you should still write code graphql api to extract the photos and then send downstream
-
-#### Reply 7
-
-**Author:** techguysimon
-**Posted:** 2025-08-02
-
-to Aswath Aswath​ This is exactly with the custom integration action that I'm talking about does.
-
-#### Reply 8
-
-**Author:** risingphoenix
-**Posted:** 2026-03-26
-
-to techguysimon I would love to use this automation! What do you need from me?
-
-#### Reply 9
-
-**Author:** AswathVeersoft
-**Posted:** 2026-03-26
-
-to risingphoenix After extraction of the photos, what do you do further. Do you do further downstream integrations? If so with what ?
-
----
-
-## 31. Which social media platforms work best for marketing a local service business?
-
-**Author:** adlgado (Contributor 2)
-**Posted:** 2026-03-05
-**Views:** 161 | **Likes:** 2 | **Comments:** 7
-**URL:** https://community.getjobber.com/discussions/marketing-forum/which-social-media-platforms-work-best-for-marketing-a-local-service-business/9141
-
-### Content
-
-Managing partner here for Rene & Son's Landscaping, Inc. in Wheeling IL. Was just wondering and trying to get everyone's input on this. I'm 25 and when it comes to social media marketing I am kind of at a loss. Is Facebook still a thing that a lot of people use? I have FB but barely use it. I know older generations use Facebook but to what extent. Should I be focusing my marketing more toward Instagram or tik tok? I mean as we continue to move forward should our focus shift into different marketing trends. Should the focus be more on Google marketing or Yelp? Do people still use Yelp? ADVERTISING BRANDING DIGITAL MARKETING STRATEGIES HOW TO GROW YOUR BUSINESS SOCIAL MEDIA MARKETING
-
-### Replies (7)
-
-#### Reply 1
-
-**Author:** HUGEHandyman
-**Posted:** 2026-03-06
-
-You definitely need to have your GMB page dialed in. If you don't know what you need to do, ask chat gpt. That has to be optimized (pictures, videos, services, products, etc etc). Jobber has had a few podcasts on that so definitely look in to it. For social media - you really need to just be posting consistently on all of them. If you make something for IG, post it on tik tok and you tube. If you post on IG, is automatically puts in on Facebook. The main thing to keep in mind, your page needs to be appealing to your avatar customer. If you're trying to bring in business (and not just follows) you need to have customer testimonials, videos of your projects, videos of you specifically, picture carosels, literally all of it. And you need to be consistent! Is it a lot? Yes! Sometimes I go 5 days without posting because I'm getting my butt kicked but be as consistent as you can. Another trick I've tried to get followers is pay for boosting posts. You can pinpoint the audience you are looking for and boost it. Pick the area you serve and people that what you're selling and boost it. Facebook marketing is also good but they have whole programs on how to market there. I can put you on to something that if you have some money to invest in your education but follow the advice above, know it's not an overnight fix, and you should be ok.
-
-#### Reply 2
-
-**Author:** NJones
-**Posted:** 2026-03-06
-
-Facebook still works really well for us because it reaches all age groups, especially homeowners who are making buying decisions. Our biggest drivers have been: 1. Facebook marketing 2. Google presence and reviews 3. Instagram for showcasing work TikTok can be good for exposure, but Facebook and Google tend to bring in more local paying customers. At the end of the day though, quality work and strong Google reviews are the best marketing.
-
-#### Reply 3
-
-**Author:** Ogun
-**Posted:** 2026-03-05
-
-For starters do you have a Google Business page? I think you should use all the major social media platforms and see which ones have the best response for your business.
-
-#### Reply 4
-
-**Author:** PestFreeCanada
-**Posted:** 2026-03-07
-
-I read an article lately that Boomers are starting to move a lot of money into the next generation of small business. They have ageing homes and a lot are looking to downsize which would require a lot of blue collar work to either maintain or prepare for a sale. A lot of those Boomers are on Facebook. So I would say you should know your demographic, know who your customers are and find out where they are. Where they are looking for contractors. From the article I also took that Boomers have heard the news about the Chinese government involvement with TikTok and don't trust the platform due to historically bad relations with China and the West. They trust Facebook and Google as a homegrown company and still use it quite consistently. You can make your own decisions about that comment though! I will try and find that article and post it for everyone because it was very interesting. Get a good Google profile and ask for as many reviews as you can. Start a Facebook page and post some interesting things on there. I am a dinosaur when it comes to social media, but I committed myself to stepping it up in 2026! If I can do it, anyone can.
-
-#### Reply 5
-
-**Author:** TheGlowGetter
-**Posted:** 2026-03-07
-
-At Jobber Summit on Wednesday, Cheryl had an awesome session about boosting your presence in local Facebook groups. Post as often as you're allowed to and make your posts eye-catching. She said group members will start to recognize you if you post often, therefore they're more likely to recommend you. I joined a ton of local groups in the markets we service and started posting. We'll see what happens but the older generation is definitely on Facebook so still use it as a marketing tool!
-
-#### Reply 6
-
-**Author:** roselvaggio
-**Posted:** 2026-03-10
-
-I think it depends on your industry. We’re able to really personalize our brand through Instagram and reels, but a lot of of our business comes in from local Facebook Neighbourhood groups.
-
-#### Reply 7
-
-**Author:** ChrisGagnon
-**Posted:** 2026-03-25
-
-Know your audience, choose the right channel to reach them, and the message you want to communicate.
-
----
-
-## 32. Do you charge for estimates, and has it worked for your business?
+## 68. Do you charge for estimates, and has it worked for your business?
 
 **Author:** DelgadoKW (Contributor 3)
 **Posted:** 2026-03-02
@@ -1248,7 +4700,7 @@ to Reynaldo22 What I would do in your case - If you have a lot of work, charge f
 
 ---
 
-## 33. On line help
+## 69. On line help
 
 **Author:** Jrhvac (Contributor 2)
 **Posted:** 2026-03-07
@@ -1270,7 +4722,7 @@ JOBBER COMMUNITY TEAM Hey Jrhvac​ , thanks for starting this post! When you me
 
 ---
 
-## 34. In small rural areas... How do you keep your prices reasonable?
+## 70. In small rural areas... How do you keep your prices reasonable?
 
 **Author:**  (Contributor 2)
 **Posted:** 2026-03-08
@@ -1292,7 +4744,7 @@ This is a little bit of a touchy subject for me - I'm quite passionate about tha
 
 ---
 
-## 35. What are you doing right now to make the phone ring for your business?
+## 71. What are you doing right now to make the phone ring for your business?
 
 **Author:** brooksmcnichols (Contributor 2)
 **Posted:** 2026-03-02
@@ -1356,7 +4808,7 @@ You want phone calls fast? Hows your website? Google Business Page? We set ours 
 
 ---
 
-## 36. When a customer says, "That's too expensive," how do you respond?
+## 72. When a customer says, "That's too expensive," how do you respond?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2026-03-02
@@ -1420,7 +4872,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr This is such a great breakdown, Fred! You�
 
 ---
 
-## 37. Most Profitable Marketing
+## 73. Most Profitable Marketing
 
 **Author:** Stapleton (Contributor 2)
 **Posted:** 2025-04-02
@@ -1484,7 +4936,7 @@ This companies motto is proving ROI and ROAS to companies to show what is workin
 
 ---
 
-## 38. How do you educate customers about pest prevention without giving away too much?
+## 74. How do you educate customers about pest prevention without giving away too much?
 
 **Author:** PestFreeCanada (Contributor 5)
 **Posted:** 2026-03-02
@@ -1520,7 +4972,7 @@ I'm not in the pest business but my business is similar because there is an elem
 
 ---
 
-## 39. Facebook & Instagram Ads for Local Service Businesses: What Works Best?
+## 75. Facebook & Instagram Ads for Local Service Businesses: What Works Best?
 
 **Author:** Dina_PJC (Contributor 2)
 **Posted:** 2026-01-02
@@ -1598,7 +5050,7 @@ to Pstock1988 I always use a campaign spend because it tells your reach and it c
 
 ---
 
-## 40. Lead generating apps, is anyone using them?
+## 76. Lead generating apps, is anyone using them?
 
 **Author:** PestFreeCanada (Contributor 5)
 **Posted:** 2026-01-02
@@ -1662,7 +5114,7 @@ You’re not wrong at all. What you’re experiencing isn’t a flaw in those pl
 
 ---
 
-## 41. Lead Generator vrs Digital marketing and trying to market yourself
+## 77. Lead Generator vrs Digital marketing and trying to market yourself
 
 **Author:** GreenwoodPro (Contributor 2)
 **Posted:** 2026-03-02
@@ -1705,7 +5157,7 @@ i do i have nextdoor facebook google business page and website. so far ive been 
 
 ---
 
-## 42. Postcard marketing
+## 78. Postcard marketing
 
 **Author:** DanielG2024 (Contributor 2)
 **Posted:** 2025-04-02
@@ -1797,7 +5249,7 @@ to ryaantuttle I didn't realize jobber integrated with Sendjim I'll have to look
 
 ---
 
-## 43. What price objections do home service customers most commonly have?
+## 79. What price objections do home service customers most commonly have?
 
 **Author:** rebecca (Jobber Community Team)
 **Posted:** 2026-03-02
@@ -1840,7 +5292,7 @@ People make objections for a few reasons… it’s sport to them - they love get
 
 ---
 
-## 44. What Are the Best Low-Cost Marketing Ideas for Home Service Businesses?
+## 80. What Are the Best Low-Cost Marketing Ideas for Home Service Businesses?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2026-02-02
@@ -1953,7 +5405,7 @@ It appears Google My Business! Using the nice job add-on, it automates our reque
 
 ---
 
-## 45. Virtually Estimating with Video and A.I
+## 81. Virtually Estimating with Video and A.I
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2026-03-02
@@ -1975,7 +5427,7 @@ No Replies Be the first to
 
 ---
 
-## 46. You Get One Billboard.....
+## 82. You Get One Billboard.....
 
 **Author:** ryaantuttle (Jobber Ambassador)
 **Posted:** 2026-02-02
@@ -2032,7 +5484,7 @@ our latest
 
 ---
 
-## 47. What to do when business gets slow?
+## 83. What to do when business gets slow?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-09-02
@@ -2068,7 +5520,7 @@ I ran my own small business marketing company for over 10 years and I can defini
 
 ---
 
-## 48. How Are You Designing Funnels That Actually Convert Service Leads?
+## 84. How Are You Designing Funnels That Actually Convert Service Leads?
 
 **Author:** Funnelsflex (Contributor 2)
 **Posted:** 2026-02-02
@@ -2090,7 +5542,7 @@ No Replies Be the first to
 
 ---
 
-## 49. How do you keep your service marketing simple and consistent over time?
+## 85. How do you keep your service marketing simple and consistent over time?
 
 **Author:** Funnelsflex (Contributor 2)
 **Posted:** 2026-02-02
@@ -2112,7 +5564,7 @@ BUILDER 1 Great question and struggle myself with this. Would love to see any gr
 
 ---
 
-## 50. What’s the single biggest change you made that increased your close rate the most in 2025?
+## 86. What’s the single biggest change you made that increased your close rate the most in 2025?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-02-02
@@ -2134,7 +5586,7 @@ No Replies Be the first to
 
 ---
 
-## 51. Less is MORE!
+## 87. Less is MORE!
 
 **Author:** Apex-solutionz (New Member)
 **Posted:** 2026-03-09
@@ -2156,7 +5608,7 @@ No Replies Be the first to
 
 ---
 
-## 52. What percentage of revenue did you spend on marketing in 2025, and what's your 2026 target?
+## 88. What percentage of revenue did you spend on marketing in 2025, and what's your 2026 target?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-01-27
@@ -2185,7 +5637,7 @@ We're at 10% this year, came in at 9.1% in 2025. We're pretty aggressive and we 
 
 ---
 
-## 53. Should you use yourself as your model in your advertisement campaign?
+## 89. Should you use yourself as your model in your advertisement campaign?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2026-01-27
@@ -2214,7 +5666,7 @@ JOBBER COMMUNITY TEAM Hello! Marketing professional here on the Jobber side, and
 
 ---
 
-## 54. We have a hard rule that all marketing must hit a 5:1 ROI or it gets dropped.
+## 90. We have a hard rule that all marketing must hit a 5:1 ROI or it gets dropped.
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2026-01-27
@@ -2236,7 +5688,7 @@ JOBBER COMMUNITY TEAM That’s a strong benchmark, Fred. Having a clear cutoff :
 
 ---
 
-## 55. Client leads
+## 91. Client leads
 
 **Author:** turrisico (Contributor 2)
 **Posted:** 2026-01-27
@@ -2265,211 +5717,7 @@ JOBBER COMMUNITY TEAM Networking and door hangers come up a lot. Networking only
 
 ---
 
-## 56. Putting in the work, but no clients yet. What would you do in my shoes?
-
-**Author:** jose-miami (Contributor 3)
-**Posted:** 2025-06-27
-**Views:** 821 | **Likes:** 10 | **Comments:** 27
-**URL:** https://community.getjobber.com/discussions/marketing-forum/putting-in-the-work-but-no-clients-yet-what-would-you-do-in-my-shoes/4371
-
-### Content
-
-I recently started my pool service business here in Miami. I’ve been working hard to get it off the ground, created a clean competitive website, post regularly on social media, and even hand out handwritten cards door to door. But despite all that, I’m still struggling to find clients. I know the pool industry is highly competitive here. For those of you with more experience, what helped you get customers early on? Thanks in advance 🙏 Also, if you're in Miami and ever want to connect in person, I’d be happy to meet up and exchange insights. You can find my contact info on my website: https://sapphirepools.co ADVERTISING EMAIL MARKETING HOW TO GROW YOUR BUSINESS POOL & SPA PRINTED MARKETING SOCIAL MEDIA MARKETING globalsvcs 7 months ago I completely understand how you're feeling. I’ve been there myself. In the cleaning industry, I marketed hard and still saw little return at first. What started to shift things for me was developing a personable elevator pitch and putting myself in places where I could genuinely connect with people, local Chamber of Commerce events, festivals, Wine after Dark, and any setting that allowed for real conversations. Truth be told, when you’re in those types of settings, the first question that usually comes up is “So, what do you do?” What I learned quickly is that people do business with people they . Time and time again, I’ve seen clients stick with vendors who were just "okay" because they had built a personal connection. And while you and I both know we provide professional, timely, and top-quality work, at the end of the day, we’re in a service-based industry, which means we’re selling something intangible. At the start, all you have is your word. So, keep marketing, but make sure you're also selling yourself first, your personality, your integrity, and your dependability. People remember how you made them feel. If they you, they’ll trust what you offer. I follow a simple model, not grammatically perfect, but it works: ABS (Always Be Selling). Have a strong elevator pitch and keep networking. That personal connection can open doors that marketing alone can’t. Keep pushing. Warm Regards
-
-### Replies (27)
-
-#### Reply 1
-
-**Author:** globalsvcs
-**Posted:** 2025-07-27
-
-I completely understand how you're feeling. I’ve been there myself. In the cleaning industry, I marketed hard and still saw little return at first. What started to shift things for me was developing a personable elevator pitch and putting myself in places where I could genuinely connect with people, local Chamber of Commerce events, festivals, Wine after Dark, and any setting that allowed for real conversations. Truth be told, when you’re in those types of settings, the first question that usually comes up is “So, what do you do?” What I learned quickly is that people do business with people they . Time and time again, I’ve seen clients stick with vendors who were just "okay" because they had built a personal connection. And while you and I both know we provide professional, timely, and top-quality work, at the end of the day, we’re in a service-based industry, which means we’re selling something intangible. At the start, all you have is your word. So, keep marketing, but make sure you're also selling yourself first, your personality, your integrity, and your dependability. People remember how you made them feel. If they you, they’ll trust what you offer. I follow a simple model, not grammatically perfect, but it works: ABS (Always Be Selling). Have a strong elevator pitch and keep networking. That personal connection can open doors that marketing alone can’t. Keep pushing. Warm Regards
-
-#### Reply 2
-
-**Author:** GreenThumb777
-**Posted:** 2025-07-27
-
-to globalsvcs I EMPHATICALLY agree. Coming from a background of sales/ customer service. I feel that I was putplaced at those jobs then, to help me in my own business now. I to look at it as if, every job and experience that I've gone through in LIFE, was meant for me to apply to being my own boss. Life as DEFINITELY humbled me and made me stronger. Great energy your way
-
-#### Reply 3
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to globalsvcs Thank you for your help, I agree, we're the best marketing, how you act with clients neighbors, how you dress, etc. Always be selling, I love it. Thanks again.
-
-#### Reply 4
-
-**Author:** cutoncecrew
-**Posted:** 2025-07-27
-
-alot of people said, definitely get in front of people. Smile, laugh, make them feel good and show that you’re a stand up guy. Online presence is great but when someone meets you in person theres an energetic exchange that seals the deal. One time I walked into a store to buy some soil, with no business cards, no website, didn’t even have insurance at the time and simply asked if they needed any work done. The lady said no and asked if I had a card because maybe someone in her neighborhood might need something. I wrote my number on a piece of their receipt paper and walked away proud that I put myself out there but also certain they weren’t going to call me. About a month later I get a call from them that has lead to thousands of $$$ worth of ongoing work and a great relationship.
-
-#### Reply 5
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to cutoncecrew There you go, that story alone says a lot. Thank you for your help
-
-#### Reply 6
-
-**Author:** EnergizeUs
-**Posted:** 2025-07-27
-
-You’re doing everything right — the website, the local cards, the social posts. Sometimes it’s not about trying harder, it’s about assessing where you stand and making a few key adjustments. I’d love to help you with that. We’re in South Florida a few times a year visiting contractors we work with and host solar courses down south, we also work with Patrick Pitt and David, and I’d be happy to connect while we’re down there. I also have a few solid connections in the area I can introduce you to that might open some doors for you. Appreciate what you’re building — it shows.
-
-#### Reply 7
-
-**Author:** ryaantuttle
-**Posted:** 2025-07-27
-
-Work for free for a portion of your projects !!! Prove yourself!! That will easily get the word out my man.
-
-#### Reply 8
-
-**Author:** BrandenSewell
-**Posted:** 2025-09-27
-
-to ryaantuttle I love this idea. Not everything has a dollar sign on it. Sometimes you have to look at the opportunity costs of doing things this. Very smart.
-
-#### Reply 9
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to ryaantuttle Great advice, did this to earn the first clients. Thanks Ryan
-
-#### Reply 10
-
-**Author:** WindowsAndMore
-**Posted:** 2025-07-27
-
-At the backbone of your business and being a business owner, i believe having a solid door knocking marketing plan would help you connect to even more people than you can imagine. if you are at ground zero. 100 doors per day with having an intention of selling! Make sure you are selling at the doors! don't be satisfied with leaving your card, engage with your customers and make them a lifetime customer by having them earn YOUR card! Good luck.
-
-#### Reply 11
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to WindowsAndMore Great advice, I'll try with 100 houses or so, but my fear is the area I serve is high end, and might be sensible to having someone knocking.
-
-#### Reply 12
-
-**Author:** FredHodgeJr
-**Posted:** 2025-07-27
-
-You are on the right track. I would join a networking group to rub elbows with other local business owners. Look up Letip, BNI or the local Chamber of Commerce. They are usually free for the first 1-2 meetings and you can see which you have the most synergy with.
-
-#### Reply 13
-
-**Author:** BrandenSewell
-**Posted:** 2025-09-27
-
-to FredHodgeJr Spot on advice. Community and relationships are the game changer.
-
-#### Reply 14
-
-**Author:** GreenThumb777
-**Posted:** 2025-07-27
-
-First, Welcome to entrepreneurs world lol. Seriously, I find word of mouth and showing your work helps in a highly competitive industry. Don't forget great customer service is everything. Even if the customer is wrong, educate them in your response. Great energy to you
-
-#### Reply 15
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to GreenThumb777 Thank you for your advice
-
-#### Reply 16
-
-**Author:** CliftonP
-**Posted:** 2025-07-27
-
-Easey Peazy. One word solution. Multifamily, Buiy some cheap duckies and bring a couple business cards and then start cold calling. Pools are underserviced. Good Luck!
-
-#### Reply 17
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to CliftonP Thanks for your help
-
-#### Reply 18
-
-**Author:** BHS
-**Posted:** 2025-07-27
-
-Have you thought about partnering with lawn companies? You could have them send out a discount offer to their clients for your service, and in exchange, you provide them with a referral fee for any client who signs up for your weekly service. The nice thing about lawn companies, at least in my area, is that they tend to focus on specific areas to build their clientele (neighborhoods, subdivisions), which reduces travel time between jobs. I'd imagine the same applies to your business, too.
-
-#### Reply 19
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to BHS I've thought about it, I do it with realtors, might start doing it with lawn care too, i have contact with some of them in the area. Great advice, thanks for your help
-
-#### Reply 20
-
-**Author:** GreenThumb777
-**Posted:** 2025-07-27
-
-Excellent
-
-#### Reply 21
-
-**Author:** inamkhan3435
-**Posted:** 2025-08-27
-
-If I were in your shoes, I’d focus on personal networking. Join local groups BNI, refine your pitch, and sell yourself—your integrity and passion. People buy from those they trust. Offer discounted work to build reviews and referrals. Keep your online presence active, but remember, real connections drive real results. Be visible, follow up, and stay consistent. Momentum will build. Keep going!
-
-#### Reply 22
-
-**Author:** inankhan3453
-**Posted:** 2025-08-27
-
-You're on the right track—now focus on in-person networking, refine your elevator pitch, and offer free consultations to show value. Build your local presence with Google Business, social groups, and community events. Ask for referrals and track what gets results. Consistency + real connection = clients. Be visible, helpful, and genuine. Clients will come when people trust and remember you.
-
-#### Reply 23
-
-**Author:** BrandenSewell
-**Posted:** 2025-09-27
-
-My recommendation is to join local networking groups, attend networking events, and get involved in your community. Building community and relationships will help. Talk to other home service professionals and realtors who already meet with your ideal clients. Join BNI and your local chamber. Best wishes. We talk about this a lot on my podcast too..."Off the Ladder" podcast!
-
-#### Reply 24
-
-**Author:** jose-miami
-**Posted:** 2025-12-27
-
-to BrandenSewell Thanks for the advice Branden
-
-#### Reply 25
-
-**Author:** shelter
-**Posted:** 2025-08-27
-
-I need an virtual assistant to manager my job. Contact me
-
-#### Reply 26
-
-**Author:** BrandenSewell
-**Posted:** 2025-12-27
-
-jose-miami​ how has this been going for you? Has business picked up? If so, what do you attribute it to? If not, how can we further help you? -Door hangers at current clients when you do a service -Yard signs -Vehicle wrap -Professional appearance -What makes you and your brand stick out? -Do you have a mascot for your business?
-
-#### Reply 27
-
-**Author:** Moly
-**Posted:** 2026-01-27
-
-JOBBER COMMUNITY TEAM Hey there, jose-miami​, curious if you’ve seen some successes in the last 6 months? We’re rooting for you!
-
----
-
-## 57. My last meeting with Patrick Bet-David for 2025
+## 92. My last meeting with Patrick Bet-David for 2025
 
 **Author:** EnergizeUs (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -2505,7 +5753,7 @@ Todays Meeting
 
 ---
 
-## 58. 4 Overlooked Sales & Marketing Techniques! *They all have to do with appearance.
+## 93. 4 Overlooked Sales & Marketing Techniques! *They all have to do with appearance.
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -2527,7 +5775,7 @@ No Replies Be the first to
 
 ---
 
-## 59. Why should I wrap my business vehicle?
+## 94. Why should I wrap my business vehicle?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-02-27
@@ -2892,7 +6140,7 @@ JOBBER COMMUNITY TEAM Erica Krupin had some great takes on this episode of the M
 
 ---
 
-## 60. How Are You Managing and Nurturing Leads?
+## 95. How Are You Managing and Nurturing Leads?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-12-27
@@ -2914,7 +6162,7 @@ BUILDER 1 We follow up with leads until they tell us to stop. Our nurturing is 4
 
 ---
 
-## 61. How (if at all) are you using video in your business?
+## 96. How (if at all) are you using video in your business?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-12-27
@@ -2957,7 +6205,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr Love this breakdown, Fred! These are solid 
 
 ---
 
-## 62. How do you get more jobs in the same neighborhood?
+## 97. How do you get more jobs in the same neighborhood?
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -3035,7 +6283,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr Stacking visibility and catching neighbors 
 
 ---
 
-## 63. A win that reinforced why we do what we do
+## 98. A win that reinforced why we do what we do
 
 **Author:** berrycleanusa (Contributor 2)
 **Posted:** 2025-12-27
@@ -3064,7 +6312,7 @@ That’s an incredible win. Huge respect to you for building something that actu
 
 ---
 
-## 64. How to sign up a business that has multiple sites across your city?
+## 99. How to sign up a business that has multiple sites across your city?
 
 **Author:** Anonymous (Jobber Community Team)
 **Posted:** 2025-12-27
@@ -3093,7 +6341,7 @@ I Julie's feedback. Just really consider the costs of offering discounts across 
 
 ---
 
-## 65. ok… what lead tactics are ACTUALLY working for you all?
+## 100. ok… what lead tactics are ACTUALLY working for you all?
 
 **Author:** berrycleanusa (Contributor 2)
 **Posted:** 2025-12-27
@@ -3122,7 +6370,7 @@ BNI groups ! Look up a Business Networking International in your area. Easy mone
 
 ---
 
-## 66. How Can a Staging and Organizing Business Grow on Social Media?
+## 101. How Can a Staging and Organizing Business Grow on Social Media?
 
 **Author:** NItsPlace (Contributor 2)
 **Posted:** 2025-07-27
@@ -3179,7 +6427,7 @@ If you want to grow on social media, the first step is to figure out your goal 
 
 ---
 
-## 67. Has Anyone Hired a Virtual Assistant to Help Manage Their Team?
+## 102. Has Anyone Hired a Virtual Assistant to Help Manage Their Team?
 
 **Author:** shelter (Contributor 2)
 **Posted:** 2025-08-27
@@ -3236,29 +6484,7 @@ BUILDER 1 What could you solve by AI and automation?
 
 ---
 
-## 68. How To Track Commission Plans in Your Business for Jobber
-
-**Author:** Daichi (Contributor 4)
-**Posted:** 2025-10-27
-**Views:** 61 | **Likes:** 0 | **Comments:** 1
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-track-commission-plans-in-your-business-for-jobber/7344
-
-### Content
-
-Hi Everyone, I run a lawncare/landscaping business and more recently started Crew Insight (A Jobber marketplace App). Right now, the app is focused on KPI's and metrics but many of our users have asked about commission tracking. We've built out a small MVP and a waitlist to see how we can prioritize features and the roll out. I'd love to hear what types of commission plans people have right now, and how they're tracking it. We want to make it simple to build out your commission plan, track the calculations, and give your employees a real time view into their performance. If anyone's interested in chatting or signing up for the beta, you can do so here: https://crew-insight.com/waitlist CLEANING FENCE SERVICES LANDSCAPING LAWN CARE PLUMBING ROOFING
-
-### Replies (1)
-
-#### Reply 1
-
-**Author:** 
-**Posted:** 
-
-No Replies Be the first to
-
----
-
-## 69. What Are the Best Practices for Expanding Painting Service Contracts?
+## 103. What Are the Best Practices for Expanding Painting Service Contracts?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-10-27
@@ -3280,7 +6506,7 @@ I have worked around this in the past by adapting my pricing. Sell your initial 
 
 ---
 
-## 70. What Monthly Services Work Best for a 55+ Community?
+## 104. What Monthly Services Work Best for a 55+ Community?
 
 **Author:** Djpat (Contributor 2)
 **Posted:** 2025-06-27
@@ -3365,7 +6591,7 @@ Collaborations with other small business is always really great way to keep goin
 
 ---
 
-## 71. Where Do You Get Your Flyers or Printed Materials Made?
+## 105. Where Do You Get Your Flyers or Printed Materials Made?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-11-27
@@ -3387,7 +6613,7 @@ JOBBER COMMUNITY TEAM Appreciate you sharing this and love that you’re keeping
 
 ---
 
-## 72. How is Google handling AI Content?
+## 106. How is Google handling AI Content?
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-11-27
@@ -3437,7 +6663,7 @@ This is a timely discussion. With AI content becoming more common, it’s helpfu
 
 ---
 
-## 73. What’s the hardest part about creating social media content for your business right now?
+## 107. What’s the hardest part about creating social media content for your business right now?
 
 **Author:** julie (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -3522,7 +6748,7 @@ BUILDER 1 to BrandenSewell I can totally feel what you have said Branden
 
 ---
 
-## 74. Who else is offering memberships???
+## 108. Who else is offering memberships???
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -3558,7 +6784,7 @@ Love Adams suggestion. We have a service contract. We don't offer levels but I d
 
 ---
 
-## 75. Are you undercharging?
+## 109. Are you undercharging?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -3587,7 +6813,7 @@ Love this. We are typically the highest bid our customers get, but if I am hones
 
 ---
 
-## 76. Marked or unmarked vehicles?
+## 110. Marked or unmarked vehicles?
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-12-27
@@ -3616,7 +6842,7 @@ Just wondering why anyone would ask you to park around the corner? If it's an is
 
 ---
 
-## 77. Customer Appreciation Dinner/Event?
+## 111. Customer Appreciation Dinner/Event?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -3694,7 +6920,7 @@ to BrandenSewell Landscaping, maintenance, arborist, landscape pest control. Pro
 
 ---
 
-## 78. What is the biggest bottleneck for you as a blue collar trade owner?
+## 112. What is the biggest bottleneck for you as a blue collar trade owner?
 
 **Author:** Jeff (Jobber Ambassador)
 **Posted:** 2025-10-27
@@ -3730,7 +6956,7 @@ JOBBER COMMUNITY TEAM Hey Jeff! Great to see you in the Home Service Community �
 
 ---
 
-## 79. Keep it flowin' - Sales Pipeline
+## 113. Keep it flowin' - Sales Pipeline
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-27
@@ -3759,7 +6985,7 @@ to rebecca This day and age, a solid online presence is a huge part of driving n
 
 ---
 
-## 80. Understand your customer’s pain = win more deals
+## 114. Understand your customer’s pain = win more deals
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -3781,7 +7007,7 @@ No Replies Be the first to
 
 ---
 
-## 81. Outside workers, what are you doing to stay busy in the winter months?
+## 115. Outside workers, what are you doing to stay busy in the winter months?
 
 **Author:** Anonymous (Contributor 3)
 **Posted:** 2025-11-27
@@ -3817,7 +7043,7 @@ Anonymous​ I would assume that you would be pretty busy with rodent control, s
 
 ---
 
-## 82. Marketing for Thanksgiving (USA): Pumpkin Day!
+## 116. Marketing for Thanksgiving (USA): Pumpkin Day!
 
 **Author:** RichardM (Contributor 4)
 **Posted:** 2025-11-27
@@ -3839,7 +7065,7 @@ JOBBER COMMUNITY TEAM This is amazing (and a genius idea)! And what a sweet touc
 
 ---
 
-## 83. A way to give back to the community and also market your business!
+## 117. A way to give back to the community and also market your business!
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-11-27
@@ -3861,7 +7087,7 @@ JOBBER COMMUNITY TEAM This is a great idea to spread awareness for your business
 
 ---
 
-## 84. Ask-an-Expert: Social Media Post Audit -
+## 118. Ask-an-Expert: Social Media Post Audit -
 3 Simple Tweaks to Boost Your Results
 
 **Author:** Dumpire (Contributor 2)
@@ -4024,7 +7250,7 @@ to WilliamAChicoS Post looks great, but we can definitely improve. Also, I LOVE 
 
 ---
 
-## 85. 1,000+ Google reviews in a year? Phil Risher shares his secrets
+## 119. 1,000+ Google reviews in a year? Phil Risher shares his secrets
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-09-27
@@ -4074,7 +7300,7 @@ JOBBER COMMUNITY TEAM This episode had such great tips, PhilRisher​ is joining
 
 ---
 
-## 86. How to land 10X bigger jobs (without more leads)
+## 120. How to land 10X bigger jobs (without more leads)
 
 **Author:** Lisa (Jobber Community Team)
 **Posted:** 2025-11-27
@@ -4096,7 +7322,7 @@ No Replies Be the first to
 
 ---
 
-## 87. Looking to collaborate with Junk removal, landscape or cleaning companies.
+## 121. Looking to collaborate with Junk removal, landscape or cleaning companies.
 
 **Author:** PestFreeCanada (Contributor 4)
 **Posted:** 2025-10-27
@@ -4118,7 +7344,7 @@ JOBBER COMMUNITY TEAM Loving the spirit behind this post. It's always inspiring 
 
 ---
 
-## 88. How do you know you’re undercharging?
+## 122. How do you know you’re undercharging?
 
 **Author:** Moly (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -4175,155 +7401,7 @@ JOBBER COMMUNITY TEAM Boom! The master class with all the metrics. Thanks, Brand
 
 ---
 
-## 89. How to get big commercial accounts
-
-**Author:** Turfsamurai (Contributor 3)
-**Posted:** 2025-06-27
-**Views:** 894 | **Likes:** 12 | **Comments:** 19
-**URL:** https://community.getjobber.com/discussions/marketing-forum/how-to-get-big-commercial-accounts/4134
-
-### Content
-
-I have a lot of residential clients I have been thinking about getting commercial lawn accounts how do I go about doing so. ADVERTISING GENERAL CONTRACTING LAWN CARE PROPERTY MAINTENANCE SOCIAL MEDIA MARKETING RichardM 4 months ago Let me start off by asking "Why do you want to break into the commercial market?" The best way to kickstart your journey in the commercial sector is to take it step by step. Look for a local restaurant, a charming mom-and-pop shop, or a gas station. These types of businesses often have excellent visibility, and you’ll want to deliver outstanding service that makes a lasting impression. If you have the client’s permission and it's in accordance with local regulations, consider putting up a small sign on their property to promote your commercial grounds maintenance services. Starting big, means going in big. I have seen many lawn care/maintenance companies go from easily handling 200 - 300 lawns per week and then they land a 400 unit condo property and everything goes sideways. what ryaantuttle​ said, it'll feel you are running a whole other company. Commercial clients expectations are vastly different from residential ones. Some things to consider: You'll need to carry higher liability insurance - increased premiums In Canada you'll need to provide valid WSIB information. In the states you'll need to similar state specific workers' compensation program You may need another crew, equipment, vehicle, and trailer to facilitate added accounts Lots of commercial clients will only allow mows between certain times/days You will not get your receivables as quick as you . Be prepared to wait at least 30+ days If you are Gung-ho to get this commercial ship in orbit then you need to do some research and work: Price out insurance policies that allow commercial clients. Some commercial accounts here in Ontario, Canada require 6-8 million dollar liability coverage Shop your competition. Find out who is doing what and how good are they doing it? Knowing this bit of info will allow you to approach Property managers, store managers, and owners Advertise on your website your new commercial division. Emphasize the points TheWiFiGuy​ expressed Make meetings with Property Management Companies. You'll be surprised how easy it is to make a quick meet and great. Property managers are always on the lookout for better talent at a competitive price. Remember that their contractors make them look good With all of that said there are advantages to having commercial clients: Stay in one place - Find communities that allow you to park and work for an extended period. Condominiums, gated communities, and large commercial properties are perfect examples of areas where you can achieve zero drive time. By doing so, your productivity can skyrocket Payday is better - Because of commercial client expectations, they payday is usually always higher One equals more - Once you get one commercial client and you blow them away with your quality and frictionless service ( TheWiFiGuy​ ) you'll find yourself quoting your next commercial client If there's one guiding principle I'd love for you to embrace, it's this: "Never compromise on quality to hurry your business forward." Choosing that route may seem tempting, but it can lead you into unexpected challenges, and you might find yourself struggling when you least expect it. Remember, building a strong foundation with quality is what truly sets you up for long-term success! Good luck!
-
-### Replies (19)
-
-#### Reply 1
-
-**Author:** RichardM
-**Posted:** 2025-10-27
-
-Let me start off by asking "Why do you want to break into the commercial market?" The best way to kickstart your journey in the commercial sector is to take it step by step. Look for a local restaurant, a charming mom-and-pop shop, or a gas station. These types of businesses often have excellent visibility, and you’ll want to deliver outstanding service that makes a lasting impression. If you have the client’s permission and it's in accordance with local regulations, consider putting up a small sign on their property to promote your commercial grounds maintenance services. Starting big, means going in big. I have seen many lawn care/maintenance companies go from easily handling 200 - 300 lawns per week and then they land a 400 unit condo property and everything goes sideways. what ryaantuttle​ said, it'll feel you are running a whole other company. Commercial clients expectations are vastly different from residential ones. Some things to consider: You'll need to carry higher liability insurance - increased premiums In Canada you'll need to provide valid WSIB information. In the states you'll need to similar state specific workers' compensation program You may need another crew, equipment, vehicle, and trailer to facilitate added accounts Lots of commercial clients will only allow mows between certain times/days You will not get your receivables as quick as you . Be prepared to wait at least 30+ days If you are Gung-ho to get this commercial ship in orbit then you need to do some research and work: Price out insurance policies that allow commercial clients. Some commercial accounts here in Ontario, Canada require 6-8 million dollar liability coverage Shop your competition. Find out who is doing what and how good are they doing it? Knowing this bit of info will allow you to approach Property managers, store managers, and owners Advertise on your website your new commercial division. Emphasize the points TheWiFiGuy​ expressed Make meetings with Property Management Companies. You'll be surprised how easy it is to make a quick meet and great. Property managers are always on the lookout for better talent at a competitive price. Remember that their contractors make them look good With all of that said there are advantages to having commercial clients: Stay in one place - Find communities that allow you to park and work for an extended period. Condominiums, gated communities, and large commercial properties are perfect examples of areas where you can achieve zero drive time. By doing so, your productivity can skyrocket Payday is better - Because of commercial client expectations, they payday is usually always higher One equals more - Once you get one commercial client and you blow them away with your quality and frictionless service ( TheWiFiGuy​ ) you'll find yourself quoting your next commercial client If there's one guiding principle I'd love for you to embrace, it's this: "Never compromise on quality to hurry your business forward." Choosing that route may seem tempting, but it can lead you into unexpected challenges, and you might find yourself struggling when you least expect it. Remember, building a strong foundation with quality is what truly sets you up for long-term success! Good luck!
-
-#### Reply 2
-
-**Author:** ryaantuttle
-**Posted:** 2025-10-27
-
-to RichardM Great post, Richard!
-
-#### Reply 3
-
-**Author:** ryaantuttle
-**Posted:** 2025-06-27
-
-I would suggest testing that market out first by setting up 1-2 accounts at a discounted rate to see if it's something thats within your service offering. When you mix markets, you almost end up running (2) separate companies believe it or not. We stopped doing commercial work years ago because we were spending too much money trying to crack into a completely different market. Just a suggestion.!
-
-#### Reply 4
-
-**Author:** BrandenSewell
-**Posted:** 2025-10-27
-
-to ryaantuttle I this advice. Sticking to what you do best and not getting distracted is a good practice. Different service offerings can be very nuanced and slow you down.
-
-#### Reply 5
-
-**Author:** Protrapperty
-**Posted:** 2025-06-27
-
-Doing commercial work in my back round is better/easier. The pay may be net 30 witch isn't fun sometimes. I suggest just going in talking to who ever is in charge about what you would to provide. Just really don't be afraid to go talk to people and building a condition with. Find out when others contracts are up and note that for when the contract is up. Also get name and email and phone number to follow up with.
-
-#### Reply 6
-
-**Author:** MBailey94
-**Posted:** 2025-06-27
-
-You may want to consider government contracts in your state nd local areas. I actually help my clients get set up to secure some of those contracts and depending on what area you are in, they may be more frecuent in how often those services are procured.
-
-#### Reply 7
-
-**Author:** Turfsamurai
-**Posted:** 2025-06-27
-
-to MBailey94 What source would I have to go on or website i looked all over internet.
-
-#### Reply 8
-
-**Author:** MBailey94
-**Posted:** 2025-06-27
-
-to Turfsamurai Depending on what state you are in you can google the state you're in procurement (example: Virginia Procurement) and you want to look for open bid opportunities on their site. From there, you should be able to search keywords in your industry. If you need additional help or support, shoot me a message and we can set up some time for me to walk you through it.
-
-#### Reply 9
-
-**Author:** edentree
-**Posted:** 2025-10-27
-
-to Turfsamurai bidnetdirect.com
-
-#### Reply 10
-
-**Author:** MizzLopez316
-**Posted:** 2025-06-27
-
-to MBailey94 How do you help get tired clients in? I would to know.
-
-#### Reply 11
-
-**Author:** CharlesW
-**Posted:** 2025-10-27
-
-to MBailey94 I am defiantly looking into this. and would love any help possible.
-
-#### Reply 12
-
-**Author:** FredHodgeJr
-**Posted:** 2025-06-27
-
-I would join commerial organizations with property and faciltiies managers. We joined CAI, IREM, BOMA, Apartment Association, IFMA and more. This has given us the ability to become 70% Commercial for our exterior cleaning company. I would also build out a commercial page on your website.
-
-#### Reply 13
-
-**Author:** SunshineWindows
-**Posted:** 2025-06-27
-
-If you are asking how to get them specifically, cold emails/cold calls to facilities titles or property managers is the most direct route to starting conversations with them.
-
-#### Reply 14
-
-**Author:** edentree
-**Posted:** 2025-10-27
-
-to SunshineWindows have you had success with this method? if so, who do you use?
-
-#### Reply 15
-
-**Author:** TheWiFiGuy
-**Posted:** 2025-06-27
-
-I find that commercial clients don’t simply want better pricing; they want better/frictionless service. If you sell yourself as reliable, easy to communicate with, proactive and can come in just a few dollars less, you’ll be an enticing consideration. Ask the potential client what their current provider could do better. If you can realistically improve on the pain points, clearly articulate why and how. In person meetings can be problematic as everyone is busy. Offering a freebie or discounted service to a client at a large complex can be the best advertising you can get. But you’ll need to have your game face on while on site.
-
-#### Reply 16
-
-**Author:** RichardM
-**Posted:** 2025-10-27
-
-to TheWiFiGuy "frictionless service" Love that! Using it.
-
-#### Reply 17
-
-**Author:** 
-**Posted:** 2025-06-27
-
-419lawns There are several 3rd party National companies for commercial work. You must have WC, Comm Auto and General Liability. DMG is one of them. Case, and MSA.
-
-#### Reply 18
-
-**Author:** EnergizeUs
-**Posted:** 2025-07-27
-
-Bigger commercial jobs usually involve project managers especially for chains or national accounts. These folks are working regionally, not just locally. If you're aiming for franchise customers or large organizations, LinkedIn has been the best move for us. It’s where a lot of that B2B communication and networking happens. We leaned into that early and landed a $2.2 million, 2-year contract with a nationwide solar company, all from relationship-building and positioning on LinkedIn. Have you tapped into that network yet? Are you connecting with others who are already doing this kind of work? Would love to hear how it goes, proud of you.
-
-#### Reply 19
-
-**Author:** Nantucket
-**Posted:** 2025-10-27
-
-For me, I just walk into the business and talk to whoever is in charge, maybe it’s a general manager or even if they have a facilities department maybe the manager of that depart who would handle such accounts. It’s sales. Go in there and build some rapport and tell them how you can be valuable. Maybe there’s some improvements you would suggest after some recon at the property you are selling. Commercial property management companies. Just kinda throwing some ideas out there.
-
----
-
-## 90. Have you ever landed a big job from a single email?
+## 123. Have you ever landed a big job from a single email?
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-10-27
@@ -4345,7 +7423,7 @@ No Replies Be the first to
 
 ---
 
-## 91. What's your go-to automated marketing stack?
+## 124. What's your go-to automated marketing stack?
 
 **Author:** dhawkins (Contributor 2)
 **Posted:** 2025-10-27
@@ -4381,7 +7459,7 @@ to RichardM Sure thing, RichardM​ Since leads typically get inundated with cal
 
 ---
 
-## 92. Google Ad Leads- Phone Lead
+## 125. Google Ad Leads- Phone Lead
 
 **Author:** RedbirdPool (Contributor 2)
 **Posted:** 2025-04-27
@@ -4403,7 +7481,7 @@ That's a frustrating but common issue. It sounds you're correctly using Google's
 
 ---
 
-## 93. UTM tracking / Google Analytics tracking
+## 126. UTM tracking / Google Analytics tracking
 
 **Author:** si4star (Contributor 2)
 **Posted:** 2025-02-27
@@ -4516,7 +7594,7 @@ to Sweely Thanks - that is a really helpful, and interesting, .
 
 ---
 
-## 94. Where do you buy yard signs?
+## 127. Where do you buy yard signs?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-09-27
@@ -4552,7 +7630,7 @@ FredHodgeJr​ can you tell me approximately what the cost is?
 
 ---
 
-## 95. how to cancel jobber.
+## 128. how to cancel jobber.
 
 **Author:** daveDAVE (Contributor 2)
 **Posted:** 2025-09-27
@@ -4581,7 +7659,7 @@ I agree about transparency but I think you might be focusing on the wrong things
 
 ---
 
-## 96. Podcast discussion: Texted an old quote list and closed $100K
+## 129. Podcast discussion: Texted an old quote list and closed $100K
 
 **Author:** Erin (Jobber Community Team)
 **Posted:** 2025-09-27
@@ -4610,7 +7688,7 @@ JOBBER COMMUNITY TEAM to FredHodgeJr It's definitely important to know your demo
 
 ---
 
-## 97. Painters: what ideas do you have for the cold holiday season?
+## 130. Painters: what ideas do you have for the cold holiday season?
 
 **Author:**  (Contributor 3)
 **Posted:** 2025-02-27
@@ -4639,7 +7717,7 @@ Do you have any system/strategy for staying top of mind? You could also implemen
 
 ---
 
-## 98. What 50+ Free Social Media Audits Taught Us About Small Business Marketing
+## 131. What 50+ Free Social Media Audits Taught Us About Small Business Marketing
 
 **Author:** kasyallen (Contributor 4)
 **Posted:** 2025-08-27
@@ -4661,7 +7739,7 @@ JOBBER COMMUNITY TEAM Hey Kasy! Thanks so much for summarizing your top learning
 
 ---
 
-## 99. 🌟 Free Social Media Audit - Ask-an-Expert! 🌟
+## 132. 🌟 Free Social Media Audit - Ask-an-Expert! 🌟
 
 **Author:** kasyallen (Contributor 4)
 **Posted:** 2025-08-27
@@ -5950,7 +9028,7 @@ https://www.instagram.com/cleanoutdrains/
 
 ---
 
-## 100. What are you doing for PR?
+## 133. What are you doing for PR?
 
 **Author:** FredHodgeJr (Jobber Ambassador)
 **Posted:** 2025-08-27
@@ -5972,7 +9050,7 @@ BUILDER 1 We do what you have listed. We are going to try a press release as wel
 
 ---
 
-## 101. Are you building your personal brand?
+## 134. Are you building your personal brand?
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-08-27
@@ -6015,7 +9093,7 @@ to judithvirag The power of a personal brand in todays world is vastly overlooke
 
 ---
 
-## 102. Finding B2B Partnerships to Unlock New Revenue w/ Phil Risher
+## 135. Finding B2B Partnerships to Unlock New Revenue w/ Phil Risher
 
 **Author:** DWPGINC (Contributor 3)
 **Posted:** 2025-08-27
@@ -6037,7 +9115,7 @@ JOBBER COMMUNITY TEAM Hi there, you can find Phil's webinar here: https://www.ge
 
 ---
 
-## 103. Seeking ideas for developing power partnerships to better work with clients & grow our biz?!!
+## 136. Seeking ideas for developing power partnerships to better work with clients & grow our biz?!!
 
 **Author:** PalFire (Contributor 2)
 **Posted:** 2025-07-27
@@ -6073,7 +9151,7 @@ I would highly recommend joining the CAI Greater Los Angeles Chapter. You will m
 
 ---
 
-## 104. Growth. How do you take your business to the next level?
+## 137. Growth. How do you take your business to the next level?
 
 **Author:** TidyKleenLLC (Contributor 2)
 **Posted:** 2025-06-27
@@ -6137,7 +9215,7 @@ Social media’s a great start, consider adding SEO or running targeted ads to r
 
 ---
 
-## 105. 🌟 Ask-an-Expert: Want More B2B Partnerships? Let’s Make It Happen 👇
+## 138. 🌟 Ask-an-Expert: Want More B2B Partnerships? Let’s Make It Happen 👇
 
 **Author:** PhilRisher (Contributor 2)
 **Posted:** 2025-08-27
@@ -6222,7 +9300,7 @@ to Redfangoo Yeah and gutter cleaning companies too because they are close to wi
 
 ---
 
-## 106. Invoiced twice bug - same line item
+## 139. Invoiced twice bug - same line item
 
 **Author:** Pelect (Contributor 2)
 **Posted:** 2025-08-27
@@ -6244,7 +9322,7 @@ Whenever we have a client pay an upfront fee, we add it as a payment to the job.
 
 ---
 
-## 107. Podcast?
+## 140. Podcast?
 
 **Author:** Jyme (Contributor 2)
 **Posted:** 2025-06-27
@@ -6280,7 +9358,7 @@ BUILDER 1 I am really into sucess stories. How they made it happen, and not only
 
 ---
 
-## 108. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
+## 141. Looking for AI Tools or Tips for Creating Client-Facing Presentations & “About Us” Packages
 
 **Author:** MountainMarine (Contributor 3)
 **Posted:** 2025-07-27
@@ -6309,7 +9387,7 @@ If you're looking for AI tools to create client-facing presentations and “Abou
 
 ---
 
-## 109. Setting and Achieving Revenue/Sales Goals
+## 142. Setting and Achieving Revenue/Sales Goals
 
 **Author:** Daichi (Contributor 4)
 **Posted:** 2025-07-27
@@ -6359,7 +9437,7 @@ We use HourlyIQ.com, it is connected to Jobber and we are able to see and track 
 
 ---
 
-## 110. Facebook Community Groups? Who's the expert??
+## 143. Facebook Community Groups? Who's the expert??
 
 **Author:** WiringByron (Jobber Ambassador)
 **Posted:** 2025-07-27
@@ -6451,7 +9529,7 @@ I did some digging and seems that ninja poster app isn't the best unfortunately.
 
 ---
 
-## 111. Best way to gain more clients?
+## 144. Best way to gain more clients?
 
 **Author:** persistlawns (Contributor 3)
 **Posted:** 2025-06-27
@@ -6648,7 +9726,7 @@ I’m in the same field. When I started I went door to door and when I did get a
 
 ---
 
-## 112. How do kn how much to charge
+## 145. How do kn how much to charge
 
 **Author:** Marloncaldwell (Contributor 2)
 **Posted:** 2025-05-27
@@ -6705,7 +9783,7 @@ handiworkllc
 
 ---
 
-## 113. Launching This Summer Looking for Tips on Hosting a Free Service Day for Veterans & Seniors
+## 146. Launching This Summer Looking for Tips on Hosting a Free Service Day for Veterans & Seniors
 
 **Author:** AquaDogs (Contributor 2)
 **Posted:** 2025-06-27
@@ -6727,7 +9805,7 @@ We actually hosted the Builders Convention in 2024 and kicked things off with a 
 
 ---
 
-## 114. How to grow business
+## 147. How to grow business
 
 **Author:** Mswells72 (Contributor 3)
 **Posted:** 2025-05-27
@@ -6973,7 +10051,7 @@ Glad to see you starting strong and congratulations firstly. Starting in this bu
 
 ---
 
-## 115. Sales Learning Opportunities
+## 148. Sales Learning Opportunities
 
 **Author:** judithvirag (Builder 1)
 **Posted:** 2025-06-27
@@ -6995,7 +10073,7 @@ Best sales course I took was Patrick Bet David Sales Leadership in Mar o Lago. I
 
 ---
 
-## 116. Securing Sponsorships to Grow Our Racing Division & Commercial Detailing – Strategies & Advice?
+## 149. Securing Sponsorships to Grow Our Racing Division & Commercial Detailing – Strategies & Advice?
 
 **Author:** AqualinePerf (Contributor 2)
 **Posted:** 2025-05-27
@@ -7024,7 +10102,7 @@ Sponsorships require a different playbook than normal business funding. You’re
 
 ---
 
-## 117. Partnership Roofing
+## 150. Partnership Roofing
 
 **Author:** MarlonCerv (Contributor 2)
 **Posted:** 2025-07-27
@@ -7046,7 +10124,7 @@ Hey Marlon, Great to see you looking to build partnerships. We’ve actually bee
 
 ---
 
-## 118. Your Best Marketing Ideas!
+## 151. Your Best Marketing Ideas!
 
 **Author:** bedellmgmt (Jobber Ambassador)
 **Posted:** 2025-02-27
@@ -7215,7 +10293,7 @@ I am currently building a studio and will start creating educational content for
 
 ---
 
-## 119. Google Local Service Ads Website URL Not Working
+## 152. Google Local Service Ads Website URL Not Working
 
 **Author:** Evan (Contributor 2)
 **Posted:** 2025-07-27
@@ -7251,7 +10329,7 @@ to Lazar28 After working with Jobber support, it seems necessary to leave the "j
 
 ---
 
-## 120. pay
+## 153. pay
 
 **Author:** DmvExteriorC (Contributor 2)
 **Posted:** 2025-04-27
@@ -7315,7 +10393,7 @@ Here’s what worked well for us: We paid our sales rep a weekly salary that cam
 
 ---
 
-## 121. GMB how to get listed as a mobile business
+## 154. GMB how to get listed as a mobile business
 
 **Author:** PawsitiveLawns (Contributor 2)
 **Posted:** 2025-06-27
@@ -7351,7 +10429,7 @@ It's just an option, but you can use a virtual Address instead of your physical 
 
 ---
 
-## 122. Sales Marketing
+## 155. Sales Marketing
 
 **Author:** preciousakin00 (Contributor 2)
 **Posted:** 2025-04-27
@@ -7394,7 +10472,7 @@ to Manolo54 You can book an appointment so we can communicate better on how to g
 
 ---
 
-## 123. Website
+## 156. Website
 
 **Author:** XADetailing (Contributor 2)
 **Posted:** 2025-06-27
@@ -7444,7 +10522,7 @@ Yes, this is important, BUT the type of website platform you choose is also impo
 
 ---
 
-## 124. Marketing
+## 157. Marketing
 
 **Author:** ChefT (Contributor 2)
 **Posted:** 2025-05-27
@@ -7494,7 +10572,7 @@ Anyone had good luck marketing with Next Door? I have more of a concierge cleani
 
 ---
 
-## 125. Marketing Companies
+## 158. Marketing Companies
 
 **Author:** PrimeGarage23 (Contributor 2)
 **Posted:** 2025-02-27
@@ -7628,7 +10706,7 @@ I started to use Hibu https://g.co/kgs/Xi8UXmF They redid my website https://www
 
 ---
 
-## 126. Posting flyers or door hangers more effective?
+## 159. Posting flyers or door hangers more effective?
 
 **Author:** Emzwash (Contributor 2)
 **Posted:** 2025-06-27
@@ -7769,7 +10847,7 @@ I’ve been going back and forth on door hangers. I’m in a Facebook community 
 
 ---
 
-## 127. Line item categories?
+## 160. Line item categories?
 
 **Author:** SomePlumber (Contributor 3)
 **Posted:** 2025-06-27
@@ -7791,7 +10869,7 @@ Hi SomePlumber​ Thanks for the question. In my experience most companies manag
 
 ---
 
-## 128. Yelp - share your experiences
+## 161. Yelp - share your experiences
 
 **Author:** eddy (Contributor 2)
 **Posted:** 2025-05-27
@@ -7869,85 +10947,7 @@ Stay away from Yelp, Eddy! I am still trying different avenues, but I have heard
 
 ---
 
-## 129. Sweat equity
-
-**Author:** Christoph (Contributor 3)
-**Posted:** 2025-05-27
-**Views:** 453 | **Likes:** 8 | **Comments:** 9
-**URL:** https://community.getjobber.com/discussions/marketing-forum/sweat-equity/3756
-
-### Content
-
-Building a pressure washing business with sweat equity. I've been leaving flyers and tear aways at local businesses. About to post some on local Facebook groups, is there any additional advice for adding customers but keeping it local and personal. I am hoping to build a locally recognized company... patriot Pressure Washing, PPW! ADVERTISING BRANDING CLEANING DIGITAL MARKETING STRATEGIES HOW TO GROW YOUR BUSINESS LEAD GEN PRESSURE WASHING PRINTED MARKETING SALES TRAINING SOCIAL MEDIA MARKETING
-
-### Replies (9)
-
-#### Reply 1
-
-**Author:** AdamP
-**Posted:** 2025-05-27
-
-Door hangers in high end neighborhoods, Suggest soft wash on roofs to get rid of moss. And do the copper treatment on peak
-
-#### Reply 2
-
-**Author:** Ancientcity887
-**Posted:** 2025-05-27
-
-We see a better ROI on direct mail marketing. Higher end clients should be presented with a professional letter recommending your service to the area. Id include you do a lot of work in their general area and will be in the area for the next few weeks. be professional, short and provide a quality letter.
-
-#### Reply 3
-
-**Author:** Christoph
-**Posted:** 2025-05-27
-
-to Ancientcity887 Super relevant and appreciated advice! I've been trying to spread awareness and this approach seems a smart move. Thank you
-
-#### Reply 4
-
-**Author:** FredHodgeJr
-**Posted:** 2025-05-27
-
-This is my 21st year own a pressure washing business. You're off to a good start by using sweat equity and hitting the streets with flyers and tear-aways. To keep building local and personal connections, expand your reach by posting in local Facebook groups, not just advertising, but offering value, engaging in comments, and showing before-and-after photos. Set up a Google Business Profile right away and start collecting detailed 5-star reviews from happy customers to boost local search visibility. Build referral relationships with other trades that have similar clients, who can send consistent business your way. Brand everything from your vehicle to your shirts to establish recognition and trust. Make sure you invest in a website and SEO. After each job, flyer 20–30 nearby homes with a “We Just Cleaned Your Neighbor’s Property” message. You can also tap into local networking groups to connect and get your name out there. Keep stacking those wins, stay consistent, and you’ll build a locally recognized brand the community trusts. Check out TheProcessCEO
-
-#### Reply 5
-
-**Author:** Christoph
-**Posted:** 2025-05-27
-
-to FredHodgeJr I have been trying local Facebook groups with little success so far. I do need to request for some reviews on my Google business. I'm trying to spread brand awareness but I've been financially limited so far. Lawn signs and shirts are next on my list. Any other advice is greatly appreciated.
-
-#### Reply 6
-
-**Author:** FredHodgeJr
-**Posted:** 2025-05-27
-
-to Christoph On FB: Join every single town page in your service area. This time of year especially people are posting looking for our services. I'm in close to 100 local town pages and seeing 10+ requests a day. Make sure your response shows some value, example we try to leverage our 800+ Google reviews.
-
-#### Reply 7
-
-**Author:** Christoph
-**Posted:** 2025-05-27
-
-Guess I've been low on my community groups. I'm going to start seeking out more, my online presence has been lacking! Thank you
-
-#### Reply 8
-
-**Author:** LakeErieSuds
-**Posted:** 2025-06-27
-
-I'm in the prepping stage of starting my own power washing company. I think if your also able to shop small in your area, those other small business will know about you and support you. See if you have a local print shop in your city that you can get business cards or door hangars from. Just an idea. I think social media, especially Facebook can really help. At least that's My mindset as I prepare.
-
-#### Reply 9
-
-**Author:** MRBUBBLES
-**Posted:** 2025-06-27
-
-I have Been in business for 13 years (Mr. Bubbles Power Washing) and I think the best strategy for new people coming in is 2 fold: first you have to have an optimized GMB page with lots SEO and keyword friendly posts. Lots of things you can do here, post pictures, answer reviews properly and above everything else, stay consistent; second, make sure you establish a solid, boots on the ground marketing strategy for your company: yard signs, professional uniforms, postcards and marketing on your vehicle would be a good start. Reach out if you need help!
-
----
-
-## 130. New to jobber
+## 162. New to jobber
 
 **Author:** Jmrautomations (Contributor 2)
 **Posted:** 2025-06-27
@@ -7969,7 +10969,7 @@ No Replies Be the first to
 
 ---
 
-## 131. Sales & Marketing for a DJ in Texas
+## 163. Sales & Marketing for a DJ in Texas
 
 **Author:** thedjastronaut (Contributor 2)
 **Posted:** 2025-06-27
@@ -7991,7 +10991,7 @@ No Replies Be the first to
 
 ---
 
-## 132. Asking for Reviews
+## 164. Asking for Reviews
 
 **Author:** HGLandscapeInc (Contributor 2)
 **Posted:** 2025-02-27
@@ -8048,7 +11048,7 @@ to Amy Hello Amy! These are great ideas! Could you tell me more about your "job 
 
 ---
 
-## 133. 🌟 Is Your Sales Pitch Costing You Work? Get Expert Feedback! 🌟
+## 165. 🌟 Is Your Sales Pitch Costing You Work? Get Expert Feedback! 🌟
 
 **Author:** AndyWeins (Contributor 2)
 **Posted:** 2025-05-27
@@ -8119,7 +11119,7 @@ Thanks for the sharp and practical insights during your sales and marketing pitc
 
 ---
 
-## 134. Integration with SendJim
+## 166. Integration with SendJim
 
 **Author:** BrandenSewell (Jobber Ambassador)
 **Posted:** 2025-06-27
@@ -8148,7 +11148,7 @@ Hey Branden. I think SendJim is a great solution overall! According to the docum
 
 ---
 
-## 135. Hello Community- I need help
+## 167. Hello Community- I need help
 
 **Author:** joshuasteerman1 (Contributor 2)
 **Posted:** 2025-05-27
@@ -8177,7 +11177,7 @@ Social media will be your best friend for getting noticed. If you haven’t alre
 
 ---
 
-## 136. Selling firewood in the winter
+## 168. Selling firewood in the winter
 
 **Author:** Zzzeld (Contributor 2)
 **Posted:** 2025-02-27
@@ -8213,7 +11213,7 @@ Great Question... I have also been thinking of do the same but Iam a small busin
 
 ---
 
-## 137. Looking for pros in DC to fulfill jobs for a client. Please reach out if you are interested.
+## 169. Looking for pros in DC to fulfill jobs for a client. Please reach out if you are interested.
 
 **Author:** gchrismon (Contributor 2)
 **Posted:** 2025-05-27
