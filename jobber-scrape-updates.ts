@@ -15,23 +15,47 @@ interface Post {
   body: string;
 }
 
-async function scrapePage(page: Page, pageNum: number): Promise<string> {
-  const url = pageNum === 1 ? BASE_URL : `${BASE_URL}/?page=${pageNum}`;
-  console.log(`  → Navigating to: ${url}`);
+const CF_PHRASES = [
+  'Performing security verification',
+  'Verification successful',
+  'Just a moment',
+];
 
-  // Use domcontentloaded instead of networkidle — more reliable for JS-rendered pages
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-
-  // Wait for h2 with a longer timeout; fall back to fixed delay if it times out
+async function waitForCfClear(page: Page, timeoutMs: number): Promise<void> {
   try {
-    await page.waitForSelector('h2', { timeout: 30000, state: 'visible' });
+    await page.waitForFunction(
+      (phrases: string[]) => {
+        // Any h1 means we're on real content (CF only uses h2 for challenges)
+        if (document.querySelectorAll('h1').length > 0) return true;
+        const h2s = Array.from(document.querySelectorAll('h2'));
+        if (h2s.length === 0) return false;
+        return !h2s.some((h) => phrases.some((p) => h.textContent?.includes(p)));
+      },
+      CF_PHRASES,
+      { timeout: timeoutMs },
+    );
   } catch {
-    console.log(`  ⚠ waitForSelector('h2') timed out on page ${pageNum}, using 5s fallback delay...`);
+    // timed out — proceed with whatever is on the page
+  }
+}
+
+async function scrapePage(page: Page, pageNum: number): Promise<string> {
+  const url = page.url() || BASE_URL;
+  console.log(`  → Scraping: ${url}`);
+
+  // Wait for h1 or h2 (post titles use h1 on some pages, h2 on others)
+  try {
+    await page.waitForSelector('h1, h2', { timeout: 30000, state: 'visible' });
+  } catch {
+    console.log(`  ⚠ waitForSelector('h1, h2') timed out on page ${pageNum}, using 5s fallback delay...`);
     await page.waitForTimeout(5000);
   }
 
   // Extra buffer for any remaining lazy-loaded JS
   await page.waitForTimeout(2000);
+
+  // Wait for Cloudflare challenge to clear (up to 30s)
+  await waitForCfClear(page, 30000);
 
   // Extract all structured post data from the page
   const posts: Post[] = await page.evaluate((): Post[] => {
@@ -46,7 +70,7 @@ async function scrapePage(page: Page, pageNum: number): Promise<string> {
       'Product Bulletin',
     ];
 
-    const h2Elements = Array.from(document.querySelectorAll('h2'));
+    const h2Elements = Array.from(document.querySelectorAll('h1, h2'));
 
     for (const h2 of h2Elements) {
       const title = h2.textContent?.trim() ?? '';
@@ -111,10 +135,12 @@ async function scrapePage(page: Page, pageNum: number): Promise<string> {
     return results;
   });
 
+  const currentUrl = page.url();
+
   // Build the markdown string for this page
   let md = `\n\n---\n\n<!-- ========== PAGE ${pageNum} of ${TOTAL_PAGES} ========== -->\n\n`;
   md += `# Page ${pageNum} of ${TOTAL_PAGES}\n\n`;
-  md += `**Source:** ${url}\n\n`;
+  md += `**Source:** ${currentUrl}\n\n`;
   md += `---\n\n`;
 
   for (const post of posts) {
@@ -145,55 +171,76 @@ async function main(): Promise<void> {
   fs.writeFileSync(OUTPUT_FILE, header, 'utf-8');
 
   const browser: Browser = await chromium.launch({
-    headless: true,
+    headless: false,
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
 
+  // Single context for the whole session — CF clearance is preserved across pages
   const context = await browser.newContext({
     userAgent:
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
       '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     viewport: { width: 1280, height: 900 },
+    extraHTTPHeaders: {
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    },
   });
-
-  const page: Page = await context.newPage();
-
-  // Auto-dismiss any browser dialogs
-  page.on('dialog', async (dialog) => {
-    await dialog.dismiss().catch(() => {});
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
   });
+  const page = await context.newPage();
+  page.on('dialog', async (dialog) => { await dialog.dismiss().catch(() => {}); });
+
+  // Selectors to try for the "Next page" link, in priority order
+  const NEXT_SELECTORS = [
+    'a[aria-label="Next page"]',
+    'a[aria-label="Next"]',
+    'a[rel="next"]',
+    'a:has-text("Next ›")',
+    'a:has-text("Next")',
+    'a:has-text("›")',
+    '.pagination a[href*="page="]',
+  ];
 
   try {
+    // Navigate to page 1 and clear the initial CF challenge
+    console.log(`\n📄 Loading page 1 of ${TOTAL_PAGES}...`);
+    await page.goto(BASE_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await waitForCfClear(page, 30000);
+
     for (let pageNum = 1; pageNum <= TOTAL_PAGES; pageNum++) {
       console.log(`\n📄 Processing page ${pageNum} of ${TOTAL_PAGES}...`);
 
-      let pageContent = '';
-      let attempts = 0;
-      const maxAttempts = 3;
+      const pageContent = await scrapePage(page, pageNum);
 
-      while (attempts < maxAttempts) {
-        try {
-          pageContent = await scrapePage(page, pageNum);
-          break; // success — exit retry loop
-        } catch (err) {
-          attempts++;
-          console.log(`  ⚠ Attempt ${attempts} failed: ${(err as Error).message}`);
-          if (attempts < maxAttempts) {
-            console.log(`  ↺ Retrying in 3 seconds...`);
-            await page.waitForTimeout(3000);
-          } else {
-            console.log(`  ✗ All ${maxAttempts} attempts failed. Skipping page ${pageNum}.`);
-            pageContent = `\n\n<!-- PAGE ${pageNum} FAILED TO SCRAPE -->\n\n`;
-          }
-        }
-      }
-
-      // Append this page's markdown to the output file
       fs.appendFileSync(OUTPUT_FILE, pageContent, 'utf-8');
       console.log(`  ✓ Page ${pageNum} written to file`);
 
-      // Polite delay between pages
-      if (pageNum < TOTAL_PAGES) {
+      if (pageNum >= TOTAL_PAGES) break;
+
+      // Navigate to next page by clicking the Next link (keeps CF session alive)
+      let navigated = false;
+      for (const sel of NEXT_SELECTORS) {
+        const loc = page.locator(sel).first();
+        if (await loc.isVisible({ timeout: 3000 }).catch(() => false)) {
+          console.log(`  → Clicking next page link (${sel})...`);
+          await Promise.all([
+            page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 30000 }),
+            loc.click(),
+          ]);
+          await waitForCfClear(page, 20000);
+          await page.waitForTimeout(1500);
+          navigated = true;
+          break;
+        }
+      }
+
+      if (!navigated) {
+        // Fallback: direct URL (may hit CF but worth trying)
+        console.log(`  ⚠ No Next link found — falling back to direct URL for page ${pageNum + 1}`);
+        await page.goto(`${BASE_URL}/?page=${pageNum + 1}`, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await waitForCfClear(page, 30000);
         await page.waitForTimeout(1500);
       }
     }
